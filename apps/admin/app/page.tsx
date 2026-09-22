@@ -2,6 +2,8 @@
 
 import { useEffect, useState } from "react";
 import { REPO, categoryLabel, type Keywords, type Meta } from "@radar/shared";
+import ProfileEditor from "./ProfileEditor";
+import WordGroup from "./WordGroup";
 
 const SITE_ROOT = process.env.NEXT_PUBLIC_SITE_ROOT ?? "";
 const TOKEN_KEY = "radar-gh-token";
@@ -153,6 +155,9 @@ export default function Admin() {
           </div>
         </section>
 
+        <ProfileEditor api={api} token={token} />
+
+        <h2 className="section-title">수집 키워드</h2>
         <div className="cols">
           <section className="panel kw-panel">
             {!kw && <p className="hint">{msg}</p>}
@@ -236,32 +241,6 @@ function JevPanel({ runs }: { runs: JevRun[] }) {
         </tbody>
       </table>
     </>
-  );
-}
-
-function WordGroup({ title, desc, words, onChange }: { title: string; desc: string; words: string[]; onChange: (w: string[]) => void }) {
-  const [draft, setDraft] = useState("");
-  const add = () => {
-    const v = draft.trim();
-    if (v && !words.includes(v)) onChange([...words, v]);
-    setDraft("");
-  };
-  return (
-    <div className="kw-group">
-      <h3>{title} <small>{words.length}</small></h3>
-      <p className="hint">{desc}</p>
-      <div className="kw-list">
-        {words.map((w) => (
-          <span className="kw" key={w}>
-            {w}
-            <button type="button" aria-label={`${w} 삭제`} onClick={() => onChange(words.filter((x) => x !== w))}>×</button>
-          </span>
-        ))}
-        <input type="text" className="kw-add" value={draft} placeholder="+ 추가 (Enter)"
-          onChange={(e) => setDraft(e.target.value)}
-          onKeyDown={(e) => { if (e.key === "Enter" && !e.nativeEvent.isComposing) { e.preventDefault(); add(); } }} />
-      </div>
-    </div>
   );
 }
 

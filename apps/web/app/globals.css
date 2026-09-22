@@ -39,6 +39,8 @@
 .tag { background: var(--chip); color: var(--muted); font-weight: 500; }
 .tag.low { background: var(--soon-soft); color: var(--soon); }
 .tag.money { background: var(--accent-soft); color: var(--accent); font-variant-numeric: tabular-nums; }
+.tag.fit { background: var(--ok-soft); color: var(--ok); font-weight: 700; }
+.toggle.mine { color: var(--ok); font-weight: 600; }
 .tag.jev { background: var(--event-soft); color: var(--event); }
 
 .groups { display: grid; gap: 22px; }

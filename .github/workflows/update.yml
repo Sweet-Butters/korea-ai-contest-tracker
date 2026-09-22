@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "config/**"
+      - "config/keywords.json"  # profile.json is read live by the site, no re-collection needed
       - "collector/**"
       - "apps/**"
       - "packages/**"

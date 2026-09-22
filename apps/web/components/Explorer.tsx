@@ -2,15 +2,15 @@
 
 import { useEffect, useMemo, useState } from "react";
 import {
-  CATEGORY_LABEL, STATUS_LABEL, categoryLabel, daysBetween, parsePrize, todayKST,
-  type Contest, type ContestData, type Meta, type Status,
+  CATEGORY_LABEL, REPO, STATUS_LABEL, categoryLabel, daysBetween, fitScore, parsePrize, todayKST,
+  type Contest, type ContestData, type Fit, type Meta, type Profile, type Status,
 } from "@radar/shared";
 import ContestCard from "./ContestCard";
 import CalendarView from "./CalendarView";
 
-export type Item = Contest & { prizeKRW: number | null };
+export type Item = Contest & { prizeKRW: number | null; fit: Fit };
 
-type SortKey = "deadline" | "prize" | "new" | "sources" | "jev" | "name";
+type SortKey = "fit" | "deadline" | "prize" | "new" | "sources" | "jev" | "name";
 type View = "list" | "group" | "calendar";
 
 interface Filters {
@@ -20,6 +20,7 @@ interface Filters {
   aiOnly: boolean;
   hideLow: boolean;
   prizeOnly: boolean;
+  mine: boolean;
   region: string;
   source: string;
   sort: SortKey;
@@ -27,11 +28,12 @@ interface Filters {
 }
 
 const DEFAULTS: Filters = {
-  q: "", status: ["open", "upcoming"], cats: [], aiOnly: true, hideLow: false, prizeOnly: false,
+  q: "", status: ["open", "upcoming"], cats: [], aiOnly: true, hideLow: false, prizeOnly: false, mine: false,
   region: "", source: "", sort: "deadline", view: "list",
 };
 
 const SORTS: Record<SortKey, { label: string; cmp: (a: Item, b: Item) => number }> = {
+  fit: { label: "나에게 맞는 순", cmp: (a, b) => b.fit.score - a.fit.score || (a.applyEnd || "9999").localeCompare(b.applyEnd || "9999") },
   deadline: { label: "마감 임박순", cmp: (a, b) => (a.applyEnd || "9999").localeCompare(b.applyEnd || "9999") },
   prize: { label: "상금 높은순", cmp: (a, b) => (b.prizeKRW ?? -1) - (a.prizeKRW ?? -1) },
   new: { label: "새로 올라온 순", cmp: (a, b) => (b.firstSeen || "").localeCompare(a.firstSeen || "") },
@@ -41,6 +43,8 @@ const SORTS: Record<SortKey, { label: string; cmp: (a: Item, b: Item) => number 
 };
 
 const STORAGE_KEY = "radar-filters-v2";
+// Read live so a profile saved in /admin applies at once, without waiting for a rebuild.
+const PROFILE_URL = `https://raw.githubusercontent.com/${REPO.owner}/${REPO.repo}/${REPO.branch}/config/profile.json`;
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
 function load(): Filters {
@@ -59,9 +63,10 @@ function countBy<T>(arr: T[], key: (x: T) => string) {
   return out;
 }
 
-export default function Explorer({ data, meta }: { data: ContestData; meta: Meta | null }) {
+export default function Explorer({ data, meta, profile: bakedProfile }: { data: ContestData; meta: Meta | null; profile: Profile }) {
   const [f, setF] = useState<Filters>(DEFAULTS);
   const [today, setToday] = useState(data.updatedAt.slice(0, 10) || "2026-01-01");
+  const [profile, setProfile] = useState<Profile>(bakedProfile);
   const set = (patch: Partial<Filters>) => setF((prev) => ({ ...prev, ...patch }));
 
   useEffect(() => {
@@ -75,14 +80,21 @@ export default function Explorer({ data, meta }: { data: ContestData; meta: Meta
     if (p.get("q")) fromUrl.q = p.get("q")!;
     setF({ ...load(), ...fromUrl });
     setToday(todayKST());
-  }, []);
+    fetch(`${PROFILE_URL}?t=${Date.now()}`)
+      .then((r) => (r.ok ? r.json() : null))
+      .then((p) => p && setProfile({ ...bakedProfile, ...p }))
+      .catch(() => { /* keep the profile baked in at build time */ });
+  }, [bakedProfile]);
   useEffect(() => {
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(f)); } catch { /* storage blocked */ }
   }, [f]);
 
   const items: Item[] = useMemo(
-    () => data.items.map((c) => ({ ...c, prizeKRW: parsePrize(c.prize) })),
-    [data.items],
+    () => data.items.map((c) => {
+      const prizeKRW = parsePrize(c.prize);
+      return { ...c, prizeKRW, fit: fitScore({ ...c, prizeKRW }, profile, today) };
+    }),
+    [data.items, profile, today],
   );
   const hasJev = items.some((i) => i.jev !== undefined);
   const regions = useMemo(() => [...new Set(items.map((i) => i.region).filter(Boolean) as string[])].sort(), [items]);
@@ -96,6 +108,7 @@ export default function Explorer({ data, meta }: { data: ContestData; meta: Meta
     if (f.aiOnly && it.aiRelated === false) return false;
     if (f.hideLow && it.confidence === "low") return false;
     if (f.prizeOnly && !it.prizeKRW) return false;
+    if (f.mine && !it.fit.recommended) return false;
     if (f.region && it.region !== f.region) return false;
     if (f.source && !(f.source in it.sources)) return false;
     if (f.q) {
@@ -115,8 +128,8 @@ export default function Explorer({ data, meta }: { data: ContestData; meta: Meta
   const open = ai.filter((i) => i.status === "open");
   const stats: [string, string][] = [
     ["접수중", open.length.toLocaleString()],
-    ["7일 안에 마감", open.filter((i) => i.applyEnd && daysBetween(today, i.applyEnd) <= 7).length.toLocaleString()],
-    ["접수예정", ai.filter((i) => i.status === "upcoming").length.toLocaleString()],
+    ["7일 안에 마감", open.filter((i) => i.applyEnd && daysBetween(today, i.applyEnd) >= 0 && daysBetween(today, i.applyEnd) <= 7).length.toLocaleString()],
+    ["나에게 맞는 대회", items.filter((i) => i.fit.recommended && (i.status === "open" || i.status === "upcoming")).length.toLocaleString()],
     ["접수중 총상금", totalPrize(open)],
   ];
 
@@ -172,6 +185,7 @@ export default function Explorer({ data, meta }: { data: ContestData; meta: Meta
           </div>
           <div className="row">
             <div className="toggles">
+              <label className="toggle mine"><input type="checkbox" checked={f.mine} onChange={(e) => set({ mine: e.target.checked })} /> 나에게 맞는 대회만</label>
               <label className="toggle"><input type="checkbox" checked={f.aiOnly} onChange={(e) => set({ aiOnly: e.target.checked })} /> AI 관련만</label>
               <label className="toggle"><input type="checkbox" checked={f.prizeOnly} onChange={(e) => set({ prizeOnly: e.target.checked })} /> 상금 있는 대회만</label>
               <label className="toggle"><input type="checkbox" checked={f.hideLow} onChange={(e) => set({ hideLow: e.target.checked })} /> 미확인 숨기기</label>

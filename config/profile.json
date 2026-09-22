@@ -1,0 +1,45 @@
+{
+  "_comment": "추천 조건. /admin 의 '내 추천 조건'에서 편집합니다. 공개 저장소이므로 개인정보는 넣지 마세요.",
+  "eligibility": [
+    "대학생",
+    "대학원생",
+    "일반인",
+    "누구나",
+    "제한 없음",
+    "전 국민",
+    "국민"
+  ],
+  "notEligible": [
+    "청소년",
+    "초등",
+    "중학생",
+    "고등학생",
+    "고교",
+    "군장병",
+    "재직자",
+    "기업만"
+  ],
+  "interests": [
+    "AI",
+    "에이전트",
+    "LLM",
+    "해커톤",
+    "데이터"
+  ],
+  "categories": [
+    "hackathon",
+    "data",
+    "dev",
+    "idea",
+    "startup"
+  ],
+  "regions": [
+    "서울",
+    "경기",
+    "인천"
+  ],
+  "exclude": [],
+  "minPrizeManwon": 100,
+  "minDaysLeft": 3,
+  "threshold": 60
+}

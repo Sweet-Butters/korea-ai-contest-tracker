@@ -25,6 +25,9 @@ export default function ContestCard({ it, today }: { it: Item; today: string }) 
     <li className="card">
       <div className="card-top">
         <span className={`dday ${b.cls}`}>{b.text}</span>
+        {it.fit.recommended && (
+          <span className="tag fit" title={`추천 이유: ${it.fit.reasons.join(", ") || "조건 충족"}`}>추천 {it.fit.score}</span>
+        )}
         <span className="tag">{categoryLabel(it.category)}</span>
         {it.prizeKRW && it.prizeKRW >= 1e7 && <span className="tag money">{formatKRW(it.prizeKRW)}</span>}
         {it.confidence === "low" && <span className="tag low">미확인</span>}

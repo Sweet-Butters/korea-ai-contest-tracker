@@ -138,3 +138,93 @@ export const shortDate = (iso?: string | null) => (iso ? `${+iso.slice(5, 7)}/${
 
 /** Repository holding config/keywords.json and the update workflow (used by the admin app). */
 export const REPO = { owner: "Sweet-Butters", repo: "korea-ai-contest-tracker", branch: "main", workflow: "update.yml" };
+
+// ---- Personal fit: config/profile.json, edited in /admin, scored in the browser ----
+
+export interface Profile {
+  /** Who I am, as contests word eligibility: 대학생, 대학원생, 일반인, 누구나 … */
+  eligibility: string[];
+  /** Eligibility words that mean "not for me" when none of mine appear: 청소년, 군장병 … */
+  notEligible: string[];
+  /** Topics I care about; each hit in the name adds points. */
+  interests: string[];
+  /** Preferred categories (keys of CATEGORY_LABEL). */
+  categories: string[];
+  /** Regions I can attend in person; contests with no region or "온라인" always pass. */
+  regions: string[];
+  /** Hide anything whose name contains one of these. */
+  exclude: string[];
+  /** Minimum prize in 만원 for the prize bonus (0 = no bonus). */
+  minPrizeManwon: number;
+  /** Deadline must be at least this many days away to be worth starting. */
+  minDaysLeft: number;
+  /** Score at or above which a contest is marked as recommended. */
+  threshold: number;
+}
+
+export const DEFAULT_PROFILE: Profile = {
+  eligibility: ["대학생", "대학원생", "일반인", "누구나", "제한 없음", "전 국민", "국민"],
+  notEligible: ["청소년", "초등", "중학생", "고등학생", "고교", "군장병", "재직자", "기업만"],
+  interests: ["AI", "에이전트", "LLM", "해커톤", "데이터"],
+  categories: ["hackathon", "data", "dev", "idea", "startup"],
+  regions: ["서울", "경기", "인천"],
+  exclude: [],
+  minPrizeManwon: 100,
+  minDaysLeft: 3,
+  threshold: 60,
+};
+
+export interface Fit {
+  score: number;
+  recommended: boolean;
+  /** Short reasons, shown as a tooltip and in the admin preview. */
+  reasons: string[];
+  /** A hard "no" (not eligible, excluded word, too late). */
+  blocked?: string;
+}
+
+const hasAny = (text: string, words: string[]) => words.some((w) => w && text.includes(w));
+
+/**
+ * 0–100 fit of one contest for a profile. Hard blocks come first (status, excluded words,
+ * eligibility, days left); then points for category (30), interests (up to 30), prize (15),
+ * reachable region (10), Jev/keyword AI confidence (15).
+ */
+export function fitScore(it: Contest & { prizeKRW?: number | null }, p: Profile, today: string): Fit {
+  const name = it.name;
+  const elig = it.eligibility ?? "";
+  if (it.status === "ended") return { score: 0, recommended: false, reasons: [], blocked: "마감" };
+  if (hasAny(name, p.exclude)) return { score: 0, recommended: false, reasons: [], blocked: "제외 단어" };
+  if (elig && !hasAny(elig, p.eligibility) && hasAny(elig + " " + name, p.notEligible)) {
+    return { score: 0, recommended: false, reasons: [], blocked: "참가 자격" };
+  }
+  if (it.status === "open" && it.applyEnd && daysBetween(today, it.applyEnd) < p.minDaysLeft) {
+    return { score: 0, recommended: false, reasons: [], blocked: "마감 임박" };
+  }
+
+  let score = 0;
+  const reasons: string[] = [];
+  if (it.category && p.categories.includes(it.category)) {
+    score += 30;
+    reasons.push(categoryLabel(it.category));
+  }
+  const hits = p.interests.filter((w) => w && name.toLowerCase().includes(w.toLowerCase()));
+  if (hits.length) {
+    score += Math.min(30, 15 * hits.length);
+    reasons.push(hits.join("·"));
+  }
+  const prize = it.prizeKRW ?? parsePrize(it.prize);
+  if (prize && p.minPrizeManwon > 0 && prize >= p.minPrizeManwon * 1e4) {
+    score += prize >= 10 * p.minPrizeManwon * 1e4 ? 15 : 10;
+    reasons.push(`상금 ${formatKRW(prize)}`);
+  }
+  if (!it.region || hasAny(it.region, p.regions) || /온라인/.test(name + elig)) {
+    score += 10;
+    if (it.region && hasAny(it.region, p.regions)) reasons.push(it.region);
+  }
+  if (it.jev !== undefined) score += Math.round(15 * it.jev);
+  else if (it.aiRelated !== false && it.confidence === "high") score += 10;
+
+  score = Math.min(100, score);
+  return { score, recommended: score >= p.threshold, reasons };
+}

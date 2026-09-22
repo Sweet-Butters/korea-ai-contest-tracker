@@ -45,7 +45,7 @@ button {
 }
 button.ghost { background: transparent; color: var(--accent); }
 button:disabled { opacity: .45; cursor: default; }
-input[type="search"], input[type="password"], input[type="text"], select {
+input[type="search"], input[type="password"], input[type="text"], input[type="number"], select {
   font: inherit; color: var(--text); background: var(--panel); border: 1px solid var(--line);
   border-radius: 8px; padding: 9px 12px; min-width: 0;
 }

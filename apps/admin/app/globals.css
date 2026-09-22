@@ -35,3 +35,22 @@ input.kw-add { width: 140px; padding: 4px 10px; font-size: 13.5px; border-radius
 @media (max-width: 860px) {
   .cols { grid-template-columns: minmax(0, 1fr); }
 }
+
+.section-title { font-size: 17px; margin: 10px 0 -4px; }
+.profile { display: grid; gap: 14px; }
+.profile h2 { margin: 0; font-size: 17px; }
+.profile-head { display: flex; gap: 16px; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; }
+.profile-head > div:first-child { flex: 1 1 360px; }
+.profile-save { display: flex; gap: 10px; align-items: center; }
+.profile-save [role="status"] { font-size: 13px; color: var(--muted); }
+.check { display: inline-flex; gap: 5px; align-items: center; background: var(--chip); border-radius: 999px; padding: 3px 11px; font-size: 13.5px; cursor: pointer; }
+.nums { display: grid; gap: 8px; font-size: 14px; }
+.nums input { width: 80px; padding: 4px 8px; margin: 0 4px; }
+.preview { background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 12px; min-width: 0; }
+.preview h3 { margin: 0 0 6px; font-size: 15px; }
+.preview h3 small { color: var(--soon); font-weight: 500; }
+.rec-list { list-style: none; margin: 10px 0; padding: 0; display: grid; gap: 8px; font-size: 13.5px; }
+.rec-list li { display: grid; grid-template-columns: 34px 1fr; gap: 8px; align-items: start; }
+.rec-list .score { background: var(--ok-soft); color: var(--ok); font-weight: 700; border-radius: 6px; text-align: center; font-variant-numeric: tabular-nums; }
+.rec-list a { color: var(--text); }
+.rec-list small { display: block; color: var(--muted); font-size: 12px; }
