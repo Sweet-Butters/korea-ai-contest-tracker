@@ -1,0 +1,11 @@
+{
+  "name": "korea-ai-contest-tracker",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev:web": "npm run dev -w @radar/web",
+    "dev:admin": "npm run dev -w @radar/admin",
+    "build": "npm run build -w @radar/web && npm run build -w @radar/admin",
+    "typecheck": "npm run typecheck --workspaces --if-present"
+  }
+}

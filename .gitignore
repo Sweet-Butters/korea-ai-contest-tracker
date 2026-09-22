@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+_site/
+.venv/
+
+# secrets
+typesafe_api_key.txt
+.env
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+_preview/

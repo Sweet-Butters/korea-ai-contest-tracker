@@ -1,0 +1,74 @@
+{
+ "runDate": "2026-09-22",
+ "llm": false,
+ "jev": true,
+ "sources": {
+  "씽굿": {
+   "fetched": 685,
+   "kept": 116,
+   "error": null,
+   "seconds": 353
+  },
+  "올콘": {
+   "fetched": 499,
+   "kept": 73,
+   "error": null,
+   "seconds": 37
+  },
+  "링커리어": {
+   "fetched": 858,
+   "kept": 158,
+   "error": null,
+   "seconds": 33
+  },
+  "요즘것들": {
+   "fetched": 339,
+   "kept": 69,
+   "error": null,
+   "seconds": 14
+  },
+  "콘테스트코리아": {
+   "fetched": 802,
+   "kept": 106,
+   "error": null,
+   "seconds": 202
+  },
+  "위비티": {
+   "fetched": 805,
+   "kept": 110,
+   "error": null,
+   "seconds": 67
+  },
+  "DACON": {
+   "fetched": 15,
+   "kept": 15,
+   "error": null,
+   "seconds": 3
+  },
+  "AIFactory": {
+   "fetched": 2,
+   "kept": 2,
+   "error": null,
+   "seconds": 3
+  },
+  "이벤터스": {
+   "fetched": 75,
+   "kept": 18,
+   "error": null,
+   "seconds": 30
+  },
+  "Dev-Event": {
+   "fetched": 11,
+   "kept": 7,
+   "error": null,
+   "seconds": 2
+  },
+  "네이버뉴스": {
+   "fetched": 0,
+   "kept": 0,
+   "error": "RuntimeError: NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped",
+   "seconds": 0
+  }
+ },
+ "total": 358
+}
