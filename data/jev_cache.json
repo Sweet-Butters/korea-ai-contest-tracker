@@ -14923,5 +14923,271 @@
    "dev": 0.0
   },
   "seen": "2026-09-22"
+ },
+ "208b7a6ed16a0fb5": {
+  "ai": 0.03,
+  "contest": 0.75,
+  "category": "youth",
+  "categoryConf": 0.51,
+  "categoryProbs": {
+   "dev": 0.0,
+   "tourism": 0.0,
+   "data": 0.0,
+   "hackathon": 0.0,
+   "other": 0.0,
+   "creative": 0.44,
+   "academic": 0.0,
+   "startup": 0.0,
+   "idea": 0.0,
+   "youth": 0.56
+  },
+  "seen": "2026-09-22"
+ },
+ "64fda80032529615": {
+  "ai": 0.19,
+  "contest": 0.45,
+  "category": "academic",
+  "categoryConf": 0.55,
+  "categoryProbs": {
+   "startup": 0.01,
+   "hackathon": 0.04,
+   "other": 0.02,
+   "data": 0.0,
+   "academic": 0.6,
+   "idea": 0.32,
+   "dev": 0.01,
+   "youth": 0.0,
+   "creative": 0.0,
+   "tourism": 0.0
+  },
+  "seen": "2026-09-22"
+ },
+ "9098757fb3b4ae30": {
+  "ai": 0.03,
+  "contest": 0.07,
+  "category": "tourism",
+  "categoryConf": 0.91,
+  "categoryProbs": {
+   "other": 0.03,
+   "idea": 0.0,
+   "academic": 0.0,
+   "tourism": 0.93,
+   "creative": 0.03,
+   "hackathon": 0.0,
+   "startup": 0.0,
+   "youth": 0.0,
+   "data": 0.0,
+   "dev": 0.01
+  },
+  "seen": "2026-09-22"
+ },
+ "d5e3f1f6c096d9a7": {
+  "ai": 0.07,
+  "contest": 0.62,
+  "category": "creative",
+  "categoryConf": 1.0,
+  "categoryProbs": {
+   "startup": 0.0,
+   "hackathon": 0.0,
+   "dev": 0.0,
+   "data": 0.0,
+   "academic": 0.0,
+   "creative": 1.0,
+   "youth": 0.0,
+   "other": 0.0,
+   "idea": 0.0,
+   "tourism": 0.0
+  },
+  "seen": "2026-09-22"
+ },
+ "ff845d16407d6fbf": {
+  "ai": 0.07,
+  "contest": 0.57,
+  "category": "creative",
+  "categoryConf": 1.0,
+  "categoryProbs": {
+   "startup": 0.0,
+   "dev": 0.0,
+   "hackathon": 0.0,
+   "youth": 0.0,
+   "academic": 0.0,
+   "data": 0.0,
+   "tourism": 0.0,
+   "idea": 0.0,
+   "other": 0.0,
+   "creative": 1.0
+  },
+  "seen": "2026-09-22"
+ },
+ "184d218f51c97d38": {
+  "ai": 0.05,
+  "contest": 0.79,
+  "category": "creative",
+  "categoryConf": 0.99,
+  "categoryProbs": {
+   "academic": 0.0,
+   "dev": 0.0,
+   "hackathon": 0.0,
+   "youth": 0.0,
+   "startup": 0.0,
+   "creative": 0.99,
+   "idea": 0.0,
+   "tourism": 0.01,
+   "data": 0.0,
+   "other": 0.0
+  },
+  "seen": "2026-09-22"
+ },
+ "95bc5eb082f825fc": {
+  "ai": 0.86,
+  "contest": 0.69,
+  "category": "dev",
+  "categoryConf": 0.98,
+  "categoryProbs": {
+   "other": 0.0,
+   "creative": 0.0,
+   "dev": 0.99,
+   "hackathon": 0.0,
+   "youth": 0.01,
+   "tourism": 0.0,
+   "academic": 0.0,
+   "data": 0.0,
+   "startup": 0.0,
+   "idea": 0.0
+  },
+  "seen": "2026-09-22"
+ },
+ "14dd7917888bb296": {
+  "ai": 0.9,
+  "contest": 0.27,
+  "category": "creative",
+  "categoryConf": 1.0,
+  "categoryProbs": {
+   "hackathon": 0.0,
+   "idea": 0.0,
+   "startup": 0.0,
+   "tourism": 0.0,
+   "other": 0.0,
+   "data": 0.0,
+   "creative": 1.0,
+   "dev": 0.0,
+   "academic": 0.0,
+   "youth": 0.0
+  },
+  "seen": "2026-09-22"
+ },
+ "e6fce13a906f09b6": {
+  "ai": 0.05,
+  "contest": 0.5,
+  "category": "academic",
+  "categoryConf": 0.91,
+  "categoryProbs": {
+   "startup": 0.0,
+   "creative": 0.0,
+   "dev": 0.0,
+   "hackathon": 0.0,
+   "data": 0.0,
+   "youth": 0.0,
+   "idea": 0.0,
+   "tourism": 0.0,
+   "academic": 0.93,
+   "other": 0.07
+  },
+  "seen": "2026-09-22"
+ },
+ "14cbd85b2859a6f6": {
+  "ai": 0.53,
+  "contest": 0.59,
+  "category": "creative",
+  "categoryConf": 0.99,
+  "categoryProbs": {
+   "creative": 1.0,
+   "dev": 0.0,
+   "hackathon": 0.0,
+   "youth": 0.0,
+   "startup": 0.0,
+   "academic": 0.0,
+   "idea": 0.0,
+   "tourism": 0.0,
+   "data": 0.0,
+   "other": 0.0
+  },
+  "seen": "2026-09-22"
+ },
+ "ad444505061b707a": {
+  "ai": 0.03,
+  "contest": 0.33,
+  "category": "creative",
+  "categoryConf": 0.99,
+  "categoryProbs": {
+   "idea": 0.0,
+   "hackathon": 0.0,
+   "tourism": 0.0,
+   "creative": 0.99,
+   "startup": 0.0,
+   "academic": 0.0,
+   "other": 0.01,
+   "data": 0.0,
+   "dev": 0.0,
+   "youth": 0.0
+  },
+  "seen": "2026-09-22"
+ },
+ "529f12beb4d805ab": {
+  "ai": 0.32,
+  "contest": 0.8,
+  "category": "creative",
+  "categoryConf": 0.91,
+  "categoryProbs": {
+   "idea": 0.0,
+   "other": 0.0,
+   "dev": 0.04,
+   "tourism": 0.0,
+   "hackathon": 0.0,
+   "creative": 0.93,
+   "data": 0.03,
+   "startup": 0.0,
+   "academic": 0.0,
+   "youth": 0.0
+  },
+  "seen": "2026-09-22"
+ },
+ "341a61effc62e8e0": {
+  "ai": 0.21,
+  "contest": 0.04,
+  "category": "other",
+  "categoryConf": 0.94,
+  "categoryProbs": {
+   "dev": 0.05,
+   "tourism": 0.0,
+   "data": 0.0,
+   "hackathon": 0.0,
+   "other": 0.95,
+   "creative": 0.0,
+   "idea": 0.0,
+   "startup": 0.0,
+   "academic": 0.0,
+   "youth": 0.0
+  },
+  "seen": "2026-09-22"
+ },
+ "aa30de54115efef1": {
+  "ai": 0.09,
+  "contest": 0.43,
+  "category": "other",
+  "categoryConf": 0.64,
+  "categoryProbs": {
+   "academic": 0.0,
+   "hackathon": 0.01,
+   "creative": 0.02,
+   "other": 0.67,
+   "startup": 0.0,
+   "data": 0.01,
+   "youth": 0.0,
+   "tourism": 0.0,
+   "dev": 0.28,
+   "idea": 0.0
+  },
+  "seen": "2026-09-22"
  }
 }

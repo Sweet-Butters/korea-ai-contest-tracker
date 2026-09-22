@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-22T05:04:03+00:00",
+ "updatedAt": "2026-09-22T06:01:09+00:00",
  "items": [
   {
    "id": "d70c65fccd",
@@ -500,16 +500,18 @@
    "applyEnd": "2026-09-27",
    "confidence": "high",
    "aiRelated": true,
-   "url": "https://www.allforyoung.com/posts/87776",
+   "url": "https://linkareer.com/activity/352505",
    "sources": {
     "초기조사": "https://www.allforyoung.com/posts/87776",
-    "요즘것들": "https://www.allforyoung.com/posts/87776"
+    "요즘것들": "https://www.allforyoung.com/posts/87776",
+    "링커리어": "https://linkareer.com/activity/352505"
    },
    "firstSeen": "2026-09-22",
    "lastSeen": "2026-09-22",
-   "jev": 0.95,
+   "jev": 0.9,
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "eligibility": "대상 제한 없음"
   },
   {
    "id": "cd7308630c",
@@ -2291,19 +2293,22 @@
    "name": "[BIFAN] 제3차 영화인대상 AI 영상 제작 워크숍 참가자 모집 (~10/1)",
    "firstSeen": "2026-09-22",
    "sources": {
-    "요즘것들": "https://www.allforyoung.com/posts/87942"
+    "요즘것들": "https://www.allforyoung.com/posts/87942",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111155"
    },
-   "host": "(사)부천국제판타스틱영화제, AI영상교육센터부천, SBS A\\u0026T, K-하이테크 플랫폼",
+   "host": "(사)부천국제판타스틱영화제, AI영상교육센터부천, SBS A&T, K-하이테크 플랫폼",
    "applyStart": "2026-09-22",
    "applyEnd": "2026-10-01",
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
    "jev": 0.88,
-   "url": "https://www.allforyoung.com/posts/87942",
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111155",
    "lastSeen": "2026-09-22",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "prize": "기타",
+   "eligibility": "대학생, 대학원생, 일반인"
   },
   {
    "id": "36e7dc4f76",
@@ -2638,15 +2643,16 @@
    "eligibility": "대학생",
    "confidence": "high",
    "aiRelated": true,
-   "url": "https://www.all-con.co.kr/view/contest/542910",
+   "url": "https://linkareer.com/activity/352619",
    "sources": {
     "초기조사": "https://www.all-con.co.kr/view/contest/542910",
-    "올콘": "https://www.all-con.co.kr/view/contest/542910"
+    "올콘": "https://www.all-con.co.kr/view/contest/542910",
+    "링커리어": "https://linkareer.com/activity/352619"
    },
    "firstSeen": "2026-09-22",
    "lastSeen": "2026-09-22",
    "region": "경기",
-   "jev": 0.89,
+   "jev": 0.86,
    "status": "open",
    "lastEvent": null
   },
@@ -3644,34 +3650,14 @@
    "sources": {
     "초기조사": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111130",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111130",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111124"
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111124",
+    "링커리어": "https://linkareer.com/activity/352470"
    },
    "firstSeen": "2026-09-22",
    "lastSeen": "2026-09-22",
    "jev": 0.97,
    "status": "open",
    "lastEvent": "2026-10-23"
-  },
-  {
-   "id": "7666b2942c",
-   "name": "[한국농수산식품유통공사] 2026 AI 농산물 가격예측 온라인 해커톤",
-   "firstSeen": "2026-09-22",
-   "sources": {
-    "링커리어": "https://linkareer.com/activity/351263",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110970"
-   },
-   "host": "한국농수산식품유통공사",
-   "applyStart": "2026-09-07",
-   "applyEnd": "2026-10-13",
-   "eligibility": "대상 제한 없음",
-   "category": "hackathon",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.98,
-   "url": "https://linkareer.com/activity/351263",
-   "lastSeen": "2026-09-22",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "6abb8c2790",
@@ -4043,6 +4029,29 @@
    "eventDates": "심사 07.15~10.18 발표 11.04",
    "status": "open",
    "lastEvent": "2026-11-04"
+  },
+  {
+   "id": "7666b2942c",
+   "name": "[한국농수산식품유통공사] 2026 AI 농산물 가격예측 온라인 해커톤",
+   "firstSeen": "2026-09-22",
+   "sources": {
+    "링커리어": "https://linkareer.com/activity/351263",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110970",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111158"
+   },
+   "host": "한국농수산식품유통공사(aT) 데이터사업부",
+   "applyStart": "2026-09-07",
+   "applyEnd": "2026-10-18",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "category": "hackathon",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.98,
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111158",
+   "lastSeen": "2026-09-22",
+   "status": "open",
+   "lastEvent": null,
+   "prize": "100만원"
   },
   {
    "id": "25a9619b00",
