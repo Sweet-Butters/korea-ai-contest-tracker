@@ -10147,7 +10147,7 @@
   "contest": 0.71,
   "category": "creative",
   "categoryConf": 1.0,
-  "seen": "2026-09-22"
+  "seen": "2026-09-23"
  },
  "53cbda619eb5cc54": {
   "ai": 0.01,
@@ -15757,6 +15757,101 @@
    "creative": 0.0,
    "startup": 0.0,
    "academic": 0.0
+  },
+  "seen": "2026-09-23"
+ },
+ "8be8e45619a61f6c": {
+  "ai": 0.03,
+  "contest": 0.67,
+  "category": "youth",
+  "categoryConf": 0.84,
+  "categoryProbs": {
+   "tourism": 0.0,
+   "dev": 0.0,
+   "other": 0.0,
+   "startup": 0.0,
+   "data": 0.0,
+   "creative": 0.14,
+   "academic": 0.0,
+   "idea": 0.0,
+   "youth": 0.86,
+   "hackathon": 0.0
+  },
+  "seen": "2026-09-23"
+ },
+ "9cff1b598c490018": {
+  "ai": 0.03,
+  "contest": 0.76,
+  "category": "creative",
+  "categoryConf": 1.0,
+  "categoryProbs": {
+   "hackathon": 0.0,
+   "academic": 0.0,
+   "dev": 0.0,
+   "tourism": 0.0,
+   "other": 0.0,
+   "startup": 0.0,
+   "data": 0.0,
+   "creative": 1.0,
+   "idea": 0.0,
+   "youth": 0.0
+  },
+  "seen": "2026-09-23"
+ },
+ "e0740510be0c976c": {
+  "ai": 0.02,
+  "contest": 0.63,
+  "category": "youth",
+  "categoryConf": 0.89,
+  "categoryProbs": {
+   "hackathon": 0.0,
+   "other": 0.0,
+   "youth": 0.9,
+   "academic": 0.0,
+   "tourism": 0.0,
+   "creative": 0.1,
+   "dev": 0.0,
+   "data": 0.0,
+   "idea": 0.0,
+   "startup": 0.0
+  },
+  "seen": "2026-09-23"
+ },
+ "707488443c046815": {
+  "ai": 0.15,
+  "contest": 0.77,
+  "category": "idea",
+  "categoryConf": 0.73,
+  "categoryProbs": {
+   "creative": 0.09,
+   "idea": 0.76,
+   "youth": 0.0,
+   "data": 0.0,
+   "other": 0.11,
+   "dev": 0.01,
+   "hackathon": 0.02,
+   "startup": 0.01,
+   "tourism": 0.0,
+   "academic": 0.0
+  },
+  "seen": "2026-09-23"
+ },
+ "93df3a4e6d12c63f": {
+  "ai": 0.13,
+  "contest": 0.75,
+  "category": "creative",
+  "categoryConf": 1.0,
+  "categoryProbs": {
+   "hackathon": 0.0,
+   "other": 0.0,
+   "youth": 0.0,
+   "academic": 0.0,
+   "tourism": 0.0,
+   "idea": 0.0,
+   "dev": 0.0,
+   "data": 0.0,
+   "creative": 1.0,
+   "startup": 0.0
   },
   "seen": "2026-09-23"
  }

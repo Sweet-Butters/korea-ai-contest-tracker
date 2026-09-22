@@ -7,37 +7,37 @@
    "fetched": 685,
    "kept": 117,
    "error": null,
-   "seconds": 1643
+   "seconds": 1047
   },
   "올콘": {
    "fetched": 489,
    "kept": 74,
    "error": null,
-   "seconds": 1348
+   "seconds": 800
   },
   "링커리어": {
    "fetched": 879,
    "kept": 159,
    "error": null,
-   "seconds": 1351
+   "seconds": 806
   },
   "요즘것들": {
    "fetched": 340,
    "kept": 67,
    "error": null,
-   "seconds": 1365
+   "seconds": 775
   },
   "콘테스트코리아": {
    "fetched": 606,
    "kept": 83,
    "error": null,
-   "seconds": 1469
+   "seconds": 913
   },
   "위비티": {
-   "fetched": 809,
-   "kept": 111,
+   "fetched": 817,
+   "kept": 112,
    "error": null,
-   "seconds": 1387
+   "seconds": 830
   },
   "DACON": {
    "fetched": 15,
@@ -55,7 +55,7 @@
    "fetched": 78,
    "kept": 18,
    "error": null,
-   "seconds": 1339
+   "seconds": 791
   },
   "Dev-Event": {
    "fetched": 10,
