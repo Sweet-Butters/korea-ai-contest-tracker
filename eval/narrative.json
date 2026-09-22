@@ -1,0 +1,8 @@
+{
+ "lede": "검수 전 미리보기입니다.",
+ "verdict": "검수가 끝나면 결론을 씁니다.",
+ "findings": ["미리보기"],
+ "ai": "", "systems": "", "pipeline": "", "category": "", "contest": "",
+ "consistency": "", "ablation": "", "ops": "", "errors": "",
+ "limits": ["미리보기"]
+}

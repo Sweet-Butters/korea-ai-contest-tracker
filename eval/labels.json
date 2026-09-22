@@ -1,0 +1,3619 @@
+{
+ "source": "draft (not reviewed)",
+ "items": {
+  "s012": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "startup",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s178": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s054": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s153": {
+   "ai": null,
+   "contest": true,
+   "category": "hackathon",
+   "note": "채용 연계 해커톤, 주제가 AI인지 공고 제목만으로는 불명",
+   "draft": {
+    "ai": null,
+    "contest": true,
+    "category": "hackathon",
+    "note": "채용 연계 해커톤, 주제가 AI인지 공고 제목만으로는 불명"
+   },
+   "reviewed": false
+  },
+  "s208": {
+   "ai": false,
+   "contest": true,
+   "category": "academic",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "academic",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s187": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "밋업 행사",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "밋업 행사"
+   },
+   "reviewed": false
+  },
+  "s215": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s113": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "지원사업",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "지원사업"
+   },
+   "reviewed": false
+  },
+  "s092": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s218": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s207": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s257": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s016": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s243": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "버스킹 공연자 모집",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "버스킹 공연자 모집"
+   },
+   "reviewed": false
+  },
+  "s258": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s265": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s209": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s238": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s006": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s205": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s223": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s017": {
+   "ai": true,
+   "contest": true,
+   "category": "other",
+   "note": "AI 주제 토론대회",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "other",
+    "note": "AI 주제 토론대회"
+   },
+   "reviewed": false
+  },
+  "s181": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s061": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s134": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "공공데이터 활용(아이디어 중심)",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "공공데이터 활용(아이디어 중심)"
+   },
+   "reviewed": false
+  },
+  "s066": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s216": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s229": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s271": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s114": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s029": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s087": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s080": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s073": {
+   "ai": true,
+   "contest": null,
+   "category": "other",
+   "note": "생성형AI 위험성 찾기 '이벤트'",
+   "draft": {
+    "ai": true,
+    "contest": null,
+    "category": "other",
+    "note": "생성형AI 위험성 찾기 '이벤트'"
+   },
+   "reviewed": false
+  },
+  "s038": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "startup",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s081": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s219": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s267": {
+   "ai": false,
+   "contest": true,
+   "category": "academic",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "academic",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s019": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s089": {
+   "ai": true,
+   "contest": true,
+   "category": "other",
+   "note": "AI 주제 토론대회",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "other",
+    "note": "AI 주제 토론대회"
+   },
+   "reviewed": false
+  },
+  "s160": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s071": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s042": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s064": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "피지컬 AI(로봇)",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "dev",
+    "note": "피지컬 AI(로봇)"
+   },
+   "reviewed": false
+  },
+  "s036": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s261": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s224": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "청소년 트롯 경연",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": "청소년 트롯 경연"
+   },
+   "reviewed": false
+  },
+  "s144": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s115": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s145": {
+   "ai": false,
+   "contest": null,
+   "category": "creative",
+   "note": "교육 과정일 수 있음",
+   "draft": {
+    "ai": false,
+    "contest": null,
+    "category": "creative",
+    "note": "교육 과정일 수 있음"
+   },
+   "reviewed": false
+  },
+  "s233": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s069": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s076": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s099": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s152": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "동아리 모집",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "동아리 모집"
+   },
+   "reviewed": false
+  },
+  "s040": {
+   "ai": true,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s083": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s174": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s155": {
+   "ai": false,
+   "contest": true,
+   "category": "data",
+   "note": "공공데이터 분석·활용",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "data",
+    "note": "공공데이터 분석·활용"
+   },
+   "reviewed": false
+  },
+  "s183": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s101": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s272": {
+   "ai": false,
+   "contest": true,
+   "category": "youth",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "youth",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s254": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s239": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s189": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s149": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "자율주행",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "dev",
+    "note": "자율주행"
+   },
+   "reviewed": false
+  },
+  "s018": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s050": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "startup",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s226": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s028": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "startup",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s186": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s247": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s026": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s065": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s191": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s255": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s210": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "버스킹 공연자 모집",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "버스킹 공연자 모집"
+   },
+   "reviewed": false
+  },
+  "s024": {
+   "ai": true,
+   "contest": true,
+   "category": "other",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "other",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s053": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "SNS 인증 이벤트",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "SNS 인증 이벤트"
+   },
+   "reviewed": false
+  },
+  "s167": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s049": {
+   "ai": true,
+   "contest": true,
+   "category": "other",
+   "note": "AI 주제 토론대회",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "other",
+    "note": "AI 주제 토론대회"
+   },
+   "reviewed": false
+  },
+  "s039": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s250": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s159": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s274": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s063": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s227": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s139": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s202": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s082": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s176": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s156": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s116": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s067": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s118": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s020": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s021": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s201": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s037": {
+   "ai": true,
+   "contest": true,
+   "category": "other",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "other",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s232": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s023": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s079": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s200": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s146": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "지원사업",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "지원사업"
+   },
+   "reviewed": false
+  },
+  "s034": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "startup",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s031": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s035": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s121": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s096": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s198": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s057": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s252": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s111": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "포럼",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "포럼"
+   },
+   "reviewed": false
+  },
+  "s010": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s009": {
+   "ai": true,
+   "contest": null,
+   "category": "other",
+   "note": "페스티벌, 경연 여부 불명",
+   "draft": {
+    "ai": true,
+    "contest": null,
+    "category": "other",
+    "note": "페스티벌, 경연 여부 불명"
+   },
+   "reviewed": false
+  },
+  "s086": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s269": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "배우 구인",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "배우 구인"
+   },
+   "reviewed": false
+  },
+  "s004": {
+   "ai": null,
+   "contest": true,
+   "category": "dev",
+   "note": "AX(AI 전환) 경진대회, AI 사용 필수인지 불명",
+   "draft": {
+    "ai": null,
+    "contest": true,
+    "category": "dev",
+    "note": "AX(AI 전환) 경진대회, AI 사용 필수인지 불명"
+   },
+   "reviewed": false
+  },
+  "s276": {
+   "ai": false,
+   "contest": null,
+   "category": "creative",
+   "note": "댄스 페스티벌, 경연 여부 불명",
+   "draft": {
+    "ai": false,
+    "contest": null,
+    "category": "creative",
+    "note": "댄스 페스티벌, 경연 여부 불명"
+   },
+   "reviewed": false
+  },
+  "s119": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "지원사업",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "지원사업"
+   },
+   "reviewed": false
+  },
+  "s104": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s212": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s137": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "동아리 모집",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "동아리 모집"
+   },
+   "reviewed": false
+  },
+  "s070": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s102": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s248": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s110": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "전시 행사",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "전시 행사"
+   },
+   "reviewed": false
+  },
+  "s046": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s045": {
+   "ai": true,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s264": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s177": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s154": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s084": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s000": {
+   "ai": false,
+   "contest": true,
+   "category": "academic",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "academic",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s234": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "마라톤 대회(스포츠 행사)",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "마라톤 대회(스포츠 행사)"
+   },
+   "reviewed": false
+  },
+  "s196": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "모델 모집",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "모델 모집"
+   },
+   "reviewed": false
+  },
+  "s091": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s124": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s105": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s204": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s163": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s193": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "음악 콩쿠르",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": "음악 콩쿠르"
+   },
+   "reviewed": false
+  },
+  "s123": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s266": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s109": {
+   "ai": false,
+   "contest": true,
+   "category": "data",
+   "note": "공공데이터 분석·활용",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "data",
+    "note": "공공데이터 분석·활용"
+   },
+   "reviewed": false
+  },
+  "s259": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s143": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "공공데이터 활용(아이디어 중심)",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "공공데이터 활용(아이디어 중심)"
+   },
+   "reviewed": false
+  },
+  "s132": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "자율주행",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "dev",
+    "note": "자율주행"
+   },
+   "reviewed": false
+  },
+  "s033": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "셰프·창업가 모집 프로그램",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "셰프·창업가 모집 프로그램"
+   },
+   "reviewed": false
+  },
+  "s158": {
+   "ai": null,
+   "contest": true,
+   "category": "hackathon",
+   "note": "채용 연계 해커톤, 주제가 AI인지 불명",
+   "draft": {
+    "ai": null,
+    "contest": true,
+    "category": "hackathon",
+    "note": "채용 연계 해커톤, 주제가 AI인지 불명"
+   },
+   "reviewed": false
+  },
+  "s098": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s263": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s222": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "도서 원고 공모",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": "도서 원고 공모"
+   },
+   "reviewed": false
+  },
+  "s277": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s231": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "우수사례 공모",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "우수사례 공모"
+   },
+   "reviewed": false
+  },
+  "s090": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "AI 대시보드 이름 짓기, 주제가 AI",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": "AI 대시보드 이름 짓기, 주제가 AI"
+   },
+   "reviewed": false
+  },
+  "s147": {
+   "ai": false,
+   "contest": true,
+   "category": "data",
+   "note": "데이터 분석 아이디어",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "data",
+    "note": "데이터 분석 아이디어"
+   },
+   "reviewed": false
+  },
+  "s236": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s131": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s197": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "젓가락 장단 경연",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": "젓가락 장단 경연"
+   },
+   "reviewed": false
+  },
+  "s235": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s192": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s273": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s051": {
+   "ai": true,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s003": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "AI 정책 브랜드 네이밍, 주제가 AI",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": "AI 정책 브랜드 네이밍, 주제가 AI"
+   },
+   "reviewed": false
+  },
+  "s058": {
+   "ai": true,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s213": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s168": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s043": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s165": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s180": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s148": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s151": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "공공데이터 활용(아이디어 중심)",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "공공데이터 활용(아이디어 중심)"
+   },
+   "reviewed": false
+  },
+  "s157": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s078": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "AI 정책 슬로건, 주제가 AI",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": "AI 정책 슬로건, 주제가 AI"
+   },
+   "reviewed": false
+  },
+  "s256": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s120": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "자율주행",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "dev",
+    "note": "자율주행"
+   },
+   "reviewed": false
+  },
+  "s244": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "캠페인 참여",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "캠페인 참여"
+   },
+   "reviewed": false
+  },
+  "s125": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s094": {
+   "ai": true,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s203": {
+   "ai": false,
+   "contest": true,
+   "category": "academic",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "academic",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s133": {
+   "ai": false,
+   "contest": true,
+   "category": "data",
+   "note": "공공데이터 분석·활용",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "data",
+    "note": "공공데이터 분석·활용"
+   },
+   "reviewed": false
+  },
+  "s041": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s027": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "제조 AI 경진대회",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": "제조 AI 경진대회"
+   },
+   "reviewed": false
+  },
+  "s275": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s169": {
+   "ai": null,
+   "contest": true,
+   "category": "hackathon",
+   "note": "채용 연계 해커톤, 주제가 AI인지 불명",
+   "draft": {
+    "ai": null,
+    "contest": true,
+    "category": "hackathon",
+    "note": "채용 연계 해커톤, 주제가 AI인지 불명"
+   },
+   "reviewed": false
+  },
+  "s251": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s022": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "의료 진단 AI 에이전트",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "dev",
+    "note": "의료 진단 AI 에이전트"
+   },
+   "reviewed": false
+  },
+  "s095": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s188": {
+   "ai": false,
+   "contest": true,
+   "category": "other",
+   "note": "자원봉사 우수사례 경진",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "other",
+    "note": "자원봉사 우수사례 경진"
+   },
+   "reviewed": false
+  },
+  "s172": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s179": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s140": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "SW 아이디어(중학생)",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "SW 아이디어(중학생)"
+   },
+   "reviewed": false
+  },
+  "s093": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s044": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "startup",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s170": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s262": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s103": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "자율주행",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "dev",
+    "note": "자율주행"
+   },
+   "reviewed": false
+  },
+  "s217": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "자원봉사자 모집",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "자원봉사자 모집"
+   },
+   "reviewed": false
+  },
+  "s062": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "startup",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s122": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s008": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "관광 데이터 AI 활용 챌린지",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": "관광 데이터 AI 활용 챌린지"
+   },
+   "reviewed": false
+  },
+  "s206": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s100": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "지원사업",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "지원사업"
+   },
+   "reviewed": false
+  },
+  "s211": {
+   "ai": false,
+   "contest": true,
+   "category": "other",
+   "note": "영어 말하기 대회",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "other",
+    "note": "영어 말하기 대회"
+   },
+   "reviewed": false
+  },
+  "s127": {
+   "ai": false,
+   "contest": true,
+   "category": "data",
+   "note": "공공데이터 분석·활용",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "data",
+    "note": "공공데이터 분석·활용"
+   },
+   "reviewed": false
+  },
+  "s150": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s072": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s077": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s268": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s171": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s129": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s246": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s128": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s182": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s184": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s085": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s190": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s030": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "제조 AI 경진대회",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": "제조 AI 경진대회"
+   },
+   "reviewed": false
+  },
+  "s075": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s220": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "전시 협업 공모(작가 모집)",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "전시 협업 공모(작가 모집)"
+   },
+   "reviewed": false
+  },
+  "s245": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s161": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s047": {
+   "ai": true,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s025": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s164": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "SW 아이디어(중학생)",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "SW 아이디어(중학생)"
+   },
+   "reviewed": false
+  },
+  "s142": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "공공데이터 활용(아이디어 중심)",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "공공데이터 활용(아이디어 중심)"
+   },
+   "reviewed": false
+  },
+  "s214": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "활용사례 공모",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "활용사례 공모"
+   },
+   "reviewed": false
+  },
+  "s106": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "SW 아이디어(중학생)",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "SW 아이디어(중학생)"
+   },
+   "reviewed": false
+  },
+  "s005": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s074": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s260": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "마라톤(스포츠 행사)",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "마라톤(스포츠 행사)"
+   },
+   "reviewed": false
+  },
+  "s270": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s242": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s173": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s237": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s088": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s059": {
+   "ai": true,
+   "contest": true,
+   "category": "idea",
+   "note": "AX 우수사례",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "idea",
+    "note": "AX 우수사례"
+   },
+   "reviewed": false
+  },
+  "s141": {
+   "ai": false,
+   "contest": true,
+   "category": "data",
+   "note": "데이터 분석 아이디어",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "data",
+    "note": "데이터 분석 아이디어"
+   },
+   "reviewed": false
+  },
+  "s126": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s112": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s195": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s056": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s135": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s007": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "우수사례 공모",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "우수사례 공모"
+   },
+   "reviewed": false
+  },
+  "s185": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s108": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s055": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s175": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "hackathon",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s097": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "AI 로봇쇼 로봇 챌린지",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "dev",
+    "note": "AI 로봇쇼 로봇 챌린지"
+   },
+   "reviewed": false
+  },
+  "s225": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s240": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s002": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "여행 인증 이벤트",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "여행 인증 이벤트"
+   },
+   "reviewed": false
+  },
+  "s138": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s166": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s013": {
+   "ai": false,
+   "contest": true,
+   "category": "youth",
+   "note": "청소년 무역·창업·정책 발표대회",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "youth",
+    "note": "청소년 무역·창업·정책 발표대회"
+   },
+   "reviewed": false
+  },
+  "s011": {
+   "ai": null,
+   "contest": true,
+   "category": "dev",
+   "note": "AX(AI 전환) 경진대회, AI 사용 필수인지 불명",
+   "draft": {
+    "ai": null,
+    "contest": true,
+    "category": "dev",
+    "note": "AX(AI 전환) 경진대회, AI 사용 필수인지 불명"
+   },
+   "reviewed": false
+  },
+  "s015": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "startup",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s162": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s052": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "AI로 그리는 삼척의 미래(AI 이미지)",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": "AI로 그리는 삼척의 미래(AI 이미지)"
+   },
+   "reviewed": false
+  },
+  "s117": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "dev",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s136": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "SW 아이디어",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": "SW 아이디어"
+   },
+   "reviewed": false
+  },
+  "s228": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s001": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "data",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s221": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s199": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "봉사단 모집",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "봉사단 모집"
+   },
+   "reviewed": false
+  },
+  "s014": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "tourism",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s249": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s048": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "바이브코딩(AI 코딩) 후기 공모",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": "바이브코딩(AI 코딩) 후기 공모"
+   },
+   "reviewed": false
+  },
+  "s107": {
+   "ai": null,
+   "contest": true,
+   "category": "hackathon",
+   "note": "채용 연계 해커톤, 주제가 AI인지 불명",
+   "draft": {
+    "ai": null,
+    "contest": true,
+    "category": "hackathon",
+    "note": "채용 연계 해커톤, 주제가 AI인지 불명"
+   },
+   "reviewed": false
+  },
+  "s194": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "idea",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s241": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s230": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s253": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": false,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s060": {
+   "ai": true,
+   "contest": true,
+   "category": "idea",
+   "note": "AI·디지털 사회문제 해결",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "idea",
+    "note": "AI·디지털 사회문제 해결"
+   },
+   "reviewed": false
+  },
+  "s130": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "지원사업",
+   "draft": {
+    "ai": false,
+    "contest": false,
+    "category": "other",
+    "note": "지원사업"
+   },
+   "reviewed": false
+  },
+  "s032": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "creative",
+    "note": ""
+   },
+   "reviewed": false
+  },
+  "s068": {
+   "ai": true,
+   "contest": true,
+   "category": "idea",
+   "note": "AI·디지털 사회문제 해결",
+   "draft": {
+    "ai": true,
+    "contest": true,
+    "category": "idea",
+    "note": "AI·디지털 사회문제 해결"
+   },
+   "reviewed": false
+  }
+ }
+}

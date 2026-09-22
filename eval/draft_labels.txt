@@ -1,0 +1,279 @@
+# id ai contest category [note]   (1=예 0=아니오 ?=애매) — Claude 초안, 모델 판정을 보지 않고 작성
+s012 0 1 startup
+s178 0 1 creative
+s054 0 1 tourism
+s153 ? 1 hackathon 채용 연계 해커톤, 주제가 AI인지 공고 제목만으로는 불명
+s208 0 1 academic
+s187 0 0 other 밋업 행사
+s215 0 1 creative
+s113 0 0 other 지원사업
+s092 0 1 tourism
+s218 0 1 creative
+s207 0 1 creative
+s257 0 1 creative
+s016 1 1 creative
+s243 0 0 other 버스킹 공연자 모집
+s258 0 1 creative
+s265 0 1 creative
+s209 0 1 idea
+s238 0 1 creative
+s006 0 1 tourism
+s205 0 1 creative
+s223 0 1 creative
+s017 1 1 other AI 주제 토론대회
+s181 0 1 creative
+s061 1 1 creative
+s134 0 1 idea 공공데이터 활용(아이디어 중심)
+s066 1 1 data
+s216 0 1 creative
+s229 0 1 creative
+s271 0 1 creative
+s114 1 1 data
+s029 0 1 tourism
+s087 1 1 dev
+s080 0 1 tourism
+s073 1 ? other 생성형AI 위험성 찾기 '이벤트'
+s038 0 1 startup
+s081 0 1 creative
+s219 0 1 creative
+s267 0 1 academic
+s019 1 1 creative
+s089 1 1 other AI 주제 토론대회
+s160 0 1 idea
+s071 0 1 tourism
+s042 0 1 tourism
+s064 1 1 dev 피지컬 AI(로봇)
+s036 0 1 tourism
+s261 0 1 creative
+s224 0 1 creative 청소년 트롯 경연
+s144 0 1 dev
+s115 0 1 dev
+s145 0 ? creative 교육 과정일 수 있음
+s233 0 1 creative
+s069 1 1 data
+s076 1 1 creative
+s099 1 1 creative
+s152 0 0 other 동아리 모집
+s040 1 1 idea
+s083 1 1 creative
+s174 0 1 hackathon
+s155 0 1 data 공공데이터 분석·활용
+s183 0 1 idea
+s101 0 1 idea
+s272 0 1 youth
+s254 0 1 creative
+s239 0 1 creative
+s189 0 1 idea
+s149 1 1 dev 자율주행
+s018 1 1 creative
+s050 0 1 startup
+s226 0 1 creative
+s028 0 1 startup
+s186 0 1 creative
+s247 0 1 idea
+s026 1 1 creative
+s065 1 1 creative
+s191 0 1 creative
+s255 0 1 creative
+s210 0 0 other 버스킹 공연자 모집
+s024 1 1 other
+s053 0 0 other SNS 인증 이벤트
+s167 0 1 dev
+s049 1 1 other AI 주제 토론대회
+s039 0 1 tourism
+s250 0 1 creative
+s159 0 1 dev
+s274 0 1 creative
+s063 1 1 data
+s227 0 1 idea
+s139 0 1 dev
+s202 0 1 creative
+s082 0 1 creative
+s176 0 1 idea
+s156 0 1 dev
+s116 0 1 dev
+s067 0 1 tourism
+s118 0 1 creative
+s020 1 1 creative
+s021 1 1 data
+s201 0 1 creative
+s037 1 1 other
+s232 0 1 creative
+s023 1 1 creative
+s079 0 1 tourism
+s200 0 1 creative
+s146 0 0 other 지원사업
+s034 0 1 startup
+s031 0 1 tourism
+s035 1 1 creative
+s121 0 1 creative
+s096 0 1 tourism
+s198 0 1 creative
+s057 1 1 creative
+s252 0 1 creative
+s111 0 0 other 포럼
+s010 1 1 dev
+s009 1 ? other 페스티벌, 경연 여부 불명
+s086 1 1 creative
+s269 0 0 other 배우 구인
+s004 ? 1 dev AX(AI 전환) 경진대회, AI 사용 필수인지 불명
+s276 0 ? creative 댄스 페스티벌, 경연 여부 불명
+s119 0 0 other 지원사업
+s104 0 1 hackathon
+s212 0 1 creative
+s137 0 0 other 동아리 모집
+s070 1 1 data
+s102 0 1 dev
+s248 0 1 creative
+s110 0 0 other 전시 행사
+s046 0 1 creative
+s045 1 1 idea
+s264 0 1 creative
+s177 0 1 hackathon
+s154 0 1 dev
+s084 1 1 creative
+s000 0 1 academic
+s234 0 0 other 마라톤 대회(스포츠 행사)
+s196 0 0 other 모델 모집
+s091 0 1 tourism
+s124 0 1 idea
+s105 0 1 hackathon
+s204 0 1 creative
+s163 0 1 hackathon
+s193 0 1 creative 음악 콩쿠르
+s123 0 1 dev
+s266 0 1 creative
+s109 0 1 data 공공데이터 분석·활용
+s259 0 1 creative
+s143 0 1 idea 공공데이터 활용(아이디어 중심)
+s132 1 1 dev 자율주행
+s033 0 0 other 셰프·창업가 모집 프로그램
+s158 ? 1 hackathon 채용 연계 해커톤, 주제가 AI인지 불명
+s098 1 1 creative
+s263 0 1 creative
+s222 0 1 creative 도서 원고 공모
+s277 0 1 creative
+s231 0 1 idea 우수사례 공모
+s090 1 1 creative AI 대시보드 이름 짓기, 주제가 AI
+s147 0 1 data 데이터 분석 아이디어
+s236 0 1 creative
+s131 0 1 dev
+s197 0 1 creative 젓가락 장단 경연
+s235 0 1 creative
+s192 0 1 creative
+s273 0 1 creative
+s051 1 1 hackathon
+s003 1 1 creative AI 정책 브랜드 네이밍, 주제가 AI
+s058 1 1 idea
+s213 0 1 creative
+s168 0 1 creative
+s043 1 1 data
+s165 0 1 dev
+s180 0 1 creative
+s148 0 1 dev
+s151 0 1 idea 공공데이터 활용(아이디어 중심)
+s157 0 1 hackathon
+s078 1 1 creative AI 정책 슬로건, 주제가 AI
+s256 0 1 creative
+s120 1 1 dev 자율주행
+s244 0 0 other 캠페인 참여
+s125 0 1 hackathon
+s094 1 1 idea
+s203 0 1 academic
+s133 0 1 data 공공데이터 분석·활용
+s041 1 1 creative
+s027 1 1 data 제조 AI 경진대회
+s275 0 1 idea
+s169 ? 1 hackathon 채용 연계 해커톤, 주제가 AI인지 불명
+s251 0 1 creative
+s022 1 1 dev 의료 진단 AI 에이전트
+s095 0 1 tourism
+s188 0 1 other 자원봉사 우수사례 경진
+s172 0 1 hackathon
+s179 0 1 creative
+s140 0 1 idea SW 아이디어(중학생)
+s093 0 1 tourism
+s044 0 1 startup
+s170 0 1 dev
+s262 0 1 creative
+s103 1 1 dev 자율주행
+s217 0 0 other 자원봉사자 모집
+s062 0 1 startup
+s122 0 1 creative
+s008 1 1 data 관광 데이터 AI 활용 챌린지
+s206 0 1 creative
+s100 0 0 other 지원사업
+s211 0 1 other 영어 말하기 대회
+s127 0 1 data 공공데이터 분석·활용
+s150 0 1 hackathon
+s072 0 1 tourism
+s077 1 1 creative
+s268 0 1 creative
+s171 0 1 hackathon
+s129 0 1 dev
+s246 0 1 creative
+s128 0 1 hackathon
+s182 0 1 creative
+s184 0 1 idea
+s085 0 1 tourism
+s190 0 1 idea
+s030 1 1 data 제조 AI 경진대회
+s075 1 1 creative
+s220 0 0 other 전시 협업 공모(작가 모집)
+s245 0 1 creative
+s161 0 1 dev
+s047 1 1 hackathon
+s025 1 1 dev
+s164 0 1 idea SW 아이디어(중학생)
+s142 0 1 idea 공공데이터 활용(아이디어 중심)
+s214 0 1 idea 활용사례 공모
+s106 0 1 idea SW 아이디어(중학생)
+s005 1 1 data
+s074 1 1 creative
+s260 0 0 other 마라톤(스포츠 행사)
+s270 0 1 creative
+s242 0 1 creative
+s173 0 1 dev
+s237 0 1 creative
+s088 1 1 data
+s059 1 1 idea AX 우수사례
+s141 0 1 data 데이터 분석 아이디어
+s126 0 1 dev
+s112 0 1 creative
+s195 0 1 idea
+s056 0 1 tourism
+s135 0 1 hackathon
+s007 0 1 idea 우수사례 공모
+s185 0 1 creative
+s108 0 1 dev
+s055 1 1 creative
+s175 0 1 hackathon
+s097 1 1 dev AI 로봇쇼 로봇 챌린지
+s225 0 1 creative
+s240 0 1 creative
+s002 0 0 other 여행 인증 이벤트
+s138 0 1 dev
+s166 0 1 dev
+s013 0 1 youth 청소년 무역·창업·정책 발표대회
+s011 ? 1 dev AX(AI 전환) 경진대회, AI 사용 필수인지 불명
+s015 0 1 startup
+s162 1 1 data
+s052 1 1 creative AI로 그리는 삼척의 미래(AI 이미지)
+s117 0 1 dev
+s136 0 1 idea SW 아이디어
+s228 0 1 creative
+s001 1 1 data
+s221 0 1 creative
+s199 0 0 other 봉사단 모집
+s014 0 1 tourism
+s249 0 1 creative
+s048 1 1 creative 바이브코딩(AI 코딩) 후기 공모
+s107 ? 1 hackathon 채용 연계 해커톤, 주제가 AI인지 불명
+s194 0 1 idea
+s241 0 1 creative
+s230 0 1 creative
+s253 0 1 creative
+s060 1 1 idea AI·디지털 사회문제 해결
+s130 0 0 other 지원사업
+s032 1 1 creative
+s068 1 1 idea AI·디지털 사회문제 해결

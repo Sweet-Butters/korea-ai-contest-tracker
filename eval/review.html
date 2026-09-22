@@ -1,0 +1,262 @@
+<title>공모전 라벨 검수</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root {
+  --ground: #f4f6f8;
+  --surface: #ffffff;
+  --ink: #1b2230;
+  --muted: #5f6b7c;
+  --line: #dce2ea;
+  --accent: #245f7d;
+  --accent-soft: #e2eef4;
+  --yes: #2d7a4c;
+  --yes-soft: #e1f1e7;
+  --no: #b0443a;
+  --no-soft: #f8e5e2;
+  --unsure: #8a6d1f;
+  --unsure-soft: #f5edd6;
+  --changed: #7a4fb0;
+  --sans: "IBM Plex Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #12161d; --surface: #1a2029; --ink: #e6ebf2; --muted: #93a0b2; --line: #2b3441;
+    --accent: #7fb8d6; --accent-soft: #1d3240; --yes: #6cc893; --yes-soft: #193326;
+    --no: #ee8a7f; --no-soft: #3a1f1c; --unsure: #e0c16a; --unsure-soft: #342b14; --changed: #c3a2ee;
+  }
+}
+:root[data-theme="dark"] {
+  --ground: #12161d; --surface: #1a2029; --ink: #e6ebf2; --muted: #93a0b2; --line: #2b3441;
+  --accent: #7fb8d6; --accent-soft: #1d3240; --yes: #6cc893; --yes-soft: #193326;
+  --no: #ee8a7f; --no-soft: #3a1f1c; --unsure: #e0c16a; --unsure-soft: #342b14; --changed: #c3a2ee;
+}
+* { box-sizing: border-box; }
+body { background: var(--ground); color: var(--ink); font: 15px/1.55 var(--sans); padding-inline: 16px; padding-block: 0 48px; }
+.wrap { max-width: 880px; margin: 0 auto; }
+header.bar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--ground);
+  padding-block: 14px 12px; border-bottom: 1px solid var(--line); display: grid; gap: 10px;
+}
+.head-row { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 16px; }
+h1 { font-size: 19px; font-weight: 600; margin: 0; text-wrap: balance; }
+.count { font: 500 13px var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+.progress { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+.progress > i { display: block; height: 100%; background: var(--accent); width: 0; transition: width .3s; }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; }
+.filters button, .seg button, .btn {
+  font: 500 13px var(--sans); color: var(--ink); background: var(--surface); border: 1px solid var(--line);
+  border-radius: 6px; padding: 5px 11px; cursor: pointer;
+}
+.filters button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+button:focus-visible, select:focus-visible, textarea:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.guide { font-size: 13px; color: var(--muted); margin: 14px 0 4px; max-width: 68ch; }
+.guide b { color: var(--ink); font-weight: 600; }
+.status { font-size: 13px; color: var(--muted); padding-block: 8px; }
+.status.err { color: var(--no); }
+ol.items { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 10px; }
+li.item { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; display: grid; gap: 10px; }
+li.item.done { border-color: color-mix(in srgb, var(--yes) 45%, var(--line)); }
+.item-top { display: flex; gap: 10px; align-items: flex-start; justify-content: space-between; }
+.item h2 { font-size: 16px; font-weight: 600; margin: 0; line-height: 1.4; overflow-wrap: anywhere; }
+.item h2 a { color: inherit; text-decoration: none; }
+.item h2 a:hover { text-decoration: underline; }
+.tag { font: 500 11px var(--mono); letter-spacing: .04em; color: var(--muted); white-space: nowrap; }
+.tag.ok { color: var(--yes); }
+.tag.chg { color: var(--changed); }
+.meta { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13px; color: var(--muted); }
+.meta span b { font-weight: 500; color: var(--ink); }
+.desc { font-size: 13px; color: var(--muted); max-width: 72ch; overflow-wrap: anywhere; }
+.fields { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 10px 16px; align-items: end; }
+.field { display: grid; gap: 4px; }
+.field > span { font-size: 12px; font-weight: 500; letter-spacing: .03em; color: var(--muted); }
+.seg { display: inline-flex; gap: 0; }
+.seg button { border-radius: 0; margin-left: -1px; min-width: 56px; }
+.seg button:first-child { border-radius: 6px 0 0 6px; margin-left: 0; }
+.seg button:last-child { border-radius: 0 6px 6px 0; }
+.seg button[aria-pressed="true"][data-v="true"] { background: var(--yes-soft); color: var(--yes); border-color: var(--yes); position: relative; }
+.seg button[aria-pressed="true"][data-v="false"] { background: var(--no-soft); color: var(--no); border-color: var(--no); position: relative; }
+.seg button[aria-pressed="true"][data-v="unsure"] { background: var(--unsure-soft); color: var(--unsure); border-color: var(--unsure); position: relative; }
+select, textarea { font: 14px var(--sans); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; width: 100%; }
+textarea { resize: vertical; min-height: 34px; }
+.draft-note { font-size: 12px; color: var(--muted); }
+.draft-note em { font-style: normal; color: var(--changed); }
+.actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+.btn:disabled { opacity: .5; cursor: default; }
+.empty { color: var(--muted); padding: 24px 0; }
+@media (prefers-reduced-motion: reduce) { .progress > i { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header class="bar">
+    <div class="head-row">
+      <h1>공모전 라벨 검수</h1>
+      <span class="count" id="count">— / —</span>
+    </div>
+    <div class="progress" aria-hidden="true"><i id="bar"></i></div>
+    <div class="filters" role="group" aria-label="보기">
+      <button id="f-todo" data-f="todo" aria-pressed="true">검수 전</button>
+      <button id="f-done" data-f="done" aria-pressed="false">검수 완료</button>
+      <button id="f-changed" data-f="changed" aria-pressed="false">초안에서 고친 것</button>
+      <button id="f-all" data-f="all" aria-pressed="false">전체</button>
+    </div>
+  </header>
+
+  <p class="guide">
+    Claude가 미리 단 초안이 선택돼 있습니다. 맞으면 <b>확인</b>, 틀리면 고친 뒤 <b>확인</b>을 누르세요.
+    <b>AI 대회</b>는 참가자가 AI를 만들거나·쓰거나·제안해야 하는지, <b>모집 중 대회</b>는 교육·행사·채용·결과 발표가 아닌 참가 접수 공고인지로 판단합니다.
+    분야는 참가자가 실제로 제출하는 것 기준이되, 관광·여행·MICE가 주제면 <b>관광</b>입니다(AI·데이터 모델링 대회는 데이터). 모델 판정은 일부러 보여주지 않습니다.
+  </p>
+  <div class="status" id="status">불러오는 중…</div>
+  <ol class="items" id="list"></ol>
+</div>
+
+<script>
+const CATS = {
+  hackathon: "해커톤·아이디어톤", startup: "창업·사업화", tourism: "관광", academic: "학술·논문",
+  data: "데이터 분석·모델링", creative: "창작(영상·디자인·글)", youth: "청소년·학생 전용",
+  dev: "SW 개발·코딩", idea: "아이디어·정책 제안", other: "해당 없음",
+};
+const TRI = [["true", "예"], ["false", "아니오"], ["unsure", "애매"]];
+const state = { docs: new Map(), filter: "todo", edits: new Map(), db: null };
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const enc = (v) => v === true ? "true" : v === false ? "false" : "unsure";
+const dec = (v) => v === "true" ? true : v === "false" ? false : null;
+
+function current(id) {
+  const d = state.docs.get(id);
+  return state.edits.get(id) || { ...(d.review || d.draft) };
+}
+function differs(a, b) {
+  return a.ai !== b.ai || a.contest !== b.contest || a.category !== b.category;
+}
+
+function render() {
+  const all = [...state.docs.entries()].sort((a, b) => (a[1].order ?? 0) - (b[1].order ?? 0));
+  const done = all.filter(([, d]) => d.review).length;
+  $("#count").textContent = `${done} / ${all.length} 검수`;
+  $("#bar").style.width = all.length ? `${(done / all.length) * 100}%` : "0";
+  const shown = all.filter(([, d]) =>
+    state.filter === "all" ? true :
+    state.filter === "todo" ? !d.review :
+    state.filter === "done" ? !!d.review :
+    d.review && differs(d.review, d.draft));
+  const list = $("#list");
+  if (!shown.length) {
+    list.innerHTML = `<li class="empty">${state.filter === "todo" && all.length ? "모두 검수했습니다. Claude에게 검수가 끝났다고 알려주세요." : "해당하는 항목이 없습니다."}</li>`;
+    return;
+  }
+  list.innerHTML = shown.map(([id, d]) => {
+    const cur = current(id);
+    const changed = d.review && differs(d.review, d.draft);
+    const seg = (key, label) => `
+      <div class="field"><span>${label}</span>
+        <div class="seg" role="group" aria-label="${label}">
+          ${TRI.map(([v, t]) => `<button type="button" id="${id}-${key}-${v}" data-id="${id}" data-k="${key}" data-v="${v}" aria-pressed="${enc(cur[key]) === v}">${t}</button>`).join("")}
+        </div></div>`;
+    const draftDiff = differs(cur, d.draft)
+      ? `<div class="draft-note">초안: AI ${d.draft.ai === true ? "예" : d.draft.ai === false ? "아니오" : "애매"} · 모집 ${d.draft.contest === true ? "예" : d.draft.contest === false ? "아니오" : "애매"} · ${esc(CATS[d.draft.category] || d.draft.category)} — <em>바뀐 항목 있음</em></div>`
+      : "";
+    return `<li class="item${d.review ? " done" : ""}" id="item-${id}">
+      <div class="item-top">
+        <h2><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.title)}</a></h2>
+        <span class="tag ${changed ? "chg" : d.review ? "ok" : ""}">${id}${d.review ? (changed ? " · 수정됨" : " · 확인됨") : ""}</span>
+      </div>
+      <div class="meta">
+        <span>출처 <b>${esc(d.site)}</b></span>
+        ${d.host ? `<span>주최 <b>${esc(d.host)}</b></span>` : ""}
+        ${d.eligibility ? `<span>대상 <b>${esc(d.eligibility)}</b></span>` : ""}
+        ${d.prize ? `<span>상금 <b>${esc(d.prize)}</b></span>` : ""}
+      </div>
+      ${d.desc ? `<div class="desc">${esc(d.desc)}</div>` : ""}
+      ${d.draft.note ? `<div class="draft-note">Claude 메모: ${esc(d.draft.note)}</div>` : ""}
+      <div class="fields">
+        ${seg("ai", "AI 대회")}
+        ${seg("contest", "모집 중 대회")}
+        <label class="field"><span>분야</span>
+          <select id="${id}-category" data-id="${id}" data-k="category">
+            ${Object.entries(CATS).map(([k, t]) => `<option value="${k}"${cur.category === k ? " selected" : ""}>${t}</option>`).join("")}
+          </select></label>
+      </div>
+      ${draftDiff}
+      <div class="actions">
+        <button type="button" class="btn primary" id="${id}-save" data-save="${id}">${d.review ? "다시 저장" : "확인"}</button>
+        <label class="field" style="flex:1;min-width:180px"><textarea id="${id}-note" data-id="${id}" data-k="note" rows="1" placeholder="메모 (선택)">${esc(cur.note || "")}</textarea></label>
+      </div>
+    </li>`;
+  }).join("");
+}
+
+function edit(id, key, value) {
+  const cur = current(id);
+  cur[key] = value;
+  state.edits.set(id, cur);
+}
+
+document.addEventListener("click", async (e) => {
+  const f = e.target.closest("[data-f]");
+  if (f) {
+    state.filter = f.dataset.f;
+    document.querySelectorAll("[data-f]").forEach((b) => b.setAttribute("aria-pressed", String(b === f)));
+    render();
+    return;
+  }
+  const s = e.target.closest(".seg button");
+  if (s) {
+    edit(s.dataset.id, s.dataset.k, dec(s.dataset.v));
+    s.parentElement.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", String(b === s)));
+    return;
+  }
+  const save = e.target.closest("[data-save]");
+  if (save && state.db) {
+    const id = save.dataset.save;
+    const cur = current(id);
+    save.disabled = true;
+    try {
+      await state.db.doc("items/" + id).update({ review: { ai: cur.ai, contest: cur.contest, category: cur.category, note: cur.note || "", at: new Date().toISOString() } });
+      state.edits.delete(id);
+      $("#status").className = "status";
+      $("#status").textContent = `${id} 저장했습니다.`;
+    } catch (err) {
+      save.disabled = false;
+      $("#status").className = "status err";
+      $("#status").textContent = err && err.code === "invalid_argument"
+        ? "이 페이지에 저장할 권한이 없습니다. 편집 권한이 있는 계정으로 열어 주세요."
+        : "저장하지 못했습니다. 잠시 뒤 다시 눌러 주세요.";
+    }
+  }
+});
+document.addEventListener("change", (e) => {
+  const el = e.target;
+  if (el.dataset && el.dataset.id && el.dataset.k) edit(el.dataset.id, el.dataset.k, el.value);
+});
+document.addEventListener("input", (e) => {
+  const el = e.target;
+  if (el.tagName === "TEXTAREA" && el.dataset.id) edit(el.dataset.id, "note", el.value);
+});
+
+(async () => {
+  const db = await window.claude?.use?.("db");
+  if (!db) {
+    $("#status").className = "status err";
+    $("#status").textContent = "검수 데이터에 연결할 수 없습니다. claude.ai에서 이 페이지를 열어 주세요.";
+    return;
+  }
+  state.db = db;
+  db.collection("items").limit(1000).onSnapshot((snap) => {
+    snap.docs.forEach((d) => state.docs.set(d.id, d.data()));
+    snap.docChanges().forEach((c) => { if (c.type === "removed") state.docs.delete(c.doc.id); });
+    $("#status").textContent = snap.size ? "" : "아직 검수할 항목이 없습니다. Claude가 초안을 올리면 여기에 나타납니다.";
+    const active = document.activeElement && document.activeElement.id;
+    render();
+    if (active && document.getElementById(active)) document.getElementById(active).focus();
+  }, (err) => {
+    $("#status").className = "status err";
+    $("#status").textContent = "검수 데이터 연결이 끊겼습니다. 페이지를 새로고침해 주세요.";
+  });
+})();
+</script>
