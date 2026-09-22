@@ -7,55 +7,55 @@
    "fetched": 685,
    "kept": 117,
    "error": null,
-   "seconds": 1611
+   "seconds": 1643
   },
   "올콘": {
    "fetched": 489,
    "kept": 74,
    "error": null,
-   "seconds": 1359
+   "seconds": 1348
   },
   "링커리어": {
    "fetched": 879,
    "kept": 159,
    "error": null,
-   "seconds": 1364
+   "seconds": 1351
   },
   "요즘것들": {
    "fetched": 340,
    "kept": 67,
    "error": null,
-   "seconds": 1375
+   "seconds": 1365
   },
   "콘테스트코리아": {
    "fetched": 606,
    "kept": 83,
    "error": null,
-   "seconds": 1481
+   "seconds": 1469
   },
   "위비티": {
    "fetched": 809,
    "kept": 111,
    "error": null,
-   "seconds": 1394
+   "seconds": 1387
   },
   "DACON": {
    "fetched": 15,
    "kept": 15,
    "error": null,
-   "seconds": 4
+   "seconds": 2
   },
   "AIFactory": {
    "fetched": 2,
    "kept": 2,
    "error": null,
-   "seconds": 3
+   "seconds": 2
   },
   "이벤터스": {
    "fetched": 78,
    "kept": 18,
    "error": null,
-   "seconds": 1350
+   "seconds": 1339
   },
   "Dev-Event": {
    "fetched": 10,
