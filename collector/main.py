@@ -82,6 +82,12 @@ def main(only=None):
     run_date = today().isoformat()
     rules = Rules.load()
     previous = load(DATA, {"items": []})["items"]
+    # Stored items are not re-fetched from every source, so re-apply the current exclude words to them:
+    # a word added in /admin removes matching entries on the next run, not only newly fetched ones.
+    kept_prev = [r for r in previous if rules.contest_gate(r["name"], is_contest_list=True)]
+    if len(kept_prev) < len(previous):
+        print(f"excluded {len(previous) - len(kept_prev)} stored items by current exclude words")
+    previous = kept_prev
     known_urls = {u for r in previous for u in r.get("sources", {}).values()}
     cache = load(NEWS_CACHE, {})
     jev_cache = load(JEV_CACHE, {})
