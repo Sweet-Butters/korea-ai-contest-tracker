@@ -154,7 +154,7 @@ export default function Admin() {
         </section>
 
         <div className="cols">
-          <section className="panel kw">
+          <section className="panel kw-panel">
             {!kw && <p className="hint">{msg}</p>}
             {kw && GROUPS.map(([key, title, desc]) => (
               <WordGroup key={key} title={title} desc={desc} words={(kw[key] as string[]) ?? []}

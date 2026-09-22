@@ -7,7 +7,7 @@
 .token-row { display: flex; gap: 8px; }
 .token-row input { flex: 1; }
 .cols { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 14px; align-items: start; }
-.kw { display: grid; gap: 18px; }
+.kw-panel { display: grid; gap: 18px; }
 .kw-group h3 { margin: 0 0 2px; font-size: 15px; }
 .kw-group h3 small { color: var(--muted); font-weight: 500; }
 .kw-group .hint { margin-bottom: 8px; }
