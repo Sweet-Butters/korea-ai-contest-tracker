@@ -8,6 +8,7 @@
 .controls { display: grid; gap: 10px; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; box-shadow: var(--shadow); }
 .controls input[type="search"] { width: 100%; font-size: 16px; }
 .row { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; justify-content: space-between; }
+.row-label { align-self: center; font-size: 13px; color: var(--muted); margin-right: 4px; }
 .toggles, .selects { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; }
 
 .view-bar { display: flex; justify-content: space-between; align-items: center; margin: 16px 2px 8px; gap: 12px; }

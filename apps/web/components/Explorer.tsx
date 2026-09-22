@@ -164,6 +164,12 @@ export default function Explorer({ data, meta }: { data: ContestData; meta: Meta
               </Chip>
             ))}
           </div>
+          <div className="chips" role="group" aria-label="정렬">
+            <span className="row-label">정렬</span>
+            {(Object.keys(SORTS) as SortKey[]).filter((k) => k !== "jev" || hasJev).map((k) => (
+              <Chip key={k} pressed={f.sort === k} onClick={() => set({ sort: k })}>{SORTS[k].label}</Chip>
+            ))}
+          </div>
           <div className="row">
             <div className="toggles">
               <label className="toggle"><input type="checkbox" checked={f.aiOnly} onChange={(e) => set({ aiOnly: e.target.checked })} /> AI 관련만</label>
@@ -178,11 +184,6 @@ export default function Explorer({ data, meta }: { data: ContestData; meta: Meta
               <select value={f.source} onChange={(e) => set({ source: e.target.value })} aria-label="출처">
                 <option value="">전체 출처</option>
                 {sourceNames.map((s) => <option key={s}>{s}</option>)}
-              </select>
-              <select value={f.sort} onChange={(e) => set({ sort: e.target.value as SortKey })} aria-label="정렬">
-                {(Object.keys(SORTS) as SortKey[]).filter((k) => k !== "jev" || hasJev).map((k) => (
-                  <option key={k} value={k}>{SORTS[k].label}</option>
-                ))}
               </select>
             </div>
           </div>
