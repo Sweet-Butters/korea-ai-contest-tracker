@@ -7,37 +7,37 @@
    "fetched": 679,
    "kept": 121,
    "error": null,
-   "seconds": 289
+   "seconds": 306
   },
   "올콘": {
    "fetched": 499,
    "kept": 77,
    "error": null,
-   "seconds": 34
+   "seconds": 35
   },
   "링커리어": {
    "fetched": 869,
    "kept": 162,
    "error": null,
-   "seconds": 42
+   "seconds": 38
   },
   "요즘것들": {
    "fetched": 347,
    "kept": 73,
    "error": null,
-   "seconds": 13
+   "seconds": 14
   },
   "콘테스트코리아": {
    "fetched": 606,
    "kept": 78,
    "error": null,
-   "seconds": 153
+   "seconds": 168
   },
   "위비티": {
-   "fetched": 818,
-   "kept": 125,
+   "fetched": 824,
+   "kept": 127,
    "error": null,
-   "seconds": 75
+   "seconds": 82
   },
   "DACON": {
    "fetched": 15,
@@ -49,10 +49,10 @@
    "fetched": 2,
    "kept": 2,
    "error": null,
-   "seconds": 3
+   "seconds": 2
   },
   "이벤터스": {
-   "fetched": 77,
+   "fetched": 78,
    "kept": 19,
    "error": null,
    "seconds": 29
@@ -67,13 +67,13 @@
    "fetched": 27,
    "kept": 15,
    "error": null,
-   "seconds": 5
+   "seconds": 7
   },
   "스타트업레시피": {
    "fetched": 41,
    "kept": 17,
    "error": null,
-   "seconds": 7
+   "seconds": 5
   },
   "네이버뉴스": {
    "fetched": 0,
@@ -82,5 +82,5 @@
    "seconds": 0
   }
  },
- "total": 406
+ "total": 407
 }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-24T20:35:53+00:00",
+ "updatedAt": "2026-09-24T23:52:58+00:00",
  "items": [
   {
    "id": "b66f2f73be",
@@ -3350,6 +3350,24 @@
    "lastEvent": null
   },
   {
+   "id": "e061aa7ab8",
+   "name": "Pollo AI K-pop MV 챌린지",
+   "firstSeen": "2026-09-25",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111280"
+   },
+   "host": "COCOSOFT TECHNOLOGY PTE. LTD.",
+   "applyEnd": "2026-10-08",
+   "category": "creative",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.88,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111280",
+   "lastSeen": "2026-09-25",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "14acf37242",
    "name": "[아산시청소년문화의집] 2026 청소년 창업 아이디어 공모전",
    "firstSeen": "2026-09-22",
@@ -6377,7 +6395,7 @@
    "confidence": "high",
    "jev": 0.19,
    "url": "https://event-us.kr/cnttech/event/126658",
-   "lastSeen": "2026-09-22",
+   "lastSeen": "2026-09-25",
    "status": "open",
    "lastEvent": null
   },
@@ -7409,7 +7427,8 @@
    "name": "[BytePlus × AI-Kive] Seedance 2.5 AI 시리즈 제작지원 공모전",
    "firstSeen": "2026-09-25",
    "sources": {
-    "요즘것들": "https://www.allforyoung.com/posts/88069"
+    "요즘것들": "https://www.allforyoung.com/posts/88069",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111273"
    },
    "host": "BytePlus / (주)스튜디오프리윌루전, AI-Kive",
    "applyStart": "2026-10-01",
@@ -7421,7 +7440,8 @@
    "url": "https://www.allforyoung.com/posts/88069",
    "lastSeen": "2026-09-25",
    "status": "upcoming",
-   "lastEvent": null
+   "lastEvent": null,
+   "upcoming": true
   },
   {
    "id": "90c5f21de6",
@@ -8464,7 +8484,7 @@
    "host": "오산시",
    "category": "tourism",
    "applyEnd": "2026-09-18",
-   "eventDates": "심사 09.21~10.13 발표 10.14 심사중 --> 문학•문예 2026학년도 명대신문사 제72주년 백마문화상 응모 안내 3 주최 . 명대신문사 대상 . 대학생 접수 09.01~10.02 심사 10.03~11.09 D-7 마감임박 240 //--> --> 사진•영상•영화제 경기도 민주주의 숏폼공모전 0 주최 . (사)수원민주화운동계승사업회 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶ 접수 08.24~10.23 심사 10.26~11.05 발표 11.06",
+   "eventDates": "심사 09.21~10.13 발표 10.14 심사중 --> 문학•문예 2026학년도 명대신문사 제72주년 백마문화상 응모 안내 3 주최 . 명대신문사 대상 . 대학생 접수 09.01~10.02 심사 10.03~11.09 D-7 마감임박 241 //--> --> 사진•영상•영화제 경기도 민주주의 숏폼공모전 0 주최 . (사)수원민주화운동계승사업회 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶ 접수 08.24~10.23 심사 10.26~11.05 발표 11.06",
    "prize": "정보 미확인",
    "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
    "region": "경기 오산",

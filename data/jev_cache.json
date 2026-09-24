@@ -60949,5 +60949,145 @@
    "tourism": 0.0
   },
   "seen": "2026-09-25"
+ },
+ "57dcb07031516ce3": {
+  "ai": 0.88,
+  "contest": 0.64,
+  "category": "creative",
+  "categoryConf": 0.99,
+  "categoryProbs": {
+   "tourism": 0.0,
+   "idea": 0.0,
+   "funding": 0.0,
+   "academic": 0.0,
+   "youth": 0.0,
+   "dev": 0.01,
+   "data": 0.0,
+   "hackathon": 0.0,
+   "startup": 0.0,
+   "creative": 0.99,
+   "other": 0.0
+  },
+  "seen": "2026-09-25"
+ },
+ "9d57a29ec3c80d4b": {
+  "ai": 0.02,
+  "contest": 0.78,
+  "category": "creative",
+  "categoryConf": 0.52,
+  "categoryProbs": {
+   "hackathon": 0.0,
+   "creative": 0.56,
+   "startup": 0.0,
+   "tourism": 0.0,
+   "dev": 0.0,
+   "academic": 0.0,
+   "data": 0.0,
+   "youth": 0.0,
+   "other": 0.44,
+   "idea": 0.0,
+   "funding": 0.0
+  },
+  "seen": "2026-09-25"
+ },
+ "0347c95e81340d43": {
+  "ai": 0.04,
+  "contest": 0.75,
+  "category": "creative",
+  "categoryConf": 1.0,
+  "categoryProbs": {
+   "dev": 0.0,
+   "other": 0.0,
+   "tourism": 0.0,
+   "funding": 0.0,
+   "youth": 0.0,
+   "hackathon": 0.0,
+   "idea": 0.0,
+   "academic": 0.0,
+   "creative": 1.0,
+   "startup": 0.0,
+   "data": 0.0
+  },
+  "seen": "2026-09-25"
+ },
+ "0ccd801c158a6a50": {
+  "ai": 0.96,
+  "contest": 0.8,
+  "category": "creative",
+  "categoryConf": 0.83,
+  "categoryProbs": {
+   "tourism": 0.0,
+   "idea": 0.0,
+   "other": 0.01,
+   "dev": 0.11,
+   "hackathon": 0.02,
+   "youth": 0.0,
+   "funding": 0.0,
+   "startup": 0.0,
+   "creative": 0.85,
+   "data": 0.01,
+   "academic": 0.0
+  },
+  "seen": "2026-09-25"
+ },
+ "1be62b341d96474c": {
+  "ai": 0.13,
+  "contest": 0.72,
+  "category": "idea",
+  "categoryConf": 1.0,
+  "categoryProbs": {
+   "other": 0.0,
+   "academic": 0.0,
+   "creative": 0.0,
+   "dev": 0.0,
+   "hackathon": 0.0,
+   "data": 0.0,
+   "startup": 0.0,
+   "idea": 1.0,
+   "funding": 0.0,
+   "youth": 0.0,
+   "tourism": 0.0
+  },
+  "seen": "2026-09-25"
+ },
+ "3784407b1c36ddf2": {
+  "ai": 0.02,
+  "contest": 0.71,
+  "category": "creative",
+  "categoryConf": 0.99,
+  "categoryProbs": {
+   "dev": 0.0,
+   "creative": 1.0,
+   "youth": 0.0,
+   "idea": 0.0,
+   "funding": 0.0,
+   "data": 0.0,
+   "startup": 0.0,
+   "tourism": 0.0,
+   "other": 0.0,
+   "hackathon": 0.0,
+   "academic": 0.0
+  },
+  "seen": "2026-09-25"
+ },
+ "8315b7d23686796e": {
+  "ai": 0.19,
+  "contest": 0.87,
+  "category": "startup",
+  "categoryConf": 1.0,
+  "categoryProbs": {
+   "youth": 0.0,
+   "hackathon": 0.0,
+   "funding": 0.0,
+   "data": 0.0,
+   "creative": 0.0,
+   "idea": 0.0,
+   "tourism": 0.0,
+   "startup": 1.0,
+   "dev": 0.0,
+   "other": 0.0,
+   "academic": 0.0
+  },
+  "seen": "2026-09-25"
  }
 }
