@@ -60929,5 +60929,25 @@
    "data": 0.0
   },
   "seen": "2026-09-25"
+ },
+ "797c98b491f3a244": {
+  "ai": 0.1,
+  "contest": 0.87,
+  "category": "idea",
+  "categoryConf": 0.54,
+  "categoryProbs": {
+   "hackathon": 0.0,
+   "funding": 0.0,
+   "academic": 0.0,
+   "youth": 0.0,
+   "idea": 0.58,
+   "other": 0.0,
+   "data": 0.0,
+   "dev": 0.0,
+   "startup": 0.42,
+   "creative": 0.0,
+   "tourism": 0.0
+  },
+  "seen": "2026-09-25"
  }
 }

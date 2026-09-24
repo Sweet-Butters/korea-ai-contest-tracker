@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-24T20:29:48+00:00",
+ "updatedAt": "2026-09-24T20:35:53+00:00",
  "items": [
   {
    "id": "b66f2f73be",
@@ -2227,6 +2227,26 @@
    "confidence": "high",
    "jev": 0.05,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110009",
+   "lastSeen": "2026-09-25",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "90e7bddbc4",
+   "name": "2026년 서울창업센터 관악 관악S밸리 창업 페스티벌 '창업 아이디어 경진대회' 참가자 모집",
+   "firstSeen": "2026-09-25",
+   "sources": {
+    "이벤터스": "https://event-us.kr/acdc1/event/134496"
+   },
+   "host": "acdc1",
+   "applyEnd": "2026-10-01",
+   "eventDates": "2026-09-13",
+   "region": "서울",
+   "category": "startup",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.1,
+   "url": "https://event-us.kr/acdc1/event/134496",
    "lastSeen": "2026-09-25",
    "status": "open",
    "lastEvent": null
