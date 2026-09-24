@@ -7,7 +7,7 @@ from .util import dates_in
 
 # When sources disagree on a field, the earlier one in this list wins.
 SOURCE_RANK = ["DACON", "AIFactory", "씽굿", "링커리어", "올콘", "콘테스트코리아", "요즘것들",
-               "이벤터스", "Dev-Event", "위비티", "네이버뉴스", "초기조사"]
+               "이벤터스", "Dev-Event", "K-Startup", "스타트업레시피", "위비티", "네이버뉴스", "초기조사"]
 FIELDS = ["host", "applyStart", "applyEnd", "eventDates", "prize", "eligibility", "region"]
 
 

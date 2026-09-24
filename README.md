@@ -3,7 +3,7 @@
 **English** · [한국어](README.ko.md)
 
 A self-updating directory of AI competitions, hackathons, idea contests and startup pitch competitions
-in South Korea — and a real-world test of **[TypeSafe Jev](https://typesafe.ai)**, a model that returns
+in South Korea, plus government startup funding programmes — and a real-world test of **[TypeSafe Jev](https://typesafe.ai)**, a model that returns
 typed, calibrated decisions instead of text.
 
 **Live site:** https://sweet-butters.github.io/korea-ai-contest-tracker/
@@ -47,6 +47,7 @@ data/           contests.json · meta.json · jev_cache.json · jev_runs.jsonl
 | DACON, AIFactory | data embedded in the page (Nuxt / Next.js flight data) |
 | 이벤터스 (Event-us) | public search API |
 | Dev-Event | community-curated GitHub README |
+| K-Startup, 스타트업레시피 | government startup funding programmes, incubation and tenancy calls (not contests) |
 | Naver News | official search API, for government / local / corporate press releases |
 
 Sources whose robots.txt disallows crawling (OnOffMix, the Campuspick API, the Daker API) are not used,

@@ -34,6 +34,8 @@ PRICE_PER_MTOK = 0.042  # USD, input tokens only; output is free
 CATEGORY_HINTS = {
     "hackathon": "A hackathon, ideathon, or other time-boxed team build event",
     "startup": "A startup, business plan, commercialization, or investment/IR pitch competition",
+    "funding": "A government or institutional support programme open for applications: grants, "
+               "incubation, office tenancy, accelerator or scholarship recruitment (not a competition)",
     "tourism": "A tourism, travel, or MICE themed competition",
     "academic": "An academic paper, research, or scholarly competition",
     "data": "A data analysis, data science, or machine learning modeling competition",
@@ -56,8 +58,12 @@ def available() -> bool:
     return bool(_key())
 
 
+# Bump when the questions or their criteria change, so cached answers are asked again.
+QUESTION_VERSION = 2
+
+
 def cache_key(title: str, desc: str) -> str:
-    return hashlib.sha1(f"{title}\n{desc[:DESC_CHARS]}".encode()).hexdigest()[:16]
+    return hashlib.sha1(f"v{QUESTION_VERSION}\n{title}\n{desc[:DESC_CHARS]}".encode()).hexdigest()[:16]
 
 
 def _questions(categories: list[str]) -> dict:

@@ -43,6 +43,7 @@ data/           contests.json · meta.json · jev_cache.json · jev_runs.jsonl
 | DACON, AIFactory | 페이지에 들어 있는 데이터 추출 |
 | 이벤터스 | 공개 검색 API |
 | Dev-Event | GitHub README |
+| K-Startup, 스타트업레시피 | 정부·기관 창업지원사업, 보육·입주 모집 (대회가 아닌 공고) |
 | 네이버 뉴스 | 공식 검색 API (정부·지자체·기업 보도자료용) |
 
 온오프믹스·캠퍼스픽 API·데이커 API는 robots.txt가 수집을 막고 있어 제외했습니다.
