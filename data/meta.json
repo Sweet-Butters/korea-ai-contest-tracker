@@ -7,7 +7,7 @@
    "fetched": 669,
    "kept": 121,
    "error": null,
-   "seconds": 373
+   "seconds": 345
   },
   "올콘": {
    "fetched": 474,
@@ -19,7 +19,7 @@
    "fetched": 858,
    "kept": 164,
    "error": null,
-   "seconds": 39
+   "seconds": 37
   },
   "요즘것들": {
    "fetched": 345,
@@ -31,19 +31,19 @@
    "fetched": 598,
    "kept": 78,
    "error": null,
-   "seconds": 244
+   "seconds": 229
   },
   "위비티": {
    "fetched": 834,
    "kept": 131,
    "error": null,
-   "seconds": 172
+   "seconds": 155
   },
   "DACON": {
    "fetched": 15,
    "kept": 15,
    "error": null,
-   "seconds": 3
+   "seconds": 2
   },
   "AIFactory": {
    "fetched": 2,
@@ -67,7 +67,7 @@
    "fetched": 27,
    "kept": 20,
    "error": null,
-   "seconds": 6
+   "seconds": 5
   },
   "스타트업레시피": {
    "fetched": 41,
