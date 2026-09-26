@@ -1,13 +1,13 @@
 {
  "runDate": "2026-09-27",
- "llm": false,
+ "llm": true,
  "jev": true,
  "sources": {
   "씽굿": {
    "fetched": 669,
    "kept": 121,
    "error": null,
-   "seconds": 410
+   "seconds": 373
   },
   "올콘": {
    "fetched": 474,
@@ -19,7 +19,7 @@
    "fetched": 858,
    "kept": 164,
    "error": null,
-   "seconds": 41
+   "seconds": 39
   },
   "요즘것들": {
    "fetched": 345,
@@ -31,19 +31,19 @@
    "fetched": 598,
    "kept": 78,
    "error": null,
-   "seconds": 296
+   "seconds": 244
   },
   "위비티": {
    "fetched": 834,
    "kept": 131,
    "error": null,
-   "seconds": 76
+   "seconds": 172
   },
   "DACON": {
    "fetched": 15,
    "kept": 15,
    "error": null,
-   "seconds": 2
+   "seconds": 3
   },
   "AIFactory": {
    "fetched": 2,
@@ -67,13 +67,13 @@
    "fetched": 27,
    "kept": 20,
    "error": null,
-   "seconds": 2
+   "seconds": 6
   },
   "스타트업레시피": {
    "fetched": 41,
    "kept": 27,
    "error": null,
-   "seconds": 5
+   "seconds": 4
   },
   "기업마당": {
    "fetched": 164,
