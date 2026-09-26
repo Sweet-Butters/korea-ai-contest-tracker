@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-26T00:00:26+00:00",
+ "updatedAt": "2026-09-26T15:25:31+00:00",
  "items": [
   {
    "id": "69e5182b65",
@@ -20,7 +20,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110988",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -42,9 +42,9 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110613"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "제주",
-   "jev": 0.93,
+   "jev": 0.94,
    "status": "open",
    "lastEvent": "2026-09-28"
   },
@@ -71,7 +71,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110212"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "인천",
    "jev": 0.18,
    "status": "open",
@@ -98,8 +98,8 @@
     "요즘것들": "https://www.allforyoung.com/posts/87303"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.92,
+   "lastSeen": "2026-09-27",
+   "jev": 0.94,
    "status": "open",
    "lastEvent": "2026-10-16"
   },
@@ -123,7 +123,7 @@
     "Dev-Event": "https://gwdckorea.co.kr/#hackathon"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": null
@@ -169,8 +169,8 @@
     "Dev-Event": "https://ainnov.co.kr/event/view/2617"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.94,
+   "lastSeen": "2026-09-27",
+   "jev": 0.93,
    "status": "open",
    "lastEvent": "2026-10-09"
   },
@@ -193,8 +193,8 @@
     "링커리어": "https://linkareer.com/activity/347520"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.9,
+   "lastSeen": "2026-09-27",
+   "jev": 0.91,
    "status": "open",
    "lastEvent": "2026-10-08"
   },
@@ -214,11 +214,32 @@
     "링커리어": "https://linkareer.com/activity/352505"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.9,
+   "lastSeen": "2026-09-27",
+   "jev": 0.91,
    "status": "open",
    "lastEvent": null,
    "eligibility": "대상 제한 없음"
+  },
+  {
+   "id": "ec55c31307",
+   "name": "[대구] 2026년 3차 대학ㆍ기업 협업 프로젝트 참여기업 모집 공고(경북대학교 지역전략산업혁신연구소)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126467"
+   },
+   "host": "교육부",
+   "applyStart": "2026-09-11",
+   "applyEnd": "2026-09-27",
+   "eligibility": "중소기업",
+   "region": "대구",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.76,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126467",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "cd7308630c",
@@ -257,7 +278,7 @@
    "confidence": "high",
    "jev": 0.16,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109076",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -283,7 +304,7 @@
     "Dev-Event": "https://www.sw.or.kr/site/sw/ex/board/View.do?cbIdx=292&bcIdx=66137"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": "2026-11-24"
@@ -326,7 +347,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110324",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -351,8 +372,8 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608250012"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.93,
+   "lastSeen": "2026-09-27",
+   "jev": 0.92,
    "status": "open",
    "lastEvent": "2026-10-12",
    "eventDates": "심사 09.29~10.01 발표 10.02 D-3 마감임박 159 //--> --> 문학•문예 미술•디자인•웹툰 2026년 충북 노인인식개선 공모전 1 주최 . 충청북도노인종합복지관 대상 . 중학생 , 고등학생 , 일반인 , 해당자 ▶ 접수 08.24~09.18 심사 08.24~09.18 캠페인마감 273 //--> --> 사진•영상•영화제 SOMSSI select 숏필름 공모전 0 주최 . 솜씨당 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 08.21~09.30 심사 10.01~10.07 발표 10.08 D-5 마감임박 121 //--> --> 문학•문예 사진•영상•영화제 의료기관 감염관리 우수사례 및 숏폼 영상 공모전 0 주최 . 질병관리청 대상 . 일반인 , 해당자 ▶ 접수 08.24~09.18 심사 09.21~10.09 발표 10.12 심사중 --> 문학•문예 2026년 작가마루 신인상 공모 1 주최 . 한국작가회의 충남지회 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 08.25~09.30 심사 08.25~09.30 D-5 마감임박 802 //--> --> 문학•문예 2026. 제 19회 청풍명월 전국시조백일장 4 주최 . 충북시조시인협회 대상 . 초등학생 , 중학생 , 고등학생 , 대학생 , 일반인 접수 09.01~09.30 심사 09.01~09.30 D-5 마감임박 438 //--> --> 네이밍•슬로건 여성경제활동 지원센터 새이름 공모전 13 주최 . 중앙여성경제활동지원센터 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.01~09.18 심사 09.01~09.18 캠페인마감 1,109 //--> --> 학문•과학•IT 2026 추계학술대회 대학생 ERP 아이디어 공모전 0 주최 . 한국경영정보학회.영림원소프트랩 대상 . 대학생 접수 08.31~10.05 심사 10.06~10.08"
@@ -374,7 +395,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://linkareer.com/activity/351994",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -398,11 +419,32 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110929"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "충남",
    "jev": 0.86,
    "status": "open",
    "lastEvent": "2026-11-04"
+  },
+  {
+   "id": "795d9c9729",
+   "name": "2026년 AI기반 슬립테크 국제협력 실증 확산 지원사업 기업지원 공고(미국 FDA or 유럽 MDR 임상시험 지원)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126466"
+   },
+   "host": "산업통상부",
+   "applyStart": "2026-09-13",
+   "applyEnd": "2026-09-28",
+   "eligibility": "중소기업",
+   "region": "서울",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.94,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126466",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "b14491c5ca",
@@ -423,7 +465,7 @@
     "링커리어": "https://linkareer.com/activity/348351"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": "2026-11-13"
@@ -442,7 +484,7 @@
    "confidence": "high",
    "jev": 0.11,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178896",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -459,9 +501,9 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.15,
+   "jev": 0.14,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178981",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -481,9 +523,9 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.16,
+   "jev": 0.17,
    "url": "https://linkareer.com/activity/340971",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -523,7 +565,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111265"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null,
    "applyStart": "2026-09-21",
@@ -545,8 +587,8 @@
     "올콘": "https://www.all-con.co.kr/view/contest/541117"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.94,
+   "lastSeen": "2026-09-27",
+   "jev": 0.95,
    "status": "open",
    "lastEvent": null
   },
@@ -566,6 +608,27 @@
    },
    "firstSeen": "2026-09-22",
    "lastSeen": "2026-09-22",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "afc01aa374",
+   "name": "[경남] 2026년 독일 뒤셀도르프 국제의료기기 전시회 참가 지원사업 참가업체 추가모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126700"
+   },
+   "host": "경상남도",
+   "applyStart": "2026-09-21",
+   "applyEnd": "2026-09-28",
+   "eligibility": "중소기업",
+   "region": "경남",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.23,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126700",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -592,10 +655,52 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110633"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": "2026-10-02"
+  },
+  {
+   "id": "b15e352c4e",
+   "name": "[전남광주] 2026년 4차 전남해양수산창업투자지원센터 사업 수혜기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126666"
+   },
+   "host": "전남광주통합특별시",
+   "applyStart": "2026-09-18",
+   "applyEnd": "2026-09-28",
+   "eligibility": "창업벤처",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126666",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "337e75ff2a",
+   "name": "[전남광주] 구례군 2026년 귀농어귀촌인 우수 창업활성화 지원사업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125984"
+   },
+   "host": "전남광주통합특별시",
+   "applyStart": "2026-08-28",
+   "applyEnd": "2026-09-28",
+   "eligibility": "창업벤처",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125984",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "7740cb4078",
@@ -681,8 +786,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111062"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.97,
+   "lastSeen": "2026-09-27",
+   "jev": 0.96,
    "status": "open",
    "lastEvent": "2026-09-29"
   },
@@ -697,12 +802,75 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.19,
+   "jev": 0.18,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179291",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null,
    "applyEnd": "2026-09-29"
+  },
+  {
+   "id": "b99deb6217",
+   "name": "2026년 창업도시 조성 프로젝트 울산 벤처빌더 플랫폼(step2) 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126583"
+   },
+   "host": "울산광역시",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-09-29",
+   "eligibility": "창업벤처",
+   "region": "울산",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.03,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126583",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "69177d6d6c",
+   "name": "[강원] AI 기반 맞춤형 수출전략 수립 지원사업 참가기업 모집 공고(강원특별자치도ㆍKOTRA 연계)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126590"
+   },
+   "host": "강원특별자치도",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-09-29",
+   "eligibility": "중소기업",
+   "region": "강원",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.6,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126590",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "40cbb859ac",
+   "name": "[대구] 2026년 스마트도시 특화단지 조성사업 규제특례지원 컨설팅 지원사업 기업모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126203"
+   },
+   "host": "대구광역시",
+   "applyStart": "2026-09-07",
+   "applyEnd": "2026-09-29",
+   "eligibility": "중소기업",
+   "region": "대구",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.61,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126203",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "83f47ddbad",
@@ -710,18 +878,22 @@
    "firstSeen": "2026-09-25",
    "sources": {
     "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834726",
-    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179305"
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179305",
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126542"
    },
    "region": "강원",
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.09,
+   "jev": 0.1,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179305",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null,
-   "applyEnd": "2026-09-29"
+   "applyEnd": "2026-09-29",
+   "host": "강원특별자치도",
+   "applyStart": "2026-09-14",
+   "eligibility": "창업벤처"
   },
   {
    "id": "dafb5c90db",
@@ -734,12 +906,30 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.12,
+   "jev": 0.13,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179308",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null,
    "applyEnd": "2026-09-29"
+  },
+  {
+   "id": "b3461cf68d",
+   "name": "청년창업 거주지원시설(창업하여家) 입주자 3차 모집(연장)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179292",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834732"
+   },
+   "applyEnd": "2026-09-29",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179292",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "ab10e06e6d",
@@ -781,10 +971,11 @@
     "올콘": "https://www.all-con.co.kr/view/contest/542317",
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609080012",
     "요즘것들": "https://www.allforyoung.com/posts/87317",
-    "이벤터스": "https://event-us.kr/oceanjob/event/134904"
+    "이벤터스": "https://event-us.kr/oceanjob/event/134904",
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126309"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": "2026-10-31"
@@ -813,7 +1004,7 @@
     "Dev-Event": "https://devcontest-digitalsolveup.kr/"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -858,9 +1049,9 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110632"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "대전",
-   "jev": 0.92,
+   "jev": 0.93,
    "status": "open",
    "lastEvent": "2026-10-30"
   },
@@ -886,7 +1077,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111038"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -912,7 +1103,7 @@
     "Dev-Event": "https://maicon.kr/"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": "2026-11-18"
@@ -938,7 +1129,7 @@
    "confidence": "high",
    "jev": 0.12,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109776",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.01~10.07 발표 10.08",
    "status": "open",
    "lastEvent": "2026-10-08"
@@ -966,7 +1157,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110529"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": "2026-10-12"
@@ -991,7 +1182,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110783"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.95,
    "status": "open",
    "lastEvent": "2026-10-07"
@@ -1014,9 +1205,9 @@
    "category": "idea",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.09,
+   "jev": 0.08,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110576",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1024,7 +1215,7 @@
    "id": "2786adc05e",
    "name": "2026 디지털헤리티지페스타 AI 헤리티지 공모전",
    "host": "공주시",
-   "category": "other",
+   "category": "creative",
    "applyStart": "2026-09-05",
    "applyEnd": "2026-09-30",
    "eventDates": "발표 : 2026년 10월 9일 (공식 홈페이지 및 SNS 발표, 수상자 개별 연락) - 시상식 :",
@@ -1042,7 +1233,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110738"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.95,
    "status": "open",
    "lastEvent": "2026-10-09"
@@ -1088,7 +1279,7 @@
    "confidence": "high",
    "jev": 0.13,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110258",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.01~10.15 발표 10.26",
    "status": "open",
    "lastEvent": "2026-10-26"
@@ -1114,8 +1305,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110590"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.95,
+   "lastSeen": "2026-09-27",
+   "jev": 0.96,
    "upcoming": true,
    "status": "open",
    "lastEvent": null
@@ -1141,7 +1332,7 @@
     "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179299"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": null
@@ -1164,7 +1355,7 @@
    "confidence": "high",
    "jev": 0.19,
    "url": "https://linkareer.com/activity/352161",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.20",
    "status": "open",
    "lastEvent": "2026-10-20"
@@ -1187,7 +1378,7 @@
    "confidence": "high",
    "jev": 0.1,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110340",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1209,7 +1400,7 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202607100036"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "충북",
    "jev": 0.97,
    "eventDates": "심사 09.30~10.09",
@@ -1238,9 +1429,9 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109100"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "충북",
-   "jev": 0.93,
+   "jev": 0.94,
    "status": "open",
    "lastEvent": "2026-09-30"
   },
@@ -1286,8 +1477,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109888"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.57,
+   "lastSeen": "2026-09-27",
+   "jev": 0.53,
    "status": "open",
    "lastEvent": "2026-09-30"
   },
@@ -1313,8 +1504,68 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109846"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.91,
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "32a000f922",
+   "name": "2026년 2차 방위산업 혁신기업 투자설명회(IR) 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126245"
+   },
+   "host": "방위사업청",
+   "applyStart": "2026-09-02",
+   "applyEnd": "2026-09-30",
+   "eligibility": "중소기업",
+   "category": "startup",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.16,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126245",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "c0f07ac544",
+   "name": "2026년 5차 상세페이지 제작지원사업 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126567"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-09-30",
+   "eligibility": "소상공인",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126567",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "8656115ac6",
+   "name": "2026년 5차 콘텐츠 제작 지원사업 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126566"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-09-30",
+   "eligibility": "소상공인",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.18,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126566",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1335,8 +1586,68 @@
     "이벤터스": "https://event-us.kr/metadev/event/126098"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.96,
+   "lastSeen": "2026-09-27",
+   "jev": 0.97,
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "d2d793e158",
+   "name": "2026년 AX실증밸리조성(R&D) 사업 신규지원 대상과제 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125966"
+   },
+   "host": "산업통상부",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-09-30",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.97,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125966",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "318dc93e9c",
+   "name": "2026년 DNA 융합 제품ㆍ서비스 해외진출 지원사업 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119394"
+   },
+   "host": "과학기술정보통신부",
+   "applyStart": "2026-03-10",
+   "applyEnd": "2026-09-30",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.66,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119394",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "08dca4f585",
+   "name": "2026년 HLTH USA 2026 디지털헬스케어 한국관 참가기관 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126374"
+   },
+   "host": "보건복지부",
+   "applyStart": "2026-09-08",
+   "applyEnd": "2026-09-30",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.25,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126374",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1360,7 +1671,7 @@
    "confidence": "high",
    "jev": 0.06,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108651",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.01~10.16 발표 10.19",
    "status": "open",
    "lastEvent": "2026-10-19"
@@ -1384,7 +1695,7 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108841",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1406,10 +1717,30 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608270041"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.27,
    "status": "open",
    "lastEvent": "2026-10-23"
+  },
+  {
+   "id": "7d4631ea5c",
+   "name": "2026년 로봇분야 예비창업자 및 재창업자를 위한 창업 성장 프로그램 참가자 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126297"
+   },
+   "host": "산업통상부",
+   "applyStart": "2026-09-01",
+   "applyEnd": "2026-09-30",
+   "eligibility": "창업벤처",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.07,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126297",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "4a45acd930",
@@ -1432,7 +1763,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=107734",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1453,9 +1784,9 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.07,
+   "jev": 0.08,
    "url": "https://linkareer.com/activity/325090",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1480,8 +1811,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107813"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.96,
+   "lastSeen": "2026-09-27",
+   "jev": 0.97,
    "status": "open",
    "lastEvent": "2026-11-30"
   },
@@ -1501,7 +1832,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://linkareer.com/activity/336402",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1526,7 +1857,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://linkareer.com/activity/314918",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.01~10.15 발표 10.20",
    "status": "open",
    "lastEvent": "2026-10-20"
@@ -1552,7 +1883,7 @@
     "요즘것들": "https://www.allforyoung.com/posts/86907"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.54,
    "status": "open",
    "lastEvent": null
@@ -1576,8 +1907,8 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608100020"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.95,
+   "lastSeen": "2026-09-27",
+   "jev": 0.96,
    "status": "open",
    "lastEvent": "2026-10-01"
   },
@@ -1597,7 +1928,7 @@
     "이벤터스": "https://event-us.kr/brandinq/event/131228"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -1620,7 +1951,113 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://linkareer.com/activity/345421",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "dd66a97129",
+   "name": "[KITA 80주년 기념] 청소년 무역 창업 정책제안 발표대회",
+   "firstSeen": "2026-09-25",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110402",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608260013"
+   },
+   "host": "한국청소년동아리연맹",
+   "applyEnd": "2026-09-30",
+   "category": "startup",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608260013",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": "2026-10-31",
+   "applyStart": "2026-08-21",
+   "eventDates": "심사 10.17~10.31 발표 10.31 D-3 마감임박 81 //--> --> 사진•영상•영화제 제1회 세대공감 PR아이디어 대상_영상 콘텐츠 공모전 0 주최 . 한국PR학회 대상 . 대학생 , 대학원생 접수 09.01~10.16 심사 09.01~10.16",
+   "eligibility": "중학생 , 고등학생"
+  },
+  {
+   "id": "42e2eb69c8",
+   "name": "[경기] 성남시 2026년 산업혁신기반구축사업 피지컬AI기업 글로벌 진출 컨설팅 지원 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126514"
+   },
+   "host": "경기도",
+   "applyStart": "2026-09-15",
+   "applyEnd": "2026-09-30",
+   "eligibility": "중소기업",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.86,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126514",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "08d3853092",
+   "name": "[경남] 2026년 산업안전 AI 스마트공장 구축 지원사업 추가 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126513"
+   },
+   "host": "경상남도",
+   "applyStart": "2026-09-03",
+   "applyEnd": "2026-09-30",
+   "eligibility": "중소기업",
+   "region": "경남",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.9,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126513",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "ab21055af0",
+   "name": "[경북] 구미시 2026년 기업 위기대응 원스톱 에이전트 참여기업 모집 공고(구미경제정책지원센터 설치ㆍ운영사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124622"
+   },
+   "host": "경상북도",
+   "applyStart": "2026-07-22",
+   "applyEnd": "2026-09-30",
+   "eligibility": "중소기업",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.08,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124622",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "ee86fddd71",
+   "name": "[경북] 영양군 2026년 4차 청년 창업자 발굴 및 육성, 성공적인 창업지원을 위한 청년예비창업가 육성사업 참여자 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126358"
+   },
+   "host": "경상북도",
+   "applyStart": "2026-09-01",
+   "applyEnd": "2026-09-30",
+   "eligibility": "창업벤처",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126358",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1662,8 +2099,134 @@
     "링커리어": "https://linkareer.com/activity/348982"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.98,
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "d9bbcea773",
+   "name": "[울산] AI 기반 R&D 전략수립 컨설팅 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126601"
+   },
+   "host": "울산광역시",
+   "applyStart": "2026-09-01",
+   "applyEnd": "2026-09-30",
+   "eligibility": "창업벤처",
+   "region": "울산",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.75,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126601",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "f0c695556b",
+   "name": "[울산] PBL 협력 프로젝트 지원사업 참여기업 모집 공고(지역특화 제조데이터 활성화 사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126648"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-09-18",
+   "applyEnd": "2026-09-30",
+   "eligibility": "중소기업",
+   "region": "울산",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.88,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126648",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "e357b6a227",
+   "name": "[인천] 2026년 대만 기술교류 참여기업 모집 공고(중소기업 기술교류 지원사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126608"
+   },
+   "host": "인천광역시",
+   "applyStart": "2026-09-17",
+   "applyEnd": "2026-09-30",
+   "eligibility": "중소기업",
+   "region": "인천",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.58,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126608",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "f2bc37e32d",
+   "name": "[전남광주] 2026년 창업기업 온라인 판로개척 영상 제작 지원사업 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126675"
+   },
+   "host": "전남광주통합특별시",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-09-30",
+   "eligibility": "창업벤처",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.46,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126675",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "09e3461019",
+   "name": "[전북] 군산시 2026년 청년창업플랫폼 예비창업자 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126372"
+   },
+   "host": "전북특별자치도",
+   "applyStart": "2026-09-09",
+   "applyEnd": "2026-09-30",
+   "eligibility": "창업벤처",
+   "region": "전북",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126372",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "471a91bd0a",
+   "name": "[충북] 충주시 2026년 3차 청년소상공인 창업 지원사업 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126619"
+   },
+   "host": "충청북도",
+   "applyStart": "2026-09-18",
+   "applyEnd": "2026-09-30",
+   "eligibility": "창업벤처",
+   "region": "충북",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126619",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1686,7 +2249,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=108486"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "prize": "200만원",
    "jev": 0.93,
    "eventDates": "심사 07.01~09.30",
@@ -1710,7 +2273,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://linkareer.com/activity/351175",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1730,7 +2293,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.all-con.co.kr/view/contest/541847",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -1756,7 +2319,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109921"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -1783,30 +2346,10 @@
     "Dev-Event": "https://dacon.io/competitions/official/236754/overview/description"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": "2026-11-27"
-  },
-  {
-   "id": "5ec91a8a34",
-   "name": "대구 AI 로컬 영상 콘텐츠 공모전",
-   "host": "대구시청자미디어센터(시청자미디어재단)",
-   "category": "creative",
-   "applyEnd": "2026-09-30",
-   "prize": "미상",
-   "eligibility": "대구 시민",
-   "region": "대구",
-   "confidence": "high",
-   "aiRelated": true,
-   "url": "https://www.imaeil.com/page/view/2026091710470655774",
-   "sources": {
-    "초기조사": "https://www.imaeil.com/page/view/2026091710470655774"
-   },
-   "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-22",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "e6dd982cab",
@@ -1829,7 +2372,7 @@
     "Dev-Event": "https://dacon.io/competitions/official/236749/overview/description"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.98,
    "status": "open",
    "lastEvent": "2026-11-27"
@@ -1850,7 +2393,7 @@
     "이벤터스": "https://event-us.kr/didalliance/event/125506"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.94,
    "status": "open",
    "lastEvent": null
@@ -1876,7 +2419,7 @@
     "Dev-Event": "https://dacon.io/competitions/official/236753/overview/description"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.98,
    "status": "open",
    "lastEvent": "2026-11-27"
@@ -1904,8 +2447,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110615"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.95,
+   "lastSeen": "2026-09-27",
+   "jev": 0.93,
    "status": "open",
    "lastEvent": "2026-10-24"
   },
@@ -1924,7 +2467,7 @@
    "confidence": "high",
    "jev": 0.05,
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608110029",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": "2026-09-30",
    "applyStart": "2026-09-01",
@@ -1974,8 +2517,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111006"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.93,
+   "lastSeen": "2026-09-27",
+   "jev": 0.94,
    "status": "open",
    "lastEvent": "2026-10-15"
   },
@@ -2000,7 +2543,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109856"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": null
@@ -2063,10 +2606,10 @@
     "링커리어": "https://linkareer.com/activity/346111"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null,
-   "jev": 0.12
+   "jev": 0.13
   },
   {
    "id": "3c7a4ae0dc",
@@ -2089,7 +2632,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110223"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.21,
    "status": "open",
    "lastEvent": "2026-10-06"
@@ -2135,6 +2678,27 @@
    "lastEvent": "2026-10-24"
   },
   {
+   "id": "7479413969",
+   "name": "초광역 외 유입인력 장려금 지원사업 참여 근로자 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "링커리어": "https://linkareer.com/activity/340163",
+    "요즘것들": "https://www.allforyoung.com/posts/85537"
+   },
+   "host": "전자신문 영남권본부",
+   "applyStart": "2026-06-09",
+   "applyEnd": "2026-09-30",
+   "eligibility": "직장인/일반인",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://linkareer.com/activity/340163",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "f9a6e1c69a",
    "name": "택견 AI 외교관 콘텐츠 공모전",
    "host": "한국택견협회·반크(충주시 연계)",
@@ -2169,7 +2733,7 @@
    "confidence": "high",
    "jev": 0.97,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110529",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -2185,29 +2749,9 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.05,
+   "jev": 0.04,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110009",
-   "lastSeen": "2026-09-26",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "90e7bddbc4",
-   "name": "2026년 서울창업센터 관악 관악S밸리 창업 페스티벌 '창업 아이디어 경진대회' 참가자 모집",
-   "firstSeen": "2026-09-25",
-   "sources": {
-    "이벤터스": "https://event-us.kr/acdc1/event/134496"
-   },
-   "host": "acdc1",
-   "applyEnd": "2026-10-01",
-   "eventDates": "2026-09-13",
-   "region": "서울",
-   "category": "startup",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.1,
-   "url": "https://event-us.kr/acdc1/event/134496",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -2225,8 +2769,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109624"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.91,
+   "lastSeen": "2026-09-27",
+   "jev": 0.92,
    "status": "open",
    "lastEvent": null
   },
@@ -2244,9 +2788,9 @@
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.88,
+   "jev": 0.86,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111155",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null,
    "prize": "기타",
@@ -2267,7 +2811,7 @@
    "confidence": "high",
    "jev": 0.97,
    "url": "https://event-us.kr/scicon0920/event/132307",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -2286,11 +2830,33 @@
    "category": "creative",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.08,
+   "jev": 0.07,
    "url": "https://linkareer.com/activity/351850",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
+  },
+  {
+   "id": "5ec91a8a34",
+   "name": "대구 AI 로컬 영상 콘텐츠 공모전",
+   "host": "시청자미디어재단 대구시청자미디어센터",
+   "category": "creative",
+   "applyEnd": "2026-10-01",
+   "prize": "미상",
+   "eligibility": "대구 시민",
+   "region": "대구",
+   "confidence": "high",
+   "aiRelated": true,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111214",
+   "sources": {
+    "초기조사": "https://www.imaeil.com/page/view/2026091710470655774",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111214"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null,
+   "jev": 0.94
   },
   {
    "id": "8ee4ed49a8",
@@ -2306,7 +2872,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107486"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "세종",
    "jev": 0.92,
    "status": "open",
@@ -2326,7 +2892,7 @@
    "confidence": "high",
    "jev": 0.98,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110615",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -2344,7 +2910,7 @@
    "confidence": "high",
    "jev": 0.97,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109856",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -2362,7 +2928,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111047"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.92,
    "status": "open",
    "lastEvent": null
@@ -2389,7 +2955,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110855"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": null
@@ -2431,7 +2997,7 @@
     "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834394"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null,
    "jev": 0.12
@@ -2458,11 +3024,116 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=108240"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "prize": "250만원",
-   "jev": 0.43,
+   "jev": 0.44,
    "status": "open",
    "lastEvent": "2026-10-23"
+  },
+  {
+   "id": "9ea6be3162",
+   "name": "2026년 피지컬 AI 기반 휴머노이드 제조혁신센터 구축사업 수혜기업 통합 모집 재공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126757"
+   },
+   "host": "산업통상부",
+   "applyStart": "2026-09-22",
+   "applyEnd": "2026-10-02",
+   "eligibility": "중소기업",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.9,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126757",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "74eb39639d",
+   "name": "[경기] 수원시 2026년 SMATEC 공동관 참가기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126641"
+   },
+   "host": "경기도",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-10-02",
+   "eligibility": "중소기업",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.44,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126641",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "a130920d56",
+   "name": "[인천] 2026년 AX 전환 및 확산 시범사업 외부 지원 프로그램 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126334"
+   },
+   "host": "인천광역시",
+   "applyStart": "2026-09-07",
+   "applyEnd": "2026-10-02",
+   "eligibility": "창업벤처",
+   "region": "인천",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.12,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126334",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "116674877b",
+   "name": "[전남광주] 2026년 가전공장AI기반자율제조운영기술개발 수혜기업 모집 공고(기계장비산업기술개발사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126683"
+   },
+   "host": "산업통상부",
+   "applyStart": "2026-09-21",
+   "applyEnd": "2026-10-02",
+   "eligibility": "중소기업",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.94,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126683",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "ca669e3bd5",
+   "name": "[충북] 제조창업 마스터 매칭 프로그램 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126612"
+   },
+   "host": "충청북도",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-10-02",
+   "eligibility": "창업벤처",
+   "region": "충북",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126612",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "06bdcc5675",
@@ -2485,7 +3156,7 @@
    "confidence": "high",
    "jev": 0.19,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110584",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.08~10.13",
    "status": "open",
    "lastEvent": "2026-10-13"
@@ -2528,9 +3199,9 @@
    "category": "startup",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.08,
+   "jev": 0.09,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110681",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.05~12.30 발표 12.31",
    "status": "open",
    "lastEvent": "2026-12-31",
@@ -2571,7 +3242,7 @@
    "confidence": "high",
    "jev": 0.21,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110772",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -2589,7 +3260,7 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110969",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -2614,7 +3285,7 @@
     "Dev-Event": "https://nova.snubhai.org/"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": "2026-11-20"
@@ -2656,7 +3327,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110988"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "prize": "200만원",
    "jev": 0.94,
    "eventDates": "심사 10.05~11.02 발표 11.13",
@@ -2685,10 +3356,11 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110995"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.21,
+   "lastSeen": "2026-09-27",
+   "jev": 0.22,
    "status": "open",
-   "lastEvent": "2026-10-17"
+   "lastEvent": "2026-10-17",
+   "upcoming": true
   },
   {
    "id": "0790ba161f",
@@ -2710,7 +3382,7 @@
    "confidence": "high",
    "jev": 0.08,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110748",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.06~10.13 발표 10.16",
    "status": "open",
    "lastEvent": "2026-10-16"
@@ -2726,12 +3398,32 @@
    "category": "startup",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.13,
+   "jev": 0.16,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179304",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null,
    "applyEnd": "2026-10-05"
+  },
+  {
+   "id": "c7cd3a618f",
+   "name": "2026년 강북창업지원센터 하반기 신규 입주기업 모집",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "링커리어": "https://linkareer.com/activity/347440"
+   },
+   "host": "강북청년창업마루",
+   "applyStart": "2026-09-02",
+   "applyEnd": "2026-10-05",
+   "eligibility": "대상 제한 없음",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.05,
+   "url": "https://linkareer.com/activity/347440",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "1de93bcaa0",
@@ -2751,7 +3443,7 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111210"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "경기",
    "jev": 0.88,
    "status": "open",
@@ -2776,9 +3468,9 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609010066"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "대전",
-   "jev": 0.93,
+   "jev": 0.92,
    "status": "open",
    "lastEvent": "2026-10-05"
   },
@@ -2800,7 +3492,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111199"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.95,
    "status": "open",
    "lastEvent": null
@@ -2819,7 +3511,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111261",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -2848,7 +3540,7 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608050023"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.98,
    "status": "open",
    "lastEvent": "2026-10-14"
@@ -2868,9 +3560,30 @@
    "category": "startup",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.16,
+   "jev": 0.15,
    "url": "https://linkareer.com/activity/350985",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "e98bb0fc87",
+   "name": "2026년 LX세미콘ㆍ충남창조경제혁신센터 Nexus Connect 오픈이노베이션 밋업 데이 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126283"
+   },
+   "host": "충청남도",
+   "applyStart": "2026-09-08",
+   "applyEnd": "2026-10-06",
+   "eligibility": "창업벤처",
+   "region": "충남",
+   "category": "other",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.6,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126283",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -2913,7 +3626,7 @@
     "요즘것들": "https://www.allforyoung.com/posts/88020"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": "2026-10-30",
    "applyStart": "2026-09-18",
@@ -2939,22 +3652,65 @@
    "lastEvent": null
   },
   {
+   "id": "ee146e01f2",
+   "name": "[경북] 2026년 도쿄디지털콘텐츠박람회(DCEXPO) 경북 공동관 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126737"
+   },
+   "host": "경상북도",
+   "applyStart": "2026-09-22",
+   "applyEnd": "2026-10-06",
+   "eligibility": "중소기업",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.47,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126737",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "7dd826a030",
+   "name": "[경희창업보육센터(서울)] 2026년 하반기 신규 입주기업 모집",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179345",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5835082"
+   },
+   "applyEnd": "2026-10-06",
+   "region": "서울",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.07,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179345",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "86241ca6de",
    "name": "「민관협력 오픈이노베이션 지원」 '공공데이터 활용 지원' 공공기관 제안형(Top-Down) 창업기업 모집공고",
    "firstSeen": "2026-09-25",
    "sources": {
-    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179232"
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179232",
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126482"
    },
    "host": "창업진흥원",
    "applyEnd": "2026-10-06",
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.25,
+   "jev": 0.27,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179232",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-09-15",
+   "eligibility": "창업벤처"
   },
   {
    "id": "2d83a72fca",
@@ -2992,8 +3748,27 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110776"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "9ef28acec1",
+   "name": "동국대학교 창업보육센터(서울) 신규 입주기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179296",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834731"
+   },
+   "applyEnd": "2026-10-06",
+   "region": "서울",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.06,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179296",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -3019,7 +3794,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110931"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -3040,7 +3815,7 @@
     "올콘": "https://www.all-con.co.kr/view/contest/542583"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.95,
    "status": "open",
    "lastEvent": null
@@ -3076,10 +3851,72 @@
    "confidence": "high",
    "jev": 0.05,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179303",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null,
    "applyEnd": "2026-10-07"
+  },
+  {
+   "id": "079293375c",
+   "name": "2026년 산업기술R&D연구기획사업 신규지원대상 연구개발과제 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126248"
+   },
+   "host": "기후에너지환경부",
+   "applyStart": "2026-09-07",
+   "applyEnd": "2026-10-07",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.81,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126248",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "47bc3ed47b",
+   "name": "2026년 울산 스타트업 페스타(USF) TOP 5 참가자 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126525"
+   },
+   "host": "울산광역시",
+   "applyStart": "2026-09-14",
+   "applyEnd": "2026-10-07",
+   "eligibility": "창업벤처",
+   "region": "울산",
+   "category": "startup",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.06,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126525",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "a1e97e8e35",
+   "name": "[경남] 창원시 2026년 2차 의료기기 부품ㆍ모듈 국산화 및 기술개발 지원사업 공고(AI 빅데이터 기반 의료바이오 첨단기기 연구제조센터 구축사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126405"
+   },
+   "host": "산업통상부",
+   "applyStart": "2026-09-10",
+   "applyEnd": "2026-10-07",
+   "eligibility": "중소기업",
+   "region": "경남",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.65,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126405",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "31ea256a55",
@@ -3099,8 +3936,8 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609090034"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.95,
+   "lastSeen": "2026-09-27",
+   "jev": 0.94,
    "status": "open",
    "lastEvent": "2026-10-19"
   },
@@ -3121,7 +3958,26 @@
    "confidence": "high",
    "jev": 0.97,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111209",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "ecbe8ddf4c",
+   "name": "구로구 청년창업지원센터 일반 창업교육(하반기: 4회차): 온라인 마케팅 실전 가이드",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179300",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834736"
+   },
+   "host": "이용약관",
+   "applyEnd": "2026-10-07",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.03,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179300",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -3144,8 +4000,8 @@
     "링커리어": "https://linkareer.com/activity/350864"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.84,
+   "lastSeen": "2026-09-27",
+   "jev": 0.85,
    "status": "open",
    "lastEvent": null
   },
@@ -3172,7 +4028,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110675"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.35,
    "status": "open",
    "lastEvent": "2026-10-28"
@@ -3196,7 +4052,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://linkareer.com/activity/325641",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.08~10.09 발표 10.12",
    "status": "open",
    "lastEvent": "2026-10-12"
@@ -3219,7 +4075,7 @@
     "이벤터스": "https://event-us.kr/teamgrit/event/135837"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "서울",
    "jev": 0.83,
    "status": "open",
@@ -3245,7 +4101,7 @@
    "confidence": "high",
    "jev": 0.06,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111007",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 09.10~10.08",
    "status": "open",
    "lastEvent": "2026-10-08"
@@ -3296,7 +4152,7 @@
   {
    "id": "e061aa7ab8",
    "name": "Pollo AI K-pop MV 챌린지",
-   "firstSeen": "2026-09-25",
+   "firstSeen": "2026-09-27",
    "sources": {
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111280"
    },
@@ -3305,9 +4161,51 @@
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.88,
+   "jev": 0.89,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111280",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "b3f009bbec",
+   "name": "[강원] 2026년 2차 지역 주도형 AI 대전환 사업 강원 바이오ㆍ헬스케어 AI 대전환 수요기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126747"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-09-22",
+   "applyEnd": "2026-10-08",
+   "eligibility": "중소기업",
+   "region": "대전",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.89,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126747",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "aa4b76c159",
+   "name": "[경기] 광명시 2026년 사회연대경제기업 맞춤형 온라인 마케팅 지원사업 참여기업 모집 공고(사회연대경제 유통 및 판로사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126770"
+   },
+   "host": "경기도",
+   "applyStart": "2026-09-21",
+   "applyEnd": "2026-10-08",
+   "eligibility": "사회적기업",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.26,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126770",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -3325,7 +4223,28 @@
    "confidence": "high",
    "jev": 0.1,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110514",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "a1d7e9a5ca",
+   "name": "[충남] 2026년 2차 AI 기반 태양광 설비 유지보수 솔루션 보급 시범사업 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126474"
+   },
+   "host": "충청남도",
+   "applyStart": "2026-09-14",
+   "applyEnd": "2026-10-08",
+   "eligibility": "중소기업",
+   "region": "충남",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.87,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126474",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -3343,7 +4262,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110951"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": null
@@ -3386,9 +4305,9 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.09,
+   "jev": 0.1,
    "url": "https://linkareer.com/activity/349860",
-   "lastSeen": "2026-09-25",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.29 발표 10.29",
    "status": "open",
    "lastEvent": "2026-10-29"
@@ -3406,9 +4325,50 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.14,
+   "jev": 0.13,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179294",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "2aac115afb",
+   "name": "2026년 제2회 반려동물 창업 아이디어 경진대회 참가자 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126505"
+   },
+   "host": "부산광역시",
+   "applyStart": "2026-09-14",
+   "applyEnd": "2026-10-09",
+   "eligibility": "창업벤처",
+   "region": "부산",
+   "category": "startup",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126505",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "ed04a4f05c",
+   "name": "2026년 한국농수산식품유통공사 혁신 파트너십 지원사업 참여 창업ㆍ벤처기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126759"
+   },
+   "host": "농림축산식품부",
+   "applyStart": "2026-09-23",
+   "applyEnd": "2026-10-09",
+   "eligibility": "창업벤처",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.05,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126759",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -3430,8 +4390,8 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108077"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.85,
+   "lastSeen": "2026-09-27",
+   "jev": 0.83,
    "status": "open",
    "lastEvent": null
   },
@@ -3456,6 +4416,49 @@
    "lastEvent": null
   },
   {
+   "id": "8a75af7c77",
+   "name": "[경남] 2026년 ICT 이노베이션스퀘어확산사업 기업협력 프로젝트 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124269"
+   },
+   "host": "과학기술정보통신부",
+   "applyStart": "2026-08-19",
+   "applyEnd": "2026-10-09",
+   "eligibility": "중소기업",
+   "region": "경남",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.19,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124269",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "83a156186c",
+   "name": "디자인-부산2026 <디자인해커톤> 참가자 모집",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609230057"
+   },
+   "host": "부산광역시",
+   "applyStart": "2026-09-17",
+   "applyEnd": "2026-10-09",
+   "eventDates": "심사 10.10~10.31",
+   "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+   "region": "부산",
+   "category": "hackathon",
+   "aiRelated": true,
+   "confidence": "medium",
+   "jev": 0.15,
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609230057",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": "2026-10-31"
+  },
+  {
    "id": "e65091c93d",
    "name": "제32회 전국 창의성 IT코딩 경시대회",
    "host": "사단법인 한국학원총연합회 경기도지회",
@@ -3473,8 +4476,8 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609160066"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.24,
+   "lastSeen": "2026-09-27",
+   "jev": 0.23,
    "status": "open",
    "lastEvent": "2026-10-31"
   },
@@ -3499,8 +4502,8 @@
     "요즘것들": "https://www.allforyoung.com/posts/86745"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.17,
+   "lastSeen": "2026-09-27",
+   "jev": 0.16,
    "status": "open",
    "lastEvent": null
   },
@@ -3522,7 +4525,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109248"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.94,
    "status": "open",
    "lastEvent": null
@@ -3541,8 +4544,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111205"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.64,
+   "lastSeen": "2026-09-27",
+   "jev": 0.62,
    "status": "open",
    "lastEvent": null
   },
@@ -3568,7 +4571,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109657"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "applyStart": "2026-08-01",
    "jev": 0.03,
    "status": "open",
@@ -3638,10 +4641,51 @@
    "confidence": "high",
    "jev": 0.29,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110914",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.28 발표 10.28",
    "status": "open",
    "lastEvent": "2026-10-28"
+  },
+  {
+   "id": "1f5704bf24",
+   "name": "2026년 IP기반 AI활용 지원사업 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126618"
+   },
+   "host": "지식재산처",
+   "applyStart": "2026-09-01",
+   "applyEnd": "2026-10-11",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.82,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126618",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "91eaff8bd8",
+   "name": "[충북] 2026년 제조 AI 현장 적용 지원 사업 수혜기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126558"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-10-11",
+   "eligibility": "중소기업",
+   "region": "충북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.88,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126558",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "264a24a64d",
@@ -3660,10 +4704,34 @@
     "링커리어": "https://linkareer.com/activity/349739"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.95,
+   "lastSeen": "2026-09-27",
+   "jev": 0.94,
    "status": "open",
    "lastEvent": null
+  },
+  {
+   "id": "085cf6b9d3",
+   "name": "2026 관악S밸리 브릿지 데모데이(S-Boost Track) 및 투자자 매칭데이",
+   "host": "서울특별시",
+   "category": "startup",
+   "applyStart": "2026-09-15",
+   "eventDates": "데모데이 일정 원문 확인 필요",
+   "prize": "IR 역량강화·투자자 연계",
+   "eligibility": "창업벤처",
+   "region": "서울",
+   "confidence": "high",
+   "aiRelated": true,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126443",
+   "sources": {
+    "초기조사": "https://www.gwanak.go.kr",
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126443"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null,
+   "applyEnd": "2026-10-12",
+   "jev": 0.82
   },
   {
    "id": "657330e491",
@@ -3707,7 +4775,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109988"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.95,
    "status": "open",
    "lastEvent": "2026-10-29"
@@ -3734,6 +4802,26 @@
    "lastEvent": null
   },
   {
+   "id": "77374b7201",
+   "name": "2026년 3차 ICT 비즈니스 파트너십(중동) 참가기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126531"
+   },
+   "host": "과학기술정보통신부",
+   "applyStart": "2026-09-15",
+   "applyEnd": "2026-10-12",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.12,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126531",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "c8043e076a",
    "name": "2026년 국립강원전문과학관 AI경진대회 (동화책 만들기, 4컷 과학만화 만들기)",
    "host": "국립강원전문과학관",
@@ -3748,9 +4836,9 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111174"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "강원",
-   "jev": 0.9,
+   "jev": 0.89,
    "status": "open",
    "lastEvent": null,
    "applyStart": "2026-09-21",
@@ -3780,7 +4868,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110945"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": "2026-11-01"
@@ -3798,9 +4886,27 @@
    "category": "startup",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.23,
+   "jev": 0.22,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179287",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "207c782b40",
+   "name": "[GBSA] 2026 판교스타트업 투자교류회 제 3차 투자교류회",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179283",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834725"
+   },
+   "applyEnd": "2026-10-12",
+   "category": "startup",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.06,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179283",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -3826,7 +4932,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111185"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": null
@@ -3851,7 +4957,7 @@
     "요즘것들": "https://www.allforyoung.com/posts/87762"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.94,
    "status": "open",
    "lastEvent": "2026-10-28"
@@ -3896,7 +5002,7 @@
     "Dev-Event": "https://hackathon.imaginationgroup.co.kr/nongnet"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.98,
    "status": "open",
    "lastEvent": "2026-11-20"
@@ -3923,10 +5029,50 @@
     "Dev-Event": "https://www.국민참여고용서비스발굴온라인해커톤.com"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": "2026-10-23"
+  },
+  {
+   "id": "dfaa66fe64",
+   "name": "2026년 벤처기업 인도 시장진출 지원 프로그램 참가기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126571"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-10-13",
+   "eligibility": "창업벤처",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.1,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126571",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "b4eaeeffea",
+   "name": "2027년 스마트공장 구축지원사업 주관기관 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126538"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-10-13",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.46,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126538",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "0e808e6b3a",
@@ -3942,7 +5088,28 @@
    "confidence": "high",
    "jev": 0.07,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179284",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "82d122dd04",
+   "name": "2026년 PFB 부산국제신발섬유패션전시회 PFB 신발혁신상 참가 희망기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126557"
+   },
+   "host": "부산광역시",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-10-14",
+   "eligibility": "중소기업",
+   "region": "부산",
+   "category": "other",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.42,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126557",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -3950,7 +5117,7 @@
    "id": "6abb8c2790",
    "name": "KoMaP AI 경진대회",
    "host": "산업통상자원부,한국산업기술진흥원",
-   "category": "data",
+   "category": "other",
    "applyStart": "2026-09-03",
    "applyEnd": "2026-10-15",
    "eventDates": "본선 당일 발표 평가 및 시상식 참가 가능한 자",
@@ -3970,8 +5137,29 @@
     "Dev-Event": "https://komap.ai/front/competition2026"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.9,
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "8b75c5fff4",
+   "name": "[충남] AI 국방 로봇 신속 실증ㆍ시범 개발 지원 사업 모집 공고(충남ㆍ논산방산혁신클러스터)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126709"
+   },
+   "host": "방위사업청",
+   "applyStart": "2026-09-16",
+   "applyEnd": "2026-10-15",
+   "eligibility": "중소기업",
+   "region": "충남",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.98,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126709",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -3997,7 +5185,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109458",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.16~10.30 발표 10.31",
    "status": "open",
    "lastEvent": "2026-10-31"
@@ -4025,7 +5213,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110072"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.95,
    "status": "open",
    "lastEvent": "2026-11-17"
@@ -4070,7 +5258,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110632",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "upcoming": true,
    "status": "open",
    "lastEvent": "2026-11-30",
@@ -4091,7 +5279,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.allforyoung.com/posts/81607",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -4118,7 +5306,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110770"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -4162,10 +5350,50 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=107305",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.16~12.01",
    "status": "open",
    "lastEvent": "2026-12-01"
+  },
+  {
+   "id": "c44d084425",
+   "name": "2026년 시설농업 AI로봇 실증기반 구축사업 기술지원(기술지도) 수혜기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126293"
+   },
+   "host": "산업통상부",
+   "applyStart": "2026-09-07",
+   "applyEnd": "2026-10-16",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.9,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126293",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "498a3bafaa",
+   "name": "2026년 전시회 부스 지원 참여 소상공인 모집 공고(고카프 킨텍스 더 파이널 시즌 PART 2)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126320"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-09-08",
+   "applyEnd": "2026-10-16",
+   "eligibility": "소상공인",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126320",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "a231ed02a3",
@@ -4244,7 +5472,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110981"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.18,
    "status": "open",
    "lastEvent": null
@@ -4268,9 +5496,9 @@
    "category": "startup",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.09,
+   "jev": 0.11,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111193",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "2026-10-29",
    "status": "open",
    "lastEvent": "2026-10-29"
@@ -4293,9 +5521,9 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.05,
+   "jev": 0.04,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110635",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.19~11.04 발표 11.04",
    "status": "open",
    "lastEvent": "2026-11-04"
@@ -4338,9 +5566,9 @@
    "category": "creative",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.04,
+   "jev": 0.03,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108250",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "upcoming": true,
    "eventDates": "심사 07.15~10.18 발표 11.04",
    "status": "open",
@@ -4365,7 +5593,7 @@
    "confidence": "high",
    "jev": 0.98,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111158",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null,
    "prize": "100만원"
@@ -4393,8 +5621,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110914"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.94,
+   "lastSeen": "2026-09-27",
+   "jev": 0.93,
    "status": "open",
    "lastEvent": "2026-11-16"
   },
@@ -4414,7 +5642,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://linkareer.com/activity/348157",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -4434,9 +5662,9 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.1,
+   "jev": 0.09,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110483",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -4454,9 +5682,9 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.07,
+   "jev": 0.06,
    "url": "https://www.allforyoung.com/posts/87194",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -4476,8 +5704,8 @@
     "링커리어": "https://linkareer.com/activity/346834"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.06,
+   "lastSeen": "2026-09-27",
+   "jev": 0.07,
    "status": "open",
    "lastEvent": null
   },
@@ -4499,8 +5727,8 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608310001"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.14,
+   "lastSeen": "2026-09-27",
+   "jev": 0.15,
    "status": "open",
    "lastEvent": "2026-11-27"
   },
@@ -4520,11 +5748,11 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110589"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "applyStart": "2026-08-31",
    "prize": "1000000",
    "eligibility": "고등학생, 대학생",
-   "jev": 0.22,
+   "jev": 0.18,
    "status": "open",
    "lastEvent": null
   },
@@ -4548,8 +5776,8 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111178"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.89,
+   "lastSeen": "2026-09-27",
+   "jev": 0.9,
    "status": "open",
    "lastEvent": "2026-10-23",
    "prize": "200만원"
@@ -4569,10 +5797,11 @@
    "url": "https://linkareer.com/activity/348781",
    "sources": {
     "초기조사": "https://www.me.go.kr",
-    "링커리어": "https://linkareer.com/activity/348781"
+    "링커리어": "https://linkareer.com/activity/348781",
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125666"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.13,
    "status": "open",
    "lastEvent": null
@@ -4594,8 +5823,8 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609150036"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.27,
+   "lastSeen": "2026-09-27",
+   "jev": 0.28,
    "status": "open",
    "lastEvent": "2026-10-20",
    "eventDates": "심사 09.14~10.19 발표 10.20"
@@ -4680,7 +5909,7 @@
    "confidence": "high",
    "jev": 0.88,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111195",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -4706,7 +5935,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110218"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.93,
    "status": "open",
    "lastEvent": "2026-11-02"
@@ -4735,8 +5964,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110659"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.93,
+   "lastSeen": "2026-09-27",
+   "jev": 0.94,
    "status": "open",
    "lastEvent": null
   },
@@ -4758,9 +5987,9 @@
     "Dev-Event": "https://event-us.kr/kdataaichallenge/event/134967"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eligibility": "대상 제한 없음",
-   "jev": 0.97,
+   "jev": 0.96,
    "status": "open",
    "lastEvent": "2026-10-22"
   },
@@ -4779,9 +6008,9 @@
     "요즘것들": "https://www.allforyoung.com/posts/87401"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "서울",
-   "jev": 0.31,
+   "jev": 0.29,
    "status": "open",
    "lastEvent": null
   },
@@ -4801,7 +6030,7 @@
     "링커리어": "https://linkareer.com/activity/347433"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -4820,9 +6049,9 @@
    "category": "data",
    "aiRelated": true,
    "confidence": "medium",
-   "jev": 0.34,
+   "jev": 0.35,
    "url": "https://event-us.kr/eventdatasafetyzone/event/134171",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "applyStart": "2026-09-01",
    "status": "open",
    "lastEvent": null
@@ -4847,6 +6076,27 @@
    "lastSeen": "2026-09-22",
    "status": "open",
    "lastEvent": "2026-11-06"
+  },
+  {
+   "id": "eec0266ca9",
+   "name": "[경기] 성남시 2026년 해외 전시회 개별 참가 지원 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126468"
+   },
+   "host": "경기도",
+   "applyStart": "2026-09-11",
+   "applyEnd": "2026-10-23",
+   "eligibility": "중소기업",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.13,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126468",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "10be47905b",
@@ -4884,11 +6134,11 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109173"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "applyStart": "2026-07-01",
    "prize": "1,000만원",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "jev": 0.95,
+   "jev": 0.94,
    "eventDates": "심사 07.01~10.23",
    "status": "open",
    "lastEvent": "2026-10-23"
@@ -4914,6 +6164,25 @@
    "lastEvent": null
   },
   {
+   "id": "6ad0e56b07",
+   "name": "2026 충북영상자서전 사업 사랑나눔 스마트 AI 영상자서전 공모전",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111220"
+   },
+   "host": "증평군노인복지관",
+   "applyEnd": "2026-10-24",
+   "region": "충북",
+   "category": "creative",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.93,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111220",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "0c34face0e",
    "name": "2026 AI 활용 저작권 콘텐츠 공모전",
    "host": "문화체육관광부, 한국저작권위원회",
@@ -4934,7 +6203,7 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609100073"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.94,
    "status": "open",
    "lastEvent": null
@@ -4953,7 +6222,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110398"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "세종",
    "jev": 0.96,
    "status": "open",
@@ -4997,7 +6266,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111050"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.04,
    "status": "open",
    "lastEvent": null
@@ -5024,9 +6293,9 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110908"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "대구",
-   "jev": 0.95,
+   "jev": 0.96,
    "status": "open",
    "lastEvent": "2026-11-03"
   },
@@ -5043,9 +6312,9 @@
    "category": "startup",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.16,
+   "jev": 0.15,
    "url": "https://www.allforyoung.com/posts/88050",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -5064,7 +6333,7 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=2&str_no=202609220020"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": "2026-11-11",
    "eventDates": "활동 11.02~11.08 발표 11.11",
@@ -5089,7 +6358,7 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=106881",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -5131,8 +6400,8 @@
     "올콘": "https://www.all-con.co.kr/view/contest/542309"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.57,
+   "lastSeen": "2026-09-27",
+   "jev": 0.5,
    "status": "open",
    "lastEvent": null
   },
@@ -5157,10 +6426,31 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110818"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.41,
+   "lastSeen": "2026-09-27",
+   "jev": 0.4,
    "status": "open",
    "lastEvent": "2026-11-13"
+  },
+  {
+   "id": "40221fe75e",
+   "name": "2026년 디지털커머스 전문기관(소담스퀘어 in 경북) 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125166"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-08-05",
+   "applyEnd": "2026-10-30",
+   "eligibility": "소상공인",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.57,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125166",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "59e0b8ac1c",
@@ -5185,7 +6475,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111024"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.93,
    "status": "open",
    "lastEvent": "2026-11-30"
@@ -5208,7 +6498,7 @@
    "confidence": "high",
    "jev": 0.1,
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=2&str_no=202602080001",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "서울",
    "status": "open",
    "lastEvent": "2026-10-30"
@@ -5227,9 +6517,9 @@
    "category": "dev",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.94,
+   "jev": 0.93,
    "url": "https://linkareer.com/activity/352790",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -5251,8 +6541,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110679"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.94,
+   "lastSeen": "2026-09-27",
+   "jev": 0.93,
    "status": "open",
    "lastEvent": null
   },
@@ -5273,7 +6563,7 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608110037"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.98,
    "status": "open",
    "lastEvent": "2026-11-30"
@@ -5297,7 +6587,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109585",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 11.02~11.27 발표 11.30",
    "status": "open",
    "lastEvent": "2026-11-30"
@@ -5317,7 +6607,7 @@
    "jev": 0.04,
    "upcoming": true,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=105895",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -5343,9 +6633,9 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110660"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "제주",
-   "jev": 0.49,
+   "jev": 0.5,
    "status": "open",
    "lastEvent": null
   },
@@ -5368,7 +6658,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110206",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -5394,8 +6684,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110765"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.94,
+   "lastSeen": "2026-09-27",
+   "jev": 0.95,
    "status": "open",
    "lastEvent": null
   },
@@ -5438,7 +6728,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110799"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.95,
    "status": "open",
    "lastEvent": null
@@ -5464,6 +6754,27 @@
    "lastEvent": "2026-10-31"
   },
   {
+   "id": "3c34c3d7fd",
+   "name": "[대전ㆍ충청] 2026년 중소기업 AI훈련확산 지원사업 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123277"
+   },
+   "host": "고용노동부",
+   "applyStart": "2026-02-09",
+   "applyEnd": "2026-10-31",
+   "eligibility": "중소기업",
+   "region": "대전",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.54,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123277",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "af864e8e68",
    "name": "[성북청년시민회] 2026 성북구 청년도전지원사업 모집",
    "firstSeen": "2026-09-25",
@@ -5477,7 +6788,7 @@
    "confidence": "high",
    "jev": 0.1,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=106262",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -5504,8 +6815,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110647"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.97,
+   "lastSeen": "2026-09-27",
+   "jev": 0.96,
    "status": "open",
    "lastEvent": null
   },
@@ -5528,7 +6839,7 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202607060086"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.93,
    "status": "open",
    "lastEvent": null
@@ -5547,7 +6858,25 @@
    "confidence": "high",
    "jev": 0.96,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111164",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "494d9d74e1",
+   "name": "2026 산재 노동자 자녀 성장지원사업 참여자 모집 안내",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110900"
+   },
+   "host": "대한산업보건협회",
+   "applyEnd": "2026-11-01",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110900",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -5565,7 +6894,7 @@
    "confidence": "high",
    "jev": 0.96,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111271",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -5608,7 +6937,7 @@
     "이벤터스": "https://event-us.kr/bdcaccelerator/event/135787"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.21,
    "status": "open",
    "lastEvent": null
@@ -5636,8 +6965,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111009"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.26,
+   "lastSeen": "2026-09-27",
+   "jev": 0.27,
    "status": "open",
    "lastEvent": "2026-11-26"
   },
@@ -5662,8 +6991,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110273"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.92,
+   "lastSeen": "2026-09-27",
+   "jev": 0.93,
    "status": "open",
    "lastEvent": null
   },
@@ -5685,7 +7014,7 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109859"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -5712,8 +7041,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111087"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.97,
+   "lastSeen": "2026-09-27",
+   "jev": 0.96,
    "status": "open",
    "lastEvent": null
   },
@@ -5736,7 +7065,7 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111177"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": null,
@@ -5759,7 +7088,7 @@
     "이벤터스": "https://event-us.kr/aiethics/event/134969"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -5787,8 +7116,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111021"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.94,
+   "lastSeen": "2026-09-27",
+   "jev": 0.95,
    "status": "open",
    "lastEvent": "2026-11-13"
   },
@@ -5809,8 +7138,8 @@
     "요즘것들": "https://www.allforyoung.com/posts/84920"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.93,
+   "lastSeen": "2026-09-27",
+   "jev": 0.92,
    "status": "open",
    "lastEvent": null
   },
@@ -5833,8 +7162,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111104"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.89,
+   "lastSeen": "2026-09-27",
+   "jev": 0.9,
    "status": "open",
    "lastEvent": null
   },
@@ -5854,7 +7183,7 @@
     "올콘": "https://www.all-con.co.kr/view/contest/542831"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.95,
    "status": "open",
    "lastEvent": null
@@ -5876,7 +7205,7 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202607090062"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "region": "세종",
    "jev": 0.91,
    "status": "open",
@@ -5904,8 +7233,8 @@
     "요즘것들": "https://www.allforyoung.com/posts/87536"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.95,
+   "lastSeen": "2026-09-27",
+   "jev": 0.94,
    "status": "open",
    "lastEvent": null
   },
@@ -5929,7 +7258,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110277"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.85,
    "status": "open",
    "lastEvent": null
@@ -5953,7 +7282,7 @@
     "올콘": "https://www.all-con.co.kr/view/contest/542295"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.06,
    "status": "open",
    "lastEvent": "2026-11-15"
@@ -6001,7 +7330,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111059"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.95,
    "status": "open",
    "lastEvent": "2026-12-17"
@@ -6061,7 +7390,7 @@
    "confidence": "high",
    "jev": 0.98,
    "url": "https://event-us.kr/illusionists1004/event/135933",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6086,7 +7415,7 @@
     "요즘것들": "https://www.allforyoung.com/posts/86272"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.95,
    "status": "open",
    "lastEvent": null
@@ -6108,7 +7437,7 @@
    "confidence": "high",
    "jev": 0.05,
    "url": "https://linkareer.com/activity/311199",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 05.20~11.30",
    "status": "open",
    "lastEvent": "2026-11-30"
@@ -6130,7 +7459,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://linkareer.com/activity/310916",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6152,8 +7481,8 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109381"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.94,
+   "lastSeen": "2026-09-27",
+   "jev": 0.95,
    "status": "open",
    "lastEvent": null
   },
@@ -6174,7 +7503,7 @@
    "confidence": "high",
    "jev": 0.15,
    "url": "https://linkareer.com/activity/345081",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6197,7 +7526,7 @@
     "Dev-Event": "https://aida.kisti.re.kr/competition/main/competition/COMP_000000000000050/detail.do"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "open",
    "lastEvent": null
@@ -6217,7 +7546,7 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://event-us.kr/inclead/event/127407",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6234,12 +7563,12 @@
    "applyStart": "2026-04-08",
    "applyEnd": "2026-11-30",
    "eligibility": "대상 제한 없음",
-   "category": "tourism",
+   "category": "creative",
    "aiRelated": false,
    "confidence": "high",
    "jev": 0.03,
    "url": "https://linkareer.com/activity/314144",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 12.01~12.10 발표 12.11",
    "status": "open",
    "lastEvent": "2026-12-11"
@@ -6257,9 +7586,9 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.11,
+   "jev": 0.1,
    "url": "https://event-us.kr/tap/event/120491",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6277,7 +7606,7 @@
    "confidence": "high",
    "jev": 0.17,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178802",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6299,9 +7628,30 @@
    "category": "startup",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.2,
+   "jev": 0.18,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110283",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "f9f944d4ff",
+   "name": "[전남] 강진군 2026년 소상공인 창업 임대료 지원사업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117365"
+   },
+   "host": "전남광주통합특별시",
+   "applyStart": "2026-01-07",
+   "applyEnd": "2026-12-18",
+   "eligibility": "소상공인",
+   "region": "전남",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117365",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6322,7 +7672,27 @@
    "confidence": "high",
    "jev": 0.94,
    "url": "https://www.all-con.co.kr/view/contest/542959",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "b3db27777f",
+   "name": "2026 디지털커머스 전문기관(소담스퀘어 in 전주) 소상공인 지원 프로그램 지원대상 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121478"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-04-29",
+   "applyEnd": "2026-12-31",
+   "eligibility": "소상공인",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.21,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121478",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6341,7 +7711,27 @@
    "confidence": "high",
    "jev": 0.19,
    "url": "https://event-us.kr/cnttech/event/126658",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "c22765d2f8",
+   "name": "2026년 농식품 크라우드펀딩 지원사업 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119567"
+   },
+   "host": "농림축산식품부",
+   "applyStart": "2026-02-03",
+   "applyEnd": "2026-12-31",
+   "eligibility": "창업벤처",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119567",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6350,16 +7740,38 @@
    "name": "2026년 중앙부처 및 지자체 창업지원사업 통합공고",
    "firstSeen": "2026-09-25",
    "sources": {
-    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783"
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783",
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000116904"
    },
    "host": "창업진흥원",
    "applyEnd": "2026-12-31",
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.16,
+   "jev": 0.14,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null,
+   "eligibility": "창업벤처"
+  },
+  {
+   "id": "969ab11846",
+   "name": "2026년 지역ㆍ산업 맞춤형 인력양성사업 무료교육 참여자 및 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119624"
+   },
+   "host": "고용노동부",
+   "applyStart": "2026-03-01",
+   "applyEnd": "2026-12-31",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.14,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119624",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6368,16 +7780,102 @@
    "name": "2026년 팁스(TIPS) 창업기업 지원계획 수정 공고",
    "firstSeen": "2026-09-25",
    "sources": {
-    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076"
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076",
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119754"
    },
    "host": "창업진흥원",
    "applyEnd": "2026-12-31",
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.13,
+   "jev": 0.14,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null,
+   "eligibility": "중소기업"
+  },
+  {
+   "id": "514c097f7e",
+   "name": "[경기] 2026년 기술이전 창업지원사업 필요기술 발굴지원 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118943"
+   },
+   "host": "경기도",
+   "applyStart": "2026-02-13",
+   "applyEnd": "2026-12-31",
+   "eligibility": "창업벤처",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118943",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "3170844273",
+   "name": "[경기] 안산시 2026년 특화역량 BI 육성지원사업 ICTㆍSW 창업 컨설팅 지원 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123753"
+   },
+   "host": "경기도",
+   "applyStart": "2026-06-29",
+   "applyEnd": "2026-12-31",
+   "eligibility": "창업벤처",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.26,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123753",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "de6e1c1564",
+   "name": "[경북] 2026년 제조업AI융합기반조성사업 경북AX랩 활용기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122863"
+   },
+   "host": "경상북도",
+   "applyStart": "2026-06-04",
+   "applyEnd": "2026-12-31",
+   "eligibility": "창업벤처",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.94,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122863",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "91aa4e8227",
+   "name": "[부산] 2026년 AI실증지원센터 고성능 컴퓨터(HPC) 이용 지원사업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119235"
+   },
+   "host": "부산광역시",
+   "applyStart": "2026-03-06",
+   "applyEnd": "2026-12-31",
+   "eligibility": "중소기업",
+   "region": "부산",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.56,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119235",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6397,8 +7895,8 @@
     "올콘": "https://www.all-con.co.kr/view/contest/527680"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.57,
+   "lastSeen": "2026-09-27",
+   "jev": 0.58,
    "status": "open",
    "lastEvent": null
   },
@@ -6418,8 +7916,8 @@
     "올콘": "https://www.all-con.co.kr/view/contest/527678"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.62,
+   "lastSeen": "2026-09-27",
+   "jev": 0.64,
    "status": "open",
    "lastEvent": null
   },
@@ -6457,7 +7955,7 @@
    "confidence": "high",
    "jev": 0.12,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=104233",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6475,7 +7973,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111065"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -6494,7 +7992,7 @@
    "confidence": "high",
    "jev": 0.07,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=104344",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6502,7 +8000,7 @@
    "id": "f90a41535e",
    "name": "2026 스마트농업 AI 경진대회 (딸기 원격재배)",
    "host": "trendly",
-   "category": "data",
+   "category": "other",
    "applyStart": "2026-06-15",
    "applyEnd": "2027-02-28",
    "eventDates": "2026-07-01",
@@ -6516,7 +8014,7 @@
     "이벤터스": "https://event-us.kr/trendly/event/128410"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null
@@ -6600,27 +8098,6 @@
    "lastEvent": "2026-09-30"
   },
   {
-   "id": "085cf6b9d3",
-   "name": "2026 관악S밸리 브릿지 데모데이(S-Boost Track) 및 투자자 매칭데이",
-   "host": "서울 관악구·관악중소벤처진흥원",
-   "category": "startup",
-   "applyStart": "2026-09-15",
-   "eventDates": "데모데이 일정 원문 확인 필요",
-   "prize": "IR 역량강화·투자자 연계",
-   "eligibility": "로봇·AI·AX·딥테크 분야 Pre-A~시리즈A 단계 기업",
-   "region": "서울",
-   "confidence": "medium",
-   "aiRelated": true,
-   "url": "https://www.gwanak.go.kr",
-   "sources": {
-    "초기조사": "https://www.gwanak.go.kr"
-   },
-   "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-22",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
    "id": "4589423ef3",
    "name": "2026 금융보안 AI 활용 해킹방어 대회",
    "host": "금융보안원",
@@ -6639,6 +8116,23 @@
    "lastSeen": "2026-09-22",
    "status": "open",
    "lastEvent": "2026-10-03"
+  },
+  {
+   "id": "0ceefbd787",
+   "name": "2026 서울게임콘텐츠센터 게임스튜디오 신규 입주기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834388"
+   },
+   "region": "서울",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.08,
+   "url": "https://startuprecipe.co.kr/announcement/5834388",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "bd0d78687a",
@@ -6747,9 +8241,9 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.11,
+   "jev": 0.12,
    "url": "https://startuprecipe.co.kr/announcement/5834419",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6800,9 +8294,337 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.1,
+   "jev": 0.09,
    "url": "https://startuprecipe.co.kr/announcement/5834389",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "1e76207167",
+   "name": "2026년 28청춘창업소 액셀러레이팅 프로그램 전문가 멘토링 3차",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834399"
+   },
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.09,
+   "url": "https://startuprecipe.co.kr/announcement/5834399",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "10bf8809b6",
+   "name": "2026년 AI 기반 조명산업의 자원순환 및 서비스화 실증 기반구축 사업 기업지원사업 통합 상시 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124926"
+   },
+   "host": "산업통상부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.58,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124926",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "5fd64ffb9f",
+   "name": "2026년 DXㆍAX 컨설팅 지원사업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124841"
+   },
+   "host": "경기도",
+   "eligibility": "중소기업",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.44,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124841",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "926db3eaab",
+   "name": "2026년 K-Global 해외진출 지원사업 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120275"
+   },
+   "host": "과학기술정보통신부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.31,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120275",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "810f147b07",
+   "name": "2026년 Startup:D 창업 BuS 참가자 사전 모집 공고(대전창조경제혁신센터)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119051"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "창업벤처",
+   "region": "대전",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.31,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119051",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "6163345a26",
+   "name": "2026년 강원창조경제혁신센터 창업-BuS 프로그램 강원브릿지 화요IR 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119170"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "창업벤처",
+   "region": "강원",
+   "category": "startup",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.51,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119170",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "f798184632",
+   "name": "2026년 경남 수도권 투자유치 거점센터 데모데이ㆍ멘토링 데이 참기기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118858"
+   },
+   "host": "경상남도",
+   "eligibility": "창업벤처",
+   "region": "경남",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.23,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118858",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "89fa9ff4bd",
+   "name": "2026년 경북AI데이터센터 테스트베드 실증지원 공고(데이터센터 테스트베드 조성 지원)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122609"
+   },
+   "host": "경상북도",
+   "eligibility": "중소기업",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.64,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122609",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "8b4b945090",
+   "name": "2026년 광주 창업BuS 프로그램 창업기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119817"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "창업벤처",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.05,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119817",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "a4e21f5e7f",
+   "name": "2026년 구미시 스타트업 제작센터 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120707"
+   },
+   "host": "경상북도",
+   "eligibility": "창업벤처",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.03,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120707",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "d0098dc9d4",
+   "name": "2026년 데이터 품질인증 지원사업 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120097"
+   },
+   "host": "과학기술정보통신부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.06,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120097",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "3fb48fd684",
+   "name": "2026년 산업ㆍ일자리전환 컨설팅 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120215"
+   },
+   "host": "고용노동부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.11,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120215",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "aa7edbf806",
+   "name": "2026년 산업혁신기반구축사업 제조 특화 온디바이스 AI 기반 자율제조 실증 기반 구축사업 기업지원 프로그램(애로기술 지원) 수혜기업 상시모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126552"
+   },
+   "host": "산업통상부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.93,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126552",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "c9465e99d9",
+   "name": "2026년 상생형 AX선도모델 주관기관(대기업 등) 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121226"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.54,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121226",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "3faa37a0c7",
+   "name": "2026년 수출 중소ㆍ중견기업 ESG 공급망 컨설팅 지원사업 참여기업 모집 추가 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121791"
+   },
+   "host": "산업통상부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.12,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121791",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "38ac426139",
+   "name": "2026년 스마트 전자약 종합지원센터 인허가 지원 기업 상시 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120527"
+   },
+   "host": "보건복지부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.33,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120527",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "151b82534b",
+   "name": "2026년 스마트 제조혁신 지원사업 통합 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000115994"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "제조업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.55,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000115994",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "196619ae06",
+   "name": "2026년 스타트업 법률지원사업 참여기업 모집 수정 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121175"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "창업벤처",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121175",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6818,7 +8640,82 @@
    "confidence": "high",
    "jev": 0.13,
    "url": "https://startuprecipe.co.kr/announcement/5834420",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "c173e9d27d",
+   "name": "2026년 울산 IP(지식재산) 디딤돌 프로그램 지원사업 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118665"
+   },
+   "host": "울산광역시",
+   "eligibility": "창업벤처",
+   "region": "울산",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.03,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118665",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "f40618e3a5",
+   "name": "2026년 인천창조경제혁신센터 창업-BuS 프로그램 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119999"
+   },
+   "host": "인천광역시",
+   "eligibility": "창업벤처",
+   "region": "인천",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119999",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "753e9e4dfc",
+   "name": "2026년 장애인 창업 컨설팅지원 대상자 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118350"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "장애인기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.08,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118350",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "9136eff551",
+   "name": "2026년 전남 창업BuS 프로그램 창업기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120946"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "창업벤처",
+   "region": "전남",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.35,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120946",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6835,7 +8732,7 @@
    "confidence": "high",
    "jev": 0.09,
    "url": "https://startuprecipe.co.kr/announcement/5834734",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6856,6 +8753,117 @@
    "lastSeen": "2026-09-22",
    "status": "open",
    "lastEvent": "2026-07-22"
+  },
+  {
+   "id": "5fc1d7493c",
+   "name": "2026년 제조DX멘토단 활용지원사업 통합 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000116008"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "제조업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.4,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000116008",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "a56a35197f",
+   "name": "2026년 제주창조경제혁신센터 창업-BuS 프로그램(W-JOIN) 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117984"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "창업벤처",
+   "region": "제주",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.36,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117984",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "000674ea43",
+   "name": "2026년 창업-BuS at 경북 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118729"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "창업벤처",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.45,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118729",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "a850e9096d",
+   "name": "2026년 창업BuS in 세종 수요투자 라운드 참여기업 상시 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122229"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "창업벤처",
+   "region": "세종",
+   "category": "startup",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.3,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122229",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "64ba0f7d5a",
+   "name": "2026년 체육인 직업안정 사업(창업지원) 참여자 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120444"
+   },
+   "host": "문화체육관광부",
+   "eligibility": "창업벤처",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120444",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "2133b53d81",
+   "name": "2026년 헬스케어 제품 멀티모달형 AI 플랫폼 기반 구축 사업(IR 투자유치 역량강화) 기업 모집 공고(바이오산업 개방형 상태계 조성 촉진 사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126667"
+   },
+   "host": "산업통상부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.9,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126667",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "37588b6fba",
@@ -6916,6 +8924,42 @@
    "lastEvent": null
   },
   {
+   "id": "ec4d7b6a67",
+   "name": "AI기반 Age-Tech 산업 중심의 디지털의료제품 지원 바이오데이터 및 알고리즘 실증 기술서비스 모집 상시 공고(산업혁신기반구축ㆍ2차년도)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123203"
+   },
+   "host": "산업통상부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.95,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123203",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "89ed23faee",
+   "name": "AI융합 의료기기 신뢰성 강화 및 성능 평가ㆍ실증 사업 수혜기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123764"
+   },
+   "host": "산업통상부",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.93,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123764",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "c126082516",
    "name": "ICT 규제샌드박스 AI 기반 규제확인 서비스",
    "firstSeen": "2026-09-25",
@@ -6927,7 +8971,7 @@
    "confidence": "high",
    "jev": 0.82,
    "url": "https://startuprecipe.co.kr/announcement/5834395",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -6988,6 +9032,876 @@
    "lastEvent": "2026-10-03"
   },
   {
+   "id": "21f554a2fe",
+   "name": "[강원] 2026년 소상공인ㆍ자영업자 재기 지원사업 참여자 모집 공고(새출발기금 협업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126649"
+   },
+   "host": "강원특별자치도",
+   "eligibility": "소상공인",
+   "region": "강원",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126649",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "fde7005f82",
+   "name": "[강원] 2026년 지역 여성 창업기업 초기물품 지원사업 참여기업 모집 정정 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125634"
+   },
+   "host": "강원특별자치도",
+   "eligibility": "여성기업",
+   "region": "강원",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125634",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "9fd648f25d",
+   "name": "[경기] 2026년 4차 자동차산업 신규입직자 고용ㆍ성장 지원사업 참여기업 및 참여자 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123862"
+   },
+   "host": "고용노동부",
+   "eligibility": "중소기업",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.06,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123862",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "a26b129bce",
+   "name": "[경기] 2026년 생애 최초 경영안정화 교육지원 모집 공고(경기도 중장년 최초 창업 지원)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124471"
+   },
+   "host": "경기도",
+   "eligibility": "창업벤처",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124471",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "350f21531a",
+   "name": "[경기] 성남시 2026년 창업기업 상시 멘토링 참여자(멘티) 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118229"
+   },
+   "host": "경기도",
+   "eligibility": "창업벤처",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118229",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "0bd29a1263",
+   "name": "[경기] 안산시 2026년 청년큐브 1:1 창업멘토링 지원 참여기업 모집 공고(청년창업인큐베이팅사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120031"
+   },
+   "host": "경기도",
+   "eligibility": "창업벤처",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120031",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "4042e5d457",
+   "name": "[경기] 용인시 2026년 창업 멘토링(1:1) 희망기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121634"
+   },
+   "host": "경기도",
+   "eligibility": "창업벤처",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121634",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "7400324e0e",
+   "name": "[경남] 진주시 2026년 발달장애인 가족창업 컨설팅 지원 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125974"
+   },
+   "host": "경상남도",
+   "eligibility": "장애인기업",
+   "region": "경남",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125974",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "7c0e3b0634",
+   "name": "[경남] 창원시 2026년 강소특구 이노테크 기업육성 AI-CNC 기반 제품 실증 및 성능 검증 지원 사업 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125928"
+   },
+   "host": "경상남도",
+   "eligibility": "중소기업",
+   "region": "경남",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.79,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125928",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "8e68e1e374",
+   "name": "[경남] 창원시 2026년 창원지능형의료기기지원센터 활성화 지원사업 공고(AI 빅데이터 기반 의료바이오 첨단기기 연구제조센터 구축사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124903"
+   },
+   "host": "산업통상부",
+   "eligibility": "중소기업",
+   "region": "경남",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.64,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124903",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "409ecaaf68",
+   "name": "[경남] 하동군 2026년 소상공인 생애 첫 창업 지원사업 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117277"
+   },
+   "host": "경상남도",
+   "eligibility": "창업벤처",
+   "region": "경남",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117277",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "0a734ef810",
+   "name": "[경남] 함양군 2026년 3차 소규모 창업자 초기 창업자금 지원 사업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125770"
+   },
+   "host": "경상남도",
+   "eligibility": "창업벤처",
+   "region": "경남",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125770",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "1148348046",
+   "name": "[경북] 2026년 상인ㆍ소상공인 AI코칭 지원사업 참여자 모집 변경 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126739"
+   },
+   "host": "경상북도",
+   "eligibility": "소상공인",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.42,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126739",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "e385a5f442",
+   "name": "[경북] 2026년 청년창업제품 온라인 기획전 판로지원 참가기업 추가모집 공고(청년창업제품 판로개척 지원사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126692"
+   },
+   "host": "경상북도",
+   "eligibility": "창업벤처",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126692",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "51cfbacf89",
+   "name": "[경북] 2026년 초거대 AI 기술 컨설팅 신규 대상기업 모집 공고(초거대 AI 클라우드 팜 실증 및 확산 환경 조성사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120871"
+   },
+   "host": "경상북도",
+   "eligibility": "중소기업",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.93,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120871",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "5a46dddd32",
+   "name": "[경북] 영천시 2026년 해외(태국ㆍ말레이시아) 무역사절단 참가기업 추가모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125189"
+   },
+   "host": "경상북도",
+   "eligibility": "중소기업",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125189",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "29063ef182",
+   "name": "[경북] 청도군 2026년 스마트산업ㆍ문화관광 융합 신성장 지원사업 공고(시군구연고산업육성사업ㆍ스마트 기술 컨설팅)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124442"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "중소기업",
+   "region": "경북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.13,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124442",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "59a583f2ee",
+   "name": "[광주] 2025년 지역기업 투자유치 역량강화를 위한 IR 참가기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117118"
+   },
+   "host": "전남광주통합특별시",
+   "eligibility": "중소기업",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.03,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117118",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "aa28ed9351",
+   "name": "[광주] 2026년 스마트공장 지원계획 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121614"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "중소기업",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.58,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121614",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "a303c3b58c",
+   "name": "[광주] 인공지능 유치기업 보조금 지원사업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117371"
+   },
+   "host": "전남광주통합특별시",
+   "eligibility": "중소기업",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.64,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117371",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "4d0cdde500",
+   "name": "[대구] 2026년 장애인기업 경영개선 지원사업 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126762"
+   },
+   "host": "대구광역시",
+   "eligibility": "장애인기업",
+   "region": "대구",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.1,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126762",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "f39c112e88",
+   "name": "[대전ㆍ세종ㆍ충북ㆍ충남] 2026년 충청권 지역특화산업 취ㆍ창업 CDP지원 프로그램 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123536"
+   },
+   "host": "과학기술정보통신부",
+   "eligibility": "중소기업",
+   "region": "대전",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.13,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123536",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "64d01e1204",
+   "name": "[무료 AI 역량강화 교육]생성형 AI 기반 무역 컴플라이언스 및 관세·ESG 리스크 최적화(부산)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834390"
+   },
+   "region": "부산",
+   "category": "other",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.37,
+   "url": "https://startuprecipe.co.kr/announcement/5834390",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "15ad54118e",
+   "name": "[부산] 2026년 소상공인 경영전략 컨설팅 소상공인 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121931"
+   },
+   "host": "부산광역시",
+   "eligibility": "소상공인",
+   "region": "부산",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.17,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121931",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "d3cc18ee3f",
+   "name": "[부산] 2차 글로벌시장 대응 AI기반 공조부품 성능평가 인프라 고도화사업 지원사업 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126209"
+   },
+   "host": "부산광역시",
+   "eligibility": "중소기업",
+   "region": "부산",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.76,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126209",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "6a4936c68d",
+   "name": "[서울] 서초구 2026년 소상공인 대상 AI 홍보 컨텐츠 제작지원 신청자 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125560"
+   },
+   "host": "서울특별시",
+   "eligibility": "중소기업",
+   "region": "서울",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.78,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125560",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "08e4d8c99a",
+   "name": "[서울ㆍ경기ㆍ인천ㆍ강원] 2026년 중소기업 AI활용 도입을 위한 AI훈련 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123596"
+   },
+   "host": "고용노동부",
+   "eligibility": "중소기업",
+   "region": "서울",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.62,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123596",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "d0dc3738b5",
+   "name": "[세종] 2026년 기술닥터제 지원사업 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120414"
+   },
+   "host": "세종특별자치시",
+   "eligibility": "중소기업",
+   "region": "세종",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.14,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120414",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "7995d5aa5e",
+   "name": "[울산] 2026년 AI무역지원센터 활용 해외 홍보 지원사업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122551"
+   },
+   "host": "울산광역시",
+   "eligibility": "중소기업",
+   "region": "울산",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.28,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122551",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "d9323fbee6",
+   "name": "[울산] 2026년 중소기업 AI인프라 육성자금 지원계획 변경 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121243"
+   },
+   "host": "울산광역시",
+   "eligibility": "중소기업",
+   "region": "울산",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.18,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121243",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "74f546ca60",
+   "name": "[울산] 창업의 꿈 울산이 이루어 드림 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121148"
+   },
+   "host": "울산광역시",
+   "eligibility": "소상공인",
+   "region": "울산",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.01,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121148",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "c47cb9219c",
+   "name": "[인천] 2026년 IP창업존 51기 교육(모두의창업 연계과정) 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834386"
+   },
+   "region": "인천",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.08,
+   "url": "https://startuprecipe.co.kr/announcement/5834386",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "c5aeb16da8",
+   "name": "[전남] 2026년 IP(지식재산) 디딤돌 프로그램 (권리화 지원사업) 지원대상 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119107"
+   },
+   "host": "전남광주통합특별시",
+   "eligibility": "창업벤처",
+   "region": "전남",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.03,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119107",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "78ea87d86f",
+   "name": "[전남] 2026년 IP(지식재산) 디딤돌 프로그램 후속지원사업 지원대상 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120681"
+   },
+   "host": "전남광주통합특별시",
+   "eligibility": "창업벤처",
+   "region": "전남",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120681",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "7cfca1e4f8",
+   "name": "[전남광주] 2026년 3차 인공지능 기술 고도화 지원사업 상시 모집 공고(AI융합 지능형 농업 생태계 구축)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124433"
+   },
+   "host": "전남광주통합특별시",
+   "eligibility": "중소기업",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.89,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124433",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "b4d66fa6f6",
+   "name": "[전남광주] 여수시 2026년 4차 여수국가산업단지 AX 수혜기업 모집 재공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124130"
+   },
+   "host": "전남광주통합특별시",
+   "eligibility": "중소기업",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.9,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124130",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "d73f61d406",
+   "name": "[전북] 2026년 3차 인공지능 전환 도입 컨설팅 지원사업 수시 모집 공고(AX실증산단 구축사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125775"
+   },
+   "host": "전북특별자치도",
+   "eligibility": "중소기업",
+   "region": "전북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.91,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125775",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "f14ae78e64",
+   "name": "[전북] 2026년 AI융합 지능형 농업 생태계 구축 사업 인공지능 기술고도화 지원사업 상시모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125888"
+   },
+   "host": "전남광주통합특별시",
+   "eligibility": "중소기업",
+   "region": "광주",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.91,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125888",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "b24ce2b884",
+   "name": "[전북] 2026년 산업체 애로기술 해결을 위한 기술자문 참여기업 모집 공고(지역지능화혁신인재양성사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121239"
+   },
+   "host": "전북특별자치도",
+   "eligibility": "중소기업",
+   "region": "전북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.73,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121239",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "7ed1a3f4a0",
+   "name": "[전북] 군산시 2026년 2차 AX얼라이언스 산ㆍ학ㆍ연 종합프로그램 지원 수혜기업 모집 공고(군산국가산업단지 스마트그린 AX실증산단 구축사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123291"
+   },
+   "host": "산업통상부",
+   "eligibility": "중소기업",
+   "region": "전북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.94,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123291",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "935343f729",
+   "name": "[전북] 인공지능 분야 기술지도 희망기업 모집 상시 공고(AI융합 지능형 농업 생태계 구축 사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121749"
+   },
+   "host": "전북특별자치도",
+   "eligibility": "중소기업",
+   "region": "전북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.75,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121749",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "6cab06afcb",
+   "name": "[제주] 2026년 빅데이터 분석 및 데이터 활용 컨설팅 모집 공고(제주빅데이터센터 운영 사업)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123093"
+   },
+   "host": "제주특별자치도",
+   "eligibility": "중소기업",
+   "region": "제주",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.55,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123093",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "c970921ffa",
+   "name": "[제주] 2026년 해양수산 창업투자 지원센터사업 수혜기업 모집 재공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123091"
+   },
+   "host": "제주특별자치도",
+   "eligibility": "창업벤처",
+   "region": "제주",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123091",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "17c210584b",
+   "name": "[충남] 당진시 2026년 청년 취ㆍ창업 지원사업 디자인 개선 지원 사업 참여 기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126349"
+   },
+   "host": "충청남도",
+   "eligibility": "창업벤처",
+   "region": "충남",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126349",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "c585397716",
+   "name": "[충남ㆍ충북ㆍ대전ㆍ세종] 2026년 중소기업 AI훈련확산센터 참여기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123108"
+   },
+   "host": "고용노동부",
+   "eligibility": "중소기업",
+   "region": "서울",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.32,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123108",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "f9a4dbd2bb",
+   "name": "[충북] 지능형첨단부품산업의 디지털전환 거점 구축 사업 오픈랩 AI 개발플랫폼 활용 지원 수혜기업 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118617"
+   },
+   "host": "충청북도",
+   "eligibility": "중소기업",
+   "region": "충북",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.9,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118617",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "3094ac2d79",
    "name": "[한국프로세스혁신협회] 2026 AI 서비스 기획 공모전",
    "host": "한국프로세스혁신협회",
@@ -7016,9 +9930,25 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.08,
+   "jev": 0.09,
    "url": "https://startuprecipe.co.kr/announcement/5834560",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "2e6710c006",
+   "name": "강남구 개포동지역 ㈜오피스허브 1인 창조기업 지원센터 입주기업 모집(1인실,2인실)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834392"
+   },
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.03,
+   "url": "https://startuprecipe.co.kr/announcement/5834392",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -7032,9 +9962,9 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.06,
+   "jev": 0.07,
    "url": "https://startuprecipe.co.kr/announcement/5834425",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -7149,7 +10079,25 @@
    "confidence": "high",
    "jev": 0.14,
    "url": "https://startuprecipe.co.kr/announcement/5834406",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "14d8078fac",
+   "name": "스마트 공장 수준 확인(2026년 스마트 제조혁신 지원사업 통합 공고)",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000116004"
+   },
+   "host": "중소벤처기업부",
+   "eligibility": "제조업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.17,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000116004",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
@@ -7346,12 +10294,53 @@
    "lastEvent": null
   },
   {
+   "id": "94ba52ac58",
+   "name": "[충남] 보령시 2026년 중장년 창업육성사업 예비창업자 추가 모집 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126599"
+   },
+   "host": "충청남도",
+   "applyStart": "2026-09-29",
+   "applyEnd": "2026-09-30",
+   "eligibility": "창업벤처",
+   "region": "충남",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126599",
+   "lastSeen": "2026-09-27",
+   "status": "upcoming",
+   "lastEvent": null
+  },
+  {
+   "id": "91487d63d9",
+   "name": "2026년 3차 영월군 청년 창업육성 지원사업 수정 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125864"
+   },
+   "host": "강원특별자치도",
+   "applyStart": "2026-10-08",
+   "applyEnd": "2026-10-12",
+   "eligibility": "창업벤처",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.03,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125864",
+   "lastSeen": "2026-09-27",
+   "status": "upcoming",
+   "lastEvent": null
+  },
+  {
    "id": "b6fd563c4e",
    "name": "2026년 인천관광기념품 공모전",
    "host": "인천광역시",
    "category": "tourism",
    "applyStart": "2026-10-12",
-   "applyEnd": "2026-10-16",
+   "applyEnd": "2026-10-17",
    "eventDates": "접수 10/12~10/16",
    "prize": "총상금 800만원",
    "eligibility": "국민 누구나",
@@ -7359,14 +10348,16 @@
    "confidence": "high",
    "aiRelated": false,
    "upcoming": true,
-   "url": null,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111221",
    "sources": {
-    "초기조사": null
+    "초기조사": null,
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111221"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-22",
+   "lastSeen": "2026-09-27",
    "status": "upcoming",
-   "lastEvent": "2026-10-16"
+   "lastEvent": null,
+   "jev": 0.04
   },
   {
    "id": "216196d6f1",
@@ -7384,7 +10375,7 @@
    "confidence": "high",
    "jev": 0.96,
    "url": "https://www.allforyoung.com/posts/88069",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "upcoming",
    "lastEvent": null,
    "upcoming": true
@@ -7411,10 +10402,30 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110880"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.03,
+   "lastSeen": "2026-09-27",
+   "jev": 0.02,
    "status": "upcoming",
    "lastEvent": "2026-10-30"
+  },
+  {
+   "id": "b77e02e3e2",
+   "name": "중소제조 특화 Multi AI Agent 개발(R&D) 점프업 Track 시행계획 공고",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125978"
+   },
+   "host": "중소벤처기업부",
+   "applyStart": "2026-10-01",
+   "applyEnd": "2026-10-30",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.98,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125978",
+   "lastSeen": "2026-09-27",
+   "status": "upcoming",
+   "lastEvent": null
   },
   {
    "id": "3b7016ca7f",
@@ -7435,7 +10446,7 @@
    "jev": 0.95,
    "upcoming": true,
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609220023",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "upcoming",
    "lastEvent": "2026-12-07"
   },
@@ -7477,7 +10488,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://linkareer.com/activity/335360",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 11.02~11.27 발표 11.30",
    "upcoming": true,
    "status": "upcoming",
@@ -7501,8 +10512,8 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202605170008"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.95,
+   "lastSeen": "2026-09-27",
+   "jev": 0.94,
    "eventDates": "심사 11.02~12.14 발표 12.15",
    "status": "upcoming",
    "lastEvent": "2026-12-15"
@@ -7513,7 +10524,8 @@
    "firstSeen": "2026-09-22",
    "sources": {
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110017",
-    "링커리어": "https://linkareer.com/activity/345158"
+    "링커리어": "https://linkareer.com/activity/345158",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608230010"
    },
    "host": "(사)한국사진작가협회 군산지부",
    "applyStart": "2026-10-01",
@@ -7523,12 +10535,13 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.03,
+   "jev": 0.02,
    "upcoming": true,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110017",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "upcoming",
-   "lastEvent": null
+   "lastEvent": "2026-11-15",
+   "eventDates": "심사 11.08~11.15"
   },
   {
    "id": "3d9631d945",
@@ -7550,7 +10563,7 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111173"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "upcoming",
    "lastEvent": "2026-11-21",
    "applyEnd": "2026-10-31",
@@ -7563,7 +10576,8 @@
    "sources": {
     "링커리어": "https://linkareer.com/activity/320650",
     "올콘": "https://www.all-con.co.kr/view/contest/537128",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107141"
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107141",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202605080019"
    },
    "host": "대전광역시",
    "applyStart": "2026-10-05",
@@ -7575,10 +10589,11 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://linkareer.com/activity/320650",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "upcoming": true,
    "status": "upcoming",
-   "lastEvent": null
+   "lastEvent": "2026-11-30",
+   "eventDates": "심사 11.09~11.30"
   },
   {
    "id": "ab69827913",
@@ -7597,7 +10612,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://linkareer.com/activity/328525",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.01~11.06",
    "upcoming": true,
    "status": "upcoming",
@@ -7618,9 +10633,9 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.03,
+   "jev": 0.02,
    "url": "https://linkareer.com/activity/312875",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 11.09~11.27 발표 11.30",
    "upcoming": true,
    "status": "upcoming",
@@ -7641,10 +10656,10 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.03,
+   "jev": 0.04,
    "upcoming": true,
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609150023",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "upcoming",
    "lastEvent": "2026-11-19"
   },
@@ -7666,7 +10681,7 @@
    "confidence": "high",
    "jev": 0.05,
    "url": "https://linkareer.com/activity/299469",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 10.01~11.16 발표 11.27",
    "upcoming": true,
    "status": "upcoming",
@@ -7689,7 +10704,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://linkareer.com/activity/314995",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "eventDates": "심사 11.23~11.25 발표 11.26",
    "upcoming": true,
    "status": "upcoming",
@@ -7736,8 +10751,8 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110817"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
-   "jev": 0.95,
+   "lastSeen": "2026-09-27",
+   "jev": 0.94,
    "status": "upcoming",
    "lastEvent": "2027-01-22"
   },
@@ -8018,10 +11033,10 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.04,
+   "jev": 0.05,
    "upcoming": true,
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202603110027",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "status": "in_progress",
    "lastEvent": "2026-11-30"
   },
@@ -8225,7 +11240,7 @@
     "Dev-Event": "https://ai4scikorea.org/#competition"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.97,
    "status": "in_progress",
    "lastEvent": "2026-10-01"
@@ -8575,7 +11590,7 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608120004"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "jev": 0.94,
    "status": "in_progress",
    "lastEvent": "2026-11-30"
@@ -8598,7 +11613,7 @@
     "이벤터스": "https://event-us.kr/koshiphackathon/event/132963"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "prize": "500만 원",
    "eligibility": "대학생, 대학원생",
    "jev": 0.4,

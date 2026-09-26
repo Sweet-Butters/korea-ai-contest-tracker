@@ -48,6 +48,7 @@ data/           contests.json · meta.json · jev_cache.json · jev_runs.jsonl
 | 이벤터스 (Event-us) | public search API |
 | Dev-Event | community-curated GitHub README |
 | K-Startup, 스타트업레시피 | government startup funding programmes, incubation and tenancy calls (not contests) |
+| 기업마당 (bizinfo) | data.go.kr open API: nationwide government support programmes, filtered to AI and 창업 |
 | Naver News | official search API, for government / local / corporate press releases |
 
 Sources whose robots.txt disallows crawling (OnOffMix, the Campuspick API, the Daker API) are not used,
@@ -120,6 +121,7 @@ just switch that step off.
 | `NAVER_CLIENT_ID`, `NAVER_CLIENT_SECRET` | Secret | Naver News search API ([developers.naver.com](https://developers.naver.com/apps/), 25,000 calls/day free). |
 | `GEMINI_API_KEY` | Secret | Extract contest name/deadline from new news articles (free tier). Without it, articles become "unverified" entries. |
 | `GEMINI_MODEL` | Variable | default `gemini-flash-lite-latest` |
+| `DATA_GO_KR_KEY` | Secret | [data.go.kr](https://www.data.go.kr) 일반 인증키 for the 기업마당 지원사업 공고 API (free). Without it that source is skipped. |
 
 GitHub Pages: **Settings → Pages → Source: GitHub Actions**.
 

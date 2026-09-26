@@ -44,6 +44,7 @@ data/           contests.json · meta.json · jev_cache.json · jev_runs.jsonl
 | 이벤터스 | 공개 검색 API |
 | Dev-Event | GitHub README |
 | K-Startup, 스타트업레시피 | 정부·기관 창업지원사업, 보육·입주 모집 (대회가 아닌 공고) |
+| 기업마당 | 공공데이터포털 오픈API: 전국 정부·지자체 지원사업 공고 (AI·창업 분야만) |
 | 네이버 뉴스 | 공식 검색 API (정부·지자체·기업 보도자료용) |
 
 온오프믹스·캠퍼스픽 API·데이커 API는 robots.txt가 수집을 막고 있어 제외했습니다.
@@ -58,6 +59,7 @@ data/           contests.json · meta.json · jev_cache.json · jev_runs.jsonl
 | `NAVER_CLIENT_ID`, `NAVER_CLIENT_SECRET` | Secret | [네이버 개발자센터](https://developers.naver.com/apps/)에서 "검색" API 앱 등록 (하루 25,000회 무료). 없으면 뉴스 수집을 건너뜁니다. |
 | `GEMINI_API_KEY` | Secret | [Google AI Studio](https://aistudio.google.com/apikey) 무료 키. 새 뉴스 기사에서만 대회명·마감일을 뽑습니다. 없으면 기사 제목과 요약 속 날짜로 "미확인" 항목을 만듭니다. |
 | `GEMINI_MODEL` | Variable | 기본값 `gemini-flash-lite-latest` |
+| `DATA_GO_KR_KEY` | Secret | [공공데이터포털](https://www.data.go.kr) 일반 인증키. 기업마당 지원사업 공고 API(무료)에 씁니다. 없으면 이 수집원을 건너뜁니다. |
 | `TYPESAFE_API_KEY` | Secret | [TypeSafe 콘솔](https://console.typesafe.ai/keys)에서 발급. 공고마다 "AI 대회인가·모집 중인 대회인가·어떤 분야인가"를 확률로 받아 규칙 판정을 보정합니다. 한 번 물은 공고는 `data/jev_cache.json`에 저장돼 새 공고만 보냅니다. 없으면 규칙만으로 판정합니다. 로컬에서는 저장소 루트의 `typesafe_api_key.txt`(git 제외)도 읽습니다. |
 
 GitHub Pages는 **Settings → Pages → Source: GitHub Actions**로 둡니다.

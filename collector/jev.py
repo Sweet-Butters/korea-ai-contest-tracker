@@ -59,7 +59,7 @@ def available() -> bool:
 
 
 # Bump when the questions or their criteria change, so cached answers are asked again.
-QUESTION_VERSION = 2
+QUESTION_VERSION = 3
 
 
 def cache_key(title: str, desc: str) -> str:
@@ -79,11 +79,12 @@ def _questions(categories: list[str]) -> dict:
         },
         "contest": {
             "type": "noul",
-            "instructions": "Does this Korean listing recruit participants or teams for a competition, "
-                            "contest, hackathon, or challenge that is still open for entry?",
+            "instructions": "Does this Korean listing invite people, teams or companies to apply now — "
+                            "to a competition, contest, hackathon or challenge, or to a government or "
+                            "institutional support programme (grant, incubation, tenancy, accelerator)?",
             "criteria": {
-                "true": "An open call for entries to a competition",
-                "false": "A lecture, education program, job posting, event, or a results/award announcement",
+                "true": "An open call for entries or applications, with a deadline to apply",
+                "false": "A lecture, education program, job posting, event to attend, or a results/award announcement",
             },
         },
         "category": {
