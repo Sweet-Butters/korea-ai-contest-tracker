@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-26T15:25:31+00:00",
+ "updatedAt": "2026-09-26T15:35:00+00:00",
  "items": [
   {
    "id": "69e5182b65",
@@ -1534,26 +1534,6 @@
    "name": "2026년 5차 상세페이지 제작지원사업 참여기업 모집 공고",
    "firstSeen": "2026-09-27",
    "sources": {
-    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126567"
-   },
-   "host": "중소벤처기업부",
-   "applyStart": "2026-09-16",
-   "applyEnd": "2026-09-30",
-   "eligibility": "소상공인",
-   "category": "funding",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.02,
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126567",
-   "lastSeen": "2026-09-27",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "8656115ac6",
-   "name": "2026년 5차 콘텐츠 제작 지원사업 참여기업 모집 공고",
-   "firstSeen": "2026-09-27",
-   "sources": {
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126566"
    },
    "host": "중소벤처기업부",
@@ -1938,9 +1918,10 @@
    "name": "KITA 80주년 기념 「청소년 무역/창업/정책제안 발표대회」",
    "firstSeen": "2026-09-22",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110402",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608260013",
     "링커리어": "https://linkareer.com/activity/345421",
-    "요즘것들": "https://www.allforyoung.com/posts/86684",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110402"
+    "요즘것들": "https://www.allforyoung.com/posts/86684"
    },
    "host": "한국청소년동아리연맹",
    "applyStart": "2026-08-25",
@@ -1953,29 +1934,8 @@
    "url": "https://linkareer.com/activity/345421",
    "lastSeen": "2026-09-27",
    "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "dd66a97129",
-   "name": "[KITA 80주년 기념] 청소년 무역 창업 정책제안 발표대회",
-   "firstSeen": "2026-09-25",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110402",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608260013"
-   },
-   "host": "한국청소년동아리연맹",
-   "applyEnd": "2026-09-30",
-   "category": "startup",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.04,
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608260013",
-   "lastSeen": "2026-09-27",
-   "status": "open",
    "lastEvent": "2026-10-31",
-   "applyStart": "2026-08-21",
-   "eventDates": "심사 10.17~10.31 발표 10.31 D-3 마감임박 81 //--> --> 사진•영상•영화제 제1회 세대공감 PR아이디어 대상_영상 콘텐츠 공모전 0 주최 . 한국PR학회 대상 . 대학생 , 대학원생 접수 09.01~10.16 심사 09.01~10.16",
-   "eligibility": "중학생 , 고등학생"
+   "eventDates": "심사 10.17~10.31 발표 10.31 D-3 마감임박 81 //--> --> 사진•영상•영화제 제1회 세대공감 PR아이디어 대상_영상 콘텐츠 공모전 0 주최 . 한국PR학회 대상 . 대학생 , 대학원생 접수 09.01~10.16 심사 09.01~10.16"
   },
   {
    "id": "42e2eb69c8",
@@ -2060,28 +2020,6 @@
    "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
-  },
-  {
-   "id": "dd66a97129",
-   "name": "[KITA 80주년 기념] 청소년 무역 창업 정책제안 발표대회",
-   "firstSeen": "2026-09-25",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110402",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608260013"
-   },
-   "host": "한국청소년동아리연맹",
-   "applyEnd": "2026-09-30",
-   "category": "startup",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.04,
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608260013",
-   "lastSeen": "2026-09-26",
-   "status": "open",
-   "lastEvent": "2026-10-31",
-   "applyStart": "2026-08-21",
-   "eventDates": "심사 10.17~10.31 발표 10.31 D-4 마감임박 81 //--> --> 사진•영상•영화제 제1회 세대공감 PR아이디어 대상_영상 콘텐츠 공모전 0 주최 . 한국PR학회 대상 . 대학생 , 대학원생 접수 09.01~10.16 심사 09.01~10.16",
-   "eligibility": "중학생 , 고등학생"
   },
   {
    "id": "83aca7423f",
@@ -3677,16 +3615,16 @@
    "name": "[경희창업보육센터(서울)] 2026년 하반기 신규 입주기업 모집",
    "firstSeen": "2026-09-27",
    "sources": {
-    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179345",
-    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5835082"
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179296",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834731"
    },
    "applyEnd": "2026-10-06",
    "region": "서울",
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.07,
-   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179345",
+   "jev": 0.06,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179296",
    "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
@@ -3750,25 +3688,6 @@
    "firstSeen": "2026-09-22",
    "lastSeen": "2026-09-27",
    "jev": 0.97,
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "9ef28acec1",
-   "name": "동국대학교 창업보육센터(서울) 신규 입주기업 모집 공고",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179296",
-    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5834731"
-   },
-   "applyEnd": "2026-10-06",
-   "region": "서울",
-   "category": "funding",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.06,
-   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179296",
-   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
