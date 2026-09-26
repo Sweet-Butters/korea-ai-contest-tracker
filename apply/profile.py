@@ -48,12 +48,21 @@ def load() -> dict:
     )
 
 
-def summary(p: dict) -> str:
-    """A short block of the applicant's facts, for prompts and drafts."""
-    lines = [
-        f"이름: {p.get('name', '')}",
+# Never sent to an LLM: these identify the person and add nothing to a draft.
+PRIVATE_FIELDS = ("name", "email", "phone", "birth", "address")
+
+
+def summary(p: dict, for_llm: bool = False) -> str:
+    """The applicant's facts as a short block.
+
+    for_llm=True leaves out contact details and the name. Free LLM tiers may keep what they are
+    sent, and a draft does not need them — local templates fill those in afterwards.
+    """
+    lines = []
+    if not for_llm:
+        lines += [f"이름: {p.get('name', '')}", f"연락처: {p.get('email', '')} {p.get('phone', '')}".strip()]
+    lines += [
         f"소속: {' '.join(x for x in (p.get('school'), p.get('major'), p.get('grade')) if x)}",
-        f"연락처: {p.get('email', '')} {p.get('phone', '')}".strip(),
         f"지역: {p.get('region', '')}",
     ]
     if p.get("intro"):
@@ -69,3 +78,8 @@ def summary(p: dict) -> str:
     if p.get("links"):
         lines.append("링크: " + ", ".join(f"{k} {v}" for k, v in p["links"].items()))
     return "\n".join(x for x in lines if x.strip(" :"))
+
+
+def redacted(p: dict) -> dict:
+    """The profile with identifying fields removed, for anything leaving this machine."""
+    return {k: v for k, v in p.items() if k not in PRIVATE_FIELDS}

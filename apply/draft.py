@@ -77,7 +77,7 @@ def _application(p: dict, contest: dict, req: dict) -> str:
     if not llm.available():
         return _fallback(p, contest)
     prompt = PROMPT.format(
-        profile=profile_mod.summary(p),
+        profile=profile_mod.summary(p, for_llm=True),  # 이름·연락처는 보내지 않는다
         name=contest.get("name", ""), host=contest.get("host") or "",
         category=contest.get("category") or "", prize=contest.get("prize") or "",
         period=f"{contest.get('applyStart') or ''} ~ {contest.get('applyEnd') or ''}",
