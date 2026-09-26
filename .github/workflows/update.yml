@@ -51,6 +51,15 @@ jobs:
           DATA_GO_KR_KEY: ${{ secrets.DATA_GO_KR_KEY }}
         run: python -m collector.main
 
+      # Mondays: re-check a sample of deadlines against the sources and publish the hit rate.
+      - name: Audit deadlines
+        if: github.event_name == 'schedule'
+        continue-on-error: true
+        env:
+          DATA_GO_KR_KEY: ${{ secrets.DATA_GO_KR_KEY }}
+        run: |
+          if [ "$(TZ=Asia/Seoul date +%u)" = "1" ]; then python -m collector.audit; fi
+
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"

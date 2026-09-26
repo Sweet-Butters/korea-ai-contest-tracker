@@ -229,7 +229,7 @@ export default function Explorer({ data, meta, profile: bakedProfile, audit }: {
         )}
         {audit?.rate !== null && audit && (
           <p title={audit.misses.map((m) => `${m.name}: 사이트 ${m.shown} / ${m.source} ${m.source_says}`).join("\n")}>
-            마감일 정확도 <b>{Math.round(audit.rate! * 100)}%</b> — {audit.date} 표본 {audit.checked}건을 원문 목록과 대조
+            마감일 일치율 <b>{Math.round(audit.rate! * 100)}%</b> — {audit.date} 표본 {audit.checked}건을 수집원 목록과 재대조 (주최 공고 원문과의 대조는 아닙니다)
           </p>
         )}
       </footer>

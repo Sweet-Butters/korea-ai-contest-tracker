@@ -1,0 +1,12 @@
+{
+ "rows": [
+  {
+   "date": "2026-09-27",
+   "sampled": 30,
+   "checked": 30,
+   "agree": 30,
+   "rate": 1.0,
+   "misses": []
+  }
+ ]
+}

@@ -7,6 +7,11 @@ say how often they are right rather than just how many items it holds.
 
 Re-fetches the sources that published the sampled contests, compares their deadline with the one
 we show, and appends a row to data/audit.json. The site footer and /admin show the latest rate.
+
+What this does NOT prove: the source itself can be wrong (위비티 published a D-day that was a day
+out for months). This measures that we carry a source's date faithfully, not that the date is
+right. Checking against the organiser's own notice needs the notice page, which is per-contest
+work — apply/requirements.py does that for the contests you actually enter.
 """
 import json
 import random
