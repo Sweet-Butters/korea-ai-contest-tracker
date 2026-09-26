@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { DEFAULT_PROFILE, type ContestData, type Meta, type Profile } from "@radar/shared";
+import { DEFAULT_PROFILE, type AuditRow, type ContestData, type Meta, type Profile } from "@radar/shared";
 import Explorer from "../components/Explorer";
 
 // The collector writes data/*.json at the repo root; the page is rebuilt after every collection run,
@@ -20,5 +20,6 @@ export default function Page() {
   const data = read<ContestData>("contests.json", { updatedAt: "", items: [] });
   const meta = read<Meta | null>("meta.json", null);
   const profile = { ...DEFAULT_PROFILE, ...read<Partial<Profile>>("profile.json", {}, CONFIG_DIR) };
-  return <Explorer data={data} meta={meta} profile={profile} />;
+  const audit = read<{ rows: AuditRow[] }>("audit.json", { rows: [] }).rows.at(-1) ?? null;
+  return <Explorer data={data} meta={meta} profile={profile} audit={audit} />;
 }

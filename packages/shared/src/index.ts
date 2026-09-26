@@ -51,6 +51,16 @@ export interface Meta {
   total: number;
 }
 
+/** One weekly deadline check: data/audit.json, written by `python -m collector.audit`. */
+export interface AuditRow {
+  date: string;
+  sampled: number;
+  checked: number;
+  agree: number;
+  rate: number | null;
+  misses: { id: string; name: string; source: string; shown: string; source_says: string }[];
+}
+
 export interface Keywords {
   aiTerms: string[];
   relatedTerms: string[];

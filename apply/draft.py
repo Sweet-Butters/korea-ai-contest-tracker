@@ -51,6 +51,31 @@ PROMPT = """너는 한국 공모전·지원사업 지원서를 돕는다. 아래
 """
 
 
+CODE_WORDS = ("모델", "알고리즘", "코드", "predict", "리더보드", "데이터셋", "정확도", "제출물은 zip",
+              "베이스라인", "ipynb", "학습", "추론")
+
+
+def is_code_contest(contest: dict, req: dict) -> bool:
+    """Code/leaderboard contests are judged on a submitted model, not on a written application."""
+    text = f"{contest.get('name','')} {req.get('excerpt','')} {' '.join(req.get('documents') or [])}"
+    hits = sum(w in text for w in CODE_WORDS)
+    return contest.get("category") == "data" and hits >= 2 or hits >= 4
+
+
+QUESTIONS = """# {name} — 먼저 정할 것
+
+지원서를 쓰기 전에 아래를 직접 정하세요. 여기에 답하면 초안을 그 내용으로 다시 씁니다.
+
+1. 이 대회에서 **무엇을 만들/제안할 것인가** (한 문장)
+2. 왜 그것이 이 대회 주제에 맞는가
+3. 내가 이미 해본 것 중 **근거가 되는 것** (프로젝트·수치)
+4. 혼자인가 팀인가, 팀이면 역할 분담
+5. 마감까지 남은 기간에 실제로 할 수 있는 범위
+
+답을 정한 뒤: `python -m apply prep {id} --answers "..."` (또는 Claude에게 답을 주고 다시 써 달라고 하세요)
+"""
+
+
 def _fallback(p: dict, contest: dict) -> str:
     projects = "\n".join(f"- {x.get('name')}: {x.get('summary')} (역할 {x.get('role')}, 결과 {x.get('result')})"
                          for x in p.get("projects", []))
@@ -162,8 +187,13 @@ def build(contest: dict, req: dict, p: dict | None = None) -> Path:
     out = DRAFTS / contest["id"]
     out.mkdir(parents=True, exist_ok=True)
     (out / "checklist.md").write_text(_checklist(contest, req), encoding="utf-8")
-    (out / "application.md").write_text(_application(p, contest, req), encoding="utf-8")
-    if req.get("email"):
+    if is_code_contest(contest, req):
+        # Judged on the submission itself; a motivation essay would be invented filler.
+        (out / "questions.md").write_text(QUESTIONS.format(name=contest.get("name"), id=contest["id"]), encoding="utf-8")
+    else:
+        (out / "application.md").write_text(_application(p, contest, req), encoding="utf-8")
+    # Only for genuine email submission: a support address is not where an entry is sent.
+    if req.get("applyMethod") == "이메일" and req.get("email") and req["email"] != req.get("contactEmail"):
         (out / "email.md").write_text(_email(p, contest, req), encoding="utf-8")
     (out / "requirements.json").write_text(json.dumps(req, ensure_ascii=False, indent=1), encoding="utf-8")
     return out

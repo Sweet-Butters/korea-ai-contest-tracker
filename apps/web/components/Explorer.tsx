@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import {
   CATEGORY_LABEL, REPO, STATUS_LABEL, categoryLabel, daysBetween, fitScore, parsePrize, todayKST,
-  type Contest, type ContestData, type Fit, type Meta, type Profile, type Status,
+  type AuditRow, type Contest, type ContestData, type Fit, type Meta, type Profile, type Status,
 } from "@radar/shared";
 import ContestCard from "./ContestCard";
 import CalendarView from "./CalendarView";
@@ -63,7 +63,7 @@ function countBy<T>(arr: T[], key: (x: T) => string) {
   return out;
 }
 
-export default function Explorer({ data, meta, profile: bakedProfile }: { data: ContestData; meta: Meta | null; profile: Profile }) {
+export default function Explorer({ data, meta, profile: bakedProfile, audit }: { data: ContestData; meta: Meta | null; profile: Profile; audit: AuditRow | null }) {
   const [f, setF] = useState<Filters>(DEFAULTS);
   const [today, setToday] = useState(data.updatedAt.slice(0, 10) || "2026-01-01");
   const [profile, setProfile] = useState<Profile>(bakedProfile);
@@ -226,6 +226,11 @@ export default function Explorer({ data, meta, profile: bakedProfile }: { data: 
         </p>
         {meta && (
           <p>마지막 수집 {meta.runDate} · 수집원 {Object.keys(meta.sources).length}곳{failed.length ? ` · 이번 수집 실패: ${failed.join(", ")}` : ""}</p>
+        )}
+        {audit?.rate !== null && audit && (
+          <p title={audit.misses.map((m) => `${m.name}: 사이트 ${m.shown} / ${m.source} ${m.source_says}`).join("\n")}>
+            마감일 정확도 <b>{Math.round(audit.rate! * 100)}%</b> — {audit.date} 표본 {audit.checked}건을 원문 목록과 대조
+          </p>
         )}
       </footer>
     </>

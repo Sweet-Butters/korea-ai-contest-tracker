@@ -41,6 +41,20 @@ def _rank(src: str) -> int:
     return SOURCE_RANK.index(src) if src in SOURCE_RANK else len(SOURCE_RANK)
 
 
+# Separate tracks of one contest: 주제3 vs 주제4, 1부/2부, A형/B형. They are entered separately,
+# so they must not merge even though the names are nearly identical.
+TRACK = re.compile(r"(주제|부문|분야|트랙|과제|코스|부)\s*([0-9①-⑩IVX]+)|([A-Z])\s*(?:형|유형)")
+
+
+def _tracks(name: str) -> set:
+    return {"".join(g for g in m.groups() if g) for m in TRACK.finditer(name or "")}
+
+
+def _same_track(a: str, b: str) -> bool:
+    ta, tb = _tracks(a), _tracks(b)
+    return not (ta and tb) or bool(ta & tb)
+
+
 class Index:
     """Finds the existing record a new item belongs to.
 
@@ -54,18 +68,20 @@ class Index:
         self.by_end: dict[str, list[tuple[set, dict]]] = {}
 
     def find(self, key: str, name: str, end: str | None):
-        if key in self.by_key:
-            return self.by_key[key]
+        hit = self.by_key.get(key)
+        if hit is not None and _same_track(name, hit.get("name", "")):
+            return hit
         if end:
             grams = _bigrams(name)
-            best = max(((_jaccard(grams, g), r) for g, r in self.by_end.get(end, [])), default=(0, None), key=lambda x: x[0])
+            cands = [(g, r) for g, r in self.by_end.get(end, []) if _same_track(name, r.get("name", ""))]
+            best = max(((_jaccard(grams, g), r) for g, r in cands), default=(0, None), key=lambda x: x[0])
             # Short generic names ("AI 숏폼 공모전") need a closer match to count as the same contest.
             if best[0] >= (0.45 if len(grams) >= 12 else 0.7):
                 return best[1]
         if len(key) < 6:
             return None
         for k, rec in self.by_key.items():
-            if k[:4] != key[:4] or len(k) < 6:
+            if k[:4] != key[:4] or len(k) < 6 or not _same_track(name, rec.get("name", "")):
                 continue
             short, long_ = sorted((k, key), key=len)
             if (len(short) >= 10 and short in long_) or SequenceMatcher(None, k, key).ratio() >= 0.9:
