@@ -79,9 +79,15 @@ def extract(url: str, use_llm: bool = True) -> dict:
             got = llm._gemini(PROMPT.format(text=text))
             if isinstance(got, list):
                 got = got[0] if got else {}
+            # The model read the notice; the rules only pattern-matched. Its answers win, except
+            # that a rule-found value is kept where the model returned nothing.
             for k, v in (got or {}).items():
-                if v and not out.get(k):
+                if v:
                     out[k] = v
+            if got and got.get("applyMethod"):
+                for k in ("applyUrl", "email"):
+                    if not got.get(k):
+                        out[k] = None  # don't mix a rule guess into the model's answer
             out["byLlm"] = True
         except Exception as e:  # quota, outage, bad JSON: the rule result still stands
             out["llmError"] = str(e)[:120]

@@ -16,3 +16,6 @@ _preview/
 # 지원 준비: 개인정보와 생성된 초안은 공개 저장소에 올리지 않는다
 profile.local.json
 drafts/
+
+# 로컬 비밀키 보관함
+secrets/

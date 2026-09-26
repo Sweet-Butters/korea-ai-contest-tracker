@@ -7,6 +7,7 @@ article as a low-confidence entry.
 import json
 import os
 import time
+from pathlib import Path
 
 import requests
 
@@ -26,15 +27,26 @@ JSON 배열만 출력: [{{"i":번호,"isContest":bool,"name":"공식 대회명",
 {articles}"""
 
 
+KEY_FILE = Path(__file__).resolve().parent.parent / "secrets" / "gemini_api_key.txt"
+
+
+def _key() -> str | None:
+    """GEMINI_API_KEY, or secrets/gemini_api_key.txt for local runs (git-ignored)."""
+    key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not key and KEY_FILE.exists():
+        key = KEY_FILE.read_text(encoding="utf-8").strip()
+    return key or None
+
+
 def available() -> bool:
-    return bool(os.environ.get("GEMINI_API_KEY"))
+    return bool(_key())
 
 
 def _gemini(prompt: str) -> list:
     model = os.environ.get("GEMINI_MODEL", "gemini-flash-lite-latest")
     r = requests.post(
         GEMINI_URL.format(model=model),
-        params={"key": os.environ["GEMINI_API_KEY"]},
+        headers={"x-goog-api-key": _key()},
         json={"contents": [{"parts": [{"text": prompt}]}],
               "generationConfig": {"responseMimeType": "application/json", "temperature": 0}},
         timeout=120,
