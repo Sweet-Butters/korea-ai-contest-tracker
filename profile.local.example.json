@@ -1,0 +1,29 @@
+{
+  "_comment": "이 파일을 profile.local.json 으로 복사해 채우세요. git에 올라가지 않습니다.",
+  "name": "홍길동",
+  "email": "you@example.com",
+  "phone": "010-0000-0000",
+  "birth": "2000-01-01",
+  "school": "OO대학교",
+  "major": "OO학과",
+  "grade": "4학년 재학",
+  "region": "서울",
+  "links": {
+    "portfolio": "https://sweet-butters.github.io/",
+    "github": "https://github.com/Sweet-Butters",
+    "project": "https://sweet-butters.github.io/korea-ai-contest-tracker/"
+  },
+  "intro": "한 문단으로 쓴 자기소개. 지원서 초안의 바탕이 됩니다.",
+  "strengths": ["문제 정의와 검증 설계", "AI 도구를 활용한 1인 개발", "데이터 수집·자동화"],
+  "projects": [
+    {
+      "name": "AI 공모전 레이더",
+      "summary": "11개 사이트에서 AI 대회·지원사업을 매일 자동 수집해 보여주는 서비스. 서버 없이 GitHub Actions로 운영.",
+      "role": "기획·설계·검증 (구현은 AI 코딩 도구 활용)",
+      "result": "550여 건 수집, 운영비 0원",
+      "link": "https://github.com/Sweet-Butters/korea-ai-contest-tracker"
+    }
+  ],
+  "awards": [],
+  "notes": "지원서에 늘 들어가면 좋은 문장이나 주의사항"
+}

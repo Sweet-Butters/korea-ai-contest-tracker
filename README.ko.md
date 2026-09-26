@@ -84,6 +84,30 @@ npm run dev:admin                     # http://localhost:3001/admin (다른 포�
 npm run build && node scripts/assemble.mjs _site
 ```
 
+## 지원 준비 (apply)
+
+관심 있는 대회를 확정하면, 공고를 읽어 접수 방법·제출물·마감 시각을 정리하고 지원서 초안까지 만듭니다.
+개인정보(`profile.local.json`)와 생성된 초안(`drafts/`)은 git에 올라가지 않습니다.
+
+```bash
+cp profile.local.example.json profile.local.json   # 이름·소속·연락처·프로젝트를 채웁니다
+python -m apply add "국립공원 위성"                   # 이름 일부 또는 id로 지원 목록에 추가
+python -m apply prep                                # 공고를 읽고 drafts/<id>/ 생성
+python -m apply list                                # 확정 목록과 상태 보기
+python -m apply open <id>                           # 접수 페이지를 Orca 브라우저로 열기
+python -m apply status <id> submitted               # 상태 기록
+```
+
+생성물: `checklist.md`(요건·제출물·마감), `application.md`(지원서 초안), `email.md`(이메일 접수일 때),
+`requirements.json`. `GEMINI_API_KEY`가 있으면 공고를 읽어 요건을 정확히 정리하고 초안도 공고에 맞춰 씁니다.
+
+**대신 하지 않는 것:** 참가 자격 확인, 개인정보·저작권 동의, 최종 제출입니다. 체크리스트에 별도 항목으로
+남겨 두니 직접 확인하세요. 폼 입력 대행이 필요하면 로그인해 둔 브라우저에서 제가 채우고, 동의·제출은
+본인이 누르는 방식으로 진행합니다.
+
+개인정보를 다른 PC에서도 쓰려면 비공개 저장소에 두고 `APPLICANT_PROFILE_REPO=owner/repo:profile.json`
+과 `GITHUB_TOKEN`을 설정하면 됩니다.
+
 ## 주의
 
 각 대회 정보는 요약과 원문 링크만 보여줍니다. 일정·자격은 바뀔 수 있으니 원문 공고를 확인하세요.

@@ -140,6 +140,30 @@ npm run dev:web                      # main site
 npm run build && node scripts/assemble.mjs _site
 ```
 
+## Applying (apply)
+
+Mark a contest to apply for, and the tool reads its notice, lists how to apply, what to submit and
+by when, and drafts the application. Personal details (`profile.local.json`) and generated drafts
+(`drafts/`) are git-ignored.
+
+```bash
+cp profile.local.example.json profile.local.json
+python -m apply add "국립공원 위성"     # queue a contest by id or part of its name
+python -m apply prep                   # read the notices, write drafts/<id>/
+python -m apply list                   # queue and status
+python -m apply open <id>              # open the entry page in the Orca browser
+python -m apply status <id> submitted
+```
+
+With `GEMINI_API_KEY` set, requirements are read from the notice instead of guessed by keyword rules.
+
+**What it never does:** confirm eligibility, tick consent or copyright declarations, or press submit.
+Those stay on the checklist for you. For form filling, the agent types into a browser you are already
+signed in to, and you press the final button.
+
+To share the profile across machines, keep it in a private repo and set
+`APPLICANT_PROFILE_REPO=owner/repo:profile.json` with `GITHUB_TOKEN`.
+
 ## Notes
 
 Only summaries and links to the original notices are shown; always check the organiser's page for
