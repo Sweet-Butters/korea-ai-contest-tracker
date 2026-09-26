@@ -146,6 +146,8 @@ Mark a contest to apply for, and the tool reads its notice, lists how to apply, 
 by when, and drafts the application. Personal details (`profile.local.json`) and generated drafts
 (`drafts/`) are git-ignored.
 
+The **지원하기** button on a card queues the contest in `/admin` (with a confirm step). Then, on your machine:
+
 ```bash
 cp profile.local.example.json profile.local.json
 python -m apply add "국립공원 위성"     # queue a contest by id or part of its name

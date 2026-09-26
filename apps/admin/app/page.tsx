@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { REPO, categoryLabel, type Keywords, type Meta } from "@radar/shared";
+import ApplicationQueue from "./ApplicationQueue";
 import ProfileEditor from "./ProfileEditor";
 import WordGroup from "./WordGroup";
 
@@ -154,6 +155,8 @@ export default function Admin() {
             <button type="button" className="ghost" onClick={loadKeywords}>다시 불러오기</button>
           </div>
         </section>
+
+        <ApplicationQueue api={api} token={token} />
 
         <ProfileEditor api={api} token={token} />
 

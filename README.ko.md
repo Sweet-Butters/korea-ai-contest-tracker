@@ -89,6 +89,8 @@ npm run build && node scripts/assemble.mjs _site
 관심 있는 대회를 확정하면, 공고를 읽어 접수 방법·제출물·마감 시각을 정리하고 지원서 초안까지 만듭니다.
 개인정보(`profile.local.json`)와 생성된 초안(`drafts/`)은 git에 올라가지 않습니다.
 
+사이트 카드의 **지원하기**를 누르면 `/admin` 의 지원 목록에 담깁니다(확인 후 저장). 그다음 이 PC에서:
+
 ```bash
 cp profile.local.example.json profile.local.json   # 이름·소속·연락처·프로젝트를 채웁니다
 python -m apply add "국립공원 위성"                   # 이름 일부 또는 id로 지원 목록에 추가

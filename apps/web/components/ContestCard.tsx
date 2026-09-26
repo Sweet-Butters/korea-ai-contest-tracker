@@ -1,4 +1,6 @@
 import { categoryLabel, daysBetween, formatKRW, shortDate } from "@radar/shared";
+
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 import type { Item } from "./Explorer";
 
 function badge(it: Item, today: string): { text: string; cls: string } {
@@ -51,6 +53,9 @@ export default function ContestCard({ it, today }: { it: Item; today: string }) 
           </div>
         ))}
       </dl>
+      <p className="apply-row">
+        <a className="apply" href={`${BASE}/admin/?add=${it.id}`}>지원하기 →</a>
+      </p>
       {links.length > 0 && (
         <p className="srcs">
           출처{" "}

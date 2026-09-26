@@ -233,3 +233,22 @@ export function fitScore(it: Contest & { prizeKRW?: number | null }, p: Profile,
   score = Math.min(100, score);
   return { score, recommended: score >= p.threshold, reasons };
 }
+
+// ---- Application queue: config/applications.json, edited in /admin, worked in `python -m apply` ----
+
+export type ApplicationStatus = "interested" | "preparing" | "ready" | "submitted" | "skipped";
+
+export interface Application {
+  id: string;
+  name: string;
+  status: ApplicationStatus;
+  note?: string;
+}
+
+export const APPLICATION_STATUS: Record<ApplicationStatus, string> = {
+  interested: "관심",
+  preparing: "준비중",
+  ready: "제출 준비됨",
+  submitted: "제출함",
+  skipped: "보류",
+};
