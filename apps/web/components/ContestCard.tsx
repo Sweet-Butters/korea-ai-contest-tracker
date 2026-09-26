@@ -20,6 +20,10 @@ export default function ContestCard({ it, today }: { it: Item; today: string }) 
   const rows: [string, string | null | undefined][] = [
     ["접수", period], ["일정", it.eventDates], ["상금", prize], ["대상", it.eligibility],
   ];
+  // 마감일이 출처마다 다르거나 아무도 싣지 않으면, 원문을 확인하라고 알린다.
+  const dateWarning = it.dateNote
+    ? `${it.dateNote} · ${Object.entries(it.endBySource ?? {}).map(([s, d]) => `${s} ${d.slice(5)}`).join(", ") || "원문 공고를 확인하세요"}`
+    : null;
   const links = Object.entries(it.sources).filter(([n, u]) => n !== "초기조사" && u);
   return (
     <li className="card">
@@ -38,7 +42,13 @@ export default function ContestCard({ it, today }: { it: Item; today: string }) 
       {(it.host || it.region) && <p className="host">{[it.host, it.region].filter(Boolean).join(" · ")}</p>}
       <dl className="meta">
         {rows.filter(([, v]) => v).map(([k, v]) => (
-          <div key={k}><dt>{k}</dt><dd>{String(v).slice(0, 140)}</dd></div>
+          <div key={k}>
+            <dt>{k}</dt>
+            <dd>
+              {String(v).slice(0, 140)}
+              {k === "접수" && dateWarning && <span className="date-warn" title={dateWarning}>마감일 확인</span>}
+            </dd>
+          </div>
         ))}
       </dl>
       {links.length > 0 && (

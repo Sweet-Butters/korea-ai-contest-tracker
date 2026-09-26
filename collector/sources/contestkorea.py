@@ -2,7 +2,9 @@
 import re
 
 from .. import http
-from ..util import clean
+import datetime as dt
+
+from ..util import clean, today
 
 NAME = "콘테스트코리아"
 CONTEST_LIST = True
@@ -14,15 +16,41 @@ ROW = re.compile(
 
 
 def _period(str_no, rec):
-    """'09.14~10.19' has no year; the registration number starts with yyyymm, so anchor on it."""
+    """'09.14~10.19' carries no year.
+
+    The registration number starts with yyyymm, but yearly contests keep an old number, which
+    put their deadline a year in the past. So pick the year that lands the deadline nearest to
+    today, allowing a short grace period for one that has just closed.
+    """
     m = re.match(r"(\d\d)\.(\d\d)~(\d\d)\.(\d\d)", rec)
     if not m:
         return None, None
     a, b, c, d = map(int, m.groups())
-    year, reg_month = int(str_no[:4]), int(str_no[4:6])
-    sy = year - 1 if a > reg_month + 3 else year
-    ey = sy + 1 if (c, d) < (a, b) else sy
-    return f"{sy}-{a:02d}-{b:02d}", f"{ey}-{c:02d}-{d:02d}"
+    t = today()
+
+    def pick(month, day):
+        best = None
+        for year in (t.year - 1, t.year, t.year + 1):
+            try:
+                cand = dt.date(year, month, day)
+            except ValueError:
+                continue
+            days = (cand - t).days
+            score = (0 if days >= -45 else 1, abs(days))  # prefer upcoming or just-closed
+            if best is None or score < best[0]:
+                best = (score, cand)
+        return best[1] if best else None
+
+    end = pick(c, d)
+    if end is None:
+        return None, None
+    try:
+        start = dt.date(end.year, a, b)
+    except ValueError:
+        return None, end.isoformat()
+    if start > end:  # the period crosses new year
+        start = start.replace(year=end.year - 1)
+    return start.isoformat(), end.isoformat()
 
 
 def fetch():

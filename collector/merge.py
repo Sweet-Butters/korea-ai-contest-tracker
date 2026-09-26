@@ -9,6 +9,7 @@ from .util import dates_in
 SOURCE_RANK = ["DACON", "AIFactory", "씽굿", "링커리어", "올콘", "콘테스트코리아", "요즘것들",
                "이벤터스", "Dev-Event", "K-Startup", "기업마당", "스타트업레시피", "위비티", "네이버뉴스", "초기조사"]
 FIELDS = ["host", "applyStart", "applyEnd", "eventDates", "prize", "eligibility", "region"]
+# 위비티/요즘것들 only publish a "D-7" badge, so their dates can be a day out.
 
 
 NOISE = re.compile(r"주식회사|㈜|\(주\)|참가자|참가팀|참여자|모집|안내|공고|개최|접수")
@@ -105,6 +106,9 @@ def merge(previous: list[dict], fresh: list[dict], run_date: str) -> list[dict]:
         # Fresh data from a better-or-equal source replaces what we had; worse sources only fill gaps.
         best = min((_rank(s) for s in rec["sources"]), default=99)
         rec["sources"][src] = item["url"]
+        if item.get("applyEnd"):
+            rec.setdefault("endBySource", {})[src] = item["applyEnd"]
+        rec.setdefault("seenBySource", {})[src] = run_date
         for f in FIELDS:
             v = item.get(f)
             if v and (not rec.get(f) or _rank(src) <= best):
@@ -116,7 +120,30 @@ def merge(previous: list[dict], fresh: list[dict], run_date: str) -> list[dict]:
             rec["upcoming"] = True
         rec["url"] = rec["sources"][min(rec["sources"], key=_rank)]
         rec["lastSeen"] = run_date
+
+    for rec in idx.by_key.values():
+        _settle_deadline(rec, run_date)
     return list({id(r): r for r in idx.by_key.values()}.values())
+
+
+def _settle_deadline(rec: dict, run_date: str) -> None:
+    """Choose the deadline to show, and say how sure we are of it.
+
+    Sources disagree (one lists the extended date, another the original), and a date derived from
+    a "D-7" badge can be a day off. Missing a deadline costs the user the contest, so when fresh
+    sources disagree the earliest one wins and the item is flagged.
+    """
+    fresh = {s: d for s, d in (rec.get("endBySource") or {}).items()
+             if rec.get("seenBySource", {}).get(s) == run_date}
+    if fresh:
+        rec["applyEnd"] = min(fresh.values())
+        rec["dateNote"] = "출처마다 다름" if len(set(fresh.values())) > 1 else None
+    elif rec.get("applyEnd"):
+        # Nobody lists it any more: the notice was taken down, or it only ever came from the
+        # 2026-09-21/22 manual survey or a news article.
+        rec["dateNote"] = "확인 필요"
+    if not rec.get("dateNote"):
+        rec.pop("dateNote", None)
 
 
 def finalize(records: list[dict], today: str, keep_ended_days=7) -> list[dict]:

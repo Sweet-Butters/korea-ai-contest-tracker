@@ -14,6 +14,10 @@ export interface Contest {
   jev?: number;
   applyStart?: string | null;
   applyEnd?: string | null;
+  /** Set when the deadline needs checking: sources disagree, or nobody lists it any more. */
+  dateNote?: string | null;
+  /** Deadline as each source published it, so a disagreement can be shown. */
+  endBySource?: Record<string, string>;
   eventDates?: string | null;
   lastEvent?: string | null;
   prize?: string | null;
