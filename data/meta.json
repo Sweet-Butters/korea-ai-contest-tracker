@@ -7,7 +7,7 @@
    "fetched": 669,
    "kept": 121,
    "error": null,
-   "seconds": 466
+   "seconds": 469
   },
   "올콘": {
    "fetched": 474,
@@ -19,7 +19,7 @@
    "fetched": 858,
    "kept": 164,
    "error": null,
-   "seconds": 39
+   "seconds": 43
   },
   "요즘것들": {
    "fetched": 345,
@@ -31,7 +31,7 @@
    "fetched": 598,
    "kept": 78,
    "error": null,
-   "seconds": 348
+   "seconds": 340
   },
   "위비티": {
    "fetched": 834,
@@ -49,7 +49,7 @@
    "fetched": 2,
    "kept": 2,
    "error": null,
-   "seconds": 4
+   "seconds": 3
   },
   "이벤터스": {
    "fetched": 77,
@@ -67,19 +67,19 @@
    "fetched": 27,
    "kept": 20,
    "error": null,
-   "seconds": 3
+   "seconds": 7
   },
   "스타트업레시피": {
    "fetched": 41,
    "kept": 27,
    "error": null,
-   "seconds": 4
+   "seconds": 5
   },
   "기업마당": {
    "fetched": 164,
    "kept": 150,
    "error": null,
-   "seconds": 13
+   "seconds": 12
   },
   "네이버뉴스": {
    "fetched": 0,
