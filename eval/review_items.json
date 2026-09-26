@@ -1,0 +1,2202 @@
+[
+ {
+  "id": "s036",
+  "order": 0,
+  "title": "[제주관광공사] 2026 제주 관광 데이터 활용사례 공모전(~10/31)",
+  "url": "https://linkareer.com/activity/347260",
+  "site": "링커리어",
+  "host": "아라한",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.47,
+   "contest": 0.92,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s124",
+  "order": 1,
+  "title": "2026년 국민체육진흥공단 공공데이터 활용 경진대회",
+  "url": "https://www.all-con.co.kr/view/contest/538567",
+  "site": "올콘",
+  "host": "국민체육진흥공단",
+  "eligibility": "과학·공학·학술, 대학생, 대학원생, 기타",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.42,
+   "contest": 0.66,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s107",
+  "order": 2,
+  "title": "💻SoftBank Hackathon 2026 in Korea｜채용 연계 해커톤",
+  "url": "https://www.allforyoung.com/posts/86209",
+  "site": "요즘것들",
+  "host": "일본 테크놀로지 업계를 선도하는 소프트뱅크",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": null,
+   "contest": true,
+   "category": "hackathon",
+   "note": "채용 연계 해커톤, 주제가 AI인지 불명"
+  },
+  "jev": {
+   "ai": 0.41,
+   "contest": 0.62,
+   "category": "hackathon"
+  }
+ },
+ {
+  "id": "s153",
+  "order": 3,
+  "title": "2026 주식회사 소프트뱅크(SoftBank) 채용 연계 해커톤",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109593",
+  "site": "씽굿",
+  "host": "주식회사 비웰코리아",
+  "eligibility": "대학생, 대학원생, 일반인",
+  "prize": "기타",
+  "desc": "",
+  "draft": {
+   "ai": null,
+   "contest": true,
+   "category": "hackathon",
+   "note": "채용 연계 해커톤, 주제가 AI인지 공고 제목만으로는 불명"
+  },
+  "jev": {
+   "ai": 0.41,
+   "contest": 0.67,
+   "category": "hackathon"
+  }
+ },
+ {
+  "id": "s128",
+  "order": 4,
+  "title": "2026 K-조선 해커톤",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608240042",
+  "site": "콘테스트코리아",
+  "host": "산업통상부",
+  "eligibility": "대학생 , 대학원생",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.38,
+   "contest": 0.62,
+   "category": "hackathon"
+  }
+ },
+ {
+  "id": "s158",
+  "order": 5,
+  "title": "2026 주식회사 소프트뱅크(SoftBank) 채용 연계 해커톤 참가자 모집",
+  "url": "https://linkareer.com/activity/340301",
+  "site": "링커리어",
+  "host": "Progate, KOREC",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": null,
+   "contest": true,
+   "category": "hackathon",
+   "note": "채용 연계 해커톤, 주제가 AI인지 불명"
+  },
+  "jev": {
+   "ai": 0.38,
+   "contest": 0.82,
+   "category": "hackathon"
+  }
+ },
+ {
+  "id": "s102",
+  "order": 6,
+  "title": "제3회 미래융합인재 발굴 소프트웨어 챌린지",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109577",
+  "site": "씽굿",
+  "host": "과학기술정보통신부, 경산시",
+  "eligibility": "고등학생, 일반인",
+  "prize": "1천만원 미만",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.36,
+   "contest": 0.64,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s114",
+  "order": 7,
+  "title": "데이터안심구역 경진대회",
+  "url": "https://event-us.kr/eventdatasafetyzone/event/134171",
+  "site": "이벤터스",
+  "host": "eventdatasafetyzone",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.36,
+   "contest": 0.62,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s264",
+  "order": 8,
+  "title": "K-아이웨어 숏폼 영상 공모전",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609210018",
+  "site": "콘테스트코리아",
+  "host": "대구광역시",
+  "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.65,
+   "contest": 0.76,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s111",
+  "order": 9,
+  "title": "2026 서울 빅데이터 포럼",
+  "url": "https://www.allforyoung.com/posts/87401",
+  "site": "요즘것들",
+  "host": "서울시립대학교",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "포럼"
+  },
+  "jev": {
+   "ai": 0.3,
+   "contest": 0.1,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s139",
+  "order": 10,
+  "title": "SW중심대학사업단 2026년도 제3회 초중고 SW 경진대회",
+  "url": "https://linkareer.com/activity/351358",
+  "site": "링커리어",
+  "host": "과학기술정보통신부",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.28,
+   "contest": 0.61,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s101",
+  "order": 11,
+  "title": "2026년 국가표준식품성분 데이터베이스(DB) 활용 아이디어 공모전",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608270041",
+  "site": "콘테스트코리아",
+  "host": "국립식량과학원, 대한지역사회영양학회",
+  "eligibility": "대학생 , 대학원생 , 일반인",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.27,
+   "contest": 0.76,
+   "category": "idea"
+  }
+ },
+ {
+  "id": "s104",
+  "order": 12,
+  "title": "2026 스페이스 해커톤",
+  "url": "https://www.all-con.co.kr/view/contest/542605",
+  "site": "올콘",
+  "host": "우주항공청",
+  "eligibility": "과학·공학·학술, 일반인, 대학생, 대학원생",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.25,
+   "contest": 0.62,
+   "category": "hackathon"
+  }
+ },
+ {
+  "id": "s148",
+  "order": 13,
+  "title": "청소년 로봇대회 제2회 유스올림피아드",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110995",
+  "site": "위비티",
+  "host": "중원유스센터",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.25,
+   "contest": 0.52,
+   "category": "youth"
+  }
+ },
+ {
+  "id": "s140",
+  "order": 14,
+  "title": "제5회 세명컴퓨터고 중학생 SW 아이디어 공모전",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110223",
+  "site": "위비티",
+  "host": "세명컴퓨터고",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "SW 아이디어(중학생)"
+  },
+  "jev": {
+   "ai": 0.23,
+   "contest": 0.62,
+   "category": "idea"
+  }
+ },
+ {
+  "id": "s004",
+  "order": 15,
+  "title": "제2회 직스캐드 AX 경진대회",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110589",
+  "site": "위비티",
+  "host": "직스테크놀로지",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": null,
+   "contest": true,
+   "category": "dev",
+   "note": "AX(AI 전환) 경진대회, AI 사용 필수인지 불명"
+  },
+  "jev": {
+   "ai": 0.22,
+   "contest": 0.57,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s116",
+  "order": 16,
+  "title": "제32회 전국 창의성 IT코딩 경시대회",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609160066",
+  "site": "콘테스트코리아",
+  "host": "사단법인 한국학원총연합회 경기도지회 / 경기도 컴퓨터교육협의회",
+  "eligibility": "초등학생 , 중학생 , 고등학생 , 대학생",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.22,
+   "contest": 0.47,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s126",
+  "order": 17,
+  "title": "성남시 청소년 로봇대회 「제2회 유스올림피아드」",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110837",
+  "site": "씽굿",
+  "host": "중원유스센터",
+  "eligibility": "초등학생, 중학생, 고등학생",
+  "prize": "30만원",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.21,
+   "contest": 0.51,
+   "category": "youth"
+  }
+ },
+ {
+  "id": "s106",
+  "order": 18,
+  "title": "제5회 세명컴퓨터고 SW 아이디어 공모전",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608180048",
+  "site": "콘테스트코리아",
+  "host": "세명컴퓨터고등학교",
+  "eligibility": "중학생",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "SW 아이디어(중학생)"
+  },
+  "jev": {
+   "ai": 0.21,
+   "contest": 0.6,
+   "category": "idea"
+  }
+ },
+ {
+  "id": "s115",
+  "order": 19,
+  "title": "2026대학생 프로그래밍 경시대회",
+  "url": "https://linkareer.com/activity/349550",
+  "site": "링커리어",
+  "host": "과학기술정보통신부",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.17,
+   "contest": 0.62,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s159",
+  "order": 20,
+  "title": "2026 제5회 오픈소스 SW개발 경진대회",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110981",
+  "site": "위비티",
+  "host": "과학기술정보통신부, 정보통신기획평가원",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.17,
+   "contest": 0.63,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s112",
+  "order": 21,
+  "title": "2026년도 메타버스 학교안전문화 확산 공모전",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110045",
+  "site": "씽굿",
+  "host": "서울특별시학교안전공제회",
+  "eligibility": "초등학생, 중학생, 고등학생, 지역 제한, 기타",
+  "prize": "100만원",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.16,
+   "contest": 0.75,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s125",
+  "order": 22,
+  "title": "﻿제6회 그린리모델링 챌린지 대학생 해커톤",
+  "url": "https://www.all-con.co.kr/view/contest/541485",
+  "site": "올콘",
+  "host": "국토교통부",
+  "eligibility": "과학·공학·학술, 대학생",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "hackathon",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.13,
+   "contest": 0.62,
+   "category": "hackathon"
+  }
+ },
+ {
+  "id": "s110",
+  "order": 23,
+  "title": "2026 한국 전자전(KES) 서울 XR 테마관: XR TERMINAL",
+  "url": "https://www.allforyoung.com/posts/87933",
+  "site": "요즘것들",
+  "host": "서울경제진흥원(sba) | 서울XR센터",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "전시 행사"
+  },
+  "jev": {
+   "ai": 0.12,
+   "contest": 0.18,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s121",
+  "order": 24,
+  "title": "ZEP School 메타버스 교과 콘텐츠 제작 공모전",
+  "url": "https://www.all-con.co.kr/view/contest/541747",
+  "site": "올콘",
+  "host": "주식회사 젭",
+  "eligibility": "기타(예체능, e스포츠 등), 일반인, 초등학생, 중학생, 고등학생, 기타",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.12,
+   "contest": 0.76,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s011",
+  "order": 25,
+  "title": "제2회 ZYXCAD AX 경진대회",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608310001",
+  "site": "콘테스트코리아",
+  "host": "(주)직스테크놀로지",
+  "eligibility": "고등학생 , 대학생",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": null,
+   "contest": true,
+   "category": "dev",
+   "note": "AX(AI 전환) 경진대회, AI 사용 필수인지 불명"
+  },
+  "jev": {
+   "ai": 0.12,
+   "contest": 0.49,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s129",
+  "order": 26,
+  "title": "[SDU COSS] 미래 개발자를 위한 안전한 소프트웨어 개발 대회!",
+  "url": "https://www.allforyoung.com/posts/87316",
+  "site": "요즘것들",
+  "host": "과학기술정보통신부·교육부·행정안전부",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.08,
+   "contest": 0.72,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s100",
+  "order": 27,
+  "title": "2026년 위치정보 사업자를 위한 클라우드 인프라 지원사업 참여기업 모집",
+  "url": "https://www.all-con.co.kr/view/contest/537905",
+  "site": "올콘",
+  "host": "방송미디어통신위원회",
+  "eligibility": "과학·공학·학술, 제한없음",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "지원사업"
+  },
+  "jev": {
+   "ai": 0.07,
+   "contest": 0.24,
+   "category": "other"
+  }
+ },
+ {
+  "id": "s117",
+  "order": 28,
+  "title": "2026 COSS 차세대반도체 Microcontroller(MCU) 응용경진대회",
+  "url": "https://linkareer.com/activity/334310",
+  "site": "링커리어",
+  "host": "차세대반도체 혁신융합대학사업단",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.07,
+   "contest": 0.69,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s144",
+  "order": 29,
+  "title": "SDU COSS와 함께하는 소개딩 (소프트웨어 개발보안 시큐어코딩 경진대회)",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110836",
+  "site": "위비티",
+  "host": "과학기술정보통신부·교육부·행정안전부",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.05,
+   "contest": 0.67,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s145",
+  "order": 30,
+  "title": "Fusion소프트웨어를 이용한 3D 모델링 디자인",
+  "url": "https://linkareer.com/activity/327794",
+  "site": "링커리어",
+  "host": "주식회사 엠듀",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": null,
+   "category": "creative",
+   "note": "교육 과정일 수 있음"
+  },
+  "jev": {
+   "ai": 0.04,
+   "contest": 0.13,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s214",
+  "order": 31,
+  "title": "[aT KAMIS] 2026 KAMIS 활용사례 공모전 안내",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609180023",
+  "site": "콘테스트코리아",
+  "host": "농림축산식품부, aT 한국농수산식품유통공사",
+  "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": "활용사례 공모"
+  },
+  "jev": {
+   "ai": 0.48,
+   "contest": 0.78,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s059",
+  "order": 32,
+  "title": "중소기업 AX 우수사례 공모전",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110424",
+  "site": "씽굿",
+  "host": "중소벤처기업부",
+  "eligibility": "일반인, 기업",
+  "prize": "기타",
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "idea",
+   "note": "AX 우수사례"
+  },
+  "jev": {
+   "ai": 0.54,
+   "contest": 0.73,
+   "category": "startup"
+  }
+ },
+ {
+  "id": "s109",
+  "order": 33,
+  "title": "2026년 한국식품안전관리인증원 공공데이터 분석·활용 경진대회",
+  "url": "https://www.all-con.co.kr/view/contest/541893",
+  "site": "올콘",
+  "host": "한국식품안전관리인증원",
+  "eligibility": "제한없음",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "data",
+   "note": "공공데이터 분석·활용"
+  },
+  "jev": {
+   "ai": 0.55,
+   "contest": 0.65,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s137",
+  "order": 34,
+  "title": "데이터 분석 공모전 연합동아리 Discovery",
+  "url": "https://www.all-con.co.kr/view/contest/527680",
+  "site": "올콘",
+  "host": "Discovery",
+  "eligibility": "일반인, 대학생, 대학원생",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "동아리 모집"
+  },
+  "jev": {
+   "ai": 0.58,
+   "contest": 0.34,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s270",
+  "order": 35,
+  "title": "2027 제6회 BIKAF IN 루브르 미술 공모전 & 루브르 국제전시회",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110235",
+  "site": "위비티",
+  "host": "비카프",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.42,
+   "contest": 0.66,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s141",
+  "order": 36,
+  "title": "2026년 충청남도 데이터 분석 아이디어 공모전",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110429",
+  "site": "위비티",
+  "host": "충청남도",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "data",
+   "note": "데이터 분석 아이디어"
+  },
+  "jev": {
+   "ai": 0.62,
+   "contest": 0.74,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s152",
+  "order": 37,
+  "title": "빅데이터 공모전 연합동아리 LOGICAL",
+  "url": "https://www.all-con.co.kr/view/contest/527678",
+  "site": "올콘",
+  "host": "LOGICAL",
+  "eligibility": "일반인, 대학생, 대학원생",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "동아리 모집"
+  },
+  "jev": {
+   "ai": 0.63,
+   "contest": 0.46,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s206",
+  "order": 38,
+  "title": "2026 디지털윤리 창작콘텐츠 공모전",
+  "url": "https://www.all-con.co.kr/view/contest/541627",
+  "site": "올콘",
+  "host": "방송미디어통신위원회/한…",
+  "eligibility": "디자인·그림·웹툰, 제한없음",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.34,
+   "contest": 0.71,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s044",
+  "order": 39,
+  "title": "2026년 DMC 이노베이션 캠프 창업경진대회(DMC2026)",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110914",
+  "site": "씽굿",
+  "host": "(재)DMC산학협력재단",
+  "eligibility": "대학생, 대학원생, 일반인, 기업",
+  "prize": "1000만원",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.28,
+   "contest": 0.65,
+   "category": "startup"
+  }
+ },
+ {
+  "id": "s267",
+  "order": 40,
+  "title": "2026년 산업안보 논문경진대회(한국산업안보학회, 국가정보원)",
+  "url": "https://www.allforyoung.com/posts/83251",
+  "site": "요즘것들",
+  "host": "한국산업안보학회, 국가정보원",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "academic",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.23,
+   "contest": 0.6,
+   "category": "academic"
+  }
+ },
+ {
+  "id": "s187",
+  "order": 41,
+  "title": "Challenges 2026년 ConTech Meet-up Day",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609080060",
+  "site": "콘테스트코리아",
+  "host": "창업진흥원, 연구개발특구진흥재단, 한국전자기술연구원 외",
+  "eligibility": "일반인 , 해당자 ▶",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "밋업 행사"
+  },
+  "jev": {
+   "ai": 0.22,
+   "contest": 0.27,
+   "category": "hackathon"
+  }
+ },
+ {
+  "id": "s034",
+  "order": 42,
+  "title": "2026 창업 경진대회",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110772",
+  "site": "위비티",
+  "host": "안동시",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.21,
+   "contest": 0.63,
+   "category": "startup"
+  }
+ },
+ {
+  "id": "s012",
+  "order": 43,
+  "title": "2027 KT&G 국제 대학생 창업교류전(ASVF) 한국대표 모집",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110283",
+  "site": "씽굿",
+  "host": "한국경제신문",
+  "eligibility": "대학생, 대학원생, 기타",
+  "prize": "$2000",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.18,
+   "contest": 0.78,
+   "category": "startup"
+  }
+ },
+ {
+  "id": "s237",
+  "order": 44,
+  "title": "디자인 잇 어워드 챌린지 2026",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110845",
+  "site": "씽굿",
+  "host": "(사)한국디자인산업연합회",
+  "eligibility": "대학생",
+  "prize": "기타",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.18,
+   "contest": 0.67,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s028",
+  "order": 45,
+  "title": "2026 창업아이디어 공모경진대회",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609140022",
+  "site": "콘테스트코리아",
+  "host": "원주시여성기업인연합회",
+  "eligibility": "대학생 , 일반인 , 해당자 ▶",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.17,
+   "contest": 0.71,
+   "category": "startup"
+  }
+ },
+ {
+  "id": "s097",
+  "order": 46,
+  "title": "(2026 서울 AI 로봇쇼) 시민 로봇 챌린지",
+  "url": "https://event-us.kr/teamgrit/event/135837",
+  "site": "이벤터스",
+  "host": "teamgrit",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "AI 로봇쇼 로봇 챌린지"
+  },
+  "jev": {
+   "ai": 0.84,
+   "contest": 0.63,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s255",
+  "order": 47,
+  "title": "2026 GMIF 단편영화 작품공모",
+  "url": "https://linkareer.com/activity/351808",
+  "site": "링커리어",
+  "host": "롱메트라지필름",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.16,
+   "contest": 0.81,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s052",
+  "order": 48,
+  "title": "상상을 현실로, AI로 그리는 삼척의 미래",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110878",
+  "site": "씽굿",
+  "host": "삼척시청",
+  "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+  "prize": "200만원",
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "AI로 그리는 삼척의 미래(AI 이미지)"
+  },
+  "jev": {
+   "ai": 0.84,
+   "contest": 0.46,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s015",
+  "order": 49,
+  "title": "제17회 장영실창업발명대전 모두의 도전",
+  "url": "https://www.all-con.co.kr/view/contest/540752",
+  "site": "올콘",
+  "host": "중소벤처기업부, 교육부…",
+  "eligibility": "제한없음",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.15,
+   "contest": 0.64,
+   "category": "startup"
+  }
+ },
+ {
+  "id": "s038",
+  "order": 50,
+  "title": "2026 마포 청년 창업 아이디어 경진대회 MAPO NEXT STAGE",
+  "url": "https://www.allforyoung.com/posts/87629",
+  "site": "요즘것들",
+  "host": "마포청년창업취업지원센터 나루",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "startup",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.15,
+   "contest": 0.65,
+   "category": "startup"
+  }
+ },
+ {
+  "id": "s272",
+  "order": 51,
+  "title": "2026 전북지역 중·고등학교여학생 공학탐구 경진대회",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110646",
+  "site": "위비티",
+  "host": "한국여성과학기술인육성재단(WISET)",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "youth",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.15,
+   "contest": 0.61,
+   "category": "youth"
+  }
+ },
+ {
+  "id": "s249",
+  "order": 52,
+  "title": "제1회 숏폼 크리에이터 챌린지",
+  "url": "https://linkareer.com/activity/346685",
+  "site": "링커리어",
+  "host": "서울호서예술실용전문학교",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.15,
+   "contest": 0.58,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s072",
+  "order": 53,
+  "title": "2026 대구 관광 혁신 아이디어 공모전",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609150017",
+  "site": "콘테스트코리아",
+  "host": "대구광역시",
+  "eligibility": "대학생 , 일반인 , 해당자 ▶",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.15,
+   "contest": 0.74,
+   "category": "tourism"
+  }
+ },
+ {
+  "id": "s183",
+  "order": 54,
+  "title": "[한국능률협회컨설팅] 제22회 경영혁신 대학(원)생 공모전",
+  "url": "https://linkareer.com/activity/347596",
+  "site": "링커리어",
+  "host": "한국능률협회컨설팅",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.15,
+   "contest": 0.66,
+   "category": "idea"
+  }
+ },
+ {
+  "id": "s009",
+  "order": 55,
+  "title": "Meta와 함께하는 AI 페스티벌",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110120",
+  "site": "씽굿",
+  "host": "사단법인 디지털리터러시협회",
+  "eligibility": "기타",
+  "prize": "500만원",
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": null,
+   "category": "other",
+   "note": "페스티벌, 경연 여부 불명"
+  },
+  "jev": {
+   "ai": 0.85,
+   "contest": 0.37,
+   "category": "hackathon"
+  }
+ },
+ {
+  "id": "s202",
+  "order": 56,
+  "title": "BIKAF IN 루브르 미술공모전",
+  "url": "https://linkareer.com/activity/344032",
+  "site": "링커리어",
+  "host": "비카프",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.14,
+   "contest": 0.63,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s103",
+  "order": 57,
+  "title": "2026 충남권역 모빌리티 자율주행 경진대회",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110780",
+  "site": "씽굿",
+  "host": "호서대학교",
+  "eligibility": "지역 제한",
+  "prize": "50만원",
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "자율주행"
+  },
+  "jev": {
+   "ai": 0.86,
+   "contest": 0.67,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s209",
+  "order": 58,
+  "title": "2026년 제7회 공공저작물 활용 사례 공모전",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608140016",
+  "site": "콘테스트코리아",
+  "host": "문화체육관광부",
+  "eligibility": "해당자 ▶",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.13,
+   "contest": 0.69,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s149",
+  "order": 59,
+  "title": "2027 경기도 대학생 자율주행 경진대회 N 새글",
+  "url": "https://www.all-con.co.kr/view/contest/542910",
+  "site": "올콘",
+  "host": "경기도",
+  "eligibility": "대학생",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": "자율주행"
+  },
+  "jev": {
+   "ai": 0.88,
+   "contest": 0.69,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s081",
+  "order": 60,
+  "title": "2026 이순신관광체험센터 미디어월 미디어아트 공모전",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110574",
+  "site": "위비티",
+  "host": "아산시청",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.12,
+   "contest": 0.75,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s227",
+  "order": 61,
+  "title": "[KOICA] 2026 인도적 지원 청년・대학생 아이디어 경진대회",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110852",
+  "site": "씽굿",
+  "host": "KOICA",
+  "eligibility": "대학생, 대학원생, 일반인, 기타",
+  "prize": "200만원",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.12,
+   "contest": 0.75,
+   "category": "idea"
+  }
+ },
+ {
+  "id": "s056",
+  "order": 62,
+  "title": "2026 글로벌도시관광 콘텐츠 공모전",
+  "url": "https://www.allforyoung.com/posts/86232",
+  "site": "요즘것들",
+  "host": "부산시, TPO, BTO",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.11,
+   "contest": 0.74,
+   "category": "tourism"
+  }
+ },
+ {
+  "id": "s027",
+  "order": 63,
+  "title": "KoMaP AI 경진대회",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609130002",
+  "site": "콘테스트코리아",
+  "host": "산업통상부,한국산업기술진흥원",
+  "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "제조 AI 경진대회"
+  },
+  "jev": {
+   "ai": 0.89,
+   "contest": 0.58,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s250",
+  "order": 64,
+  "title": "인스타그램 콘텐츠 공모전 'Flip'",
+  "url": "https://linkareer.com/activity/338974",
+  "site": "링커리어",
+  "host": "MnJ문화복지재단",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.11,
+   "contest": 0.69,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s268",
+  "order": 65,
+  "title": "제8회 어도사진·숏폼 공모전",
+  "url": "https://www.all-con.co.kr/view/contest/541066",
+  "site": "올콘",
+  "host": "해양수산부",
+  "eligibility": "제한없음",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.11,
+   "contest": 0.71,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s215",
+  "order": 66,
+  "title": "2026 아이즈모바일 영상 공모전",
+  "url": "https://www.all-con.co.kr/view/contest/538819",
+  "site": "올콘",
+  "host": "아이즈비전",
+  "eligibility": "제한없음",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.1,
+   "contest": 0.72,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s188",
+  "order": 67,
+  "title": "2026 자원봉사 경진대회",
+  "url": "https://linkareer.com/activity/334714",
+  "site": "링커리어",
+  "host": "경상남도자원봉사센터",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "other",
+   "note": "자원봉사 우수사례 경진"
+  },
+  "jev": {
+   "ai": 0.1,
+   "contest": 0.64,
+   "category": "other"
+  }
+ },
+ {
+  "id": "s195",
+  "order": 68,
+  "title": "용인도시공사 2026 ESG경영 아이디어 공모전",
+  "url": "https://linkareer.com/activity/348577",
+  "site": "링커리어",
+  "host": "용인도시공사",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.1,
+   "contest": 0.78,
+   "category": "idea"
+  }
+ },
+ {
+  "id": "s275",
+  "order": 69,
+  "title": "2026 기본사회위원회 정책 아이디어 공모전",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109786",
+  "site": "씽굿",
+  "host": "기본사회위원회",
+  "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+  "prize": "700만원",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "idea",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.1,
+   "contest": 0.78,
+   "category": "idea"
+  }
+ },
+ {
+  "id": "s016",
+  "order": 70,
+  "title": "2026 ﻿국가산림문화자산AI 숏폼 영상 공모전",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109846",
+  "site": "위비티",
+  "host": "산림청, 복권위원회, 한국산림복지진흥원",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.92,
+   "contest": 0.75,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s186",
+  "order": 71,
+  "title": "솜씨셀렉트 숏필름 공모전",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110368",
+  "site": "위비티",
+  "host": "솜씨당",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.08,
+   "contest": 0.78,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s238",
+  "order": 72,
+  "title": "2026년 경산시 숏폼 영상 공모전",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109945",
+  "site": "위비티",
+  "host": "경산시",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.07,
+   "contest": 0.74,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s008",
+  "order": 73,
+  "title": "2026 9월 제주 관광 데이터 한 판! AI 데이터 활용 챌린지",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110613",
+  "site": "씽굿",
+  "host": "제주관광공사",
+  "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 기업, 제한 없음",
+  "prize": "네이버페이 포인트 1만원 : 총 50명",
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": "관광 데이터 AI 활용 챌린지"
+  },
+  "jev": {
+   "ai": 0.94,
+   "contest": 0.71,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s067",
+  "order": 74,
+  "title": "2026 전주 관광 홍보 숏폼 영상 공모전",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111007",
+  "site": "씽굿",
+  "host": "전주관광재단",
+  "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+  "prize": "100만",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.06,
+   "contest": 0.8,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s057",
+  "order": 75,
+  "title": "2026 AI 캐릭터창작공모전",
+  "url": "https://www.allforyoung.com/posts/86272",
+  "site": "요즘것들",
+  "host": "(사)캐릭터디자이너협",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.95,
+   "contest": 0.71,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s026",
+  "order": 76,
+  "title": "2026 고성 해양심층수 브랜드 AI 영상 공모전",
+  "url": "https://www.all-con.co.kr/view/contest/542723",
+  "site": "올콘",
+  "host": "해양심층수산업 고성진흥…",
+  "eligibility": "일반인, 대학생, 대학원생",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.95,
+   "contest": 0.78,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s099",
+  "order": 77,
+  "title": "2026 디지털헤리티지페스타 AI 헤리티지 공모전",
+  "url": "https://www.all-con.co.kr/view/contest/542151",
+  "site": "올콘",
+  "host": "공주시",
+  "eligibility": "제한없음",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.95,
+   "contest": 0.72,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s078",
+  "order": 78,
+  "title": "전국민 AI 역량강화 정책 슬로건 공모전",
+  "url": "https://www.all-con.co.kr/view/contest/542749",
+  "site": "올콘",
+  "host": "한국정보통신기술협회",
+  "eligibility": "제한없음",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": "AI 정책 슬로건, 주제가 AI"
+  },
+  "jev": {
+   "ai": 0.95,
+   "contest": 0.77,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s077",
+  "order": 79,
+  "title": "2026 AI 활용 저작권 콘텐츠 공모전",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110676",
+  "site": "씽굿",
+  "host": "문화체육관광부, 한국저작권위원회",
+  "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+  "prize": "100만원",
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.95,
+   "contest": 0.74,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s218",
+  "order": 80,
+  "title": "2026년 지리적표시(PGI) 홍보 영상 공모전",
+  "url": "https://linkareer.com/activity/350666",
+  "site": "링커리어",
+  "host": "국립농산물품질관리원",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.05,
+   "contest": 0.8,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s233",
+  "order": 81,
+  "title": "명지대학교 제 21회 MUFF 영상제 (기억)",
+  "url": "https://linkareer.com/activity/346657",
+  "site": "링커리어",
+  "host": "명지대학교 방송국",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.05,
+   "contest": 0.12,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s074",
+  "order": 82,
+  "title": "2026 청주영상위원회 AI 영상 공모전",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109988",
+  "site": "위비티",
+  "host": "청주시",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.95,
+   "contest": 0.73,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s055",
+  "order": 83,
+  "title": "2026 경북농협 농산물 AI 숏폼 대학생 공모전",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111038",
+  "site": "위비티",
+  "host": "농협경제지주 경북본부",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.96,
+   "contest": 0.76,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s070",
+  "order": 84,
+  "title": "[총상금 2,750만원] 2026 데이터+AI 혁신챌린지 데이터안심구역 경진대회",
+  "url": "https://linkareer.com/activity/349718",
+  "site": "링커리어",
+  "host": "(주)프리하라",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "data",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.96,
+   "contest": 0.79,
+   "category": "data"
+  }
+ },
+ {
+  "id": "s018",
+  "order": 85,
+  "title": "2026 별별화성 Awards 화성특례시 AI CF 공모전",
+  "url": "https://www.all-con.co.kr/view/contest/542738",
+  "site": "올콘",
+  "host": "화성특례시",
+  "eligibility": "기타(예체능, e스포츠 등), 제한없음",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.96,
+   "contest": 0.66,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s025",
+  "order": 86,
+  "title": "제4회 경남AI·SW 경진대회",
+  "url": "https://www.allforyoung.com/posts/87681",
+  "site": "요즘것들",
+  "host": "경상남도, 창원특례시, 진주시/(사)경남인공ICT협회, 경남테크노파크, 경상국립대학교",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.96,
+   "contest": 0.5,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s096",
+  "order": 87,
+  "title": "2026년 오산시 관광기념품 공모전",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608250030",
+  "site": "콘테스트코리아",
+  "host": "오산시",
+  "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.04,
+   "contest": 0.69,
+   "category": "tourism"
+  }
+ },
+ {
+  "id": "s257",
+  "order": 88,
+  "title": "제2회 Poetry Canvas 전국 온라인 백일장",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609110001",
+  "site": "콘테스트코리아",
+  "host": "한국문예미디어",
+  "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.04,
+   "contest": 0.65,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s013",
+  "order": 89,
+  "title": "[KITA 80주년 기념] 청소년 무역 창업 정책제안 발표대회",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110402",
+  "site": "위비티",
+  "host": "한국청소년동아리연맹",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "youth",
+   "note": "청소년 무역·창업·정책 발표대회"
+  },
+  "jev": {
+   "ai": 0.04,
+   "contest": 0.65,
+   "category": "idea"
+  }
+ },
+ {
+  "id": "s029",
+  "order": 90,
+  "title": "2026년 청도군 관광&맛집 숏폼 영상 공모전",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110206",
+  "site": "씽굿",
+  "host": "청도군",
+  "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+  "prize": "100만원",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.03,
+   "contest": 0.79,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s212",
+  "order": 91,
+  "title": "제2회 아리랑 신인문학상",
+  "url": "https://www.allforyoung.com/posts/87286",
+  "site": "요즘것들",
+  "host": "정선군,정선아리랑문화재단,강원도민일보",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.03,
+   "contest": 0.35,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s054",
+  "order": 92,
+  "title": "2026 제4회 해양레저관광 사진 공모전",
+  "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=107305",
+  "site": "씽굿",
+  "host": "해양수산부, 경기도",
+  "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+  "prize": "200만원",
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "tourism",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.03,
+   "contest": 0.75,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s010",
+  "order": 93,
+  "title": "제5회 2026 대한민국 고등학생 AI•SW 개발 공모전",
+  "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110530",
+  "site": "위비티",
+  "host": "한국인공지능•소프트웨어산업협회",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "dev",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.97,
+   "contest": 0.63,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s073",
+  "order": 94,
+  "title": "[방송미디어통신위원회] 생성형AI 위험성 찾기 이벤트",
+  "url": "https://linkareer.com/activity/352202",
+  "site": "링커리어",
+  "host": "한국정보통신진흥협회",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": null,
+   "category": "other",
+   "note": "생성형AI 위험성 찾기 '이벤트'"
+  },
+  "jev": {
+   "ai": 0.97,
+   "contest": 0.67,
+   "category": "dev"
+  }
+ },
+ {
+  "id": "s051",
+  "order": 95,
+  "title": "2026 AI 농산물 가격예측 해커톤 ",
+  "url": "https://event-us.kr/illusionists1004/event/135490",
+  "site": "이벤터스",
+  "host": "illusionists1004",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": true,
+   "contest": true,
+   "category": "hackathon",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.97,
+   "contest": 0.68,
+   "category": "hackathon"
+  }
+ },
+ {
+  "id": "s205",
+  "order": 96,
+  "title": "제10회 서귀포문학작품공모전",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202606150031",
+  "site": "콘테스트코리아",
+  "host": "제주특별자치도 서귀포시",
+  "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.02,
+   "contest": 0.6,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s046",
+  "order": 97,
+  "title": "완주문화관광재단 완두라면 굿즈 패키지 디자인 공모전",
+  "url": "https://www.all-con.co.kr/view/contest/541989",
+  "site": "올콘",
+  "host": "완주문화관광재단",
+  "eligibility": "디자인·그림·웹툰, 제한없음",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.02,
+   "contest": 0.75,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s245",
+  "order": 98,
+  "title": "2026년 비봉습지공원 생태·경관 사진 공모전",
+  "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608100004",
+  "site": "콘테스트코리아",
+  "host": "화성시환경재단",
+  "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": true,
+   "category": "creative",
+   "note": ""
+  },
+  "jev": {
+   "ai": 0.02,
+   "contest": 0.74,
+   "category": "creative"
+  }
+ },
+ {
+  "id": "s033",
+  "order": 99,
+  "title": "'더로드쉐프 한강' 전국 청년 셰프 및 외식 창업가 모집",
+  "url": "https://www.allforyoung.com/posts/87652",
+  "site": "요즘것들",
+  "host": "(사)한국문화기획학교",
+  "eligibility": null,
+  "prize": null,
+  "desc": "",
+  "draft": {
+   "ai": false,
+   "contest": false,
+   "category": "other",
+   "note": "셰프·창업가 모집 프로그램"
+  },
+  "jev": {
+   "ai": 0.02,
+   "contest": 0.48,
+   "category": "startup"
+  }
+ }
+]
