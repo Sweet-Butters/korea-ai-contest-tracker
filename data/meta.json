@@ -1,43 +1,43 @@
 {
- "runDate": "2026-09-25",
+ "runDate": "2026-09-26",
  "llm": false,
  "jev": true,
  "sources": {
   "씽굿": {
-   "fetched": 679,
+   "fetched": 674,
    "kept": 121,
    "error": null,
-   "seconds": 306
+   "seconds": 424
   },
   "올콘": {
-   "fetched": 499,
+   "fetched": 498,
    "kept": 77,
    "error": null,
    "seconds": 35
   },
   "링커리어": {
-   "fetched": 869,
-   "kept": 162,
+   "fetched": 861,
+   "kept": 161,
    "error": null,
-   "seconds": 38
+   "seconds": 42
   },
   "요즘것들": {
-   "fetched": 347,
+   "fetched": 345,
    "kept": 73,
    "error": null,
    "seconds": 14
   },
   "콘테스트코리아": {
-   "fetched": 606,
-   "kept": 78,
+   "fetched": 607,
+   "kept": 76,
    "error": null,
-   "seconds": 168
+   "seconds": 311
   },
   "위비티": {
-   "fetched": 824,
+   "fetched": 818,
    "kept": 127,
    "error": null,
-   "seconds": 82
+   "seconds": 73
   },
   "DACON": {
    "fetched": 15,
@@ -52,14 +52,14 @@
    "seconds": 2
   },
   "이벤터스": {
-   "fetched": 78,
-   "kept": 19,
+   "fetched": 79,
+   "kept": 20,
    "error": null,
    "seconds": 29
   },
   "Dev-Event": {
-   "fetched": 30,
-   "kept": 18,
+   "fetched": 29,
+   "kept": 17,
    "error": null,
    "seconds": 0
   },
@@ -67,7 +67,7 @@
    "fetched": 27,
    "kept": 15,
    "error": null,
-   "seconds": 7
+   "seconds": 3
   },
   "스타트업레시피": {
    "fetched": 41,
