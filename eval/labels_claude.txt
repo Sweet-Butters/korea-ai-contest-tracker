@@ -1,0 +1,101 @@
+# id ai contest category [메모]  (1=예 0=아니오 ?=애매) — Claude가 공고 본문을 열어 판단
+s036 0 1 tourism 제주 관광데이터 활용사례 공모, 모델 개발 아님
+s124 0 1 data 공공데이터 활용, 본문 확인 실패
+s107 ? 1 hackathon 클라우드 활용 사회문제 해결, AI 명시 없음
+s153 ? 1 hackathon 같은 대회(씽굿), 응모분야 게임/SW
+s128 ? 1 hackathon 조선 AX, 본문에 AI 명시 없음
+s158 ? 1 hackathon 같은 대회(링커리어)
+s102 0 1 dev SW 아이디어 공모, 고등부/일반부
+s114 1 1 data 미개방데이터 분석·활용 경진
+s264 0 1 creative 숏폼 영상
+s111 0 0 other 포럼 참가, 대회 아님
+s139 0 1 youth 초중고 SW 경진, 경북 소재 학생
+s101 0 1 idea 식품성분 DB 활용 아이디어
+s104 0 1 hackathon 위성정보 활용, 본문 확인 실패
+s148 0 1 youth 청소년 로봇대회
+s140 0 1 youth 중학생 SW 아이디어
+s004 1 1 dev AX 경진대회(CAD+AI 전환)
+s116 0 1 dev 코딩 경시, 초등~대학생
+s126 0 1 youth 청소년 로봇대회(성남)
+s106 0 1 youth 중학생 SW 아이디어, 이메일 접수
+s115 0 1 dev 대학생 프로그래밍 경시
+s159 0 1 dev 오픈소스 SW 개발
+s112 0 1 youth 메타버스 학교안전, 서울 초중고
+s125 0 1 hackathon 그린리모델링 대학생 해커톤, 본문 실패
+s110 0 0 other 전시 참관, 대회 아님
+s121 0 1 creative 메타버스 교과 콘텐츠 제작, 본문 실패
+s011 1 1 dev ZYXCAD AX 경진, AI 전환 주제
+s129 0 1 dev 시큐어코딩 개발 대회
+s100 0 1 funding 클라우드 인프라 지원사업, 본문 실패
+s117 0 1 dev 반도체 MCU 응용 경진
+s144 0 1 dev 시큐어코딩(소개딩)
+s145 0 1 creative 3D 모델링 디자인 공모
+s214 0 1 idea KAMIS 활용사례 공모
+s059 1 1 idea 중소기업 AX 우수사례 수기, AI 도입 사례
+s109 0 1 data 공공데이터 분석·활용 경진, 본문 실패
+s137 0 0 other 동아리 모집, 대회 아님
+s270 0 1 creative 미술 공모전
+s141 ? 1 data 데이터 분석 아이디어, 모델링 여부 불명
+s152 0 0 other 동아리 모집, 대회 아님
+s206 0 1 creative 디지털윤리 창작콘텐츠, 본문 실패
+s044 0 1 startup 창업경진대회, 사업계획서 제출
+s267 0 1 academic 논문경진대회
+s187 0 1 startup 기업 제안·밋업, 스타트업 대상
+s034 0 1 startup 창업 경진대회
+s012 0 1 startup 대학생 창업교류전 한국대표 선발
+s237 0 1 creative 디자인 어워드
+s028 0 1 startup 창업아이디어 경진(원주시 여성)
+s097 0 0 other 로봇 체험 행사, 대회 아님
+s255 0 1 creative 단편영화 공모
+s052 1 1 creative AI로 그리는 삼척, 생성형 AI 영상
+s015 0 1 startup 창업발명대전, 본문 실패
+s038 0 1 startup 마포 청년 창업 아이디어
+s272 0 1 youth 여학생 공학탐구, 중·고생
+s249 0 1 creative 숏폼 크리에이터 챌린지
+s072 0 1 tourism 대구 관광 혁신 아이디어
+s183 0 1 idea 경영혁신 공모전
+s009 1 1 creative Meta AI 페스티벌, AI로 만든 영상
+s202 0 1 creative 미술 공모전(루브르)
+s103 1 1 dev 자율주행 경진대회
+s209 0 1 idea 공공저작물 활용 사례
+s149 1 1 dev 자율주행 경진, 본문 실패
+s081 0 1 creative 미디어아트 공모
+s227 0 1 idea KOICA 인도적 지원 아이디어
+s056 0 1 tourism 도시관광 콘텐츠 공모
+s027 1 1 data KoMaP AI 경진대회(소재 AI)
+s250 0 1 creative 인스타 콘텐츠 공모
+s268 0 1 creative 사진·숏폼, 본문 실패
+s215 0 1 creative 영상 공모, 본문 실패
+s188 0 1 other 자원봉사 경진대회
+s195 0 1 idea ESG경영 아이디어
+s275 0 1 idea 정책 아이디어
+s016 1 1 creative 국가산림문화자산 AI 숏폼
+s186 0 1 creative 숏필름 공모
+s238 0 1 creative 경산시 숏폼
+s008 1 1 tourism 제주 관광 AI 데이터 활용 챌린지
+s067 0 1 tourism 전주 관광 숏폼
+s057 1 1 creative AI 캐릭터 창작, AI 활용 검증
+s026 1 1 creative 해양심층수 브랜드 AI 영상
+s099 1 1 creative AI 헤리티지 공모(생성형 AI)
+s078 0 1 idea AI 정책 슬로건, AI 사용은 아님
+s077 1 1 creative AI 활용 저작권 콘텐츠
+s218 0 1 creative 지리적표시 홍보 영상
+s233 0 1 creative 대학 영상제
+s074 1 1 creative 청주 AI 영상 공모
+s055 1 1 creative 농산물 AI 숏폼
+s070 1 1 data 데이터+AI 혁신챌린지
+s018 1 1 creative 화성 AI CF 공모
+s025 1 1 dev 경남 AI·SW 경진대회
+s096 0 1 tourism 관광기념품 공모
+s257 0 1 creative 온라인 백일장
+s013 0 1 youth 청소년 무역 창업 정책제안
+s029 0 1 tourism 청도군 관광 숏폼
+s212 0 1 creative 문학상
+s054 0 1 creative 해양레저관광 사진
+s010 1 1 youth 고등학생 AI·SW 개발 공모
+s073 1 1 other 생성형AI 위험성 찾기 이벤트, 대회성 약함
+s051 1 1 hackathon AI 농산물 가격예측 해커톤, 본문 실패
+s205 0 1 creative 문학 공모
+s046 0 1 creative 굿즈 패키지 디자인
+s245 0 1 creative 생태 사진 공모
+s033 0 1 startup 청년 셰프·외식 창업가 모집
