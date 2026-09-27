@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T15:53:44+00:00",
+ "updatedAt": "2026-09-27T20:52:19+00:00",
  "items": [
   {
    "id": "4ceb8f36da",
@@ -614,7 +614,7 @@
    "host": "관악구청, 관악문화재단",
    "applyStart": "2026-08-24",
    "applyEnd": "2026-09-28",
-   "eventDates": "심사 10.01~10.07 발표 10.08 D-0 마감임박 36 //--> --> The 다양한 분야 '2026 일터의 빈틈을 묻다' 공모전 0 주최 . 일환경건강센터 대상 . 대학생 , 대학원생 , 일반인 접수 09.14~10.13 심사 10.14~10.26 발표 10.27",
+   "eventDates": "심사 10.01~10.07 발표 10.08 D-0 마감임박 37 //--> --> The 다양한 분야 '2026 일터의 빈틈을 묻다' 공모전 0 주최 . 일환경건강센터 대상 . 대학생 , 대학원생 , 일반인 접수 09.14~10.13 심사 10.14~10.26 발표 10.27",
    "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
    "category": "academic",
    "aiRelated": false,
@@ -1984,7 +1984,7 @@
    "host": "경기도동두천양주교육지원청",
    "applyStart": "2026-09-14",
    "applyEnd": "2026-09-30",
-   "eventDates": "심사 10.01~10.05 발표 10.06 D-2 마감임박 90 //--> --> 문학•문예 제31회 사랑의 편지쓰기 공모 2 주최 . 바르게살기운동세종시협의회 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶ 접수 10.01~10.31 심사 11.02~11.19 발표 11.20",
+   "eventDates": "심사 10.01~10.05 발표 10.06 D-2 마감임박 91 //--> --> 문학•문예 제31회 사랑의 편지쓰기 공모 2 주최 . 바르게살기운동세종시협의회 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶ 접수 10.01~10.31 심사 11.02~11.19 발표 11.20",
    "eligibility": "초등학생 , 중학생 , 고등학생 , 해당자 ▶",
    "category": "creative",
    "aiRelated": false,
@@ -2023,31 +2023,38 @@
    "name": "2026 미디어아트 영상 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109932",
     "링커리어": "https://linkareer.com/activity/344692",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110361",
     "올콘": "https://www.all-con.co.kr/view/contest/542438",
     "요즘것들": "https://www.allforyoung.com/posts/86500"
    },
    "endBySource": {
     "링커리어": "2026-09-30",
     "올콘": "2026-09-30",
-    "요즘것들": "2026-09-30"
+    "요즘것들": "2026-09-30",
+    "씽굿": "2026-09-30",
+    "위비티": "2026-09-30"
    },
    "seenBySource": {
     "링커리어": "2026-09-28",
     "올콘": "2026-09-28",
-    "요즘것들": "2026-09-28"
+    "요즘것들": "2026-09-28",
+    "씽굿": "2026-09-28",
+    "위비티": "2026-09-28"
    },
-   "host": "발한지구도시재생현장지원센터",
+   "host": "국토교통부, 동해시",
    "applyEnd": "2026-09-30",
    "category": "creative",
    "aiRelated": false,
    "confidence": "low",
-   "url": "https://linkareer.com/activity/344692",
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109932",
    "lastSeen": "2026-09-28",
    "applyStart": "2026-09-01",
-   "eligibility": "제한없음",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "prize": "200만원"
   },
   {
    "id": "8f5b02d6aa",
@@ -2407,53 +2414,33 @@
    "name": "2026 자틴소 채소요리 및 채식식단 레시피 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109783",
+    "링커리어": "https://linkareer.com/activity/346325",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110364"
    },
    "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "제주특별자치도교육청",
-   "applyEnd": "2026-09-30",
-   "category": "other",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110364",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "d6b01fbe3b",
-   "name": "2026 저탄소·채소요리 및 채식식단 레시피 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109783",
-    "링커리어": "https://linkareer.com/activity/346325"
-   },
-   "endBySource": {
+    "위비티": "2026-09-30",
     "씽굿": "2026-09-30",
     "링커리어": "2026-09-30"
    },
    "seenBySource": {
+    "위비티": "2026-09-28",
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28"
    },
    "host": "제주특별자치도교육청",
-   "applyStart": "2026-08-24",
    "applyEnd": "2026-09-30",
-   "prize": "기타",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
    "category": "other",
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109783",
    "lastSeen": "2026-09-28",
-   "region": "제주",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-08-24",
+   "prize": "기타",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "region": "제주"
   },
   {
    "id": "e8c475e7c8",
@@ -3311,8 +3298,8 @@
    "name": "2026년 여수시 규제혁신 아이디어 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110452",
-    "링커리어": "https://linkareer.com/activity/347725",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110665",
+    "링커리어": "https://linkareer.com/activity/349703",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110681"
    },
    "endBySource": {
@@ -3325,15 +3312,15 @@
     "링커리어": "2026-09-28",
     "위비티": "2026-09-28"
    },
-   "host": "동작구시설관리공단",
+   "host": "여수시청",
    "applyStart": "2026-09-01",
    "applyEnd": "2026-09-30",
-   "prize": "30만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "prize": "50만원",
+   "eligibility": "기업, 지역 제한",
    "category": "idea",
    "aiRelated": false,
    "confidence": "low",
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110452",
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110665",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -3561,7 +3548,7 @@
    "host": "두울장학재단",
    "applyStart": "2026-09-01",
    "applyEnd": "2026-09-30",
-   "eventDates": "심사 09.01~09.30 D-2 마감임박 71 //--> --> 문학•문예 코리아 하이쿠 월드 유스 페스티벌 2026 4 주최 . 한국하이쿠연맹 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 10.01~10.21 심사 10.22~01.07 발표 01.08",
+   "eventDates": "심사 09.01~09.30 D-2 마감임박 72 //--> --> 문학•문예 코리아 하이쿠 월드 유스 페스티벌 2026 4 주최 . 한국하이쿠연맹 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 10.01~10.21 심사 10.22~01.07 발표 01.08",
    "eligibility": "대학생",
    "category": "other",
    "aiRelated": false,
@@ -3871,18 +3858,21 @@
    "name": "2026년 하반기 신인문학상 및 원고 공모",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110890",
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609110002"
    },
    "endBySource": {
-    "콘테스트코리아": "2026-09-30"
+    "콘테스트코리아": "2026-09-30",
+    "위비티": "2026-09-30"
    },
    "seenBySource": {
-    "콘테스트코리아": "2026-09-28"
+    "콘테스트코리아": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "한국사진문학협회",
    "applyStart": "2026-09-11",
    "applyEnd": "2026-09-30",
-   "eventDates": "심사 09.11~10.06 발표 10.06 D-2 마감임박 424 //--> --> 네이밍•슬로건 공공언어 개선을 위한 표어 공모전 13 주최 . 사)전국국어문화원연합회 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.07~09.27 심사 10.01~10.13 발표 10.14 심사대기 --> 사진•영상•영화제 출산 장려를 위한 제3회 전국육아동영상 공모전 0 주최 . 주간시흥, K-시니어라이프 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.01~10.10 심사 10.12~10.29 발표 10.30",
+   "eventDates": "심사 09.11~10.06 발표 10.06 D-2 마감임박 427 //--> --> 네이밍•슬로건 공공언어 개선을 위한 표어 공모전 13 주최 . 사)전국국어문화원연합회 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.07~09.27 심사 10.01~10.13 발표 10.14 심사대기 --> 사진•영상•영화제 출산 장려를 위한 제3회 전국육아동영상 공모전 0 주최 . 주간시흥, K-시니어라이프 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.01~10.10 심사 10.12~10.29 발표 10.30",
    "eligibility": "일반인",
    "category": "creative",
    "aiRelated": false,
@@ -4334,7 +4324,7 @@
    "host": "KOOM WEEK",
    "applyStart": "2026-09-04",
    "applyEnd": "2026-09-30",
-   "eventDates": "심사 10.17~10.18 발표 10.18 D-2 마감임박 145 //--> --> 학문•과학•IT 2026 제23회 매일경제 NIE 경진대회 1 주최 . 매일경제·청소년금융교육협의회 대상 . 중학생 , 고등학생 , 해당자 ▶ 접수 08.24~10.12 심사 10.12~12.31 발표 12.31",
+   "eventDates": "심사 10.17~10.18 발표 10.18 D-2 마감임박 146 //--> --> 학문•과학•IT 2026 제23회 매일경제 NIE 경진대회 1 주최 . 매일경제·청소년금융교육협의회 대상 . 중학생 , 고등학생 , 해당자 ▶ 접수 08.24~10.12 심사 10.12~12.31 발표 12.31",
    "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
    "category": "other",
    "aiRelated": false,
@@ -4632,23 +4622,29 @@
    "name": "[국민권익위원회] 생활밀착형 특이민원 예방·해소 아이디어 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111057",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110640"
    },
    "endBySource": {
-    "위비티": "2026-09-30"
+    "위비티": "2026-09-30",
+    "씽굿": "2026-09-30"
    },
    "seenBySource": {
-    "위비티": "2026-09-28"
+    "위비티": "2026-09-28",
+    "씽굿": "2026-09-28"
    },
    "host": "국민권익위원회",
    "applyEnd": "2026-09-30",
    "category": "idea",
    "aiRelated": false,
    "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110640",
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111057",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-09-17",
+   "prize": "기타",
+   "eligibility": "중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 기타"
   },
   {
    "id": "a7bf419e96",
@@ -5814,7 +5810,7 @@
    "host": "어린이 과학 뮤지컬 [꼬마박사 장영실]",
    "applyStart": "2026-09-17",
    "applyEnd": "2026-09-30",
-   "eventDates": "심사 09.17~09.30 D-2 마감임박 29 //--> --> 미술•디자인•웹툰 경상남도교육청 동부학생안전체험원 심볼마크 공모전 0 주최 . 경상남도교육청 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶ 접수 09.10~09.29 심사 10.01~10.09 발표 10.12 D-1 마감임박 64 //--> --> 사진•영상•영화제 2026 한국다지마 회전문 영상 공모전 0 주최 . 위원프로덕션 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.28~10.19 심사 10.20~10.23 발표 10.26",
+   "eventDates": "심사 09.17~09.30 D-2 마감임박 30 //--> --> 미술•디자인•웹툰 경상남도교육청 동부학생안전체험원 심볼마크 공모전 0 주최 . 경상남도교육청 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶ 접수 09.10~09.29 심사 10.01~10.09 발표 10.12 D-1 마감임박 65 //--> --> 사진•영상•영화제 2026 한국다지마 회전문 영상 공모전 1 주최 . 위원프로덕션 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.28~10.19 심사 10.20~10.23 발표 10.26",
    "eligibility": "일반인",
    "category": "youth",
    "aiRelated": false,
@@ -5879,7 +5875,7 @@
    "host": "제리굿컴퍼니",
    "applyStart": "2026-09-10",
    "applyEnd": "2026-09-30",
-   "eventDates": "심사 09.10~09.30 D-2 마감임박 138 //--> --> 사진•영상•영화제 제7회 고양무빙이미지페스티벌 1 주최 . 롱메트라지필름 대상 . 대학생 , 대학원생 , 일반인 접수 09.01~10.18 심사 10.18~11.08 발표 12.26",
+   "eventDates": "심사 09.10~09.30 D-2 마감임박 139 //--> --> 사진•영상•영화제 제7회 고양무빙이미지페스티벌 1 주최 . 롱메트라지필름 대상 . 대학생 , 대학원생 , 일반인 접수 09.01~10.18 심사 10.18~11.08 발표 12.26",
    "eligibility": "일반인",
    "category": "creative",
    "aiRelated": false,
@@ -6067,10 +6063,20 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110187"
    },
    "endBySource": {
-    "위비티": "2026-09-30"
+    "위비티": "2026-09-30",
+    "씽굿": "2026-09-30",
+    "링커리어": "2026-09-30",
+    "올콘": "2026-09-30",
+    "콘테스트코리아": "2026-09-30",
+    "요즘것들": "2026-09-30"
    },
    "seenBySource": {
-    "위비티": "2026-09-28"
+    "위비티": "2026-09-28",
+    "씽굿": "2026-09-28",
+    "링커리어": "2026-09-28",
+    "올콘": "2026-09-28",
+    "콘테스트코리아": "2026-09-28",
+    "요즘것들": "2026-09-28"
    },
    "host": "국토교통부",
    "applyEnd": "2026-09-30",
@@ -6080,20 +6086,27 @@
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109551",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": "2026-11-20",
+   "applyStart": "2026-08-12",
+   "prize": "5,000,000",
+   "eligibility": "어린이, 초등학생, 대학생, 대학원생, 일반인, 제한 없음",
+   "eventDates": "심사 10.01~10.30 D-2 마감임박 143 //--> --> 사진•영상•영화제 2026년 청소년상담1388 숏폼 영상 공모전 0 주최 . 한국청소년상담복지개발원 청소년사이버상담센터 대상 . 초등학생 , 중학생 , 고등학생 접수 09.01~09.30 심사 10.01~10.31 발표 11.02 D-2 마감임박 501 //--> --> 미술•디자인•웹툰 2026 제5회 전국 승가원 장애공감 어린이 그림공모전 2 주최 . 사회복지법인 승가원 대상 . 초등학생 접수 08.24~09.30 심사 10.01~10.14 발표 10.15 D-2 마감임박 246 //--> --> 사진•영상•영화제 [한국양성평등교육진흥원] 2026 성별균형 홍보 콘텐츠 공모전 1 주최 . 한국양성평등교육진흥원 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 08.26~09.28 심사 09.01~10.31 D-0 마감임박 226 //--> --> 미술•디자인•웹툰 pixiv 한국 학생 일러스트 공모전 2026 10 주최 . 픽시브 주식회사 대상 . 고등학생 , 대학생 , 대학원생 , 일반인 접수 09.01~10.15 심사 10.16~11.20"
   },
   {
    "id": "09d5151181",
    "name": "제10회 박훈산백일장",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=108267",
     "링커리어": "https://linkareer.com/activity/328631"
    },
    "endBySource": {
-    "링커리어": "2026-09-30"
+    "링커리어": "2026-09-30",
+    "위비티": "2026-09-30"
    },
    "seenBySource": {
-    "링커리어": "2026-09-28"
+    "링커리어": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "(사)한국문인협회 청도지부",
    "applyEnd": "2026-09-30",
@@ -6101,29 +6114,6 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://linkareer.com/activity/328631",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "c51c922f01",
-   "name": "제10회 박훈산백일장 공모",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=108267"
-   },
-   "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "한국문인협회 청도지부",
-   "applyEnd": "2026-09-30",
-   "category": "other",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=108267",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -6193,55 +6183,35 @@
    "name": "제10회 송수권 시 문학상 및 제7회 송수권 시 낭송대회 공모",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110071",
+    "링커리어": "https://linkareer.com/activity/345889",
+    "요즘것들": "https://www.allforyoung.com/posts/87209",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110386"
    },
    "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "고흥군",
-   "applyEnd": "2026-09-30",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110386",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "e436946cb0",
-   "name": "제10회 송수권 시문학상 및 제7회 시낭송대회",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110071",
-    "링커리어": "https://linkareer.com/activity/345889",
-    "요즘것들": "https://www.allforyoung.com/posts/87209"
-   },
-   "endBySource": {
+    "위비티": "2026-09-30",
     "씽굿": "2026-09-30",
     "링커리어": "2026-09-30",
     "요즘것들": "2026-09-30"
    },
    "seenBySource": {
+    "위비티": "2026-09-28",
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
     "요즘것들": "2026-09-28"
    },
    "host": "고흥군, 고흥군 송수권시문학상운영위원회",
-   "applyStart": "2026-08-10",
    "applyEnd": "2026-09-30",
-   "prize": "시문학상 3,000만원/시낭송대회 200만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 일반인, 제한 없음, 기타",
    "category": "creative",
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110071",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-08-10",
+   "prize": "시문학상 3,000만원/시낭송대회 200만원",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 일반인, 제한 없음, 기타"
   },
   {
    "id": "3371994b97",
@@ -6588,16 +6558,19 @@
    "name": "제1회 건율 사유문학상",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109879",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109737",
     "링커리어": "https://linkareer.com/activity/343393"
    },
    "endBySource": {
     "씽굿": "2026-09-30",
-    "링커리어": "2026-09-30"
+    "링커리어": "2026-09-30",
+    "위비티": "2026-09-30"
    },
    "seenBySource": {
     "씽굿": "2026-09-28",
-    "링커리어": "2026-09-28"
+    "링커리어": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "건율원",
    "applyStart": "2026-08-10",
@@ -6608,29 +6581,6 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109737",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "cc5a13d266",
-   "name": "제1회 건율 사유문학상 공모",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109879"
-   },
-   "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "건율원",
-   "applyEnd": "2026-09-30",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109879",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -6657,38 +6607,6 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://linkareer.com/activity/339698",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "5c04744da5",
-   "name": "제1회 묵호·발한 미디어아트 영상 공모전 「발한을 담길」",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109932",
-    "링커리어": "https://linkareer.com/activity/344843",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110361"
-   },
-   "endBySource": {
-    "씽굿": "2026-09-30",
-    "링커리어": "2026-09-30",
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28",
-    "링커리어": "2026-09-28",
-    "위비티": "2026-09-28"
-   },
-   "host": "국토교통부, 동해시",
-   "applyStart": "2026-09-01",
-   "applyEnd": "2026-09-30",
-   "prize": "200만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109932",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -7082,36 +7000,15 @@
    "name": "제34회 김유정 백일장",
    "firstSeen": "2026-09-27",
    "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110611"
-   },
-   "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "춘천문화재단",
-   "applyEnd": "2026-09-30",
-   "category": "other",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110611",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "5fc7e4472d",
-   "name": "제34회 김유정 백일장 공모",
-   "firstSeen": "2026-09-27",
-   "sources": {
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110357",
     "링커리어": "https://linkareer.com/activity/347729",
     "올콘": "https://www.all-con.co.kr/view/contest/542021",
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609010099",
-    "요즘것들": "https://www.allforyoung.com/posts/87098"
+    "요즘것들": "https://www.allforyoung.com/posts/87098",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110611"
    },
    "endBySource": {
+    "위비티": "2026-09-30",
     "씽굿": "2026-09-30",
     "링커리어": "2026-09-30",
     "올콘": "2026-09-30",
@@ -7119,6 +7016,7 @@
     "요즘것들": "2026-09-30"
    },
    "seenBySource": {
+    "위비티": "2026-09-28",
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
     "올콘": "2026-09-28",
@@ -7126,18 +7024,18 @@
     "요즘것들": "2026-09-28"
    },
    "host": "춘천문화재단",
-   "applyStart": "2026-09-01",
    "applyEnd": "2026-09-30",
-   "prize": "50만원",
-   "eligibility": "중학생, 고등학생, 동 연령대 청소년",
    "category": "other",
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110357",
    "lastSeen": "2026-09-28",
-   "eventDates": "심사 10.15 발표 10.15 D-3 마감임박 542 //--> --> 스포츠 제3회 긍정의힘 마라톤 0 주최 . (사)한국유튜브방송협회 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 08.20~12.02 심사 12.12",
    "status": "open",
-   "lastEvent": "2026-12-12"
+   "lastEvent": "2026-12-12",
+   "applyStart": "2026-09-01",
+   "prize": "50만원",
+   "eligibility": "중학생, 고등학생, 동 연령대 청소년",
+   "eventDates": "심사 10.15 발표 10.15 D-2 마감임박 544 //--> --> 스포츠 제3회 긍정의힘 마라톤 0 주최 . (사)한국유튜브방송협회 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 08.20~12.02 심사 12.12"
   },
   {
    "id": "9b4b1cff10",
@@ -7220,7 +7118,7 @@
    "host": "서울특별시",
    "applyStart": "2026-09-11",
    "applyEnd": "2026-09-30",
-   "eventDates": "심사 10.01~10.29 발표 10.30 D-2 마감임박 111 //--> --> 아이디어•건축•창업 경강선 개통 10주년 기념 여행코스 공모전 0 주최 . 한국철도공사 수도권동부본부 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.01~09.30 심사 10.01~10.08 발표 10.09 D-2 마감임박 47 //--> --> 문학•문예 제7회 문화 간 단편소설 공모전 5 주최 . 에스페란토 문학 아카데미 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.16~06.30 심사 09.16~06.30",
+   "eventDates": "심사 10.01~10.29 발표 10.30 D-2 마감임박 112 //--> --> 아이디어•건축•창업 경강선 개통 10주년 기념 여행코스 공모전 0 주최 . 한국철도공사 수도권동부본부 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.01~09.30 심사 10.01~10.08 발표 10.09 D-2 마감임박 47 //--> --> 문학•문예 제7회 문화 간 단편소설 공모전 5 주최 . 에스페란토 문학 아카데미 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.16~06.30 심사 09.16~06.30",
    "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
    "region": "서울",
    "category": "creative",
@@ -7352,13 +7250,16 @@
    "name": "제45회 대학(원)생 통일 논문 공고",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107638",
     "링커리어": "https://linkareer.com/activity/324522"
    },
    "endBySource": {
-    "링커리어": "2026-09-30"
+    "링커리어": "2026-09-30",
+    "위비티": "2026-09-30"
    },
    "seenBySource": {
-    "링커리어": "2026-09-28"
+    "링커리어": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "국립평화통일민주교육원",
    "applyEnd": "2026-09-30",
@@ -7366,29 +7267,6 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://linkareer.com/activity/324522",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "21b042d302",
-   "name": "제45회 대학(원)생 통일 논문 공모",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107638"
-   },
-   "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "통일부 국립평화통일민주교육원",
-   "applyEnd": "2026-09-30",
-   "category": "academic",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107638",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -7421,13 +7299,16 @@
    "name": "제4회 아이코리아 전국대학생 \" 청소년민주시민교육프로그램\" 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107929",
     "링커리어": "https://linkareer.com/activity/328352"
    },
    "endBySource": {
-    "링커리어": "2026-09-30"
+    "링커리어": "2026-09-30",
+    "위비티": "2026-09-30"
    },
    "seenBySource": {
-    "링커리어": "2026-09-28"
+    "링커리어": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "사단법인 아이코리아",
    "applyEnd": "2026-09-30",
@@ -7435,29 +7316,6 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://linkareer.com/activity/328352",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "ebb521d8bf",
-   "name": "제4회 아이코리아 전국대학생 (청소년 민주시민교육 프로그램) 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107929"
-   },
-   "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "아이코리아",
-   "applyEnd": "2026-09-30",
-   "category": "youth",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107929",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -7602,48 +7460,6 @@
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
-  },
-  {
-   "id": "f794a639dd",
-   "name": "제6회 그린리모델링 챌린지",
-   "firstSeen": "2026-09-28",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109551",
-    "링커리어": "https://linkareer.com/activity/342669",
-    "올콘": "https://www.all-con.co.kr/view/contest/541283",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608210013",
-    "요즘것들": "https://www.allforyoung.com/posts/86122",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110345"
-   },
-   "endBySource": {
-    "씽굿": "2026-09-30",
-    "링커리어": "2026-09-30",
-    "올콘": "2026-09-30",
-    "콘테스트코리아": "2026-09-30",
-    "요즘것들": "2026-09-30",
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28",
-    "링커리어": "2026-09-28",
-    "올콘": "2026-09-28",
-    "콘테스트코리아": "2026-09-28",
-    "요즘것들": "2026-09-28",
-    "위비티": "2026-09-28"
-   },
-   "host": "국토교통부",
-   "applyStart": "2026-08-12",
-   "applyEnd": "2026-09-30",
-   "prize": "5,000,000",
-   "eligibility": "어린이, 초등학생, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "dev",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109551",
-   "lastSeen": "2026-09-28",
-   "eventDates": "심사 10.01~10.30 D-2 마감임박 142 //--> --> 사진•영상•영화제 2026년 청소년상담1388 숏폼 영상 공모전 0 주최 . 한국청소년상담복지개발원 청소년사이버상담센터 대상 . 초등학생 , 중학생 , 고등학생 접수 09.01~09.30 심사 10.01~10.31 발표 11.02 D-2 마감임박 501 //--> --> 미술•디자인•웹툰 2026 제5회 전국 승가원 장애공감 어린이 그림공모전 2 주최 . 사회복지법인 승가원 대상 . 초등학생 접수 08.24~09.30 심사 10.01~10.14 발표 10.15 D-2 마감임박 246 //--> --> 사진•영상•영화제 [한국양성평등교육진흥원] 2026 성별균형 홍보 콘텐츠 공모전 1 주최 . 한국양성평등교육진흥원 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 08.26~09.28 심사 09.01~10.31 D-0 마감임박 226 //--> --> 미술•디자인•웹툰 pixiv 한국 학생 일러스트 공모전 2026 10 주최 . 픽시브 주식회사 대상 . 고등학생 , 대학생 , 대학원생 , 일반인 접수 09.01~10.15 심사 10.16~11.20",
-   "status": "open",
-   "lastEvent": "2026-11-20"
   },
   {
    "id": "ab7ee070d1",
@@ -7886,10 +7702,18 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110384"
    },
    "endBySource": {
-    "위비티": "2026-09-30"
+    "위비티": "2026-09-30",
+    "씽굿": "2026-09-30",
+    "링커리어": "2026-09-30",
+    "올콘": "2026-09-30",
+    "요즘것들": "2026-09-30"
    },
    "seenBySource": {
-    "위비티": "2026-09-28"
+    "위비티": "2026-09-28",
+    "씽굿": "2026-09-28",
+    "링커리어": "2026-09-28",
+    "올콘": "2026-09-28",
+    "요즘것들": "2026-09-28"
    },
    "host": "국가데이터처",
    "applyEnd": "2026-09-30",
@@ -7899,7 +7723,10 @@
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110032",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-09-01",
+   "prize": "100만 원권 상품권",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음"
   },
   {
    "id": "ec58e5aa89",
@@ -7980,44 +7807,6 @@
    "lastEvent": null
   },
   {
-   "id": "4ad265f350",
-   "name": "제8회 통계지리정보서비스(SGIS) 활용 우수사례 공모전",
-   "firstSeen": "2026-09-28",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110032",
-    "링커리어": "https://linkareer.com/activity/345633",
-    "올콘": "https://www.all-con.co.kr/view/contest/541712",
-    "요즘것들": "https://www.allforyoung.com/posts/86722",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110467"
-   },
-   "endBySource": {
-    "씽굿": "2026-09-30",
-    "링커리어": "2026-09-30",
-    "올콘": "2026-09-30",
-    "요즘것들": "2026-09-30",
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28",
-    "링커리어": "2026-09-28",
-    "올콘": "2026-09-28",
-    "요즘것들": "2026-09-28",
-    "위비티": "2026-09-28"
-   },
-   "host": "국가데이터처",
-   "applyStart": "2026-09-01",
-   "applyEnd": "2026-09-30",
-   "prize": "100만 원권 상품권",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "idea",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110032",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
    "id": "c006d16011",
    "name": "제9회 남구만신인문학상 작품 공모",
    "firstSeen": "2026-09-27",
@@ -8079,52 +7868,32 @@
    "name": "창원말로 잇는 30초 영상 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111059",
+    "링커리어": "https://linkareer.com/activity/352144",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111120"
    },
    "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "경상국립대 국어문화원",
-   "applyEnd": "2026-09-30",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111120",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "a4da4e647f",
-   "name": "창원말아입니꺼?! 창원말로 잇는 30초 영상 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111059",
-    "링커리어": "https://linkareer.com/activity/352144"
-   },
-   "endBySource": {
+    "위비티": "2026-09-30",
     "씽굿": "2026-09-30",
     "링커리어": "2026-09-30"
    },
    "seenBySource": {
+    "위비티": "2026-09-28",
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28"
    },
    "host": "창원특례시",
-   "applyStart": "2026-09-16",
    "applyEnd": "2026-09-30",
-   "prize": "30만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 지역 제한",
    "category": "creative",
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111059",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-09-16",
+   "prize": "30만원",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 지역 제한"
   },
   {
    "id": "da40a57284",
@@ -8192,46 +7961,32 @@
    "name": "태백시시설관리공단 2026 혁신아이디어 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111224"
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110681",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110452",
+    "링커리어": "https://linkareer.com/activity/347725"
    },
    "endBySource": {
-    "위비티": "2026-09-30"
+    "위비티": "2026-09-30",
+    "씽굿": "2026-09-30",
+    "링커리어": "2026-09-30"
    },
    "seenBySource": {
-    "위비티": "2026-09-28"
+    "위비티": "2026-09-28",
+    "씽굿": "2026-09-28",
+    "링커리어": "2026-09-28"
    },
-   "host": "태백시시설관리공단",
+   "host": "동작구시설관리공단",
    "applyEnd": "2026-09-30",
    "category": "idea",
    "aiRelated": false,
    "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111224",
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110452",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "cf1b968ab3",
-   "name": "한국사진문학 2026년 하반기 신인문학상 및 원고 공모",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110890"
-   },
-   "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "한국사진문학협회",
-   "applyEnd": "2026-09-30",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110890",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-09-01",
+   "prize": "30만원",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음"
   },
   {
    "id": "992f21e099",
@@ -8301,32 +8056,6 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://linkareer.com/activity/304007",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "66105b3767",
-   "name": "﻿국민이 생각하는 생활밀착형 특이민원 예방·해소 아이디어 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111057"
-   },
-   "endBySource": {
-    "씽굿": "2026-09-30"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28"
-   },
-   "host": "국민권익위원회",
-   "applyStart": "2026-09-17",
-   "applyEnd": "2026-09-30",
-   "prize": "기타",
-   "eligibility": "중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 기타",
-   "category": "idea",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111057",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -9330,16 +9059,19 @@
    "name": "2026년 하반기 목포시 시정발전 아이디어 공모",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111077",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111058",
     "링커리어": "https://linkareer.com/activity/352312"
    },
    "endBySource": {
     "씽굿": "2026-10-02",
-    "링커리어": "2026-10-02"
+    "링커리어": "2026-10-02",
+    "위비티": "2026-10-02"
    },
    "seenBySource": {
     "씽굿": "2026-09-28",
-    "링커리어": "2026-09-28"
+    "링커리어": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "목포시",
    "applyStart": "2026-09-14",
@@ -9350,29 +9082,6 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111058",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "1517a915cb",
-   "name": "2026년 하반기 목포시 시정발전 정책제안 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111077"
-   },
-   "endBySource": {
-    "위비티": "2026-10-02"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "목포시",
-   "applyEnd": "2026-10-02",
-   "category": "idea",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111077",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -9406,15 +9115,18 @@
    "firstSeen": "2026-09-27",
    "sources": {
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110624",
-    "올콘": "https://www.all-con.co.kr/view/contest/541950"
+    "올콘": "https://www.all-con.co.kr/view/contest/541950",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608310056"
    },
    "endBySource": {
     "위비티": "2026-10-02",
-    "올콘": "2026-10-02"
+    "올콘": "2026-10-02",
+    "콘테스트코리아": "2026-10-02"
    },
    "seenBySource": {
     "위비티": "2026-09-28",
-    "올콘": "2026-09-28"
+    "올콘": "2026-09-28",
+    "콘테스트코리아": "2026-09-28"
    },
    "host": "명대신문사",
    "applyEnd": "2026-10-02",
@@ -9424,9 +9136,10 @@
    "url": "https://www.all-con.co.kr/view/contest/541950",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null,
+   "lastEvent": "2026-11-09",
    "applyStart": "2026-09-01",
-   "eligibility": "대학생"
+   "eligibility": "대학생",
+   "eventDates": "심사 10.03~11.09 D-4 마감임박 258 //--> --> 사진•영상•영화제 경기도 민주주의 숏폼공모전 0 주최 . (사)수원민주화운동계승사업회 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶ 접수 08.24~10.23 심사 10.26~11.05 발표 11.06"
   },
   {
    "id": "438c4191b3",
@@ -9540,7 +9253,7 @@
    "host": "고창군",
    "applyStart": "2026-09-07",
    "applyEnd": "2026-10-02",
-   "eventDates": "심사 10.11 D-4 마감임박 21 //--> ￦ 유료 접수 --> 네이밍•슬로건 제81주년 경찰의 날 기념식 슬로건(고정) 공모전 1 주최 . 경찰청 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.23~09.30 심사 10.01~10.30 발표 10.30 D-2 마감임박 372 //--> --> 사진•영상•영화제 2026 부산 1인 미디어 영상콘텐츠 공모전 0 주최 . 부산정보산업진흥원 대상 . 해당자 ▶ 접수 08.28~10.18 심사 10.19~10.29 발표 10.30",
+   "eventDates": "심사 10.11 D-4 마감임박 21 //--> ￦ 유료 접수 --> 네이밍•슬로건 제81주년 경찰의 날 기념식 슬로건(고정) 공모전 1 주최 . 경찰청 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.23~09.30 심사 10.01~10.30 발표 10.30 D-2 마감임박 376 //--> --> 사진•영상•영화제 2026 부산 1인 미디어 영상콘텐츠 공모전 0 주최 . 부산정보산업진흥원 대상 . 해당자 ▶ 접수 08.28~10.18 심사 10.19~10.29 발표 10.30",
    "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
    "category": "other",
    "aiRelated": false,
@@ -9678,7 +9391,7 @@
    "host": "익산시청",
    "applyStart": "2026-09-21",
    "applyEnd": "2026-10-02",
-   "eventDates": "심사 10.08 D-4 마감임박 168 //--> --> 음악•콩쿠르•댄스 2026 BMF International Music Competition for Blind and Visually Impaired Musicians 0 주최 . Bella Music Foundation Inc 대상 . 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶ 접수 09.01~10.01 심사 09.15~10.19 발표 10.22 D-3 마감임박 101 //--> ￦ 유료 접수 --> 미술•디자인•웹툰 팬트리픽 캐릭터 공모전 1 주최 . 주식회사 프랭크스토어 대상 . 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 10.02~11.08 심사 11.09~11.13 발표 11.16",
+   "eventDates": "심사 10.08 D-4 마감임박 170 //--> --> 음악•콩쿠르•댄스 2026 BMF International Music Competition for Blind and Visually Impaired Musicians 0 주최 . Bella Music Foundation Inc 대상 . 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶ 접수 09.01~10.01 심사 09.15~10.19 발표 10.22 D-3 마감임박 102 //--> ￦ 유료 접수 --> 미술•디자인•웹툰 팬트리픽 캐릭터 공모전 1 주최 . 주식회사 프랭크스토어 대상 . 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 10.02~11.08 심사 11.09~11.13 발표 11.16",
    "eligibility": "해당자 ▶",
    "category": "creative",
    "aiRelated": false,
@@ -9964,52 +9677,32 @@
    "name": "충주학 연구 제7호 논문 모집 공고",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109201",
+    "링커리어": "https://linkareer.com/activity/340611",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109779"
    },
    "endBySource": {
-    "위비티": "2026-10-02"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "충주문화원",
-   "applyEnd": "2026-10-02",
-   "category": "academic",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109779",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "50d9f7209e",
-   "name": "충주학연구소 충주학 연구 제7호 논문 모집",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109201",
-    "링커리어": "https://linkareer.com/activity/340611"
-   },
-   "endBySource": {
+    "위비티": "2026-10-02",
     "씽굿": "2026-10-02",
     "링커리어": "2026-10-02"
    },
    "seenBySource": {
+    "위비티": "2026-09-28",
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28"
    },
    "host": "충주학연구소",
-   "applyStart": "2026-08-03",
    "applyEnd": "2026-10-02",
-   "prize": "기타",
-   "eligibility": "일반인",
    "category": "academic",
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109201",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-08-03",
+   "prize": "기타",
+   "eligibility": "일반인"
   },
   {
    "id": "91ab75c940",
@@ -10426,23 +10119,32 @@
    "name": "2026년 구리농수산물공사 숏폼 공모전 (나만의 시선, 구리도매시장)",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109848",
+    "링커리어": "https://linkareer.com/activity/343891",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110321"
    },
    "endBySource": {
-    "위비티": "2026-10-05"
+    "위비티": "2026-10-05",
+    "씽굿": "2026-10-05",
+    "링커리어": "2026-10-05"
    },
    "seenBySource": {
-    "위비티": "2026-09-28"
+    "위비티": "2026-09-28",
+    "씽굿": "2026-09-28",
+    "링커리어": "2026-09-28"
    },
    "host": "구리농수산물공사",
    "applyEnd": "2026-10-05",
    "category": "creative",
    "aiRelated": false,
    "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110321",
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109848",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-08-19",
+   "prize": "100만원",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음"
   },
   {
    "id": "9b2f0c1cae",
@@ -10786,35 +10488,6 @@
    "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
    "status": "open",
    "lastEvent": "2026-10-05"
-  },
-  {
-   "id": "d1e6533dab",
-   "name": "구리농수산물도매시장 숏폼 영상 공모전 \"나만의 시선, 구리도매시장\"",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109848",
-    "링커리어": "https://linkareer.com/activity/343891"
-   },
-   "endBySource": {
-    "씽굿": "2026-10-05",
-    "링커리어": "2026-10-05"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28",
-    "링커리어": "2026-09-28"
-   },
-   "host": "구리농수산물공사",
-   "applyStart": "2026-08-19",
-   "applyEnd": "2026-10-05",
-   "prize": "100만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109848",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "41ec5e6b98",
@@ -14028,6 +13701,7 @@
    "name": "'26 전북 청소년 평화통일 퍼포먼스 페스타",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110869",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110673",
     "링커리어": "https://linkareer.com/activity/349433",
     "올콘": "https://www.all-con.co.kr/view/contest/542363",
@@ -14039,14 +13713,16 @@
     "링커리어": "2026-10-11",
     "올콘": "2026-10-11",
     "콘테스트코리아": "2026-10-11",
-    "요즘것들": "2026-10-11"
+    "요즘것들": "2026-10-11",
+    "위비티": "2026-10-11"
    },
    "seenBySource": {
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
     "올콘": "2026-09-28",
     "콘테스트코리아": "2026-09-28",
-    "요즘것들": "2026-09-28"
+    "요즘것들": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "민주평화통일자문회의 전주시협의회",
    "applyStart": "2026-09-08",
@@ -14327,30 +14003,6 @@
    "eventDates": "심사 10.12~11.18 발표 12.04",
    "status": "open",
    "lastEvent": "2026-12-04"
-  },
-  {
-   "id": "031dffef19",
-   "name": "2026 전북 청소년 평화통일 퍼포먼스 페스타",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110869"
-   },
-   "endBySource": {
-    "위비티": "2026-10-11"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "민주평화통일자문회의 전주시협의회",
-   "applyEnd": "2026-10-11",
-   "region": "전북",
-   "category": "youth",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110869",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "7c32bcb4a3",
@@ -14674,23 +14326,38 @@
    "name": "[식품의약품안전처] 제2차 안전한 어린이 의약정보 영상 콘텐츠 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110821",
+    "링커리어": "https://linkareer.com/activity/350381",
+    "올콘": "https://www.all-con.co.kr/view/contest/542531",
+    "요즘것들": "https://www.allforyoung.com/posts/87543",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110942"
    },
    "endBySource": {
-    "위비티": "2026-10-11"
+    "위비티": "2026-10-11",
+    "씽굿": "2026-10-11",
+    "링커리어": "2026-10-11",
+    "올콘": "2026-10-11",
+    "요즘것들": "2026-10-11"
    },
    "seenBySource": {
-    "위비티": "2026-09-28"
+    "위비티": "2026-09-28",
+    "씽굿": "2026-09-28",
+    "링커리어": "2026-09-28",
+    "올콘": "2026-09-28",
+    "요즘것들": "2026-09-28"
    },
    "host": "식품의약품안전처",
    "applyEnd": "2026-10-11",
    "category": "creative",
    "aiRelated": false,
    "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110942",
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110821",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-09-14",
+   "prize": "130만원",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음"
   },
   {
    "id": "7b58a58484",
@@ -14830,41 +14497,6 @@
    "eventDates": "심사 10.12~10.23 발표 11.05",
    "status": "open",
    "lastEvent": "2026-11-05"
-  },
-  {
-   "id": "eeb96c20a7",
-   "name": "안전한 어린이 의약정보 영상 콘텐츠 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110821",
-    "링커리어": "https://linkareer.com/activity/350381",
-    "올콘": "https://www.all-con.co.kr/view/contest/542531",
-    "요즘것들": "https://www.allforyoung.com/posts/87543"
-   },
-   "endBySource": {
-    "씽굿": "2026-10-11",
-    "링커리어": "2026-10-11",
-    "올콘": "2026-10-11",
-    "요즘것들": "2026-10-11"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28",
-    "링커리어": "2026-09-28",
-    "올콘": "2026-09-28",
-    "요즘것들": "2026-09-28"
-   },
-   "host": "식품의약품안전처",
-   "applyStart": "2026-09-14",
-   "applyEnd": "2026-10-11",
-   "prize": "130만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110821",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "fd33f1c708",
@@ -15743,30 +15375,6 @@
    "lastEvent": "2026-11-07"
   },
   {
-   "id": "151d8a96c2",
-   "name": "2027년 서리풀청년아트갤러리 시각예술 전시기획 공모",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110992"
-   },
-   "endBySource": {
-    "위비티": "2026-10-12"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "서초문화재단, 서초구청, 서리풀갤러리",
-   "applyEnd": "2026-10-12",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "upcoming": true,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110992",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
    "id": "db7c3cf378",
    "name": "[우체국물류지원단] 대국민 혁신 아이디어 공모전",
    "firstSeen": "2026-09-27",
@@ -16484,6 +16092,7 @@
    "name": "2026 해양폐기물 자원순환 대국민 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110126",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109538",
     "링커리어": "https://linkareer.com/activity/342802",
     "올콘": "https://www.all-con.co.kr/view/contest/541257",
@@ -16495,14 +16104,16 @@
     "링커리어": "2026-10-14",
     "올콘": "2026-10-14",
     "콘테스트코리아": "2026-10-14",
-    "요즘것들": "2026-10-14"
+    "요즘것들": "2026-10-14",
+    "위비티": "2026-10-14"
    },
    "seenBySource": {
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
     "올콘": "2026-09-28",
     "콘테스트코리아": "2026-09-28",
-    "요즘것들": "2026-09-28"
+    "요즘것들": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "해양환경공단",
    "applyStart": "2026-08-14",
@@ -16890,29 +16501,6 @@
    "eventDates": "심사 10.15~10.23 발표 10.30",
    "status": "open",
    "lastEvent": "2026-10-30"
-  },
-  {
-   "id": "6bb0d0ad3f",
-   "name": "해양환경공단 2026 해양폐기물 자원순환대국민 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110126"
-   },
-   "endBySource": {
-    "위비티": "2026-10-14"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "해양환경공단",
-   "applyEnd": "2026-10-14",
-   "category": "other",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110126",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "68368107ed",
@@ -18352,13 +17940,16 @@
    "name": "아토피·천식 안심학교 대상 알레르기질환 예방·관리 우수사례 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111113",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110869"
    },
    "endBySource": {
-    "씽굿": "2026-10-16"
+    "씽굿": "2026-10-16",
+    "위비티": "2026-10-16"
    },
    "seenBySource": {
-    "씽굿": "2026-09-28"
+    "씽굿": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "질병관리청",
    "applyStart": "2026-09-15",
@@ -18897,29 +18488,6 @@
    "lastEvent": null
   },
   {
-   "id": "57611031ae",
-   "name": "지역사회-학교 기반 알레르기질환 예방·관리 우수사례 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111113"
-   },
-   "endBySource": {
-    "위비티": "2026-10-16"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "질병관리청",
-   "applyEnd": "2026-10-16",
-   "category": "idea",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111113",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
    "id": "050d751206",
    "name": "퀄컴 인 유어 라이프(Qualcomm In Your Life)",
    "firstSeen": "2026-09-27",
@@ -19329,25 +18897,25 @@
    "name": "2026년 이어줌 앱 사용 우수사례 수기 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111047",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110975",
     "링커리어": "https://linkareer.com/activity/350667",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111047",
     "올콘": "https://www.all-con.co.kr/view/contest/542491",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609120015",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110975"
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609120015"
    },
    "endBySource": {
     "씽굿": "2026-10-18",
     "링커리어": "2026-10-18",
     "올콘": "2026-10-18",
     "콘테스트코리아": "2026-09-30",
-    "위비티": "2026-10-17"
+    "위비티": "2026-10-18"
    },
    "seenBySource": {
     "씽굿": "2026-09-28",
-    "링커리어": "2026-09-27",
+    "링커리어": "2026-09-28",
     "올콘": "2026-09-28",
     "콘테스트코리아": "2026-09-28",
-    "위비티": "2026-09-27"
+    "위비티": "2026-09-28"
    },
    "host": "시청자미디어재단",
    "applyStart": "2026-08-10",
@@ -19569,41 +19137,19 @@
    "name": "명지대학교 영상제 MUFF",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110268",
+    "링커리어": "https://linkareer.com/activity/346657",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110586",
     "올콘": "https://www.all-con.co.kr/view/contest/541946"
    },
    "endBySource": {
-    "올콘": "2026-10-18"
-   },
-   "seenBySource": {
-    "올콘": "2026-09-28"
-   },
-   "host": "명지대학교 방송국 MB…",
-   "applyStart": "2026-09-01",
-   "applyEnd": "2026-10-18",
-   "eligibility": "대학생",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.all-con.co.kr/view/contest/541946",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "47cadfdcd6",
-   "name": "명지대학교 제 21회 MUFF 영상제 (기억)",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110268",
-    "링커리어": "https://linkareer.com/activity/346657",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110586"
-   },
-   "endBySource": {
+    "올콘": "2026-10-18",
     "씽굿": "2026-10-18",
     "링커리어": "2026-10-18",
     "위비티": "2026-10-18"
    },
    "seenBySource": {
+    "올콘": "2026-09-28",
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
     "위비티": "2026-09-28"
@@ -19611,7 +19157,6 @@
    "host": "명지대학교 방송국",
    "applyStart": "2026-08-24",
    "applyEnd": "2026-10-18",
-   "prize": "100만원",
    "eligibility": "대학생",
    "category": "creative",
    "aiRelated": false,
@@ -19619,7 +19164,8 @@
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110268",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "prize": "100만원"
   },
   {
    "id": "750075ba01",
@@ -19939,32 +19485,6 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://linkareer.com/activity/352452",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "0363f16d84",
-   "name": "﻿2026 이어줌 활용 우수사례 수기 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110975",
-    "링커리어": "https://linkareer.com/activity/350667"
-   },
-   "endBySource": {
-    "위비티": "2026-10-18",
-    "링커리어": "2026-10-18"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28",
-    "링커리어": "2026-09-28"
-   },
-   "host": "시청자미디어재단",
-   "applyEnd": "2026-10-18",
-   "category": "idea",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://linkareer.com/activity/350667",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -21427,35 +20947,15 @@
    "name": "제50회 자랑스러운 시민상",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110535",
     "링커리어": "https://linkareer.com/activity/346964"
    },
    "endBySource": {
-    "링커리어": "2026-10-23"
-   },
-   "seenBySource": {
-    "링커리어": "2026-09-28"
-   },
-   "host": "대구광역시",
-   "applyEnd": "2026-10-23",
-   "category": "other",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://linkareer.com/activity/346964",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "6290431f23",
-   "name": "제50회 자랑스러운 시민상 후보자 추천 공고",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110535"
-   },
-   "endBySource": {
+    "링커리어": "2026-10-23",
     "위비티": "2026-10-23"
    },
    "seenBySource": {
+    "링커리어": "2026-09-28",
     "위비티": "2026-09-28"
    },
    "host": "대구광역시",
@@ -21463,7 +20963,7 @@
    "category": "other",
    "aiRelated": false,
    "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110535",
+   "url": "https://linkareer.com/activity/346964",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -22495,6 +21995,7 @@
    "name": "2026 달빛어린이병원 초등학생 그림 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111175",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111160",
     "링커리어": "https://linkareer.com/activity/352605",
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609220029",
@@ -22504,13 +22005,15 @@
     "씽굿": "2026-10-30",
     "링커리어": "2026-10-30",
     "콘테스트코리아": "2026-10-30",
-    "요즘것들": "2026-10-30"
+    "요즘것들": "2026-10-30",
+    "위비티": "2026-10-30"
    },
    "seenBySource": {
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
     "콘테스트코리아": "2026-09-28",
-    "요즘것들": "2026-09-28"
+    "요즘것들": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "보건복지부, 국립중앙의료원, 중앙응급의료센터",
    "applyStart": "2026-09-21",
@@ -23071,29 +22574,6 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109670",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "e2124d309f",
-   "name": "2026년 초등학생 달빛어린이병원 그림 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111175"
-   },
-   "endBySource": {
-    "위비티": "2026-10-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "보건복지부, 국립중앙의료원, 중앙응급의료센터",
-   "applyEnd": "2026-10-30",
-   "category": "youth",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111175",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -23802,30 +23282,6 @@
    "lastEvent": null
   },
   {
-   "id": "8c1b32bf26",
-   "name": "제8회 행복북구 사진 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107125"
-   },
-   "endBySource": {
-    "위비티": "2026-10-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "대구광역시 북구청",
-   "applyEnd": "2026-10-30",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "upcoming": true,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107125",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
    "id": "c1cad7ecae",
    "name": "청주시 민간기록물 수집 공모전「기억이 머문 길, 청주의 기록」",
    "firstSeen": "2026-09-27",
@@ -24036,23 +23492,42 @@
    "name": "2026년 내가 발견한 보훈공단 60초에 담다 숏폼 영상 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110454",
+    "링커리어": "https://linkareer.com/activity/348356",
+    "올콘": "https://www.all-con.co.kr/view/contest/542148",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609030055",
+    "요즘것들": "https://www.allforyoung.com/posts/87158",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110656"
    },
    "endBySource": {
-    "위비티": "2026-10-31"
+    "위비티": "2026-10-31",
+    "씽굿": "2026-10-31",
+    "링커리어": "2026-10-31",
+    "올콘": "2026-10-31",
+    "콘테스트코리아": "2026-10-31",
+    "요즘것들": "2026-10-31"
    },
    "seenBySource": {
-    "위비티": "2026-09-28"
+    "위비티": "2026-09-28",
+    "씽굿": "2026-09-28",
+    "링커리어": "2026-09-28",
+    "올콘": "2026-09-28",
+    "콘테스트코리아": "2026-09-28",
+    "요즘것들": "2026-09-28"
    },
    "host": "한국보훈복지의료공단",
    "applyEnd": "2026-10-31",
    "category": "creative",
    "aiRelated": false,
    "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110656",
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110454",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": "2026-12-09",
+   "applyStart": "2026-09-16",
+   "prize": "150만 원",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "eventDates": "심사 11.01~12.01 발표 12.09"
   },
   {
    "id": "9990fe140a",
@@ -24218,45 +23693,6 @@
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": "2026-11-30"
-  },
-  {
-   "id": "2c6fa65b4a",
-   "name": "2026년 한국보훈복지의료공단 숏폼 영상 공모전 「내가 발견한 보훈공단, 60초에 담다」",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110454",
-    "링커리어": "https://linkareer.com/activity/348356",
-    "올콘": "https://www.all-con.co.kr/view/contest/542148",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609030055",
-    "요즘것들": "https://www.allforyoung.com/posts/87158"
-   },
-   "endBySource": {
-    "씽굿": "2026-10-31",
-    "링커리어": "2026-10-31",
-    "올콘": "2026-10-31",
-    "콘테스트코리아": "2026-10-31",
-    "요즘것들": "2026-10-31"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28",
-    "링커리어": "2026-09-28",
-    "올콘": "2026-09-28",
-    "콘테스트코리아": "2026-09-28",
-    "요즘것들": "2026-09-28"
-   },
-   "host": "한국보훈복지의료공단",
-   "applyStart": "2026-09-16",
-   "applyEnd": "2026-10-31",
-   "prize": "150만 원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110454",
-   "lastSeen": "2026-09-28",
-   "eventDates": "심사 11.01~12.01 발표 12.09",
-   "status": "open",
-   "lastEvent": "2026-12-09"
   },
   {
    "id": "3a79174797",
@@ -25327,51 +24763,31 @@
    "name": "직장인 사연 공모전 (제2회 쉐어잇 빡춘문예)",
    "firstSeen": "2026-09-27",
    "sources": {
+    "올콘": "https://www.all-con.co.kr/view/contest/542941",
+    "요즘것들": "https://www.allforyoung.com/posts/87943",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111217"
    },
    "endBySource": {
-    "위비티": "2026-11-01"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "쉐어잇",
-   "applyEnd": "2026-11-01",
-   "category": "other",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111217",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "e342b41ed7",
-   "name": "직장인 사연 공모전 제2회 쉐어잇 빡춘문예",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "올콘": "https://www.all-con.co.kr/view/contest/542941",
-    "요즘것들": "https://www.allforyoung.com/posts/87943"
-   },
-   "endBySource": {
+    "위비티": "2026-11-01",
     "올콘": "2026-11-01",
     "요즘것들": "2026-11-01"
    },
    "seenBySource": {
+    "위비티": "2026-09-28",
     "올콘": "2026-09-28",
     "요즘것들": "2026-09-28"
    },
    "host": "쉐어잇",
-   "applyStart": "2026-09-22",
    "applyEnd": "2026-11-01",
-   "eligibility": "일반인",
    "category": "other",
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.all-con.co.kr/view/contest/542941",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-09-22",
+   "eligibility": "일반인"
   },
   {
    "id": "22671b0e0d",
@@ -25893,6 +25309,7 @@
    "name": "국가지식정보 통합플랫폼 디지털집현전 우수사례 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110771",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110545",
     "링커리어": "https://linkareer.com/activity/348747",
     "올콘": "https://www.all-con.co.kr/view/contest/542243",
@@ -25904,14 +25321,16 @@
     "링커리어": "2026-11-06",
     "올콘": "2026-11-06",
     "콘테스트코리아": "2026-11-06",
-    "요즘것들": "2026-11-06"
+    "요즘것들": "2026-11-06",
+    "위비티": "2026-11-06"
    },
    "seenBySource": {
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
     "올콘": "2026-09-28",
     "콘테스트코리아": "2026-09-28",
-    "요즘것들": "2026-09-28"
+    "요즘것들": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "과학기술정보통신부/한국지능정보사회진흥원",
    "applyStart": "2026-09-07",
@@ -26008,29 +25427,6 @@
    "eventDates": "심사 12.01~12.31 발표 01.01",
    "status": "open",
    "lastEvent": "2026-12-31"
-  },
-  {
-   "id": "87c2f8d0de",
-   "name": "제3회 국가지식정보 통합플랫폼 활용 우수사례 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110771"
-   },
-   "endBySource": {
-    "위비티": "2026-11-06"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "과학기술정보통신부",
-   "applyEnd": "2026-11-06",
-   "category": "idea",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110771",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "1f6d405c1d",
@@ -26752,13 +26148,16 @@
    "name": "2026년 강원연구원 석탄산업전환지역 논문 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "링커리어": "https://linkareer.com/activity/352794",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111233"
    },
    "endBySource": {
-    "위비티": "2026-11-15"
+    "위비티": "2026-11-15",
+    "링커리어": "2026-11-15"
    },
    "seenBySource": {
-    "위비티": "2026-09-28"
+    "위비티": "2026-09-28",
+    "링커리어": "2026-09-28"
    },
    "host": "강원연구원 탄광지역발전지원센터",
    "applyEnd": "2026-11-15",
@@ -26767,7 +26166,7 @@
    "aiRelated": false,
    "confidence": "low",
    "upcoming": true,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111233",
+   "url": "https://linkareer.com/activity/352794",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -26800,30 +26199,6 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108905",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "2b1fdfad07",
-   "name": "[강원연구원 탄광지역발전지원센터] 2026 석탄산업전환지역 논문 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "링커리어": "https://linkareer.com/activity/352794"
-   },
-   "endBySource": {
-    "링커리어": "2026-11-15"
-   },
-   "seenBySource": {
-    "링커리어": "2026-09-28"
-   },
-   "host": "강원연구원 탄광지역발전지원센터",
-   "applyEnd": "2026-11-15",
-   "region": "강원",
-   "category": "academic",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://linkareer.com/activity/352794",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -28648,23 +28023,32 @@
    "name": "[영남대학교 법학전문대학원] 학술지 LAW REVIEW 전국 제2회 논문 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
+    "링커리어": "https://linkareer.com/activity/328241",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202606050037",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=108164"
    },
    "endBySource": {
-    "위비티": "2026-12-31"
+    "위비티": "2026-12-31",
+    "링커리어": "2026-12-31",
+    "콘테스트코리아": "2026-12-31"
    },
    "seenBySource": {
-    "위비티": "2026-09-28"
+    "위비티": "2026-09-28",
+    "링커리어": "2026-09-28",
+    "콘테스트코리아": "2026-09-28"
    },
    "host": "영남대학교 법학전문대학원",
    "applyEnd": "2026-12-31",
    "category": "academic",
    "aiRelated": false,
    "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=108164",
+   "url": "https://linkareer.com/activity/328241",
    "lastSeen": "2026-09-28",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": "2026-12-31",
+   "applyStart": "2026-08-01",
+   "eventDates": "심사 08.01~12.31",
+   "eligibility": "대학원생 , 해당자 ▶"
   },
   {
    "id": "54937debd0",
@@ -29020,35 +28404,6 @@
    "applyStart": "2026-03-03",
    "eventDates": "심사 03.03~12.31",
    "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-   "status": "open",
-   "lastEvent": "2026-12-31"
-  },
-  {
-   "id": "fdeb0f7abe",
-   "name": "제2회 영남대학교 LAW REVIEW 전국 논문 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "링커리어": "https://linkareer.com/activity/328241",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202606050037"
-   },
-   "endBySource": {
-    "링커리어": "2026-12-31",
-    "콘테스트코리아": "2026-12-31"
-   },
-   "seenBySource": {
-    "링커리어": "2026-09-28",
-    "콘테스트코리아": "2026-09-28"
-   },
-   "host": "영남대학교 법학전문대학원",
-   "applyEnd": "2026-12-31",
-   "category": "academic",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://linkareer.com/activity/328241",
-   "lastSeen": "2026-09-28",
-   "applyStart": "2026-08-01",
-   "eventDates": "심사 08.01~12.31",
-   "eligibility": "대학원생 , 해당자 ▶",
    "status": "open",
    "lastEvent": "2026-12-31"
   },
@@ -29584,30 +28939,6 @@
    "confidence": "low",
    "upcoming": true,
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109881",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "8db3b2a921",
-   "name": "제1회 자갈치문학상 공모",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109195"
-   },
-   "endBySource": {
-    "위비티": "2027-05-31"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "자갈치문학상운영위원회",
-   "applyEnd": "2027-05-31",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "low",
-   "upcoming": true,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109195",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -30339,38 +29670,41 @@
    "lastEvent": "2026-10-30"
   },
   {
-   "id": "8e59856dfc",
-   "name": "서리풀갤러리 시각예술 전시 기획 2027년 공모",
+   "id": "151d8a96c2",
+   "name": "2027년 서리풀청년아트갤러리 시각예술 전시기획 공모",
    "firstSeen": "2026-09-27",
    "sources": {
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110958",
     "링커리어": "https://linkareer.com/activity/351296",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609160064"
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609160064",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110992"
    },
    "endBySource": {
+    "위비티": "2026-10-12",
     "씽굿": "2026-10-12",
     "링커리어": "2026-10-12",
     "콘테스트코리아": "2026-10-12"
    },
    "seenBySource": {
+    "위비티": "2026-09-28",
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
     "콘테스트코리아": "2026-09-28"
    },
    "host": "서초문화재단, 서초구청, 서리풀갤러리",
-   "applyStart": "2026-10-01",
    "applyEnd": "2026-10-12",
-   "prize": "3,000,000원 예상",
-   "eligibility": "대학생, 대학원생, 일반인",
    "category": "idea",
    "aiRelated": false,
    "confidence": "low",
    "upcoming": true,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110958",
    "lastSeen": "2026-09-28",
-   "eventDates": "심사 10.13~11.30",
    "status": "upcoming",
-   "lastEvent": "2026-11-30"
+   "lastEvent": "2026-11-30",
+   "applyStart": "2026-10-01",
+   "prize": "3,000,000원 예상",
+   "eligibility": "대학생, 대학원생, 일반인",
+   "eventDates": "심사 10.13~11.30"
   },
   {
    "id": "ed25b3189b",
@@ -31317,20 +30651,23 @@
    "lastEvent": "2026-12-31"
   },
   {
-   "id": "8b80c440c6",
-   "name": "제8회 행복북구 사진 공모전 '북구, 밤빛에 물들다' 공모전",
+   "id": "8c1b32bf26",
+   "name": "제8회 행복북구 사진 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
     "링커리어": "https://linkareer.com/activity/320097",
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202605060090",
-    "요즘것들": "https://www.allforyoung.com/posts/81383"
+    "요즘것들": "https://www.allforyoung.com/posts/81383",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=107125"
    },
    "endBySource": {
+    "위비티": "2026-10-30",
     "링커리어": "2026-10-30",
     "콘테스트코리아": "2026-10-30",
     "요즘것들": "2026-10-30"
    },
    "seenBySource": {
+    "위비티": "2026-09-28",
     "링커리어": "2026-09-28",
     "콘테스트코리아": "2026-09-28",
     "요즘것들": "2026-09-28"
@@ -31340,14 +30677,14 @@
    "category": "creative",
    "aiRelated": false,
    "confidence": "low",
+   "upcoming": true,
    "url": "https://linkareer.com/activity/320097",
    "lastSeen": "2026-09-28",
+   "status": "upcoming",
+   "lastEvent": "2026-11-30",
    "applyStart": "2026-10-01",
    "eventDates": "심사 11.01~11.30",
-   "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-   "upcoming": true,
-   "status": "upcoming",
-   "lastEvent": "2026-11-30"
+   "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인"
   },
   {
    "id": "d0c95c188b",
@@ -32452,23 +31789,23 @@
    "lastEvent": null
   },
   {
-   "id": "38e2985213",
-   "name": "제1회 [자갈치문학상] 공모",
+   "id": "8db3b2a921",
+   "name": "제1회 자갈치문학상 공모",
    "firstSeen": "2026-09-27",
    "sources": {
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202607160008"
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202607160008",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109195"
    },
    "endBySource": {
+    "위비티": "2027-05-31",
     "콘테스트코리아": "2027-05-31"
    },
    "seenBySource": {
+    "위비티": "2026-09-28",
     "콘테스트코리아": "2026-09-28"
    },
    "host": "자갈치문학상운영위원회",
-   "applyStart": "2027-04-01",
    "applyEnd": "2027-05-31",
-   "eventDates": "심사 06.01~07.29 발표 07.30",
-   "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
    "category": "creative",
    "aiRelated": false,
    "confidence": "low",
@@ -32476,7 +31813,10 @@
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202607160008",
    "lastSeen": "2026-09-28",
    "status": "upcoming",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2027-04-01",
+   "eventDates": "심사 06.01~07.29 발표 07.30",
+   "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인"
   },
   {
    "id": "6b33a6696a",

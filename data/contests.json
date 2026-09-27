@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T15:53:44+00:00",
+ "updatedAt": "2026-09-27T20:52:19+00:00",
  "items": [
   {
    "id": "cdb2d3ba10",
@@ -1124,32 +1124,8 @@
     "올콘": "2026-09-28",
     "콘테스트코리아": "2026-09-27",
     "요즘것들": "2026-09-28",
-    "위비티": "2026-09-27"
-   }
-  },
-  {
-   "id": "e4987acabe",
-   "name": "2026 김해·인제대학교 국제 청년 AI 생성아트 콘테스트",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110529"
-   },
-   "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
     "위비티": "2026-09-28"
-   },
-   "host": "인제대학교",
-   "applyEnd": "2026-09-30",
-   "category": "creative",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.98,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110529",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
+   }
   },
   {
    "id": "b73d397f12",
@@ -2971,7 +2947,7 @@
     "올콘": "2026-09-28",
     "콘테스트코리아": "2026-09-28",
     "요즘것들": "2026-09-28",
-    "위비티": "2026-09-27"
+    "위비티": "2026-09-28"
    }
   },
   {
@@ -3028,30 +3004,6 @@
    "confidence": "high",
    "jev": 0.09,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110624",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "72ed4f6ae9",
-   "name": "전국민 AI 경진대회 - 시니어/가족 공감 AI영상 제작대회",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110615"
-   },
-   "endBySource": {
-    "위비티": "2026-09-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-09-28"
-   },
-   "host": "한국정보통신기술협회",
-   "applyEnd": "2026-09-30",
-   "category": "creative",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.97,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110615",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -3126,9 +3078,9 @@
    "name": "제1회 HIMEC AI 활용 아이디어 공모전",
    "firstSeen": "2026-09-22",
    "sources": {
-    "초기조사": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109257",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109257",
     "링커리어": "https://linkareer.com/activity/340878",
+    "초기조사": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109257",
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608050013",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109856"
    },
@@ -3149,42 +3101,12 @@
    },
    "seenBySource": {
     "위비티": "2026-09-28",
-    "씽굿": "2026-09-27",
-    "링커리어": "2026-09-27"
+    "씽굿": "2026-09-28",
+    "링커리어": "2026-09-28"
    },
    "applyStart": "2026-08-10",
    "prize": "3천만원 미만~1천만원 이상",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음"
-  },
-  {
-   "id": "a7902737d0",
-   "name": "제1회 하이멕 AI 활용 아이디어 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109257",
-    "링커리어": "https://linkareer.com/activity/340878"
-   },
-   "endBySource": {
-    "씽굿": "2026-09-30",
-    "링커리어": "2026-09-30"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28",
-    "링커리어": "2026-09-28"
-   },
-   "host": "하이멕",
-   "applyStart": "2026-08-10",
-   "applyEnd": "2026-09-30",
-   "prize": "3천만원 미만~1천만원 이상",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "idea",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.97,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109257",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "a59fefc5d6",
@@ -3663,9 +3585,9 @@
    },
    "seenBySource": {
     "위비티": "2026-09-28",
-    "씽굿": "2026-09-27",
-    "링커리어": "2026-09-27",
-    "올콘": "2026-09-27",
+    "씽굿": "2026-09-28",
+    "링커리어": "2026-09-28",
+    "올콘": "2026-09-28",
     "콘테스트코리아": "2026-09-27"
    },
    "applyStart": "2026-09-04",
@@ -3902,43 +3824,6 @@
    }
   },
   {
-   "id": "06bdcc5675",
-   "name": "「2026 창업 경진대회」 참가자 모집 안내",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110584",
-    "링커리어": "https://linkareer.com/activity/348802",
-    "올콘": "https://www.all-con.co.kr/view/contest/542280",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609070076"
-   },
-   "endBySource": {
-    "씽굿": "2026-10-02",
-    "링커리어": "2026-10-02",
-    "올콘": "2026-10-02",
-    "콘테스트코리아": "2026-10-02"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28",
-    "링커리어": "2026-09-28",
-    "올콘": "2026-09-28",
-    "콘테스트코리아": "2026-09-27"
-   },
-   "host": "안동시",
-   "applyStart": "2026-09-04",
-   "applyEnd": "2026-10-02",
-   "prize": "500만원",
-   "eligibility": "대학생, 일반인",
-   "category": "startup",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.18,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110584",
-   "lastSeen": "2026-09-28",
-   "eventDates": "심사 10.08~10.13 D-5 마감임박 121 //--> --> 사진•영상•영화제 지역 청소년이 참가하는 관계성 범죄예방 AI 영상콘텐츠 공모전 0 주최 . 한국폴리텍IV대학 대전캠퍼스, 대전동부경찰서 외 대상 . 초등학생 , 중학생 , 고등학생 , 대학생 , 해당자 ▶ 접수 09.01~10.05 심사 09.01~10.05",
-   "status": "open",
-   "lastEvent": "2026-10-13"
-  },
-  {
    "id": "63cd59827f",
    "name": "배재대학교 스마트 ICT 메이커톤",
    "host": "배재대학교 스마트ICT융합인재양성센터",
@@ -4124,9 +4009,9 @@
     "위비티": "2026-10-04"
    },
    "seenBySource": {
-    "씽굿": "2026-09-27",
+    "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
-    "콘테스트코리아": "2026-09-27",
+    "콘테스트코리아": "2026-09-28",
     "위비티": "2026-09-28"
    }
   },
@@ -5836,27 +5721,36 @@
    "name": "2026 한국조지메이슨대학교 소셜임팩트 디지털 아트 경연대회",
    "firstSeen": "2026-09-27",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109323",
+    "요즘것들": "https://www.allforyoung.com/posts/86043",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110056",
     "링커리어": "https://linkareer.com/activity/341728",
     "올콘": "https://www.all-con.co.kr/view/contest/541083"
    },
    "endBySource": {
     "링커리어": "2026-10-11",
-    "올콘": "2026-10-11"
+    "올콘": "2026-10-11",
+    "씽굿": "2026-10-11",
+    "요즘것들": "2026-10-11",
+    "위비티": "2026-10-11"
    },
    "seenBySource": {
     "링커리어": "2026-09-28",
-    "올콘": "2026-09-28"
+    "올콘": "2026-09-28",
+    "씽굿": "2026-09-28",
+    "요즘것들": "2026-09-28",
+    "위비티": "2026-09-28"
    },
    "host": "한국조지메이슨대학교",
    "applyStart": "2026-08-17",
    "applyEnd": "2026-10-11",
-   "prize": "인천광역시교육청 교육감 상장",
-   "eligibility": "청소년, 대학생",
+   "prize": "200만원",
+   "eligibility": "중학생, 고등학생, 동 연령대 청소년, 대학생",
    "category": "social",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.17,
-   "url": "https://linkareer.com/activity/341728",
+   "jev": 0.18,
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109323",
    "lastSeen": "2026-09-28",
    "status": "open",
    "lastEvent": null
@@ -5990,39 +5884,6 @@
    "seenBySource": {
     "기업마당": "2026-09-28"
    }
-  },
-  {
-   "id": "ae82f1ecc2",
-   "name": "제6회 소셜임팩트 디지털 아트 경연대회",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109323",
-    "요즘것들": "https://www.allforyoung.com/posts/86043",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110056"
-   },
-   "endBySource": {
-    "씽굿": "2026-10-11",
-    "요즘것들": "2026-10-11",
-    "위비티": "2026-10-11"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28",
-    "요즘것들": "2026-09-28",
-    "위비티": "2026-09-28"
-   },
-   "host": "한국조지메이슨대학교",
-   "applyStart": "2026-08-17",
-   "applyEnd": "2026-10-11",
-   "prize": "200만원",
-   "eligibility": "중학생, 고등학생, 동 연령대 청소년, 대학생",
-   "category": "social",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.18,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109323",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "264a24a64d",
@@ -6200,9 +6061,9 @@
    "aiRelated": true,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111174",
    "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111174",
     "초기조사": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111122",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111122",
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111174"
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111122"
    },
    "firstSeen": "2026-09-22",
    "lastSeen": "2026-09-28",
@@ -6218,7 +6079,7 @@
     "위비티": "2026-10-12"
    },
    "seenBySource": {
-    "씽굿": "2026-09-27",
+    "씽굿": "2026-09-28",
     "위비티": "2026-09-28"
    }
   },
@@ -6291,33 +6152,6 @@
     "K-Startup": "2026-09-28",
     "스타트업레시피": "2026-09-28"
    }
-  },
-  {
-   "id": "14a15f56b9",
-   "name": "AI 경진대회 - 동화책 만들기 / 4컷 과학만화 만들기",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111174"
-   },
-   "endBySource": {
-    "씽굿": "2026-10-12"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28"
-   },
-   "host": "국립강원전문과학관",
-   "applyStart": "2026-09-21",
-   "applyEnd": "2026-10-12",
-   "prize": "50만원",
-   "eligibility": "기타",
-   "category": "creative",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.9,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111174",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "207c782b40",
@@ -8121,10 +7955,10 @@
    "aiRelated": true,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108195",
    "sources": {
-    "초기조사": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109173",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108195",
     "링커리어": "https://linkareer.com/activity/335324",
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202607080039",
+    "초기조사": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109173",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=109173"
    },
    "firstSeen": "2026-09-22",
@@ -8143,45 +7977,11 @@
     "위비티": "2026-10-23"
    },
    "seenBySource": {
-    "씽굿": "2026-09-27",
-    "링커리어": "2026-09-27",
-    "콘테스트코리아": "2026-09-27",
-    "위비티": "2026-09-28"
-   }
-  },
-  {
-   "id": "4fe53a9232",
-   "name": "움직이는 한국화 : 에이아이 미디어아트 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108195",
-    "링커리어": "https://linkareer.com/activity/335324",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202607080039"
-   },
-   "endBySource": {
-    "씽굿": "2026-10-23",
-    "링커리어": "2026-10-23",
-    "콘테스트코리아": "2026-10-23"
-   },
-   "seenBySource": {
     "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
-    "콘테스트코리아": "2026-09-28"
-   },
-   "host": "CGV",
-   "applyStart": "2026-07-01",
-   "applyEnd": "2026-10-23",
-   "prize": "1,000만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "creative",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.94,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108195",
-   "lastSeen": "2026-09-28",
-   "eventDates": "심사 07.01~10.23",
-   "status": "open",
-   "lastEvent": "2026-10-23"
+    "콘테스트코리아": "2026-09-28",
+    "위비티": "2026-09-28"
+   }
   },
   {
    "id": "0c34face0e",
@@ -9427,10 +9227,10 @@
    "aiRelated": true,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110989",
    "sources": {
-    "초기조사": "http://www.weeklytoday.com/news/articleView.html?idxno=794684",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110989",
-    "링커리어": "https://linkareer.com/activity/351589",
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609170026",
+    "초기조사": "http://www.weeklytoday.com/news/articleView.html?idxno=794684",
+    "링커리어": "https://linkareer.com/activity/351589",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111087"
    },
    "firstSeen": "2026-09-22",
@@ -9445,9 +9245,9 @@
     "위비티": "2026-11-08"
    },
    "seenBySource": {
-    "씽굿": "2026-09-27",
+    "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
-    "콘테스트코리아": "2026-09-27",
+    "콘테스트코리아": "2026-09-28",
     "위비티": "2026-09-28"
    }
   },
@@ -9557,37 +9357,6 @@
     "요즘것들": "2026-09-28",
     "위비티": "2026-09-28"
    }
-  },
-  {
-   "id": "71f8fa115c",
-   "name": "의정부도시공사 「AI 혁신 아이디어 공모전」",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110989",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609170026"
-   },
-   "endBySource": {
-    "씽굿": "2026-11-08",
-    "콘테스트코리아": "2026-11-08"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28",
-    "콘테스트코리아": "2026-09-28"
-   },
-   "host": "의정부도시공사",
-   "applyStart": "2026-09-15",
-   "applyEnd": "2026-11-08",
-   "prize": "20만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "idea",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.97,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110989",
-   "lastSeen": "2026-09-28",
-   "eventDates": "심사 11.09~12.31",
-   "status": "open",
-   "lastEvent": "2026-12-31"
   },
   {
    "id": "75706e9d2d",
@@ -9906,8 +9675,8 @@
    "aiRelated": false,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110343",
    "sources": {
-    "초기조사": "https://www.contestkorea.com/sub/list.php?int_gbn=1&Txt_bcode=031210001",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110343",
+    "초기조사": "https://www.contestkorea.com/sub/list.php?int_gbn=1&Txt_bcode=031210001",
     "링커리어": "https://linkareer.com/activity/347984",
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609020032",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110683"
@@ -9923,7 +9692,7 @@
     "위비티": "2026-11-18"
    },
    "seenBySource": {
-    "씽굿": "2026-09-27",
+    "씽굿": "2026-09-28",
     "링커리어": "2026-09-28",
     "콘테스트코리아": "2026-09-28",
     "위비티": "2026-09-28"
@@ -9931,33 +9700,6 @@
    "prize": "100만원",
    "jev": 0.07,
    "eventDates": "심사 09.01~11.18"
-  },
-  {
-   "id": "e72076ed17",
-   "name": "제1회 YOUTH UP SDGs 실천 아이디어·숏츠 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110343"
-   },
-   "endBySource": {
-    "씽굿": "2026-11-18"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-28"
-   },
-   "host": "사단법인 무궁화복지월드",
-   "applyStart": "2026-09-01",
-   "applyEnd": "2026-11-18",
-   "prize": "100만원",
-   "eligibility": "동 연령대 청소년, 대학생, 대학원생, 일반인, 기타",
-   "category": "social",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.07,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110343",
-   "lastSeen": "2026-09-28",
-   "status": "open",
-   "lastEvent": null
   },
   {
    "id": "f58a3572de",
