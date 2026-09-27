@@ -19,3 +19,7 @@ drafts/
 
 # 로컬 비밀키 보관함
 secrets/
+
+# Private admin data lives in Sweet-Butters/private-kit. CI copies profile.json here for one run only.
+config/profile.json
+config/applications.json

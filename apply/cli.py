@@ -6,18 +6,17 @@
     python -m apply status <id> <상태>       interested|preparing|ready|submitted|skipped
     python -m apply open <id>                접수 페이지를 브라우저로 열기 (대행 입력 시작점)
 
-확정 목록(config/applications.json)에는 대회 id와 상태만 들어갑니다. 개인정보와 초안은
-로컬(profile.local.json, drafts/)에만 있고 공개 저장소에 올라가지 않습니다.
+확정 목록(applications.json)은 비공개 저장소 Sweet-Butters/private-kit 에 있습니다 (apply/queue.py).
+개인정보와 초안은 로컬(profile.local.json, drafts/)에만 있고 공개 저장소에 올라가지 않습니다.
 """
 import json
 import subprocess
 import sys
 from pathlib import Path
 
-from . import draft, form, from_site, profile, requirements
+from . import draft, form, from_site, profile, queue, requirements
 
 ROOT = Path(__file__).resolve().parent.parent
-QUEUE = ROOT / "config" / "applications.json"
 DATA = ROOT / "data" / "contests.json"
 STATUSES = ["interested", "preparing", "ready", "submitted", "skipped"]
 
@@ -27,13 +26,11 @@ def _contests() -> dict:
 
 
 def _queue() -> list:
-    if QUEUE.exists():
-        return json.loads(QUEUE.read_text(encoding="utf-8")).get("items", [])
-    return []
+    return queue.load()
 
 
 def _save(items):
-    QUEUE.write_text(json.dumps({"items": items}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    queue.save(items)
 
 
 def _find(token: str, contests: dict) -> dict | None:

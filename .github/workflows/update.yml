@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "config/keywords.json"  # profile.json is read live by the site, no re-collection needed
+      - "config/keywords.json"  # the profile lives in the private repo; it applies on the next run
       - "collector/**"
       - "apps/**"
       - "packages/**"
@@ -40,6 +40,24 @@ jobs:
           cache: pip
 
       - run: pip install -r requirements.txt
+
+      # The recommendation profile is private (Sweet-Butters/private-kit). It is copied to the
+      # git-ignored config/profile.json for this run only: the collector and the web build read it,
+      # and only derived fit scores are published. No secret or no access -> default profile.
+      - name: Private profile
+        env:
+          PRIVATE_KIT_TOKEN: ${{ secrets.PRIVATE_KIT_TOKEN }}
+        run: |
+          if [ -z "$PRIVATE_KIT_TOKEN" ]; then
+            echo "::notice::PRIVATE_KIT_TOKEN is not set; using the default recommendation profile"
+            exit 0
+          fi
+          url=https://api.github.com/repos/Sweet-Butters/private-kit/contents/profile.json
+          if ! curl -fsS -H "Authorization: Bearer $PRIVATE_KIT_TOKEN" -H "Accept: application/vnd.github.raw" -o config/profile.json "$url" \
+             || ! python -c "import json; json.load(open('config/profile.json', encoding='utf-8'))"; then
+            echo "::warning::could not read profile.json from private-kit; using the default recommendation profile"
+            rm -f config/profile.json
+          fi
 
       - name: Collect
         env:

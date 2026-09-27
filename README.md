@@ -122,11 +122,20 @@ just switch that step off.
 | `GEMINI_API_KEY` | Secret | Extract contest name/deadline from new news articles (free tier). Without it, articles become "unverified" entries. |
 | `GEMINI_MODEL` | Variable | default `gemini-flash-lite-latest` |
 | `DATA_GO_KR_KEY` | Secret | [data.go.kr](https://www.data.go.kr) 일반 인증키 for the 기업마당 지원사업 공고 API (free). Without it that source is skipped. |
+| `PRIVATE_KIT_TOKEN` | Secret | Fine-grained token for `Sweet-Butters/private-kit` only, Contents: Read-only. Reads the recommendation profile at build time. Without it the default profile applies. |
 
 GitHub Pages: **Settings → Pages → Source: GitHub Actions**.
 
-To edit keywords from `/admin` you need a [fine-grained token](https://github.com/settings/personal-access-tokens/new)
-for this repository with **Contents** and **Actions** read/write. It is stored only in your browser.
+`/admin` needs a [fine-grained token](https://github.com/settings/personal-access-tokens/new) with access to
+**two repositories**, this one and the private `Sweet-Butters/private-kit`, and **Contents** and **Actions**
+read/write (a classic token needs the `repo` scope). It is stored only in your browser.
+
+Personal data lives in the private repo `Sweet-Butters/private-kit`, never here: the application queue
+(`applications.json`), the recommendation profile (`profile.json`) and the application kit (`kit.json`,
+the admin's "지원서 재료함" tab). Without a token that can read that repo the admin shows none of it.
+The workflow reads `profile.json` with the `PRIVATE_KIT_TOKEN` secret (a fine-grained token for
+`private-kit` only, **Contents: Read-only**) and publishes only the per-contest fit scores derived from it.
+Without the secret the defaults in `packages/shared` apply.
 
 ## Run locally
 

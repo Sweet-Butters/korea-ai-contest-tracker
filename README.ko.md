@@ -66,9 +66,15 @@ GitHub Pages는 **Settings → Pages → Source: GitHub Actions**로 둡니다.
 
 ## 키워드 편집
 
-사이트의 **키워드 관리**(`/admin`)에서 편집합니다. 이 저장소에 쓰기 권한이 있는
+사이트의 **키워드 관리**(`/admin`)에서 편집합니다.
 [Fine-grained token](https://github.com/settings/personal-access-tokens/new)이 필요합니다
-(Repository access: 이 저장소만, Permissions: Contents·Actions → Read and write). 토큰은 브라우저에만 저장됩니다.
+(Repository access: 이 저장소와 비공개 `Sweet-Butters/private-kit` 두 곳, Permissions: Contents·Actions → Read and write.
+classic 토큰이면 `repo` 범위). 토큰은 브라우저에만 저장됩니다.
+
+지원 목록(`applications.json`), 추천 조건(`profile.json`), 지원서 재료함(`kit.json`)은 공개 저장소가 아니라
+비공개 저장소 `Sweet-Butters/private-kit`에 있습니다. 그 저장소를 읽을 수 있는 토큰이 없으면 관리 페이지에 보이지 않습니다.
+수집 워크플로는 `PRIVATE_KIT_TOKEN` 시크릿(`private-kit`만, Contents: Read-only)으로 추천 조건을 읽고,
+공개 사이트에는 대회별 추천 점수만 싣습니다. 시크릿이 없으면 `packages/shared`의 기본 조건을 씁니다.
 `config/keywords.json`을 직접 고쳐 커밋해도 같습니다.
 
 ## 로컬 실행
