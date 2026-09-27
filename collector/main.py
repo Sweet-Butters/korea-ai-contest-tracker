@@ -22,6 +22,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "contests.json"
 META = ROOT / "data" / "meta.json"
 NEWS_CACHE = ROOT / "data" / "news_cache.json"
+OTHERS = ROOT / "data" / "others.json"  # 주제는 다르지만 버리기 아까운 공모전
 NEWS_CACHE_DAYS = 60
 JEV_CACHE = ROOT / "data" / "jev_cache.json"
 JEV_RUNS = ROOT / "data" / "jev_runs.jsonl"  # one line of Jev stats per run, for tracking over time
@@ -97,13 +98,14 @@ def main(only=None):
         results = list(ex.map(run_source, selected))
 
     judged = []  # (source, item, rule labels or None, rescuable by Jev)
+    others = []  # real contests on other subjects: kept aside rather than thrown away
     for src, raw, err, secs in results:
         for it in raw:
             title = it["name"] or ""
             contest_list = src.CONTEST_LIST and not it.get("_needs_comp_word")
             labels = rules.judge(title, is_contest_list=contest_list, extra_text=it.get("_desc", ""))
-            rescuable = (labels is None and src is not naver_news
-                         and rules.contest_gate(title, is_contest_list=contest_list))
+            is_contest = rules.contest_gate(title, is_contest_list=contest_list)
+            rescuable = labels is None and src is not naver_news and is_contest
             if labels or rescuable:
                 judged.append((src, it, labels, rescuable))
 
@@ -122,6 +124,11 @@ def main(only=None):
             if labels and not labels.get("region"):
                 labels["region"] = rules.region(f"{it['name']} {it.get('_desc', '')}")
         if not labels:
+            # A real contest on another subject: keep it aside instead of throwing it away.
+            if rescuable and src is not naver_news:
+                others.append(record(it, {"category": rules.category(it["name"] or ""), "aiRelated": False,
+                                          "confidence": "low", "region": rules.region(it["name"] or ""),
+                                          "offTopic": True}, src.NAME))
             continue
         kept[src.NAME] = kept.get(src.NAME, 0) + 1
         if src is naver_news:
@@ -146,9 +153,16 @@ def main(only=None):
     cache = {u: v for u, v in cache.items() if v["seen"] >= cutoff}
     jev_cache = {k: v for k, v in jev_cache.items() if v["seen"] >= cutoff}
 
+    # Off-topic contests live in their own file: 4x the volume of the main list, and the site
+    # only loads them when asked. They skip Jev (cost) and carry low confidence.
+    other_items = finalize(merge(load(OTHERS, {"items": []})["items"], others, run_date), run_date)
+    dump(OTHERS, {"updatedAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+                  "items": other_items})
+    print(f"범위 밖 공모전 {len(other_items)}건 → {OTHERS.name}")
+
     items = finalize(merge(previous, fresh, run_date), run_date)
     dump(DATA, {"updatedAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "items": items})
-    dump(META, {"runDate": run_date, "llm": llm.available(), "jev": use_jev, "sources": meta, "total": len(items)})
+    dump(META, {"runDate": run_date, "llm": llm.available(), "jev": use_jev, "sources": meta, "total": len(items), "others": len(other_items)})
     dump(NEWS_CACHE, cache)
     if use_jev:
         dump(JEV_CACHE, jev_cache)

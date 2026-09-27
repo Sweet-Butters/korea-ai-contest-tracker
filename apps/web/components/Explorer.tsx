@@ -21,6 +21,7 @@ interface Filters {
   hideLow: boolean;
   prizeOnly: boolean;
   mine: boolean;
+  others: boolean;
   region: string;
   source: string;
   sort: SortKey;
@@ -28,7 +29,7 @@ interface Filters {
 }
 
 const DEFAULTS: Filters = {
-  q: "", status: ["open", "upcoming"], cats: [], aiOnly: true, hideLow: false, prizeOnly: false, mine: false,
+  q: "", status: ["open", "upcoming"], cats: [], aiOnly: true, hideLow: false, prizeOnly: false, mine: false, others: false,
   region: "", source: "", sort: "deadline", view: "list",
 };
 
@@ -44,6 +45,8 @@ const SORTS: Record<SortKey, { label: string; cmp: (a: Item, b: Item) => number 
 
 const STORAGE_KEY = "radar-filters-v2";
 // Read live so a profile saved in /admin applies at once, without waiting for a rebuild.
+// Off-topic contests are 2x the main list, so they load only when the toggle is switched on.
+const OTHERS_URL = `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/data/others.json`;
 const PROFILE_URL = `https://raw.githubusercontent.com/${REPO.owner}/${REPO.repo}/${REPO.branch}/config/profile.json`;
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
@@ -67,6 +70,7 @@ export default function Explorer({ data, meta, profile: bakedProfile, audit }: {
   const [f, setF] = useState<Filters>(DEFAULTS);
   const [today, setToday] = useState(data.updatedAt.slice(0, 10) || "2026-01-01");
   const [profile, setProfile] = useState<Profile>(bakedProfile);
+  const [others, setOthers] = useState<Contest[] | null>(null);
   const set = (patch: Partial<Filters>) => setF((prev) => ({ ...prev, ...patch }));
 
   useEffect(() => {
@@ -78,6 +82,7 @@ export default function Explorer({ data, meta, profile: bakedProfile, audit }: {
     if (sort && sort in SORTS) fromUrl.sort = sort as SortKey;
     if (p.get("cat")) fromUrl.cats = p.getAll("cat");
     if (p.get("q")) fromUrl.q = p.get("q")!;
+    if (p.get("others") === "1") { fromUrl.others = true; fromUrl.aiOnly = false; }
     setF({ ...load(), ...fromUrl });
     setToday(todayKST());
     fetch(`${PROFILE_URL}?t=${Date.now()}`)
@@ -89,12 +94,21 @@ export default function Explorer({ data, meta, profile: bakedProfile, audit }: {
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(f)); } catch { /* storage blocked */ }
   }, [f]);
 
+  // Fetch the off-topic file the first time the toggle is used, then keep it.
+  useEffect(() => {
+    if (!f.others || others) return;
+    fetch(OTHERS_URL, { cache: "no-cache" })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => setOthers(d?.items ?? []))
+      .catch(() => setOthers([]));
+  }, [f.others, others]);
+
   const items: Item[] = useMemo(
-    () => data.items.map((c) => {
+    () => [...data.items, ...(f.others ? others ?? [] : [])].map((c) => {
       const prizeKRW = parsePrize(c.prize);
       return { ...c, prizeKRW, fit: fitScore({ ...c, prizeKRW }, profile, today) };
     }),
-    [data.items, profile, today],
+    [data.items, others, f.others, profile, today],
   );
   const hasJev = items.some((i) => i.jev !== undefined);
   const regions = useMemo(() => [...new Set(items.map((i) => i.region).filter(Boolean) as string[])].sort(), [items]);
@@ -189,6 +203,10 @@ export default function Explorer({ data, meta, profile: bakedProfile, audit }: {
               <label className="toggle"><input type="checkbox" checked={f.aiOnly} onChange={(e) => set({ aiOnly: e.target.checked })} /> AI 관련만</label>
               <label className="toggle"><input type="checkbox" checked={f.prizeOnly} onChange={(e) => set({ prizeOnly: e.target.checked })} /> 상금 있는 대회만</label>
               <label className="toggle"><input type="checkbox" checked={f.hideLow} onChange={(e) => set({ hideLow: e.target.checked })} /> 미확인 숨기기</label>
+              <label className="toggle" title="AI·창업·지원사업 범위 밖이지만 실제로 모집 중인 공모전 (별도 수집)">
+                <input type="checkbox" checked={f.others} onChange={(e) => set({ others: e.target.checked, aiOnly: e.target.checked ? false : f.aiOnly })} />
+                범위 밖 공모전도 {f.others && others === null ? "불러오는 중…" : `보기${others ? ` (${others.length})` : ""}`}
+              </label>
             </div>
             <div className="selects">
               <select value={f.region} onChange={(e) => set({ region: e.target.value })} aria-label="지역">

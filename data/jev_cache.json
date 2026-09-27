@@ -153612,5 +153612,47 @@
    "other": 0.0
   },
   "seen": "2026-09-27"
+ },
+ "f768236f9ab0ffa5": {
+  "ai": 0.08,
+  "contest": 0.39,
+  "category": "creative",
+  "categoryConf": 0.73,
+  "categoryProbs": {
+   "idea": 0.0,
+   "youth": 0.0,
+   "social": 0.0,
+   "tourism": 0.0,
+   "other": 0.09999999999999999,
+   "funding": 0.06,
+   "creative": 0.76,
+   "data": 0.0,
+   "startup": 0.0,
+   "dev": 0.03,
+   "academic": 0.0,
+   "hackathon": 0.05
+  },
+  "seen": "2026-09-27"
+ },
+ "3fbc0b36abbe5942": {
+  "ai": 0.08,
+  "contest": 0.4,
+  "category": "creative",
+  "categoryConf": 0.58,
+  "categoryProbs": {
+   "idea": 0.0,
+   "startup": 0.0,
+   "youth": 0.0,
+   "other": 0.31,
+   "data": 0.0,
+   "dev": 0.0,
+   "hackathon": 0.0,
+   "funding": 0.06,
+   "creative": 0.63,
+   "social": 0.0,
+   "academic": 0.0,
+   "tourism": 0.0
+  },
+  "seen": "2026-09-27"
  }
 }

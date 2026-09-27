@@ -7,7 +7,7 @@
    "fetched": 669,
    "kept": 127,
    "error": null,
-   "seconds": 472
+   "seconds": 437
   },
   "올콘": {
    "fetched": 474,
@@ -19,25 +19,25 @@
    "fetched": 858,
    "kept": 175,
    "error": null,
-   "seconds": 39
+   "seconds": 36
   },
   "요즘것들": {
    "fetched": 346,
    "kept": 78,
    "error": null,
-   "seconds": 13
+   "seconds": 15
   },
   "콘테스트코리아": {
    "fetched": 598,
    "kept": 83,
    "error": null,
-   "seconds": 345
+   "seconds": 373
   },
   "위비티": {
-   "fetched": 840,
+   "fetched": 842,
    "kept": 141,
    "error": null,
-   "seconds": 82
+   "seconds": 66
   },
   "DACON": {
    "fetched": 15,
@@ -55,13 +55,13 @@
    "fetched": 77,
    "kept": 20,
    "error": null,
-   "seconds": 29
+   "seconds": 33
   },
   "Dev-Event": {
    "fetched": 29,
    "kept": 17,
    "error": null,
-   "seconds": 0
+   "seconds": 6
   },
   "K-Startup": {
    "fetched": 27,
@@ -73,13 +73,13 @@
    "fetched": 41,
    "kept": 29,
    "error": null,
-   "seconds": 4
+   "seconds": 8
   },
   "기업마당": {
-   "fetched": 0,
-   "kept": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='apis.data.go.kr', port=443): Max retries exceeded with url: /1421000/bizinfo/pblancBsnsService?serviceKey=YagLqxPAQt1bmX0LuoOQfdaCaXrv%2BqfKwSkeh9fSdft1kJ5buYiJG6dd1gS70q4lEH6WAdzzJBwzQfSf6dPd%2Fg%3D%3D&numOfRows=100&pageNo=1&dataType=json (Caused by ConnectTimeoutError(<HTTPSConnection(host='apis.data.go.kr', port=443) at 0x7f3d37417b00>, 'Connection to apis.data.go.kr timed out. (connect timeout=40)'))",
-   "seconds": 299
+   "fetched": 164,
+   "kept": 150,
+   "error": null,
+   "seconds": 15
   },
   "네이버뉴스": {
    "fetched": 0,
@@ -88,5 +88,6 @@
    "seconds": 0
   }
  },
- "total": 576
+ "total": 576,
+ "others": 1144
 }

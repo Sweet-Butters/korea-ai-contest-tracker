@@ -8,7 +8,7 @@ cpSync("apps/web/out", out, { recursive: true });
 cpSync("apps/admin/out", `${out}/admin`, { recursive: true });
 mkdirSync(`${out}/data`, { recursive: true });
 // Published as open data too; jev_runs.jsonl is the per-run log of what Jev changed.
-for (const f of ["contests.json", "meta.json", "jev_runs.jsonl", "audit.json"]) {
+for (const f of ["contests.json", "others.json", "meta.json", "jev_runs.jsonl", "audit.json"]) {
   if (existsSync(`data/${f}`)) cpSync(`data/${f}`, `${out}/data/${f}`);
 }
 console.log(`assembled ${out}`);

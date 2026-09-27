@@ -10,6 +10,8 @@ export interface Contest {
   category?: string;
   aiRelated?: boolean;
   confidence?: Confidence;
+  /** A real contest on another subject, collected into data/others.json rather than dropped. */
+  offTopic?: boolean;
   /** Jev's probability that this is an AI-related contest (present when Jev reviewed it). */
   jev?: number;
   applyStart?: string | null;

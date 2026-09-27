@@ -37,7 +37,7 @@ export default function ContestCard({ it, today }: { it: Item; today: string }) 
         <span className="tag">{categoryLabel(it.category)}</span>
         {it.prizeKRW && it.prizeKRW >= 1e7 && <span className="tag money">{formatKRW(it.prizeKRW)}</span>}
         {it.confidence === "low" && <span className="tag low">미확인</span>}
-        {it.aiRelated === false && <span className="tag">AI 외</span>}
+        {it.offTopic ? <span className="tag off">범위 밖</span> : it.aiRelated === false && <span className="tag">AI 외</span>}
         {it.jev !== undefined && <span className="tag jev" title="TypeSafe Jev가 판정한 AI 대회일 확률">Jev {Math.round(it.jev * 100)}%</span>}
       </div>
       <h3>{it.url ? <a href={it.url} target="_blank" rel="noopener">{it.name}</a> : it.name}</h3>

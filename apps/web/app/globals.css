@@ -45,6 +45,7 @@
 .date-warn { margin-left: 6px; font-size: 11.5px; font-weight: 600; color: var(--soon); background: var(--soon-soft); border-radius: 5px; padding: 1px 6px; cursor: help; }
 .tag.fit { background: var(--ok-soft); color: var(--ok); font-weight: 700; }
 .toggle.mine { color: var(--ok); font-weight: 600; }
+.tag.off { background: var(--chip); color: var(--muted); }
 .tag.jev { background: var(--event-soft); color: var(--event); }
 
 .groups { display: grid; gap: 22px; }
