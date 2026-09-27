@@ -79,7 +79,12 @@ def process_news(candidates, cache, run_date):
     return out
 
 
+# ASCII aliases, so a Windows .cmd file can name a source without Korean text.
+ALIASES = {"wevity_only": "위비티", "wevity": "위비티", "news": "네이버뉴스", "bizinfo": "기업마당"}
+
+
 def main(only=None):
+    only = {ALIASES.get(x, x) for x in only} if only else None
     run_date = today().isoformat()
     rules = Rules.load()
     previous = load(DATA, {"items": []})["items"]
