@@ -153698,23 +153698,23 @@
   "seen": "2026-09-27"
  },
  "60b6a9757ecfc206": {
-  "ai": 0.02,
+  "ai": 0.03,
   "contest": 0.85,
   "category": "creative",
   "categoryConf": 0.99,
   "categoryProbs": {
-   "hackathon": 0.0,
-   "idea": 0.0,
-   "data": 0.0,
-   "creative": 1.0,
-   "funding": 0.0,
-   "startup": 0.0,
-   "youth": 0.0,
-   "social": 0.0,
-   "dev": 0.0,
    "tourism": 0.0,
+   "idea": 0.0,
+   "startup": 0.0,
+   "creative": 1.0,
+   "youth": 0.0,
+   "funding": 0.0,
+   "data": 0.0,
+   "other": 0.0,
+   "dev": 0.0,
    "academic": 0.0,
-   "other": 0.0
+   "hackathon": 0.0,
+   "social": 0.0
   },
   "seen": "2026-09-27"
  }
