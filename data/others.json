@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T11:03:50+00:00",
+ "updatedAt": "2026-09-27T11:17:32+00:00",
  "items": [
   {
    "id": "4ceb8f36da",
@@ -321,6 +321,29 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109408",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "352eb78563",
+   "name": "2026년 사진으로 만나는 도시농부 이야기 공모전",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111268"
+   },
+   "endBySource": {
+    "위비티": "2026-09-27"
+   },
+   "seenBySource": {
+    "위비티": "2026-09-27"
+   },
+   "host": "중랑구",
+   "applyEnd": "2026-09-27",
+   "category": "creative",
+   "aiRelated": false,
+   "confidence": "low",
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111268",
    "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
@@ -5494,49 +5517,6 @@
    "lastEvent": null
   },
   {
-   "id": "f794a639dd",
-   "name": "제6회 그린리모델링 챌린지",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109551",
-    "링커리어": "https://linkareer.com/activity/342669",
-    "올콘": "https://www.all-con.co.kr/view/contest/541283",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608210013",
-    "요즘것들": "https://www.allforyoung.com/posts/86122",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110345"
-   },
-   "endBySource": {
-    "씽굿": "2026-09-30",
-    "링커리어": "2026-09-30",
-    "올콘": "2026-09-30",
-    "콘테스트코리아": "2026-09-30",
-    "요즘것들": "2026-09-30",
-    "위비티": "2026-09-29"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-27",
-    "링커리어": "2026-09-27",
-    "올콘": "2026-09-27",
-    "콘테스트코리아": "2026-09-27",
-    "요즘것들": "2026-09-27",
-    "위비티": "2026-09-27"
-   },
-   "host": "국토교통부",
-   "applyStart": "2026-08-12",
-   "applyEnd": "2026-09-29",
-   "prize": "5,000,000",
-   "eligibility": "어린이, 초등학생, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "dev",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109551",
-   "lastSeen": "2026-09-27",
-   "eventDates": "심사 10.01~10.30 D-3 마감임박 141 //--> --> 사진•영상•영화제 2026년 청소년상담1388 숏폼 영상 공모전 0 주최 . 한국청소년상담복지개발원 청소년사이버상담센터 대상 . 초등학생 , 중학생 , 고등학생 접수 09.01~09.30 심사 10.01~10.31 발표 11.02 D-3 마감임박 500 //--> --> 미술•디자인•웹툰 2026 제5회 전국 승가원 장애공감 어린이 그림공모전 2 주최 . 사회복지법인 승가원 대상 . 초등학생 접수 08.24~09.30 심사 10.01~10.14 발표 10.15 D-3 마감임박 246 //--> --> 사진•영상•영화제 [한국양성평등교육진흥원] 2026 성별균형 홍보 콘텐츠 공모전 1 주최 . 한국양성평등교육진흥원 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 08.26~09.28 심사 09.01~10.31 D-1 마감임박 223 //--> --> 미술•디자인•웹툰 pixiv 한국 학생 일러스트 공모전 2026 10 주최 . 픽시브 주식회사 대상 . 고등학생 , 대학생 , 대학원생 , 일반인 접수 09.01~10.15 심사 10.16~11.20",
-   "dateNote": "출처마다 다름",
-   "status": "open",
-   "lastEvent": "2026-11-20"
-  },
-  {
    "id": "ab7ee070d1",
    "name": "제6회 나무와 목재사랑 그림그리기 대회",
    "firstSeen": "2026-09-27",
@@ -5805,45 +5785,6 @@
    "lastEvent": null
   },
   {
-   "id": "4ad265f350",
-   "name": "제8회 통계지리정보서비스(SGIS) 활용 우수사례 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110032",
-    "링커리어": "https://linkareer.com/activity/345633",
-    "올콘": "https://www.all-con.co.kr/view/contest/541712",
-    "요즘것들": "https://www.allforyoung.com/posts/86722",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110467"
-   },
-   "endBySource": {
-    "씽굿": "2026-09-30",
-    "링커리어": "2026-09-30",
-    "올콘": "2026-09-30",
-    "요즘것들": "2026-09-30",
-    "위비티": "2026-09-29"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-27",
-    "링커리어": "2026-09-27",
-    "올콘": "2026-09-27",
-    "요즘것들": "2026-09-27",
-    "위비티": "2026-09-27"
-   },
-   "host": "국가데이터처",
-   "applyStart": "2026-09-01",
-   "applyEnd": "2026-09-29",
-   "prize": "100만 원권 상품권",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "category": "idea",
-   "aiRelated": false,
-   "confidence": "low",
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110032",
-   "lastSeen": "2026-09-27",
-   "dateNote": "출처마다 다름",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
    "id": "c006d16011",
    "name": "제9회 남구만신인문학상 작품 공모",
    "firstSeen": "2026-09-27",
@@ -5962,7 +5903,7 @@
    "name": "태백시시설관리공단 2026 혁신아이디어 공모전",
    "firstSeen": "2026-09-27",
    "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111224"
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110681"
    },
    "endBySource": {
     "위비티": "2026-09-29"
@@ -5970,12 +5911,12 @@
    "seenBySource": {
     "위비티": "2026-09-27"
    },
-   "host": "태백시시설관리공단",
+   "host": "동작구시설관리공단",
    "applyEnd": "2026-09-29",
    "category": "idea",
    "aiRelated": false,
    "confidence": "low",
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111224",
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110681",
    "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
@@ -9574,6 +9515,29 @@
    "aiRelated": false,
    "confidence": "low",
    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110302",
+   "lastSeen": "2026-09-27",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "b8d57ca68f",
+   "name": "2026학년도 명대신문사 제72주년 백마문화상",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110624"
+   },
+   "endBySource": {
+    "위비티": "2026-10-01"
+   },
+   "seenBySource": {
+    "위비티": "2026-09-27"
+   },
+   "host": "명대신문사",
+   "applyEnd": "2026-10-01",
+   "category": "other",
+   "aiRelated": false,
+   "confidence": "low",
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110624",
    "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
@@ -19735,6 +19699,29 @@
    "url": "https://linkareer.com/activity/352452",
    "lastSeen": "2026-09-27",
    "dateNote": "출처마다 다름",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "0363f16d84",
+   "name": "﻿2026 이어줌 활용 우수사례 수기 공모전",
+   "firstSeen": "2026-09-27",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110975"
+   },
+   "endBySource": {
+    "위비티": "2026-10-17"
+   },
+   "seenBySource": {
+    "위비티": "2026-09-27"
+   },
+   "host": "시청자미디어재단",
+   "applyEnd": "2026-10-17",
+   "category": "idea",
+   "aiRelated": false,
+   "confidence": "low",
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110975",
+   "lastSeen": "2026-09-27",
    "status": "open",
    "lastEvent": null
   },
