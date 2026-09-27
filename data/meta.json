@@ -7,79 +7,79 @@
    "fetched": 669,
    "kept": 127,
    "error": null,
-   "seconds": 437
+   "seconds": 365
   },
   "올콘": {
    "fetched": 474,
    "kept": 74,
    "error": null,
-   "seconds": 34
+   "seconds": 33
   },
   "링커리어": {
    "fetched": 858,
    "kept": 175,
    "error": null,
-   "seconds": 36
+   "seconds": 40
   },
   "요즘것들": {
    "fetched": 346,
    "kept": 78,
    "error": null,
-   "seconds": 15
+   "seconds": 13
   },
   "콘테스트코리아": {
    "fetched": 598,
    "kept": 83,
    "error": null,
-   "seconds": 373
+   "seconds": 229
   },
   "위비티": {
-   "fetched": 842,
+   "fetched": 844,
    "kept": 141,
    "error": null,
-   "seconds": 66
+   "seconds": 163
   },
   "DACON": {
    "fetched": 15,
    "kept": 15,
    "error": null,
-   "seconds": 3
+   "seconds": 2
   },
   "AIFactory": {
    "fetched": 2,
    "kept": 2,
    "error": null,
-   "seconds": 3
+   "seconds": 2
   },
   "이벤터스": {
    "fetched": 77,
    "kept": 20,
    "error": null,
-   "seconds": 33
+   "seconds": 29
   },
   "Dev-Event": {
    "fetched": 29,
    "kept": 17,
    "error": null,
-   "seconds": 6
+   "seconds": 0
   },
   "K-Startup": {
    "fetched": 27,
    "kept": 20,
    "error": null,
-   "seconds": 3
+   "seconds": 4
   },
   "스타트업레시피": {
    "fetched": 41,
    "kept": 29,
    "error": null,
-   "seconds": 8
+   "seconds": 4
   },
   "기업마당": {
    "fetched": 164,
    "kept": 150,
    "error": null,
-   "seconds": 15
+   "seconds": 19
   },
   "네이버뉴스": {
    "fetched": 0,
@@ -89,5 +89,5 @@
   }
  },
  "total": 576,
- "others": 1144
+ "others": 1146
 }
