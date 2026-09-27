@@ -37,55 +37,7 @@
    "fetched": 845,
    "kept": 141,
    "error": null,
-   "seconds": 263
-  },
-  "DACON": {
-   "fetched": 15,
-   "kept": 15,
-   "error": null,
-   "seconds": 2
-  },
-  "AIFactory": {
-   "fetched": 2,
-   "kept": 2,
-   "error": null,
-   "seconds": 3
-  },
-  "이벤터스": {
-   "fetched": 77,
-   "kept": 20,
-   "error": null,
-   "seconds": 29
-  },
-  "Dev-Event": {
-   "fetched": 29,
-   "kept": 17,
-   "error": null,
-   "seconds": 0
-  },
-  "K-Startup": {
-   "fetched": 27,
-   "kept": 20,
-   "error": null,
-   "seconds": 4
-  },
-  "스타트업레시피": {
-   "fetched": 41,
-   "kept": 29,
-   "error": null,
-   "seconds": 4
-  },
-  "기업마당": {
-   "fetched": 164,
-   "kept": 150,
-   "error": null,
-   "seconds": 13
-  },
-  "네이버뉴스": {
-   "fetched": 0,
-   "kept": 0,
-   "error": "RuntimeError: NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped",
-   "seconds": 0
+   "seconds": 51
   }
  },
  "total": 576,
