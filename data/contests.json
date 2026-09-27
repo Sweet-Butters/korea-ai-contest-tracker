@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T10:27:47+00:00",
+ "updatedAt": "2026-09-27T10:37:32+00:00",
  "items": [
   {
    "id": "69e5182b65",
@@ -15419,55 +15419,7 @@
   {
    "id": "01cdfeaf77",
    "name": "2026 대구 관광 혁신 아이디어 공모전",
-   "firstSeen": "2026-09-27",
-   "sources": {
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110848",
-    "링커리어": "https://linkareer.com/activity/350401",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202609150017",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111151"
-   },
-   "endBySource": {
-    "씽굿": "2026-09-27",
-    "링커리어": "2026-09-27",
-    "콘테스트코리아": "2026-09-27",
-    "위비티": "2026-09-26"
-   },
-   "seenBySource": {
-    "씽굿": "2026-09-27",
-    "링커리어": "2026-09-27",
-    "콘테스트코리아": "2026-09-27",
-    "위비티": "2026-09-27"
-   },
-   "host": "대구광역시",
-   "applyStart": "2026-09-01",
-   "applyEnd": "2026-09-26",
-   "prize": "100만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음, 지역 제한",
-   "region": "대구",
-   "category": "tourism",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.16,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110848",
-   "lastSeen": "2026-09-27",
-   "eventDates": "심사 09.01~09.27 D-0 마감임박 60 //--> --> 사진•영상•영화제 음악•콩쿠르•댄스 NEXMUSE AI Music Video Contest 2027 1 주최 . 주식회사 에이아이아트 대상 . 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.21~12.28 심사 01.04~01.11 발표 01.18",
-   "dateNote": "출처마다 다름",
-   "status": "in_progress",
-   "lastEvent": "2026-12-28"
-  },
-  {
-   "id": "5e531c36a6",
-   "name": "2026 인천관광 혁신아이디어 공모전",
-   "host": "인천관광공사",
-   "category": "tourism",
-   "applyStart": "2026-08-18",
-   "applyEnd": "2026-09-26",
-   "eventDates": "접수 ~9/27, 이후 10/22~10/24 일정",
-   "prize": "150만원",
-   "eligibility": "초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 지역 제한",
-   "confidence": "high",
-   "aiRelated": false,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109680",
+   "firstSeen": "2026-09-22",
    "sources": {
     "초기조사": "https://www.onoffmix.com/event/348297",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109680",
@@ -15477,27 +15429,36 @@
     "요즘것들": "https://www.allforyoung.com/posts/86330",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=110212"
    },
-   "firstSeen": "2026-09-22",
-   "lastSeen": "2026-09-27",
-   "region": "인천",
-   "jev": 0.18,
-   "status": "in_progress",
-   "lastEvent": "2026-10-24",
    "endBySource": {
     "씽굿": "2026-09-27",
     "링커리어": "2026-09-27",
     "콘테스트코리아": "2026-09-27",
-    "요즘것들": "2026-09-27",
-    "위비티": "2026-09-26"
+    "위비티": "2026-09-26",
+    "요즘것들": "2026-09-27"
    },
    "seenBySource": {
     "씽굿": "2026-09-27",
     "링커리어": "2026-09-27",
     "콘테스트코리아": "2026-09-27",
-    "요즘것들": "2026-09-27",
-    "위비티": "2026-09-27"
+    "위비티": "2026-09-27",
+    "요즘것들": "2026-09-27"
    },
-   "dateNote": "출처마다 다름"
+   "host": "인천관광공사",
+   "applyStart": "2026-08-18",
+   "applyEnd": "2026-09-26",
+   "prize": "150만원",
+   "eligibility": "초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 지역 제한",
+   "region": "인천",
+   "category": "tourism",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.18,
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109680",
+   "lastSeen": "2026-09-27",
+   "eventDates": "심사 09.01~09.27 D-0 마감임박 60 //--> --> 사진•영상•영화제 음악•콩쿠르•댄스 NEXMUSE AI Music Video Contest 2027 1 주최 . 주식회사 에이아이아트 대상 . 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 09.21~12.28 심사 01.04~01.11 발표 01.18",
+   "dateNote": "출처마다 다름",
+   "status": "in_progress",
+   "lastEvent": "2026-12-28"
   },
   {
    "id": "0da5d69369",

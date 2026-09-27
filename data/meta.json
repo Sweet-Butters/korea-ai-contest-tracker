@@ -7,7 +7,7 @@
    "fetched": 669,
    "kept": 127,
    "error": null,
-   "seconds": 462
+   "seconds": 472
   },
   "올콘": {
    "fetched": 474,
@@ -19,7 +19,7 @@
    "fetched": 858,
    "kept": 175,
    "error": null,
-   "seconds": 40
+   "seconds": 39
   },
   "요즘것들": {
    "fetched": 346,
@@ -31,55 +31,55 @@
    "fetched": 598,
    "kept": 83,
    "error": null,
-   "seconds": 393
+   "seconds": 345
   },
   "위비티": {
    "fetched": 840,
    "kept": 141,
    "error": null,
-   "seconds": 58
+   "seconds": 82
   },
   "DACON": {
    "fetched": 15,
    "kept": 15,
    "error": null,
-   "seconds": 2
+   "seconds": 3
   },
   "AIFactory": {
    "fetched": 2,
    "kept": 2,
    "error": null,
-   "seconds": 8
+   "seconds": 3
   },
   "이벤터스": {
    "fetched": 77,
    "kept": 20,
    "error": null,
-   "seconds": 34
+   "seconds": 29
   },
   "Dev-Event": {
    "fetched": 29,
    "kept": 17,
    "error": null,
-   "seconds": 2
+   "seconds": 0
   },
   "K-Startup": {
    "fetched": 27,
    "kept": 20,
    "error": null,
-   "seconds": 2
+   "seconds": 3
   },
   "스타트업레시피": {
    "fetched": 41,
    "kept": 29,
    "error": null,
-   "seconds": 10
+   "seconds": 4
   },
   "기업마당": {
-   "fetched": 164,
-   "kept": 150,
-   "error": null,
-   "seconds": 17
+   "fetched": 0,
+   "kept": 0,
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='apis.data.go.kr', port=443): Max retries exceeded with url: /1421000/bizinfo/pblancBsnsService?serviceKey=YagLqxPAQt1bmX0LuoOQfdaCaXrv%2BqfKwSkeh9fSdft1kJ5buYiJG6dd1gS70q4lEH6WAdzzJBwzQfSf6dPd%2Fg%3D%3D&numOfRows=100&pageNo=1&dataType=json (Caused by ConnectTimeoutError(<HTTPSConnection(host='apis.data.go.kr', port=443) at 0x7f3d37417b00>, 'Connection to apis.data.go.kr timed out. (connect timeout=40)'))",
+   "seconds": 299
   },
   "네이버뉴스": {
    "fetched": 0,
@@ -88,5 +88,5 @@
    "seconds": 0
   }
  },
- "total": 577
+ "total": 576
 }
