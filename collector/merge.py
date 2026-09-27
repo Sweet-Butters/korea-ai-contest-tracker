@@ -1,6 +1,7 @@
 """Deduplicates contests across sources and runs, and computes their status."""
 import hashlib
 import re
+from collections import Counter
 from difflib import SequenceMatcher
 
 from .util import dates_in
@@ -154,8 +155,12 @@ def _settle_deadline(rec: dict, run_date: str) -> None:
     fresh = {s: d for s, d in (rec.get("endBySource") or {}).items()
              if rec.get("seenBySource", {}).get(s) == run_date}
     if fresh:
-        rec["applyEnd"] = min(fresh.values())
-        rec["dateNote"] = "출처마다 다름" if len(set(fresh.values())) > 1 else None
+        # Majority wins; a tie takes the earliest. Taking the earliest outright had made a contest
+        # that was still open (SK하이닉스, 9/28 17:00) look closed because one source lagged a day.
+        counts = Counter(fresh.values())
+        top = max(counts.values())
+        rec["applyEnd"] = min(d for d, n in counts.items() if n == top)
+        rec["dateNote"] = "출처마다 다름" if len(counts) > 1 else None
     elif rec.get("applyEnd"):
         # Nobody lists it any more: the notice was taken down, or it only ever came from the
         # 2026-09-21/22 manual survey or a news article.
