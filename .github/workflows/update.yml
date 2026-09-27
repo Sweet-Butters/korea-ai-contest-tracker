@@ -60,6 +60,9 @@ jobs:
         run: |
           if [ "$(TZ=Asia/Seoul date +%u)" = "1" ]; then python -m collector.audit; fi
 
+      - name: Calendar feeds
+        run: python -m collector.ics
+
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
@@ -70,6 +73,14 @@ jobs:
             git pull --rebase -X theirs origin main  # on a data conflict keep this run's fresh data
             git push origin HEAD:main
           fi
+
+      - name: Notify (Telegram)
+        if: github.event_name == 'schedule'
+        continue-on-error: true
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m collector.notify
 
       - uses: actions/setup-node@v4
         with:

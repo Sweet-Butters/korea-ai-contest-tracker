@@ -49,6 +49,7 @@ const STORAGE_KEY = "radar-filters-v2";
 const OTHERS_URL = `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/data/others.json`;
 const PROFILE_URL = `https://raw.githubusercontent.com/${REPO.owner}/${REPO.repo}/${REPO.branch}/config/profile.json`;
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+const SITE_ORIGIN = "https://sweet-butters.github.io";
 
 function load(): Filters {
   try {
@@ -220,6 +221,22 @@ export default function Explorer({ data, meta, profile: bakedProfile, audit }: {
             </div>
           </div>
         </section>
+
+        <details className="subscribe">
+          <summary>캘린더에 구독하기</summary>
+          <p>
+            아래 주소를 구글 캘린더나 아이폰 캘린더에 <b>구독</b>으로 추가하면, 마감일과 본선 일정이 달력에 들어오고
+            매일 자동으로 갱신됩니다. 계정 연동은 필요 없습니다.
+          </p>
+          <ul>
+            <li><b>내 조건에 맞는 대회</b><br /><code>{`${SITE_ORIGIN}${BASE}/data/calendar.ics`}</code></li>
+            <li><b>AI 관련 전체</b><br /><code>{`${SITE_ORIGIN}${BASE}/data/calendar-all.ics`}</code></li>
+          </ul>
+          <p className="how">
+            구글 캘린더: 왼쪽 <b>다른 캘린더 +</b> → <b>URL로 추가</b>. 아이폰: <b>설정 → 앱 → 캘린더 → 계정 →
+            계정 추가 → 기타 → 구독 캘린더 추가</b>. 갱신 주기는 구글이 하루 정도, 아이폰은 설정에서 조절됩니다.
+          </p>
+        </details>
 
         <div className="view-bar">
           <p className="count">{shown.length.toLocaleString()}개 대회</p>
