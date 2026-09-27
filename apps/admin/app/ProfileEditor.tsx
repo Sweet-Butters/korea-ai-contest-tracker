@@ -2,22 +2,14 @@
 
 import { useEffect, useMemo, useState } from "react";
 import {
-  CATEGORY_LABEL, DEFAULT_PROFILE, REPO, fitScore, formatKRW, todayKST,
+  CATEGORY_LABEL, DEFAULT_PROFILE, fitScore, formatKRW, todayKST,
   type ContestData, type Profile,
 } from "@radar/shared";
 import WordGroup from "./WordGroup";
+import { PRIVATE_REPO_NAME, readErrorText, readPrivateJson, writePrivateJson, type Api } from "./github";
 
 const SITE_ROOT = process.env.NEXT_PUBLIC_SITE_ROOT ?? "";
-const PATH = "config/profile.json";
-
-type Api = (path: string, init?: RequestInit) => Promise<Response>;
-
-const b64decode = (s: string) => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\n/g, "")), (c) => c.charCodeAt(0)));
-const b64encode = (s: string) => {
-  let bin = "";
-  for (const byte of new TextEncoder().encode(s)) bin += String.fromCharCode(byte);
-  return btoa(bin);
-};
+const PATH = "profile.json"; // in the private repo
 
 const WORD_FIELDS: [keyof Profile, string, string][] = [
   ["interests", "관심 주제", "대회 이름에 들어 있으면 점수를 더합니다 (하나당 15점, 최대 30점)."],
@@ -32,29 +24,41 @@ export default function ProfileEditor({ api, token }: { api: Api; token: string 
   const [sha, setSha] = useState<string | null>(null);
   const [dirty, setDirty] = useState(false);
   const [msg, setMsg] = useState("");
+  const [blocked, setBlocked] = useState(""); // no token / no access: show only this
   const [data, setData] = useState<ContestData | null>(null);
   const today = todayKST();
 
   async function load() {
-    const r = await api(`contents/${PATH}?ref=${REPO.branch}`);
-    if (r.status === 404) {
+    setMsg("불러오는 중…");
+    const r = await readPrivateJson<Partial<Profile> & { _comment?: string }>(api, token, PATH);
+    if (r.kind === "missing") {
       setP({ ...DEFAULT_PROFILE });
       setSha(null);
+      setBlocked("");
       return setMsg("아직 저장된 조건이 없어 기본값을 보여줍니다.");
     }
-    if (!r.ok) return setMsg(`불러오기 실패 (${r.status})`);
-    const j = await r.json();
-    setP({ ...DEFAULT_PROFILE, ...JSON.parse(b64decode(j.content)) });
-    setSha(j.sha);
+    if (r.kind !== "ok") {
+      setP(null);
+      setSha(null);
+      setBlocked(readErrorText(r));
+      return setMsg("");
+    }
+    const { _comment, ...rest } = r.data;
+    void _comment;
+    setP({ ...DEFAULT_PROFILE, ...rest });
+    setSha(r.sha);
+    setBlocked("");
     setDirty(false);
     setMsg("");
   }
 
   useEffect(() => {
-    load();
     fetch(`${SITE_ROOT}/data/contests.json`, { cache: "no-cache" }).then((r) => (r.ok ? r.json() : null)).then(setData).catch(() => {});
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+  useEffect(() => {
+    load();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [token]);
 
   const edit = (patch: Partial<Profile>) => {
     setP((prev) => (prev ? { ...prev, ...patch } : prev));
@@ -68,41 +72,43 @@ export default function ProfileEditor({ api, token }: { api: Api; token: string 
       .filter((it) => it.status === "open" || it.status === "upcoming")
       .map((it) => ({ it, fit: fitScore(it, p, today) }));
     const rec = scored.filter((x) => x.fit.recommended).sort((a, b) => b.fit.score - a.fit.score);
-    const blocked: Record<string, number> = {};
-    for (const x of scored) if (x.fit.blocked) blocked[x.fit.blocked] = (blocked[x.fit.blocked] ?? 0) + 1;
-    return { total: scored.length, rec, blocked };
+    const blockedBy: Record<string, number> = {};
+    for (const x of scored) if (x.fit.blocked) blockedBy[x.fit.blocked] = (blockedBy[x.fit.blocked] ?? 0) + 1;
+    return { total: scored.length, rec, blocked: blockedBy };
   }, [p, data, today]);
 
   async function save() {
     if (!p) return;
     setMsg("저장 중…");
     const body = {
-      _comment: "추천 조건. /admin 의 '내 추천 조건'에서 편집합니다. 공개 저장소이므로 개인정보는 넣지 마세요.",
+      _comment: "추천 조건. /admin 의 '내 추천 조건'에서 편집합니다. 비공개 저장소(private-kit)에 있고, 공개 사이트에는 대회별 추천 점수만 실립니다.",
       ...p,
     };
-    const r = await api(`contents/${PATH}`, {
-      method: "PUT",
-      body: JSON.stringify({
-        message: "chore: update recommendation profile from admin",
-        content: b64encode(JSON.stringify(body, null, 2) + "\n"),
-        ...(sha ? { sha } : {}),
-        branch: REPO.branch,
-      }),
-    });
-    if (!r.ok) return setMsg(r.status === 409 ? "다른 곳에서 먼저 바뀌었습니다. 다시 불러오세요." : `저장 실패 (${r.status})`);
-    setSha((await r.json()).content.sha);
+    const r = await writePrivateJson(api, PATH, body, sha, "chore: update recommendation profile from admin");
+    if (!r.ok) return setMsg(r.error);
+    setSha(r.sha);
     setDirty(false);
-    setMsg("저장했습니다. 메인 사이트에 몇 분 안에 반영됩니다 (재수집 없음).");
+    setMsg("저장했습니다. 다음 수집(매일 06:00) 또는 '지금 수집 실행' 뒤 메인 사이트 점수에 반영됩니다.");
   }
 
-  if (!p) return <section className="panel"><h2>내 추천 조건</h2><p className="hint">{msg || "불러오는 중…"}</p></section>;
+  if (!p) {
+    return (
+      <section className="panel">
+        <h2>내 추천 조건</h2>
+        <p className={blocked ? "empty-note" : "hint"}>{blocked || msg || "불러오는 중…"}</p>
+      </section>
+    );
+  }
 
   return (
     <section className="panel profile">
       <div className="profile-head">
         <div>
           <h2>내 추천 조건</h2>
-          <p className="hint">조건에 맞는 대회에 메인 사이트가 <b>추천 점수</b>를 붙이고, "나에게 맞는 대회만" 필터와 "나에게 맞는 순" 정렬에 씁니다. 공개 저장소에 저장되니 개인정보는 넣지 마세요.</p>
+          <p className="hint">
+            조건에 맞는 대회에 메인 사이트가 <b>추천 점수</b>를 붙이고, &quot;나에게 맞는 대회만&quot; 필터와 &quot;나에게 맞는 순&quot; 정렬에 씁니다.
+            조건은 비공개 저장소 <code>{PRIVATE_REPO_NAME}</code>에 저장되고, 공개 사이트에는 대회별 점수만 실립니다.
+          </p>
         </div>
         <div className="profile-save">
           <span role="status">{msg}</span>

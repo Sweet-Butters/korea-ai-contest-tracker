@@ -1,10 +1,12 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { REPO, categoryLabel, type Keywords, type Meta } from "@radar/shared";
+import { PRIVATE_REPO, REPO, categoryLabel, type Keywords, type Meta } from "@radar/shared";
 import ApplicationQueue from "./ApplicationQueue";
+import KitTab from "./KitTab";
 import ProfileEditor from "./ProfileEditor";
 import WordGroup from "./WordGroup";
+import { PRIVATE_REPO_NAME, b64decode, b64encode, makeApi } from "./github";
 
 const SITE_ROOT = process.env.NEXT_PUBLIC_SITE_ROOT ?? "";
 const TOKEN_KEY = "radar-gh-token";
@@ -32,15 +34,13 @@ const OUTCOME_LABEL: Record<string, string> = {
 
 interface Run { id: number; status: string; conclusion: string | null; event: string; created_at: string; html_url: string }
 
-const b64decode = (s: string) => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\n/g, "")), (c) => c.charCodeAt(0)));
-const b64encode = (s: string) => {
-  let bin = "";
-  for (const byte of new TextEncoder().encode(s)) bin += String.fromCharCode(byte);
-  return btoa(bin);
-};
+type Tab = "manage" | "kit";
 
 export default function Admin() {
   const [token, setToken] = useState("");
+  // The token as the private panels use it: settled for a moment, so typing does not refetch per key.
+  const [activeToken, setActiveToken] = useState<string | null>(null);
+  const [tab, setTab] = useState<Tab>("manage");
   const [kw, setKw] = useState<Keywords | null>(null);
   const [sha, setSha] = useState<string | null>(null);
   const [dirty, setDirty] = useState(false);
@@ -49,15 +49,8 @@ export default function Admin() {
   const [runs, setRuns] = useState<Run[]>([]);
   const [jevRuns, setJevRuns] = useState<JevRun[]>([]);
 
-  const api = (path: string, init: RequestInit = {}) =>
-    fetch(`https://api.github.com/repos/${REPO.owner}/${REPO.repo}/${path}`, {
-      ...init,
-      headers: {
-        Accept: "application/vnd.github+json",
-        ...(token ? { Authorization: `Bearer ${token}` } : {}),
-        ...(init.headers ?? {}),
-      },
-    });
+  const api = makeApi(REPO, token);
+  const privateApi = makeApi(PRIVATE_REPO, activeToken ?? "");
 
   async function loadKeywords() {
     setMsg("불러오는 중…");
@@ -76,18 +69,35 @@ export default function Admin() {
   }
 
   useEffect(() => {
-    try { setToken(localStorage.getItem(TOKEN_KEY) ?? ""); } catch { /* storage blocked */ }
+    let saved = "";
+    try { saved = localStorage.getItem(TOKEN_KEY) ?? ""; } catch { /* storage blocked */ }
+    setToken(saved);
+    setActiveToken(saved);
+    const syncTab = () => setTab(location.hash === "#kit" ? "kit" : "manage");
+    syncTab();
+    window.addEventListener("hashchange", syncTab);
     fetch(`${SITE_ROOT}/data/meta.json`, { cache: "no-cache" }).then((r) => (r.ok ? r.json() : null)).then(setMeta).catch(() => {});
     fetch(`${SITE_ROOT}/data/jev_runs.jsonl`, { cache: "no-cache" })
       .then((r) => (r.ok ? r.text() : ""))
       .then((t) => setJevRuns(t.split(/\r?\n/).filter(Boolean).map((l) => JSON.parse(l) as JevRun)))
       .catch(() => {});
+    return () => window.removeEventListener("hashchange", syncTab);
   }, []);
+  useEffect(() => {
+    if (activeToken === null || token === activeToken) return;
+    const t = setTimeout(() => setActiveToken(token), 500);
+    return () => clearTimeout(t);
+  }, [token, activeToken]);
   useEffect(() => {
     loadKeywords();
     loadRuns();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
+  function openTab(t: Tab) {
+    setTab(t);
+    history.replaceState(null, "", t === "kit" ? "#kit" : location.pathname + location.search);
+  }
 
   function saveToken(v: string) {
     setToken(v);
@@ -133,8 +143,12 @@ export default function Admin() {
       <header className="top">
         <div className="wrap top-row">
           <div>
-            <h1>키워드 관리</h1>
-            <p className="sub">저장하면 <code>config/keywords.json</code>이 커밋되고 GitHub Actions가 바로 다시 수집합니다.</p>
+            <h1>{tab === "kit" ? "지원서 재료함" : "키워드 관리"}</h1>
+            <p className="sub">
+              {tab === "kit"
+                ? <>지원서에 붙여 쓸 문장 모음입니다. 비공개 저장소 <code>{PRIVATE_REPO_NAME}</code>에서만 읽고 씁니다.</>
+                : <>저장하면 <code>config/keywords.json</code>이 커밋되고 GitHub Actions가 바로 다시 수집합니다.</>}
+            </p>
           </div>
           <nav className="top-links">
             <a href={`${SITE_ROOT}/`}>← 대회 목록</a>
@@ -147,8 +161,11 @@ export default function Admin() {
         <section className="panel token">
           <label htmlFor="token"><b>GitHub 토큰</b></label>
           <p className="hint">
-            저장·실행에 필요합니다. <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Fine-grained token</a>을
-            이 저장소만, Contents·Actions <i>Read and write</i> 권한으로 만드세요. 토큰은 이 브라우저에만 저장됩니다.
+            지원 목록·추천 조건·지원서 재료함을 보고, 저장·실행하는 데 필요합니다.{" "}
+            <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Fine-grained token</a>을
+            저장소 <code>{REPO.owner}/{REPO.repo}</code>와 <code>{PRIVATE_REPO_NAME}</code> 두 곳만 골라,
+            Contents <i>Read and write</i> · Actions <i>Read and write</i> 권한으로 만드세요 (classic 토큰이면 <code>repo</code> 범위).
+            토큰은 이 브라우저에만 저장됩니다.
           </p>
           <div className="token-row">
             <input id="token" type="password" value={token} onChange={(e) => saveToken(e.target.value.trim())} placeholder="github_pat_…" autoComplete="off" />
@@ -156,10 +173,20 @@ export default function Admin() {
           </div>
         </section>
 
-        <ApplicationQueue api={api} token={token} />
+        <nav className="tabs" role="tablist" aria-label="관리 화면">
+          <button type="button" role="tab" aria-selected={tab === "manage"} className={tab === "manage" ? "on" : ""} onClick={() => openTab("manage")}>지원·추천·키워드</button>
+          <button type="button" role="tab" aria-selected={tab === "kit"} className={tab === "kit" ? "on" : ""} onClick={() => openTab("kit")}>지원서 재료함</button>
+        </nav>
 
-        <ProfileEditor api={api} token={token} />
+        {tab === "kit" && activeToken !== null && <KitTab api={privateApi} token={activeToken} />}
 
+        {tab === "manage" && activeToken !== null && <>
+        <ApplicationQueue api={privateApi} token={activeToken} />
+
+        <ProfileEditor api={privateApi} token={activeToken} />
+        </>}
+
+        {tab === "manage" && <>
         <h2 className="section-title">수집 키워드</h2>
         <div className="cols">
           <section className="panel kw-panel">
@@ -217,15 +244,16 @@ export default function Admin() {
             </section>
           </aside>
         </div>
+        </>}
       </main>
 
-      <div className="save-bar">
+      {tab === "manage" && <div className="save-bar">
         <div className="wrap save-row">
           <span role="status">{msg}</span>
           <button type="button" className="ghost" onClick={runNow} disabled={!token}>지금 수집 실행</button>
           <button type="button" onClick={save} disabled={!token || !dirty}>저장</button>
         </div>
-      </div>
+      </div>}
     </>
   );
 }

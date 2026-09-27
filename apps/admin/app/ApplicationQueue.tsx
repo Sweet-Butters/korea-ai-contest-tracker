@@ -2,77 +2,74 @@
 
 import { useEffect, useMemo, useState } from "react";
 import {
-  APPLICATION_STATUS, REPO, categoryLabel, daysBetween, todayKST,
+  APPLICATION_STATUS, categoryLabel, daysBetween, todayKST,
   type Application, type ApplicationStatus, type Contest, type ContestData,
 } from "@radar/shared";
+import { PRIVATE_REPO_NAME, readErrorText, readPrivateJson, writePrivateJson, type Api } from "./github";
 
 const SITE_ROOT = process.env.NEXT_PUBLIC_SITE_ROOT ?? "";
-const PATH = "config/applications.json";
-
-type Api = (path: string, init?: RequestInit) => Promise<Response>;
-
-const b64decode = (s: string) => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\n/g, "")), (c) => c.charCodeAt(0)));
-const b64encode = (s: string) => {
-  let bin = "";
-  for (const byte of new TextEncoder().encode(s)) bin += String.fromCharCode(byte);
-  return btoa(bin);
-};
+const PATH = "applications.json"; // in the private repo
 
 export default function ApplicationQueue({ api, token }: { api: Api; token: string }) {
   const [items, setItems] = useState<Application[] | null>(null);
   const [sha, setSha] = useState<string | null>(null);
   const [msg, setMsg] = useState("");
+  const [blocked, setBlocked] = useState(""); // no token / no access: show only this
   const [contests, setContests] = useState<Record<string, Contest>>({});
   const [pending, setPending] = useState<Contest | null>(null); // from ?add=<id>
+  const [addId, setAddId] = useState<string | null>(null);
   const today = todayKST();
 
-  async function load(): Promise<Application[]> {
-    const r = await api(`contents/${PATH}?ref=${REPO.branch}`);
-    if (r.status === 404) {
+  async function load() {
+    const r = await readPrivateJson<{ items?: Application[] }>(api, token, PATH);
+    if (r.kind === "missing") {
       setItems([]);
       setSha(null);
-      return [];
+      setBlocked("");
+      return;
     }
-    if (!r.ok) {
-      setMsg(`지원 목록을 불러오지 못했습니다 (${r.status})`);
-      return [];
+    if (r.kind !== "ok") {
+      setItems(null);
+      setSha(null);
+      setBlocked(readErrorText(r));
+      return;
     }
-    const j = await r.json();
-    const list: Application[] = JSON.parse(b64decode(j.content)).items ?? [];
-    setItems(list);
-    setSha(j.sha);
-    return list;
+    setItems(r.data.items ?? []);
+    setSha(r.sha);
+    setBlocked("");
+    setMsg("");
   }
 
   useEffect(() => {
-    (async () => {
-      const [list, data] = await Promise.all([
-        load(),
-        fetch(`${SITE_ROOT}/data/contests.json`, { cache: "no-cache" }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
-      ]);
-      const byId: Record<string, Contest> = {};
-      for (const c of (data as ContestData | null)?.items ?? []) byId[c.id] = c;
-      setContests(byId);
-      const add = new URLSearchParams(location.search).get("add");
-      if (add && byId[add] && !list.some((i) => i.id === add)) setPending(byId[add]);
-    })();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    setAddId(new URLSearchParams(location.search).get("add"));
+    fetch(`${SITE_ROOT}/data/contests.json`, { cache: "no-cache" })
+      .then((r) => (r.ok ? r.json() : null))
+      .catch(() => null)
+      .then((data: ContestData | null) => {
+        const byId: Record<string, Contest> = {};
+        for (const c of data?.items ?? []) byId[c.id] = c;
+        setContests(byId);
+      });
   }, []);
+  useEffect(() => {
+    load();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [token]);
+  // A card's "지원하기" link arrives as ?add=<id>; offer it once the private list is readable.
+  useEffect(() => {
+    if (addId && items && contests[addId] && !items.some((i) => i.id === addId)) setPending(contests[addId]);
+  }, [addId, items, contests]);
 
   async function save(next: Application[], message: string) {
+    const before = items;
     setItems(next);
     setMsg("저장 중…");
-    const r = await api(`contents/${PATH}`, {
-      method: "PUT",
-      body: JSON.stringify({
-        message,
-        content: b64encode(JSON.stringify({ items: next }, null, 1) + "\n"),
-        ...(sha ? { sha } : {}),
-        branch: REPO.branch,
-      }),
-    });
-    if (!r.ok) return setMsg(r.status === 409 ? "다른 곳에서 먼저 바뀌었습니다. 새로고침하세요." : `저장 실패 (${r.status})`);
-    setSha((await r.json()).content.sha);
+    const r = await writePrivateJson(api, PATH, { items: next }, sha, message, 1);
+    if (!r.ok) {
+      setItems(before);
+      return setMsg(r.error);
+    }
+    setSha(r.sha);
     setMsg("저장했습니다. 이 PC에서 python -m apply prep 을 돌리면 초안이 만들어집니다.");
   }
 
@@ -85,7 +82,14 @@ export default function ApplicationQueue({ api, token }: { api: Api; token: stri
     });
   }, [items, contests]);
 
-  if (!items) return <section className="panel"><h2>지원 목록</h2><p className="hint">{msg || "불러오는 중…"}</p></section>;
+  if (!items) {
+    return (
+      <section className="panel">
+        <h2>지원 목록</h2>
+        <p className={blocked ? "empty-note" : "hint"}>{blocked || msg || "불러오는 중…"}</p>
+      </section>
+    );
+  }
 
   return (
     <section className="panel queue">
@@ -95,7 +99,7 @@ export default function ApplicationQueue({ api, token }: { api: Api; token: stri
           <p className="hint">
             사이트 카드의 <b>지원하기</b>를 누르면 여기로 들어옵니다. 이 PC에서{" "}
             <code>python -m apply prep</code> 을 돌리면 요건 정리와 지원서 초안이 <code>drafts/</code> 에 생깁니다.
-            자격 확인·동의·최종 제출은 직접 하세요.
+            자격 확인·동의·최종 제출은 직접 하세요. 목록은 비공개 저장소 <code>{PRIVATE_REPO_NAME}</code>에 저장됩니다.
           </p>
         </div>
         <span role="status" className="hint">{msg}</span>
