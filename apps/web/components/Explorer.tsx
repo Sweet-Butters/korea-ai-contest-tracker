@@ -152,6 +152,7 @@ export default function Explorer({ data, meta, profile: bakedProfile, audit }: {
     ? new Date(data.updatedAt).toLocaleString("ko-KR", { timeZone: "Asia/Seoul", dateStyle: "medium", timeStyle: "short" })
     : "";
   const failed = meta ? Object.entries(meta.sources).filter(([, v]) => v.error).map(([k]) => k) : [];
+  const skipped = meta ? Object.entries(meta.sources).filter(([, v]) => v.skipped).map(([k]) => k) : [];
 
   return (
     <>
@@ -260,7 +261,7 @@ export default function Explorer({ data, meta, profile: bakedProfile, audit }: {
           일정과 자격은 바뀔 수 있으니 반드시 원문 공고를 확인하세요.
         </p>
         {meta && (
-          <p>마지막 수집 {meta.runDate} · 수집원 {Object.keys(meta.sources).length}곳{failed.length ? ` · 이번 수집 실패: ${failed.join(", ")}` : ""}</p>
+          <p>마지막 수집 {meta.runDate} · 수집원 {Object.keys(meta.sources).length}곳{failed.length ? ` · 이번 수집 실패: ${failed.join(", ")}` : ""}{skipped.length ? ` · 열쇠가 없어 건너뜀: ${skipped.join(", ")}` : ""}</p>
         )}
         {audit?.rate !== null && audit && (
           <p title={audit.misses.map((m) => `${m.name}: 사이트 ${m.shown} / ${m.source} ${m.source_says}`).join("\n")}>

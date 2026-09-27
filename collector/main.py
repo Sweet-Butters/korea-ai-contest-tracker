@@ -149,7 +149,12 @@ def main(only=None):
     meta = {}
     for src, raw, err, secs in results:
         n = kept.get(src.NAME, 0)
-        meta[src.NAME] = {"fetched": len(raw), "kept": n, "error": err, "seconds": round(secs)}
+        # A source that needs a key we do not have was not reached and did not fail: saying so
+        # keeps the site's "이번 수집 실패" line for things that are actually broken.
+        skipped = bool(err) and err.endswith("; skipped")
+        meta[src.NAME] = {"fetched": len(raw), "kept": n, "seconds": round(secs),
+                          "error": None if skipped else err,
+                          "skipped": err.split(":", 1)[-1].strip() if skipped else None}
         print(f"{src.NAME:10} fetched={len(raw):5} kept={n:4} {err or ''}")
 
     if news:

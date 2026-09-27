@@ -42,6 +42,8 @@ export interface SourceMeta {
   fetched: number;
   kept: number;
   error: string | null;
+  /** Why the source was not reached at all (a missing API key), as opposed to having failed. */
+  skipped?: string | null;
   seconds: number;
 }
 
