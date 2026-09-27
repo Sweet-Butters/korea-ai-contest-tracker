@@ -36,6 +36,7 @@ CATEGORY_HINTS = {
     "startup": "A startup, business plan, commercialization, or investment/IR pitch competition",
     "funding": "A government or institutional support programme open for applications: grants, "
                "incubation, office tenancy, accelerator or scholarship recruitment (not a competition)",
+    "social": "A social-impact, social enterprise, public-good or sustainability themed competition or programme",
     "tourism": "A tourism, travel, or MICE themed competition",
     "academic": "An academic paper, research, or scholarly competition",
     "data": "A data analysis, data science, or machine learning modeling competition",
@@ -59,7 +60,7 @@ def available() -> bool:
 
 
 # Bump when the questions or their criteria change, so cached answers are asked again.
-QUESTION_VERSION = 3
+QUESTION_VERSION = 4
 
 
 def cache_key(title: str, desc: str) -> str:

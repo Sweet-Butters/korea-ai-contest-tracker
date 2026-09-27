@@ -81,6 +81,7 @@ export const CATEGORY_LABEL: Record<string, string> = {
   creative: "AI 창작",
   startup: "창업",
   funding: "지원사업",
+  social: "사회문제·소셜벤처",
   tourism: "관광·투어",
   youth: "청소년",
   academic: "학술·논문",

@@ -73,8 +73,17 @@ def summary(p: dict, for_llm: bool = False) -> str:
         lines.append(
             f"프로젝트: {pr.get('name')} — {pr.get('summary')} (역할: {pr.get('role')}, 결과: {pr.get('result')}, {pr.get('link')})"
         )
+    for pr in p.get("projects", []):
+        for d in pr.get("decisions", []) or []:
+            lines.append(f"  판단({pr.get('name')}): {d}")
+        if pr.get("numbers"):
+            lines.append(f"  수치({pr.get('name')}): " + ", ".join(pr["numbers"]))
+    for st in p.get("stories", []):
+        lines.append(f"사례: {st.get('title')} — 문제 {st.get('problem')} / 한 일 {st.get('action')} / 결과 {st.get('result')}")
     for a in p.get("awards", []):
         lines.append(f"수상: {a}")
+    for t in p.get("teaching", []):
+        lines.append(f"강의: {t}")
     if p.get("links"):
         lines.append("링크: " + ", ".join(f"{k} {v}" for k, v in p["links"].items()))
     return "\n".join(x for x in lines if x.strip(" :"))

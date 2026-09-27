@@ -118,7 +118,6 @@ def merge(previous: list[dict], fresh: list[dict], run_date: str) -> list[dict]:
             idx.add(key, rec)
         else:
             idx.by_key.setdefault(key, rec)
-            idx.index_end(rec, item["name"])
         # Fresh data from a better-or-equal source replaces what we had; worse sources only fill gaps.
         best = min((_rank(s) for s in rec["sources"]), default=99)
         rec["sources"][src] = item["url"]
@@ -136,6 +135,9 @@ def merge(previous: list[dict], fresh: list[dict], run_date: str) -> list[dict]:
             rec["upcoming"] = True
         rec["url"] = rec["sources"][min(rec["sources"], key=_rank)]
         rec["lastSeen"] = run_date
+        # Index by deadline only now: applyEnd is filled in the loop above, so indexing earlier
+        # (at add()) stored nothing and the deadline-based match never fired.
+        idx.index_end(rec, item["name"])
 
     for rec in idx.by_key.values():
         _settle_deadline(rec, run_date)

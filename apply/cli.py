@@ -14,7 +14,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-from . import draft, profile, requirements
+from . import draft, form, from_site, profile, requirements
 
 ROOT = Path(__file__).resolve().parent.parent
 QUEUE = ROOT / "config" / "applications.json"
@@ -142,6 +142,16 @@ def main(argv):
         cmd_status(*rest)
     elif cmd == "open" and rest:
         cmd_open(rest[0])
+    elif cmd == "profile":
+        from_site.main(rest[0] if rest else None)
+    elif cmd == "capture" and rest:
+        c = _contests().get(rest[0]) or _find(rest[0], _contests())
+        if c:
+            form.capture(c["id"], rest[1] if len(rest) > 1 else None)
+    elif cmd == "answers" and rest:
+        c = _contests().get(rest[0]) or _find(rest[0], _contests())
+        if c:
+            form.answers(c["id"], c)
     else:
         print(__doc__)
 
