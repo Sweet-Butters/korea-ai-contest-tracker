@@ -8,12 +8,11 @@ be connected or authorised — the daily run updates the file and the phone foll
 """
 from pathlib import Path
 
-from .digest import _fit
+from .digest import _fit, load_profile
 from .main import DATA, load
 from .util import dates_in, today
 
 ROOT = Path(__file__).resolve().parent.parent
-PROFILE = ROOT / "config" / "profile.json"
 SITE = "https://sweet-butters.github.io/korea-ai-contest-tracker/"
 FEEDS = {"calendar.ics": "AI 공모전 (내 조건)", "calendar-all.ics": "AI 공모전 (전체)"}
 
@@ -77,7 +76,7 @@ def build(items: list[dict], name: str) -> str:
 
 def main():
     items = load(DATA, {"items": []})["items"]
-    profile = load(PROFILE, {})
+    profile = load_profile()
     live = [r for r in items if r.get("status") in ("open", "upcoming", "in_progress")]
     mine = [r for r in live if _fit(r, profile) >= profile.get("threshold", 60)]
     for file, name in FEEDS.items():

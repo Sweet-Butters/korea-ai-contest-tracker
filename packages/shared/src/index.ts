@@ -159,7 +159,13 @@ export const shortDate = (iso?: string | null) => (iso ? `${+iso.slice(5, 7)}/${
 /** Repository holding config/keywords.json and the update workflow (used by the admin app). */
 export const REPO = { owner: "Sweet-Butters", repo: "korea-ai-contest-tracker", branch: "main", workflow: "update.yml" };
 
-// ---- Personal fit: config/profile.json, edited in /admin, scored in the browser ----
+/**
+ * Private repository for the admin's personal data: profile.json, applications.json, kit.json.
+ * Read and written only with the token pasted into /admin; the public site never fetches it.
+ */
+export const PRIVATE_REPO = { owner: "Sweet-Butters", repo: "private-kit", branch: "main" };
+
+// ---- Personal fit: profile.json in PRIVATE_REPO, edited in /admin, scored at build time ----
 
 export interface Profile {
   /** Who I am, as contests word eligibility: 대학생, 대학원생, 일반인, 누구나 … */
@@ -249,7 +255,16 @@ export function fitScore(it: Contest & { prizeKRW?: number | null }, p: Profile,
   return { score, recommended: score >= p.threshold, reasons };
 }
 
-// ---- Application queue: config/applications.json, edited in /admin, worked in `python -m apply` ----
+/** Fit as baked into the public page: [score, recommended 1/0, reasons, blocked]. */
+export type CompactFit = [number, 0 | 1, string[], string?];
+
+export const packFit = (f: Fit): CompactFit =>
+  f.blocked ? [f.score, f.recommended ? 1 : 0, f.reasons, f.blocked] : [f.score, f.recommended ? 1 : 0, f.reasons];
+
+export const unpackFit = (c: CompactFit | undefined): Fit =>
+  c ? { score: c[0], recommended: c[1] === 1, reasons: c[2], ...(c[3] ? { blocked: c[3] } : {}) } : { score: 0, recommended: false, reasons: [] };
+
+// ---- Application queue: applications.json in PRIVATE_REPO, edited in /admin, worked in `python -m apply` ----
 
 export type ApplicationStatus = "interested" | "preparing" | "ready" | "submitted" | "skipped";
 
@@ -267,3 +282,68 @@ export const APPLICATION_STATUS: Record<ApplicationStatus, string> = {
   submitted: "제출함",
   skipped: "보류",
 };
+
+// ---- Application kit: kit.json in PRIVATE_REPO, the "지원서 재료함" tab in /admin ----
+
+export interface KitProject {
+  id: string;
+  title: string;
+  oneLiner: string;
+  threeLines: string[];
+  decisions: string[];
+  materials?: string[];
+  numbers: string[];
+  numbersNote?: string;
+  caveats: string[];
+  link: string;
+}
+
+export interface KitBio {
+  id: string;
+  type: "400byte" | "blind" | "english" | string;
+  label: string;
+  limitBytes?: number;
+  limitChars?: number;
+  limitWords?: number;
+  containsSchool?: boolean;
+  text: string;
+}
+
+export interface Kit {
+  _comment?: string;
+  version: number;
+  asOf: string;
+  intro: string[];
+  links: { label: string; url: string }[];
+  motto: { ko: string; en: string; oneLiner: string; throughline: string; throughlineNote: string };
+  profile: { title: string; containsSchool: boolean; containsPersonal: boolean; lines: string[]; note: string };
+  projectsNote?: string;
+  projects: KitProject[];
+  bios: KitBio[];
+  checklist: { text: string; done: boolean }[];
+}
+
+/**
+ * Byte counts as Korean application forms count them. EUC-KR (CP949) stores ASCII in 1 byte and
+ * Hangul and other non-ASCII in 2; UTF-8 stores Hangul in 3.
+ */
+export function byteCounts(s: string): { eucKr: number; utf8: number; chars: number } {
+  let eucKr = 0;
+  let chars = 0;
+  for (const ch of s) {
+    chars++;
+    eucKr += ch.codePointAt(0)! < 0x80 ? 1 : 2;
+  }
+  return { eucKr, utf8: new TextEncoder().encode(s).length, chars };
+}
+
+const SCHOOL_RE = /대학교|대학원|학과|학년|입학|졸업|전공|university|college/i;
+const PERSONAL_RE = /[\w.+-]+@[\w-]+\.[\w.]+|\d{2,3}-\d{3,4}-\d{4}/;
+
+/** What a snippet reveals: school/major, or contact details. Empty = fine for blind review. */
+export function sensitiveKinds(text: string): ("학교·전공" | "연락처")[] {
+  const out: ("학교·전공" | "연락처")[] = [];
+  if (SCHOOL_RE.test(text)) out.push("학교·전공");
+  if (PERSONAL_RE.test(text)) out.push("연락처");
+  return out;
+}

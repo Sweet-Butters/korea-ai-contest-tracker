@@ -17,9 +17,27 @@ from .util import today
 
 ROOT = Path(__file__).resolve().parent.parent
 DIGEST = ROOT / "data" / "digest.md"
+# The recommendation profile lives in the private repo Sweet-Butters/private-kit. The workflow copies
+# it here (git-ignored) with the PRIVATE_KIT_TOKEN secret; without it these defaults apply, the same
+# as DEFAULT_PROFILE in packages/shared.
 PROFILE = ROOT / "config" / "profile.json"
+DEFAULT_PROFILE = {
+    "eligibility": ["대학생", "대학원생", "일반인", "누구나", "제한 없음", "전 국민", "국민"],
+    "notEligible": ["청소년", "초등", "중학생", "고등학생", "고교", "군장병", "재직자", "기업만"],
+    "interests": ["AI", "에이전트", "LLM", "해커톤", "데이터"],
+    "categories": ["hackathon", "data", "dev", "idea", "startup", "funding"],
+    "regions": ["서울", "경기", "인천"],
+    "exclude": [],
+    "minPrizeManwon": 100,
+    "minDaysLeft": 3,
+    "threshold": 60,
+}
 SITE = "https://sweet-butters.github.io/korea-ai-contest-tracker/"
 SOON_DAYS = 7
+
+
+def load_profile() -> dict:
+    return {**DEFAULT_PROFILE, **load(PROFILE, {})}
 
 
 def _fit(rec: dict, profile: dict) -> int:
@@ -39,7 +57,7 @@ def _fit(rec: dict, profile: dict) -> int:
 
 def build() -> str:
     items = load(DATA, {"items": []})["items"]
-    profile = load(PROFILE, {})
+    profile = load_profile()
     t = today().isoformat()
     from datetime import date, timedelta
     soon_by = (date.fromisoformat(t) + timedelta(days=SOON_DAYS)).isoformat()

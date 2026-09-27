@@ -11,17 +11,16 @@ import sys
 
 import requests
 
-from .digest import SITE, SOON_DAYS, _fit
+from .digest import SITE, SOON_DAYS, _fit, load_profile
 from .main import DATA, load
 from .util import today
 
-PROFILE = __import__("pathlib").Path(__file__).resolve().parent.parent / "config" / "profile.json"
 MAX_LINES = 12
 
 
 def message() -> str | None:
     items = load(DATA, {"items": []})["items"]
-    profile = load(PROFILE, {})
+    profile = load_profile()
     t = today().isoformat()
     from datetime import date, timedelta
     soon_by = (date.fromisoformat(t) + timedelta(days=SOON_DAYS)).isoformat()

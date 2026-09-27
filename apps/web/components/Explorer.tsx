@@ -2,8 +2,8 @@
 
 import { useEffect, useMemo, useState } from "react";
 import {
-  CATEGORY_LABEL, REPO, STATUS_LABEL, categoryLabel, daysBetween, fitScore, parsePrize, todayKST,
-  type AuditRow, type Contest, type ContestData, type Fit, type Meta, type Profile, type Status,
+  CATEGORY_LABEL, STATUS_LABEL, categoryLabel, daysBetween, parsePrize, todayKST, unpackFit,
+  type AuditRow, type CompactFit, type Contest, type ContestData, type Fit, type Meta, type Status,
 } from "@radar/shared";
 import ContestCard from "./ContestCard";
 import CalendarView from "./CalendarView";
@@ -44,10 +44,10 @@ const SORTS: Record<SortKey, { label: string; cmp: (a: Item, b: Item) => number 
 };
 
 const STORAGE_KEY = "radar-filters-v2";
-// Read live so a profile saved in /admin applies at once, without waiting for a rebuild.
 // Off-topic contests are 2x the main list, so they load only when the toggle is switched on.
+// Fit scores are computed at build time from the private profile; only the scores are published.
 const OTHERS_URL = `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/data/others.json`;
-const PROFILE_URL = `https://raw.githubusercontent.com/${REPO.owner}/${REPO.repo}/${REPO.branch}/config/profile.json`;
+const OTHERS_FITS_URL = `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/fits-others.json`;
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 const SITE_ORIGIN = "https://sweet-butters.github.io";
 
@@ -67,11 +67,11 @@ function countBy<T>(arr: T[], key: (x: T) => string) {
   return out;
 }
 
-export default function Explorer({ data, meta, profile: bakedProfile, audit }: { data: ContestData; meta: Meta | null; profile: Profile; audit: AuditRow | null }) {
+export default function Explorer({ data, meta, fits, audit }: { data: ContestData; meta: Meta | null; fits: Record<string, CompactFit>; audit: AuditRow | null }) {
   const [f, setF] = useState<Filters>(DEFAULTS);
   const [today, setToday] = useState(data.updatedAt.slice(0, 10) || "2026-01-01");
-  const [profile, setProfile] = useState<Profile>(bakedProfile);
   const [others, setOthers] = useState<Contest[] | null>(null);
+  const [othersFits, setOthersFits] = useState<Record<string, CompactFit>>({});
   const set = (patch: Partial<Filters>) => setF((prev) => ({ ...prev, ...patch }));
 
   useEffect(() => {
@@ -86,11 +86,7 @@ export default function Explorer({ data, meta, profile: bakedProfile, audit }: {
     if (p.get("others") === "1") { fromUrl.others = true; fromUrl.aiOnly = false; }
     setF({ ...load(), ...fromUrl });
     setToday(todayKST());
-    fetch(`${PROFILE_URL}?t=${Date.now()}`)
-      .then((r) => (r.ok ? r.json() : null))
-      .then((p) => p && setProfile({ ...bakedProfile, ...p }))
-      .catch(() => { /* keep the profile baked in at build time */ });
-  }, [bakedProfile]);
+  }, []);
   useEffect(() => {
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(f)); } catch { /* storage blocked */ }
   }, [f]);
@@ -102,14 +98,18 @@ export default function Explorer({ data, meta, profile: bakedProfile, audit }: {
       .then((r) => (r.ok ? r.json() : null))
       .then((d) => setOthers(d?.items ?? []))
       .catch(() => setOthers([]));
+    fetch(OTHERS_FITS_URL, { cache: "no-cache" })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => d && setOthersFits(d))
+      .catch(() => { /* off-topic items then show without a fit score */ });
   }, [f.others, others]);
 
   const items: Item[] = useMemo(
     () => [...data.items, ...(f.others ? others ?? [] : [])].map((c) => {
       const prizeKRW = parsePrize(c.prize);
-      return { ...c, prizeKRW, fit: fitScore({ ...c, prizeKRW }, profile, today) };
+      return { ...c, prizeKRW, fit: unpackFit(fits[c.id] ?? othersFits[c.id]) };
     }),
-    [data.items, others, f.others, profile, today],
+    [data.items, others, f.others, fits, othersFits],
   );
   const hasJev = items.some((i) => i.jev !== undefined);
   const regions = useMemo(() => [...new Set(items.map((i) => i.region).filter(Boolean) as string[])].sort(), [items]);
