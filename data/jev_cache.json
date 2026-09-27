@@ -153948,5 +153948,26 @@
    "creative": 0.94
   },
   "seen": "2026-09-28"
+ },
+ "c8137e13a9188b19": {
+  "ai": 0.07,
+  "contest": 0.8,
+  "category": "creative",
+  "categoryConf": 0.64,
+  "categoryProbs": {
+   "startup": 0.0,
+   "academic": 0.0,
+   "other": 0.0,
+   "hackathon": 0.0,
+   "idea": 0.01,
+   "funding": 0.0,
+   "data": 0.0,
+   "dev": 0.0,
+   "youth": 0.16,
+   "creative": 0.68,
+   "social": 0.15,
+   "tourism": 0.0
+  },
+  "seen": "2026-09-28"
  }
 }
