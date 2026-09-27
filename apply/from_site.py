@@ -18,6 +18,8 @@ from . import profile as profile_mod
 
 DEFAULT_SITE = "https://sweet-butters.github.io/"
 MAX_PAGES = 8
+PER_PAGE = 24000        # the SCPC write-up alone is 20k chars of text; a smaller cut dropped 본선
+SKIP = ("/ko/",)        # the ko pages are generated copies — the source pages hold every language
 KEEP = ("name", "email", "phone", "birth", "address", "region")  # never overwritten from a public site
 
 PROMPT = """아래는 한 사람의 포트폴리오 웹사이트 본문이다(여러 페이지를 이어 붙였다).
@@ -28,6 +30,10 @@ PROMPT = """아래는 한 사람의 포트폴리오 웹사이트 본문이다(�
 - **숫자는 반드시 숫자 그대로** 옮긴다 (예: "0.088 → 0.747", "96건 중 91건", "$0.11", "550여 건").
 - stories 는 지원서에 그대로 인용할 수 있는 단위다. 문제 → 한 일 → 결과 순으로, 사이트의 서술을 살려 쓴다.
 - decisions 는 "무엇을 하지 않기로 했는가"를 포함한 판단이다. 기능 나열이 아니다.
+- **묶지 말고 쪼갠다.** 대회는 라운드별로(1차 예선 / 2차 예선 / 본선), 제품은 저장소별로 각각 하나씩
+  projects 에 넣는다. 서로 다른 라운드나 제품을 한 항목에 합치면 지원서에서 쓸 수 없다.
+- projects 는 사이트에 있는 만큼 전부(보통 5개 이상), stories 는 6개 이상 뽑는다. 라운드마다 한 개 이상.
+- 포크·파생 프로젝트는 본인이 한 부분과 원저자의 것을 그 문장 그대로 구분해 적는다.
 
 {{"school":null,"major":null,"grade":null,
 "intro":"2~3문장",
@@ -57,7 +63,8 @@ def _pages(root: str) -> list[str]:
     urls = [root]
     for href in re.findall(r'href="([^"#?]+)"', html):
         u = urljoin(root, href)
-        if urlsplit(u).netloc == host and u not in urls and not re.search(r"\.(png|jpg|svg|css|js|json)$", u):
+        if (urlsplit(u).netloc == host and u not in urls and not any(k in u for k in SKIP)
+                and not re.search(r"\.(png|jpg|svg|css|js|json)$", u)):
             urls.append(u)
     return urls[:MAX_PAGES]
 
@@ -68,7 +75,7 @@ def build(site: str = DEFAULT_SITE) -> dict:
     pages = _pages(site)
     text = "\n\n".join(f"[{u}]\n{_text(u)[:9000]}" for u in pages)
     print(f"읽은 페이지 {len(pages)}개: " + ", ".join(pages))
-    got = llm._gemini(PROMPT.format(text=text[:40000]))
+    got = llm._gemini(PROMPT.format(text=text[:120000]))
     return got[0] if isinstance(got, list) else got
 
 
