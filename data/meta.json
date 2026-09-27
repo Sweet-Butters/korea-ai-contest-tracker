@@ -6,21 +6,21 @@
   "씽굿": {
    "fetched": 662,
    "kept": 126,
-   "seconds": 269,
+   "seconds": 288,
    "error": null,
    "skipped": null
   },
   "올콘": {
    "fetched": 452,
    "kept": 69,
-   "seconds": 34,
+   "seconds": 35,
    "error": null,
    "skipped": null
   },
   "링커리어": {
    "fetched": 827,
    "kept": 164,
-   "seconds": 40,
+   "seconds": 38,
    "error": null,
    "skipped": null
   },
@@ -34,14 +34,14 @@
   "콘테스트코리아": {
    "fetched": 575,
    "kept": 82,
-   "seconds": 147,
+   "seconds": 146,
    "error": null,
    "skipped": null
   },
   "위비티": {
    "fetched": 820,
    "kept": 138,
-   "seconds": 70,
+   "seconds": 71,
    "error": null,
    "skipped": null
   },
@@ -83,15 +83,15 @@
   "스타트업레시피": {
    "fetched": 41,
    "kept": 29,
-   "seconds": 5,
+   "seconds": 4,
    "error": null,
    "skipped": null
   },
   "기업마당": {
-   "fetched": 163,
-   "kept": 149,
-   "seconds": 13,
-   "error": null,
+   "fetched": 0,
+   "kept": 0,
+   "seconds": 127,
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='apis.data.go.kr', port=443): Max retries exceeded with url: /1421000/bizinfo/pblancBsnsService?serviceKey=YagLqxPAQt1bmX0LuoOQfdaCaXrv%2BqfKwSkeh9fSdft1kJ5buYiJG6dd1gS70q4lEH6WAdzzJBwzQfSf6dPd%2Fg%3D%3D&numOfRows=100&pageNo=1&dataType=json (Caused by ConnectTimeoutError(<HTTPSConnection(host='apis.data.go.kr', port=443) at 0x7f5f50dd4260>, 'Connection to apis.data.go.kr timed out. (connect timeout=40)'))",
    "skipped": null
   },
   "네이버뉴스": {
