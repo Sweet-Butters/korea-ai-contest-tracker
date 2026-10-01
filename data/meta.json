@@ -1,47 +1,47 @@
 {
- "runDate": "2026-09-30",
+ "runDate": "2026-10-01",
  "llm": true,
  "jev": true,
  "sources": {
   "씽굿": {
-   "fetched": 669,
-   "kept": 122,
-   "seconds": 370,
+   "fetched": 672,
+   "kept": 123,
+   "seconds": 362,
    "error": null,
    "skipped": null
   },
   "올콘": {
-   "fetched": 370,
-   "kept": 54,
-   "seconds": 36,
+   "fetched": 378,
+   "kept": 57,
+   "seconds": 43,
    "error": null,
    "skipped": null
   },
   "링커리어": {
-   "fetched": 868,
-   "kept": 178,
-   "seconds": 46,
+   "fetched": 689,
+   "kept": 138,
+   "seconds": 50,
    "error": null,
    "skipped": null
   },
   "요즘것들": {
-   "fetched": 333,
-   "kept": 71,
-   "seconds": 13,
+   "fetched": 277,
+   "kept": 55,
+   "seconds": 26,
    "error": null,
    "skipped": null
   },
   "콘테스트코리아": {
-   "fetched": 594,
-   "kept": 87,
-   "seconds": 177,
+   "fetched": 603,
+   "kept": 90,
+   "seconds": 179,
    "error": null,
    "skipped": null
   },
   "위비티": {
-   "fetched": 830,
-   "kept": 141,
-   "seconds": 86,
+   "fetched": 657,
+   "kept": 106,
+   "seconds": 79,
    "error": null,
    "skipped": null
   },
@@ -60,38 +60,38 @@
    "skipped": null
   },
   "이벤터스": {
-   "fetched": 184,
-   "kept": 37,
-   "seconds": 29,
+   "fetched": 195,
+   "kept": 35,
+   "seconds": 43,
    "error": null,
    "skipped": null
   },
   "Dev-Event": {
-   "fetched": 25,
-   "kept": 15,
+   "fetched": 20,
+   "kept": 10,
    "seconds": 0,
    "error": null,
    "skipped": null
   },
   "K-Startup": {
    "fetched": 25,
-   "kept": 17,
-   "seconds": 3,
+   "kept": 18,
+   "seconds": 2,
    "error": null,
    "skipped": null
   },
   "스타트업레시피": {
    "fetched": 39,
-   "kept": 29,
+   "kept": 28,
    "seconds": 6,
    "error": null,
    "skipped": null
   },
   "기업마당": {
-   "fetched": 166,
-   "kept": 151,
-   "seconds": 13,
-   "error": null,
+   "fetched": 0,
+   "kept": 0,
+   "seconds": 127,
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='apis.data.go.kr', port=443): Max retries exceeded with url: /1421000/bizinfo/pblancBsnsService?serviceKey=YagLqxPAQt1bmX0LuoOQfdaCaXrv%2BqfKwSkeh9fSdft1kJ5buYiJG6dd1gS70q4lEH6WAdzzJBwzQfSf6dPd%2Fg%3D%3D&numOfRows=100&pageNo=1&dataType=json (Caused by ConnectTimeoutError(<HTTPSConnection(host='apis.data.go.kr', port=443) at 0x7f67c0a5c500>, 'Connection to apis.data.go.kr timed out. (connect timeout=40)'))",
    "skipped": null
   },
   "네이버뉴스": {
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 621,
- "others": 1199
+ "total": 627,
+ "others": 1235
 }
