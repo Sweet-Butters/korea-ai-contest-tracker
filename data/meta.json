@@ -3,10 +3,10 @@
  "llm": true,
  "jev": true,
  "sources": {
-  "씽굿": {
-   "fetched": 559,
-   "kept": 96,
-   "seconds": 302,
+  "위비티": {
+   "fetched": 661,
+   "kept": 99,
+   "seconds": 41,
    "error": null,
    "skipped": null
   },
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 624,
- "others": 1177
+ "total": 518,
+ "others": 1034
 }
