@@ -1,54 +1,54 @@
 {
- "runDate": "2026-10-10",
+ "runDate": "2026-10-11",
  "llm": true,
  "jev": true,
  "sources": {
   "씽굿": {
-   "fetched": 547,
+   "fetched": 542,
    "kept": 94,
-   "seconds": 269,
+   "seconds": 283,
    "error": null,
    "skipped": null
   },
   "올콘": {
-   "fetched": 343,
-   "kept": 57,
-   "seconds": 31,
+   "fetched": 306,
+   "kept": 55,
+   "seconds": 37,
    "error": null,
    "skipped": null
   },
   "링커리어": {
-   "fetched": 686,
-   "kept": 142,
-   "seconds": 40,
+   "fetched": 673,
+   "kept": 138,
+   "seconds": 42,
    "error": null,
    "skipped": null
   },
   "요즘것들": {
-   "fetched": 284,
+   "fetched": 282,
    "kept": 58,
-   "seconds": 20,
+   "seconds": 26,
    "error": null,
    "skipped": null
   },
   "콘테스트코리아": {
-   "fetched": 549,
-   "kept": 82,
-   "seconds": 171,
+   "fetched": 513,
+   "kept": 75,
+   "seconds": 172,
    "error": null,
    "skipped": null
   },
   "위비티": {
-   "fetched": 638,
-   "kept": 97,
-   "seconds": 67,
+   "fetched": 629,
+   "kept": 95,
+   "seconds": 66,
    "error": null,
    "skipped": null
   },
   "DACON": {
    "fetched": 15,
    "kept": 15,
-   "seconds": 12,
+   "seconds": 2,
    "error": null,
    "skipped": null
   },
@@ -60,15 +60,15 @@
    "skipped": null
   },
   "이벤터스": {
-   "fetched": 83,
-   "kept": 17,
-   "seconds": 38,
+   "fetched": 211,
+   "kept": 29,
+   "seconds": 42,
    "error": null,
    "skipped": null
   },
   "Dev-Event": {
-   "fetched": 24,
-   "kept": 16,
+   "fetched": 23,
+   "kept": 15,
    "seconds": 0,
    "error": null,
    "skipped": null
@@ -76,21 +76,21 @@
   "K-Startup": {
    "fetched": 23,
    "kept": 17,
-   "seconds": 12,
+   "seconds": 3,
    "error": null,
    "skipped": null
   },
   "스타트업레시피": {
    "fetched": 41,
    "kept": 28,
-   "seconds": 17,
+   "seconds": 20,
    "error": null,
    "skipped": null
   },
   "기업마당": {
-   "fetched": 141,
-   "kept": 129,
-   "seconds": 20,
+   "fetched": 140,
+   "kept": 128,
+   "seconds": 28,
    "error": null,
    "skipped": null
   },
@@ -103,5 +103,5 @@
   }
  },
  "total": 611,
- "others": 1131
+ "others": 1132
 }
