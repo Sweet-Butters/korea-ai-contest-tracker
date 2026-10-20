@@ -1,47 +1,47 @@
 {
- "runDate": "2026-10-19",
+ "runDate": "2026-10-20",
  "llm": true,
  "jev": true,
  "sources": {
   "씽굿": {
-   "fetched": 499,
-   "kept": 83,
-   "seconds": 387,
+   "fetched": 493,
+   "kept": 79,
+   "seconds": 289,
    "error": null,
    "skipped": null
   },
   "올콘": {
-   "fetched": 292,
-   "kept": 50,
-   "seconds": 28,
+   "fetched": 302,
+   "kept": 52,
+   "seconds": 20,
    "error": null,
    "skipped": null
   },
   "링커리어": {
-   "fetched": 595,
-   "kept": 114,
-   "seconds": 35,
+   "fetched": 617,
+   "kept": 117,
+   "seconds": 27,
    "error": null,
    "skipped": null
   },
   "요즘것들": {
-   "fetched": 242,
-   "kept": 55,
-   "seconds": 18,
+   "fetched": 249,
+   "kept": 50,
+   "seconds": 10,
    "error": null,
    "skipped": null
   },
   "콘테스트코리아": {
-   "fetched": 537,
+   "fetched": 563,
    "kept": 71,
-   "seconds": 277,
+   "seconds": 177,
    "error": null,
    "skipped": null
   },
   "위비티": {
-   "fetched": 525,
-   "kept": 85,
-   "seconds": 53,
+   "fetched": 555,
+   "kept": 89,
+   "seconds": 58,
    "error": null,
    "skipped": null
   },
@@ -55,20 +55,20 @@
   "AIFactory": {
    "fetched": 0,
    "kept": 0,
-   "seconds": 3,
+   "seconds": 2,
    "error": null,
    "skipped": null
   },
   "이벤터스": {
-   "fetched": 199,
-   "kept": 33,
-   "seconds": 37,
+   "fetched": 165,
+   "kept": 40,
+   "seconds": 29,
    "error": null,
    "skipped": null
   },
   "Dev-Event": {
-   "fetched": 18,
-   "kept": 11,
+   "fetched": 23,
+   "kept": 13,
    "seconds": 0,
    "error": null,
    "skipped": null
@@ -81,16 +81,16 @@
    "skipped": null
   },
   "스타트업레시피": {
-   "fetched": 46,
-   "kept": 26,
-   "seconds": 4,
+   "fetched": 45,
+   "kept": 24,
+   "seconds": 7,
    "error": null,
    "skipped": null
   },
   "기업마당": {
    "fetched": 146,
-   "kept": 134,
-   "seconds": 20,
+   "kept": 133,
+   "seconds": 12,
    "error": null,
    "skipped": null
   },
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 603,
- "others": 1170
+ "total": 610,
+ "others": 1201
 }
