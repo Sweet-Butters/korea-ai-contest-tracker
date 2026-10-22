@@ -1,95 +1,95 @@
 {
- "runDate": "2026-10-21",
+ "runDate": "2026-10-22",
  "llm": true,
  "jev": true,
  "sources": {
   "씽굿": {
-   "fetched": 510,
-   "kept": 82,
-   "seconds": 308,
+   "fetched": 520,
+   "kept": 86,
+   "seconds": 315,
    "error": null,
    "skipped": null
   },
   "올콘": {
    "fetched": 318,
-   "kept": 54,
+   "kept": 51,
    "seconds": 23,
    "error": null,
    "skipped": null
   },
   "링커리어": {
-   "fetched": 643,
-   "kept": 127,
-   "seconds": 32,
+   "fetched": 656,
+   "kept": 130,
+   "seconds": 34,
    "error": null,
    "skipped": null
   },
   "요즘것들": {
-   "fetched": 251,
-   "kept": 55,
-   "seconds": 11,
+   "fetched": 255,
+   "kept": 57,
+   "seconds": 10,
    "error": null,
    "skipped": null
   },
   "콘테스트코리아": {
-   "fetched": 562,
-   "kept": 74,
-   "seconds": 178,
+   "fetched": 571,
+   "kept": 77,
+   "seconds": 171,
    "error": null,
    "skipped": null
   },
   "위비티": {
-   "fetched": 572,
-   "kept": 97,
-   "seconds": 63,
+   "fetched": 582,
+   "kept": 100,
+   "seconds": 58,
    "error": null,
    "skipped": null
   },
   "DACON": {
    "fetched": 15,
    "kept": 15,
-   "seconds": 2,
+   "seconds": 3,
    "error": null,
    "skipped": null
   },
   "AIFactory": {
    "fetched": 0,
    "kept": 0,
-   "seconds": 2,
+   "seconds": 3,
    "error": null,
    "skipped": null
   },
   "이벤터스": {
-   "fetched": 183,
-   "kept": 33,
-   "seconds": 30,
+   "fetched": 217,
+   "kept": 26,
+   "seconds": 29,
    "error": null,
    "skipped": null
   },
   "Dev-Event": {
    "fetched": 21,
-   "kept": 11,
+   "kept": 12,
    "seconds": 0,
    "error": null,
    "skipped": null
   },
   "K-Startup": {
-   "fetched": 22,
-   "kept": 12,
-   "seconds": 4,
+   "fetched": 23,
+   "kept": 14,
+   "seconds": 3,
    "error": null,
    "skipped": null
   },
   "스타트업레시피": {
-   "fetched": 43,
-   "kept": 23,
-   "seconds": 5,
+   "fetched": 40,
+   "kept": 18,
+   "seconds": 7,
    "error": null,
    "skipped": null
   },
   "기업마당": {
-   "fetched": 146,
-   "kept": 133,
+   "fetched": 151,
+   "kept": 138,
    "seconds": 13,
    "error": null,
    "skipped": null
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 623,
- "others": 1212
+ "total": 635,
+ "others": 1234
 }
