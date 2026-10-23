@@ -1,54 +1,54 @@
 {
- "runDate": "2026-10-23",
+ "runDate": "2026-10-24",
  "llm": true,
  "jev": true,
  "sources": {
   "씽굿": {
    "fetched": 534,
-   "kept": 91,
-   "seconds": 365,
+   "kept": 95,
+   "seconds": 529,
    "error": null,
    "skipped": null
   },
   "올콘": {
-   "fetched": 311,
-   "kept": 52,
-   "seconds": 52,
+   "fetched": 323,
+   "kept": 54,
+   "seconds": 135,
    "error": null,
    "skipped": null
   },
   "링커리어": {
-   "fetched": 677,
-   "kept": 132,
-   "seconds": 59,
+   "fetched": 639,
+   "kept": 131,
+   "seconds": 143,
    "error": null,
    "skipped": null
   },
   "요즘것들": {
-   "fetched": 257,
-   "kept": 51,
-   "seconds": 23,
+   "fetched": 246,
+   "kept": 52,
+   "seconds": 111,
    "error": null,
    "skipped": null
   },
   "콘테스트코리아": {
-   "fetched": 524,
-   "kept": 61,
-   "seconds": 206,
+   "fetched": 452,
+   "kept": 51,
+   "seconds": 390,
    "error": null,
    "skipped": null
   },
   "위비티": {
-   "fetched": 584,
-   "kept": 101,
-   "seconds": 87,
+   "fetched": 561,
+   "kept": 103,
+   "seconds": 174,
    "error": null,
    "skipped": null
   },
   "DACON": {
    "fetched": 15,
    "kept": 15,
-   "seconds": 2,
+   "seconds": 3,
    "error": null,
    "skipped": null
   },
@@ -60,15 +60,15 @@
    "skipped": null
   },
   "이벤터스": {
-   "fetched": 210,
+   "fetched": 160,
    "kept": 29,
-   "seconds": 56,
+   "seconds": 140,
    "error": null,
    "skipped": null
   },
   "Dev-Event": {
-   "fetched": 19,
-   "kept": 10,
+   "fetched": 21,
+   "kept": 11,
    "seconds": 0,
    "error": null,
    "skipped": null
@@ -76,7 +76,7 @@
   "K-Startup": {
    "fetched": 23,
    "kept": 13,
-   "seconds": 3,
+   "seconds": 2,
    "error": null,
    "skipped": null
   },
@@ -88,9 +88,9 @@
    "skipped": null
   },
   "기업마당": {
-   "fetched": 152,
-   "kept": 139,
-   "seconds": 41,
+   "fetched": 148,
+   "kept": 136,
+   "seconds": 123,
    "error": null,
    "skipped": null
   },
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 618,
- "others": 1231
+ "total": 615,
+ "others": 1235
 }
