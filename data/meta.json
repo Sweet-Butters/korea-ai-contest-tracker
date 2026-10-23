@@ -1,13 +1,13 @@
 {
- "runDate": "2026-10-24",
+ "runDate": "2026-10-23",
  "llm": true,
  "jev": true,
  "sources": {
-  "씽굿": {
-   "fetched": 534,
-   "kept": 95,
-   "seconds": 529,
-   "error": null,
+  "위비티": {
+   "fetched": 0,
+   "kept": 0,
+   "seconds": 6,
+   "error": "ConnectionError: HTTPSConnectionPool(host='www.wevity.com', port=443): Max retries exceeded with url: /?c=find&s=1&gp=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000172CCCF7890>: Failed to resolve 'www.wevity.com' ([Errno 11001] getaddrinfo failed)\"))",
    "skipped": null
   },
   "올콘": {
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 615,
- "others": 1235
+ "total": 553,
+ "others": 1138
 }
