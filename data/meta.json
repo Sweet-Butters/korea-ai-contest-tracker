@@ -1,107 +1,16 @@
 {
- "runDate": "2026-10-27",
+ "runDate": "2026-10-28",
  "llm": true,
  "jev": true,
  "sources": {
-  "씽굿": {
-   "fetched": 508,
-   "kept": 98,
-   "seconds": 453,
-   "error": null,
-   "skipped": null
-  },
-  "올콘": {
-   "fetched": 300,
-   "kept": 52,
-   "seconds": 111,
-   "error": null,
-   "skipped": null
-  },
-  "링커리어": {
-   "fetched": 618,
-   "kept": 129,
-   "seconds": 117,
-   "error": null,
-   "skipped": null
-  },
-  "요즘것들": {
-   "fetched": 236,
-   "kept": 52,
-   "seconds": 90,
-   "error": null,
-   "skipped": null
-  },
-  "콘테스트코리아": {
-   "fetched": 413,
-   "kept": 51,
-   "seconds": 260,
-   "error": null,
-   "skipped": null
-  },
   "위비티": {
-   "fetched": 551,
-   "kept": 104,
-   "seconds": 144,
+   "fetched": 562,
+   "kept": 107,
+   "seconds": 39,
    "error": null,
    "skipped": null
-  },
-  "DACON": {
-   "fetched": 15,
-   "kept": 15,
-   "seconds": 3,
-   "error": null,
-   "skipped": null
-  },
-  "AIFactory": {
-   "fetched": 0,
-   "kept": 0,
-   "seconds": 3,
-   "error": null,
-   "skipped": null
-  },
-  "이벤터스": {
-   "fetched": 207,
-   "kept": 40,
-   "seconds": 116,
-   "error": null,
-   "skipped": null
-  },
-  "Dev-Event": {
-   "fetched": 15,
-   "kept": 6,
-   "seconds": 0,
-   "error": null,
-   "skipped": null
-  },
-  "K-Startup": {
-   "fetched": 23,
-   "kept": 17,
-   "seconds": 3,
-   "error": null,
-   "skipped": null
-  },
-  "스타트업레시피": {
-   "fetched": 43,
-   "kept": 22,
-   "seconds": 6,
-   "error": null,
-   "skipped": null
-  },
-  "기업마당": {
-   "fetched": 0,
-   "kept": 0,
-   "seconds": 175,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='apis.data.go.kr', port=443): Max retries exceeded with url: /1421000/bizinfo/pblancBsnsService?serviceKey=YagLqxPAQt1bmX0LuoOQfdaCaXrv%2BqfKwSkeh9fSdft1kJ5buYiJG6dd1gS70q4lEH6WAdzzJBwzQfSf6dPd%2Fg%3D%3D&numOfRows=100&pageNo=1&dataType=json (Caused by ConnectTimeoutError(<HTTPSConnection(host='apis.data.go.kr', port=443) at 0x7f60fc866ed0>, 'Connection to apis.data.go.kr timed out. (connect timeout=40)'))",
-   "skipped": null
-  },
-  "네이버뉴스": {
-   "fetched": 0,
-   "kept": 0,
-   "seconds": 0,
-   "error": null,
-   "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 619,
- "others": 1220
+ "total": 559,
+ "others": 1177
 }
