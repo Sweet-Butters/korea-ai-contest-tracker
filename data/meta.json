@@ -1,16 +1,16 @@
 {
- "runDate": "2026-11-13",
+ "runDate": "2026-11-14",
  "llm": true,
  "jev": true,
  "sources": {
   "위비티": {
-   "fetched": 409,
-   "kept": 79,
-   "seconds": 32,
+   "fetched": 391,
+   "kept": 70,
+   "seconds": 47,
    "error": null,
    "skipped": null
   }
  },
- "total": 539,
- "others": 1096
+ "total": 532,
+ "others": 1085
 }
