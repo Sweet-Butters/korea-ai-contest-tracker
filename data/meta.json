@@ -3,14 +3,105 @@
  "llm": true,
  "jev": true,
  "sources": {
+  "씽굿": {
+   "fetched": 320,
+   "kept": 59,
+   "seconds": 357,
+   "error": null,
+   "skipped": null
+  },
+  "올콘": {
+   "fetched": 220,
+   "kept": 38,
+   "seconds": 15,
+   "error": null,
+   "skipped": null
+  },
+  "링커리어": {
+   "fetched": 421,
+   "kept": 82,
+   "seconds": 19,
+   "error": null,
+   "skipped": null
+  },
+  "요즘것들": {
+   "fetched": 156,
+   "kept": 23,
+   "seconds": 6,
+   "error": null,
+   "skipped": null
+  },
+  "콘테스트코리아": {
+   "fetched": 373,
+   "kept": 34,
+   "seconds": 181,
+   "error": null,
+   "skipped": null
+  },
   "위비티": {
    "fetched": 360,
    "kept": 60,
-   "seconds": 34,
+   "seconds": 36,
    "error": null,
    "skipped": null
+  },
+  "DACON": {
+   "fetched": 0,
+   "kept": 0,
+   "seconds": 2,
+   "error": null,
+   "skipped": null
+  },
+  "AIFactory": {
+   "fetched": 0,
+   "kept": 0,
+   "seconds": 2,
+   "error": null,
+   "skipped": null
+  },
+  "이벤터스": {
+   "fetched": 195,
+   "kept": 27,
+   "seconds": 29,
+   "error": null,
+   "skipped": null
+  },
+  "Dev-Event": {
+   "fetched": 12,
+   "kept": 6,
+   "seconds": 0,
+   "error": null,
+   "skipped": null
+  },
+  "K-Startup": {
+   "fetched": 22,
+   "kept": 13,
+   "seconds": 3,
+   "error": null,
+   "skipped": null
+  },
+  "스타트업레시피": {
+   "fetched": 40,
+   "kept": 25,
+   "seconds": 6,
+   "error": null,
+   "skipped": null
+  },
+  "기업마당": {
+   "fetched": 136,
+   "kept": 127,
+   "seconds": 12,
+   "error": null,
+   "skipped": null
+  },
+  "네이버뉴스": {
+   "fetched": 0,
+   "kept": 0,
+   "seconds": 0,
+   "error": null,
+   "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 539,
- "others": 1087
+ "total": 546,
+ "others": 1091
 }
