@@ -1,12 +1,12 @@
 {
- "runDate": "2026-11-17",
+ "runDate": "2026-11-18",
  "llm": true,
  "jev": true,
  "sources": {
-  "씽굿": {
-   "fetched": 315,
-   "kept": 55,
-   "seconds": 461,
+  "위비티": {
+   "fetched": 364,
+   "kept": 58,
+   "seconds": 24,
    "error": null,
    "skipped": null
   },
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 554,
- "others": 1125
+ "total": 522,
+ "others": 1066
 }
