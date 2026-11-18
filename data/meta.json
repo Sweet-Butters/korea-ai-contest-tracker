@@ -3,66 +3,66 @@
  "llm": true,
  "jev": true,
  "sources": {
-  "위비티": {
-   "fetched": 364,
-   "kept": 58,
-   "seconds": 24,
+  "씽굿": {
+   "fetched": 314,
+   "kept": 54,
+   "seconds": 352,
    "error": null,
    "skipped": null
   },
   "올콘": {
    "fetched": 225,
-   "kept": 37,
-   "seconds": 133,
+   "kept": 38,
+   "seconds": 30,
    "error": null,
    "skipped": null
   },
   "링커리어": {
-   "fetched": 424,
-   "kept": 84,
-   "seconds": 138,
+   "fetched": 425,
+   "kept": 85,
+   "seconds": 36,
    "error": null,
    "skipped": null
   },
   "요즘것들": {
-   "fetched": 166,
-   "kept": 28,
-   "seconds": 124,
+   "fetched": 161,
+   "kept": 29,
+   "seconds": 23,
    "error": null,
    "skipped": null
   },
   "콘테스트코리아": {
-   "fetched": 398,
-   "kept": 41,
-   "seconds": 299,
+   "fetched": 395,
+   "kept": 40,
+   "seconds": 203,
    "error": null,
    "skipped": null
   },
   "위비티": {
-   "fetched": 360,
-   "kept": 58,
-   "seconds": 163,
+   "fetched": 373,
+   "kept": 60,
+   "seconds": 54,
    "error": null,
    "skipped": null
   },
   "DACON": {
    "fetched": 0,
    "kept": 0,
-   "seconds": 2,
+   "seconds": 1,
    "error": null,
    "skipped": null
   },
   "AIFactory": {
    "fetched": 0,
    "kept": 0,
-   "seconds": 3,
+   "seconds": 2,
    "error": null,
    "skipped": null
   },
   "이벤터스": {
-   "fetched": 229,
-   "kept": 29,
-   "seconds": 145,
+   "fetched": 201,
+   "kept": 31,
+   "seconds": 44,
    "error": null,
    "skipped": null
   },
@@ -76,21 +76,21 @@
   "K-Startup": {
    "fetched": 22,
    "kept": 14,
-   "seconds": 3,
+   "seconds": 2,
    "error": null,
    "skipped": null
   },
   "스타트업레시피": {
    "fetched": 43,
    "kept": 24,
-   "seconds": 5,
+   "seconds": 22,
    "error": null,
    "skipped": null
   },
   "기업마당": {
-   "fetched": 130,
+   "fetched": 129,
    "kept": 121,
-   "seconds": 129,
+   "seconds": 28,
    "error": null,
    "skipped": null
   },
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 522,
- "others": 1066
+ "total": 553,
+ "others": 1137
 }
