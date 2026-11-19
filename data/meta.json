@@ -1,54 +1,54 @@
 {
- "runDate": "2026-11-18",
+ "runDate": "2026-11-19",
  "llm": true,
  "jev": true,
  "sources": {
   "씽굿": {
-   "fetched": 314,
-   "kept": 54,
-   "seconds": 352,
+   "fetched": 315,
+   "kept": 53,
+   "seconds": 333,
    "error": null,
    "skipped": null
   },
   "올콘": {
-   "fetched": 225,
-   "kept": 38,
-   "seconds": 30,
-   "error": null,
-   "skipped": null
-  },
-  "링커리어": {
-   "fetched": 425,
-   "kept": 85,
-   "seconds": 36,
-   "error": null,
-   "skipped": null
-  },
-  "요즘것들": {
-   "fetched": 161,
-   "kept": 29,
+   "fetched": 230,
+   "kept": 39,
    "seconds": 23,
    "error": null,
    "skipped": null
   },
+  "링커리어": {
+   "fetched": 438,
+   "kept": 83,
+   "seconds": 25,
+   "error": null,
+   "skipped": null
+  },
+  "요즘것들": {
+   "fetched": 155,
+   "kept": 28,
+   "seconds": 6,
+   "error": null,
+   "skipped": null
+  },
   "콘테스트코리아": {
-   "fetched": 395,
-   "kept": 40,
-   "seconds": 203,
+   "fetched": 396,
+   "kept": 39,
+   "seconds": 184,
    "error": null,
    "skipped": null
   },
   "위비티": {
-   "fetched": 373,
+   "fetched": 368,
    "kept": 60,
-   "seconds": 54,
+   "seconds": 42,
    "error": null,
    "skipped": null
   },
   "DACON": {
    "fetched": 0,
    "kept": 0,
-   "seconds": 1,
+   "seconds": 4,
    "error": null,
    "skipped": null
   },
@@ -60,9 +60,9 @@
    "skipped": null
   },
   "이벤터스": {
-   "fetched": 201,
-   "kept": 31,
-   "seconds": 44,
+   "fetched": 157,
+   "kept": 30,
+   "seconds": 35,
    "error": null,
    "skipped": null
   },
@@ -74,23 +74,23 @@
    "skipped": null
   },
   "K-Startup": {
-   "fetched": 22,
+   "fetched": 23,
    "kept": 14,
    "seconds": 2,
    "error": null,
    "skipped": null
   },
   "스타트업레시피": {
-   "fetched": 43,
+   "fetched": 39,
    "kept": 24,
-   "seconds": 22,
+   "seconds": 5,
    "error": null,
    "skipped": null
   },
   "기업마당": {
    "fetched": 129,
-   "kept": 121,
-   "seconds": 28,
+   "kept": 118,
+   "seconds": 33,
    "error": null,
    "skipped": null
   },
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 553,
- "others": 1137
+ "total": 563,
+ "others": 1132
 }
