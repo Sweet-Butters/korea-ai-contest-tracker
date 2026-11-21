@@ -1,96 +1,96 @@
 {
- "runDate": "2026-11-20",
+ "runDate": "2026-11-21",
  "llm": true,
  "jev": true,
  "sources": {
   "씽굿": {
-   "fetched": 322,
-   "kept": 58,
-   "seconds": 477,
+   "fetched": 307,
+   "kept": 56,
+   "seconds": 432,
    "error": null,
    "skipped": null
   },
   "올콘": {
-   "fetched": 215,
+   "fetched": 216,
    "kept": 32,
-   "seconds": 16,
+   "seconds": 126,
    "error": null,
    "skipped": null
   },
   "링커리어": {
-   "fetched": 439,
-   "kept": 87,
-   "seconds": 17,
+   "fetched": 410,
+   "kept": 76,
+   "seconds": 130,
    "error": null,
    "skipped": null
   },
   "요즘것들": {
-   "fetched": 158,
-   "kept": 29,
-   "seconds": 6,
+   "fetched": 148,
+   "kept": 27,
+   "seconds": 117,
    "error": null,
    "skipped": null
   },
   "콘테스트코리아": {
-   "fetched": 397,
+   "fetched": 409,
    "kept": 37,
-   "seconds": 342,
+   "seconds": 295,
    "error": null,
    "skipped": null
   },
   "위비티": {
-   "fetched": 373,
-   "kept": 63,
-   "seconds": 33,
+   "fetched": 347,
+   "kept": 55,
+   "seconds": 152,
    "error": null,
    "skipped": null
   },
   "DACON": {
    "fetched": 0,
    "kept": 0,
-   "seconds": 1,
-   "error": null,
-   "skipped": null
-  },
-  "AIFactory": {
-   "fetched": 0,
-   "kept": 0,
    "seconds": 2,
    "error": null,
    "skipped": null
   },
+  "AIFactory": {
+   "fetched": 1,
+   "kept": 1,
+   "seconds": 114,
+   "error": null,
+   "skipped": null
+  },
   "이벤터스": {
-   "fetched": 198,
-   "kept": 28,
-   "seconds": 28,
+   "fetched": 175,
+   "kept": 29,
+   "seconds": 139,
    "error": null,
    "skipped": null
   },
   "Dev-Event": {
-   "fetched": 17,
-   "kept": 10,
+   "fetched": 15,
+   "kept": 7,
    "seconds": 0,
    "error": null,
    "skipped": null
   },
   "K-Startup": {
    "fetched": 23,
-   "kept": 14,
-   "seconds": 5,
+   "kept": 15,
+   "seconds": 3,
    "error": null,
    "skipped": null
   },
   "스타트업레시피": {
    "fetched": 39,
    "kept": 24,
-   "seconds": 5,
+   "seconds": 119,
    "error": null,
    "skipped": null
   },
   "기업마당": {
-   "fetched": 134,
-   "kept": 123,
-   "seconds": 11,
+   "fetched": 130,
+   "kept": 119,
+   "seconds": 125,
    "error": null,
    "skipped": null
   },
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 567,
- "others": 1152
+ "total": 538,
+ "others": 1126
 }
