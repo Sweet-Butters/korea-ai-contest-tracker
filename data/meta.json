@@ -3,72 +3,72 @@
  "llm": true,
  "jev": true,
  "sources": {
-  "위비티": {
-   "fetched": 346,
-   "kept": 55,
-   "seconds": 32,
+  "씽굿": {
+   "fetched": 282,
+   "kept": 49,
+   "seconds": 528,
    "error": null,
    "skipped": null
   },
   "올콘": {
-   "fetched": 216,
-   "kept": 32,
-   "seconds": 126,
+   "fetched": 188,
+   "kept": 29,
+   "seconds": 109,
    "error": null,
    "skipped": null
   },
   "링커리어": {
-   "fetched": 410,
+   "fetched": 409,
    "kept": 76,
-   "seconds": 130,
+   "seconds": 113,
    "error": null,
    "skipped": null
   },
   "요즘것들": {
-   "fetched": 148,
-   "kept": 27,
-   "seconds": 117,
+   "fetched": 151,
+   "kept": 30,
+   "seconds": 100,
    "error": null,
    "skipped": null
   },
   "콘테스트코리아": {
-   "fetched": 409,
-   "kept": 37,
-   "seconds": 295,
+   "fetched": 383,
+   "kept": 33,
+   "seconds": 374,
    "error": null,
    "skipped": null
   },
   "위비티": {
-   "fetched": 347,
+   "fetched": 346,
    "kept": 55,
-   "seconds": 152,
+   "seconds": 130,
    "error": null,
    "skipped": null
   },
   "DACON": {
    "fetched": 0,
    "kept": 0,
-   "seconds": 2,
+   "seconds": 3,
    "error": null,
    "skipped": null
   },
   "AIFactory": {
    "fetched": 1,
    "kept": 1,
-   "seconds": 114,
+   "seconds": 3,
    "error": null,
    "skipped": null
   },
   "이벤터스": {
-   "fetched": 175,
-   "kept": 29,
-   "seconds": 139,
+   "fetched": 157,
+   "kept": 31,
+   "seconds": 122,
    "error": null,
    "skipped": null
   },
   "Dev-Event": {
-   "fetched": 15,
-   "kept": 7,
+   "fetched": 13,
+   "kept": 6,
    "seconds": 0,
    "error": null,
    "skipped": null
@@ -83,14 +83,14 @@
   "스타트업레시피": {
    "fetched": 39,
    "kept": 24,
-   "seconds": 119,
+   "seconds": 106,
    "error": null,
    "skipped": null
   },
   "기업마당": {
    "fetched": 130,
    "kept": 119,
-   "seconds": 125,
+   "seconds": 107,
    "error": null,
    "skipped": null
   },
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 505,
- "others": 1080
+ "total": 536,
+ "others": 1118
 }
