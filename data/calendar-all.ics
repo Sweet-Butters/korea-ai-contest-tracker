@@ -7,232 +7,8 @@ X-WR-CALNAME:AI 공모전 (전체)
 X-WR-TIMEZONE:Asia/Seoul
 X-WR-CALDESC:매일 자동 수집됩니다 — https://sweet-butters.github.io/korea-ai-contest-tracker/
 BEGIN:VEVENT
-UID:ba6e0ffdb5-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:[마감] 2026 조달청 AI 게임·콘텐츠 공모전
-DESCRIPTION:조달청\n상금 200만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111956
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111956
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 조달청 AI 게임·콘텐츠 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfb3eb436-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:[마감] 나무엑스 AI 숏폼 공모전
-DESCRIPTION:SK인텔릭스(주)\n상금 300만원\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112051
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112051
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 나무엑스 AI 숏폼 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfb3eb436-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:[일정] 나무엑스 AI 숏폼 공모전
-DESCRIPTION:SK인텔릭스(주)\n상금 300만원\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112051
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112051
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 나무엑스 AI 숏폼 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfb3eb436-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[일정] 나무엑스 AI 숏폼 공모전
-DESCRIPTION:SK인텔릭스(주)\n상금 300만원\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112051
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112051
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 나무엑스 AI 숏폼 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bcc58a7332-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:[마감] 부산 동구 AI 숏폼 영상 공모전
-DESCRIPTION:부산동구청\n상금 150만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112685
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112685
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 부산 동구 AI 숏폼 영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26acd0ae6b-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:[마감] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26acd0ae6b-ev7@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26acd0ae6b-ev8@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26acd0ae6b-ev9@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26acd0ae6b-ev10@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26acd0ae6b-ev11@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26acd0ae6b-ev12@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26acd0ae6b-ev13@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:5d8e018564-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:[마감] 제14회 범정부 공공데이터·AI 활용 창업경진대회 국민평가단 모집
-DESCRIPTION:주식회사 지넥스\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113133
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113133
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 제14회 범정부 공공데이터·AI 활용 창업경진대회 국민평가단 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8ab2565a26-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:[마감] 하나은행 『하나원픽 CUP AI 게임창작대회』
-DESCRIPTION:(주)하나은행\n대상 대상 제한 없음\nhttps://linkareer.com/activity/360524
-URL:https://linkareer.com/activity/360524
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 하나은행 『하나원픽 CUP AI 게임창작대회』
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8ab2565a26-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-SUMMARY:[일정] 하나은행 『하나원픽 CUP AI 게임창작대회』
-DESCRIPTION:(주)하나은행\n대상 대상 제한 없음\nhttps://linkareer.com/activity/360524
-URL:https://linkareer.com/activity/360524
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 하나은행 『하나원픽 CUP AI 게임창작대회』
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:2c1fbcbc2e-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[마감] 2026 경산시 AI 미디어 콘텐츠 공모전
@@ -246,7 +22,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2c1fbcbc2e-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026 경산시 AI 미디어 콘텐츠 공모전
@@ -260,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2c1fbcbc2e-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:[일정] 2026 경산시 AI 미디어 콘텐츠 공모전
@@ -274,7 +50,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2ddde16060-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[마감] 2026 전북콘텐츠코리아랩 AI 활용 콘텐츠(캐릭터) 아이디어 발굴 캠프
@@ -288,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cfd77ac5cc-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[마감] 2026 한국세라믹기술원 AI 영상 공모전 (세라믹이 사라진 세상)
@@ -302,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cfd77ac5cc-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[일정] 2026 한국세라믹기술원 AI 영상 공모전 (세라믹이 사라진 세상)
@@ -316,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cfd77ac5cc-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:[일정] 2026 한국세라믹기술원 AI 영상 공모전 (세라믹이 사라진 세상)
@@ -330,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3845b2915d-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[마감] 2026년 SK텔레콤 협력형 세종시 사회적 배려 대상자 AIㆍ디지털 건강케어 실증 참여기업 모집 공고
@@ -344,7 +120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:34160538e1-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[마감] 2026년 인공지능산업융합사업단「AI 창업동」 입주기업 모집 공고
@@ -358,7 +134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fa5a1591a2-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[마감] with Gemini 아이디어 공모전
@@ -372,7 +148,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6c18b95b91-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[마감] 「2026년 벤처브릿지 오픈이노베이션」 1회차(AI\, 미래 모빌리티)
@@ -386,7 +162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9a45ea05f6-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[마감] 2026년 onephai 플랫폼 활용 피지컬 AI 기술개발 및 실증 지원사업 지원기업 모집 공고(인간친화형 로봇 스케일업 밸리 혁신 생태계 구축사업)
@@ -400,7 +176,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:74406fffe4-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[마감] 광명역 미래비전 AI 영상 공모전
@@ -414,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:74406fffe4-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 광명역 미래비전 AI 영상 공모전
@@ -428,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:74406fffe4-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 광명역 미래비전 AI 영상 공모전
@@ -442,7 +218,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d57c42cae7-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[마감] 첨단 GPU 활용 지원 사업 베타서비스 참여자 모집 공고
@@ -456,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cfb3584600-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[마감] 2026 DATA·AI 분석 경진대회
@@ -470,7 +246,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f366b364a1-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[마감] 2026 지역기업 AX혁신 캠프
@@ -484,7 +260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:693b6b3af5-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[마감] 2026 포항시 AI 솔루션 아이디어 대회
@@ -498,7 +274,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:693b6b3af5-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[일정] 2026 포항시 AI 솔루션 아이디어 대회
@@ -512,7 +288,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:693b6b3af5-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 2026 포항시 AI 솔루션 아이디어 대회
@@ -526,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:693b6b3af5-ev3@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:[일정] 2026 포항시 AI 솔루션 아이디어 대회
@@ -540,7 +316,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:693b6b3af5-ev4@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:[일정] 2026 포항시 AI 솔루션 아이디어 대회
@@ -554,7 +330,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9fc5306a12-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[마감] [대구] 제3산단 혁신지원센터 인프라지원사업 참여기업(기관) 모집 공고
@@ -568,7 +344,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cf684fc372-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[마감] 제 2회 판다밋업 : AI 반도체 글로벌 파트너십 Innovation Bridge
@@ -582,7 +358,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fc69422179-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[마감] 제1회 AI 숏드라마 시나리오 공모전
@@ -596,7 +372,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6b9008b268-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[마감] 제3회 생성형 AI 경진대회 (초·중·고 학생문화경진대회)
@@ -610,7 +386,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6b9008b268-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:[일정] 제3회 생성형 AI 경진대회 (초·중·고 학생문화경진대회)
@@ -624,7 +400,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6b9008b268-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:[일정] 제3회 생성형 AI 경진대회 (초·중·고 학생문화경진대회)
@@ -638,7 +414,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6b9008b268-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:[일정] 제3회 생성형 AI 경진대회 (초·중·고 학생문화경진대회)
@@ -652,7 +428,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4b2ea4fe41-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[마감] 포항시 지역사회 문제 해결을 위한 AI 솔루션 아이디어 경진대회
@@ -666,7 +442,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:385a04bcd3-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[마감] 포항시의 사회적 문제 해결을 위한 AI서비스 아이디어 대회
@@ -680,7 +456,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a9361d4005-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[마감] 제1회 Daum AI 숏드라마 시나리오 공모전
@@ -694,7 +470,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a9361d4005-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 제1회 Daum AI 숏드라마 시나리오 공모전
@@ -708,7 +484,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a9361d4005-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:[일정] 제1회 Daum AI 숏드라마 시나리오 공모전
@@ -722,7 +498,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a9361d4005-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:[일정] 제1회 Daum AI 숏드라마 시나리오 공모전
@@ -736,7 +512,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:29413aac38-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[마감] 2026 대한민국 디자인문화대전 (AI 활용 작품 허용)
@@ -750,7 +526,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5b374201bd-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[마감] 2026년 AI·디지털 활용 연구·선도학교 우수사례 공모전
@@ -764,7 +540,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d4c885e24d-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[마감] 2027년 전문기술인 활용 재난재해 대응기술 현장화 지원 사업 신규 과제 공고
@@ -778,7 +554,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7465fd1f51-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[마감] KU 캠퍼스타운 AI 글로벌 해커톤 프로그램
@@ -792,7 +568,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4c3394c16a-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[마감] [경기] 2026년 열린 혁신 디지털 오픈랩 구축 디지털오픈랩 IR 데모데이 참여기업 모집 공고
@@ -806,7 +582,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:05afc4690c-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[마감] [경기] 성남시 2026년 Age-Tech 종합지원센터 컨설팅 참여기업 모집 공고
@@ -820,7 +596,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f6c4f84c95-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[마감] [경기] 스페인 바르셀로나 정보통신 전시회(MWC 2027) 경기도관 참가기업 모집 공고
@@ -834,7 +610,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:89203ba998-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[마감] [무료 AI 역량강화 교육] 생성형 AI 기반 무역 금융 리스크 최적화 과정(선착순 모집)
@@ -848,7 +624,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a82c449dff-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[마감] [인천] 2026년 바이오 중소ㆍ벤처기업 제품화 지원 참여기업 모집 공고
@@ -861,1590 +637,8 @@ DESCRIPTION:[마감] [인천] 2026년 바이오 중소ㆍ벤처기업 제품화 
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:613da80f97-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:[마감] 2027 지역 창업 솔버톤 - AI가 깨우는 지역의 불씨
-DESCRIPTION:서울대학교 대학연대 지역인재양성사업단(IITD)\nhttps://www.wevity.com/?c=find&s=1&gbn=view&ix=112402
-URL:https://www.wevity.com/?c=find&s=1&gbn=view&ix=112402
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2027 지역 창업 솔버톤 - AI가 깨우는 지역의 불씨
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:770367001f-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:[마감] TripPups AI Game Hackathon 2026
-DESCRIPTION:Trip-Pups\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/364831
-URL:https://linkareer.com/activity/364831
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] TripPups AI Game Hackathon 2026
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:770367001f-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:[일정] TripPups AI Game Hackathon 2026
-DESCRIPTION:Trip-Pups\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/364831
-URL:https://linkareer.com/activity/364831
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] TripPups AI Game Hackathon 2026
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:770367001f-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:[일정] TripPups AI Game Hackathon 2026
-DESCRIPTION:Trip-Pups\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/364831
-URL:https://linkareer.com/activity/364831
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] TripPups AI Game Hackathon 2026
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:770367001f-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:[일정] TripPups AI Game Hackathon 2026
-DESCRIPTION:Trip-Pups\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/364831
-URL:https://linkareer.com/activity/364831
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] TripPups AI Game Hackathon 2026
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:b2eda5f7ef-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:[마감] 제6회숏츠멘터리공모전[AI시대\, 기후기록]
-DESCRIPTION:사단법인지속가능월드네트워크\n상금 100만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112405
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112405
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 제6회숏츠멘터리공모전[AI시대\, 기후기록]
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9170f2f5f8-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:[마감] 2026 SVC Seoul AI 해커톤 with 현대건설
-DESCRIPTION:창업진흥원\, 현대건설\,…\n대상 과학·공학·학술\, 대학생\, 대학원생\nhttps://www.all-con.co.kr/view/contest/544942
-URL:https://www.all-con.co.kr/view/contest/544942
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 SVC Seoul AI 해커톤 with 현대건설
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:88d1c94cb0-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:[마감] [울산] 코딩 몰라도 OK\, 1박 2일 AI 해커톤 INNO-CODER (총상금 200만 원·무료)
-DESCRIPTION:팀모노리스\n상금 숙박·식사 제공\, 참가비 무료\n대상 대상 제한 없음\nhttps://linkareer.com/activity/365635
-URL:https://linkareer.com/activity/365635
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [울산] 코딩 몰라도 OK\, 1박 2일 AI 해커톤 INNO-CODER (총상금 200만 원·무료)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:778e0ad31a-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:[마감] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
-DESCRIPTION:창업진흥원\n상금 1천만원 미만\n대상 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:778e0ad31a-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:[일정] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
-DESCRIPTION:창업진흥원\n상금 1천만원 미만\n대상 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:778e0ad31a-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:[일정] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
-DESCRIPTION:창업진흥원\n상금 1천만원 미만\n대상 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c925e716d4-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:[마감] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
-DESCRIPTION:비타그램\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:429471adcf-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:[마감] 일상 속 아이디어를 AI로 웹·앱 서비스로! INNO-CODER AI HACKATHON 참가팀 모집
-DESCRIPTION:운당나눔재단\n대상 대상 제한 없음\nhttps://linkareer.com/activity/365966
-URL:https://linkareer.com/activity/365966
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 일상 속 아이디어를 AI로 웹·앱 서비스로! INNO-CODER AI HACKATHON 참가팀 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:42ef560499-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:[마감] 자원봉사 × AI 영상 공모전
-DESCRIPTION:한국중앙자원봉사센터\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112614
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112614
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 자원봉사 × AI 영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:e999667dc1-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] 2026 (사)한국화훼자조금협의회 30초 AI 영상 공모전
-DESCRIPTION:(사)한국화훼자조금협의회\n대상 대상 제한 없음\nhttps://linkareer.com/activity/363177
-URL:https://linkareer.com/activity/363177
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 (사)한국화훼자조금협의회 30초 AI 영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:e999667dc1-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:[일정] 2026 (사)한국화훼자조금협의회 30초 AI 영상 공모전
-DESCRIPTION:(사)한국화훼자조금협의회\n대상 대상 제한 없음\nhttps://linkareer.com/activity/363177
-URL:https://linkareer.com/activity/363177
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 (사)한국화훼자조금협의회 30초 AI 영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7ffe266abe-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] 2026 귀뚜라미 AI 숏폼 영상 챌린지 (내용 수정)
-DESCRIPTION:귀뚜라미 보일러\n대상 제한없음\nhttps://linkareer.com/activity/363760
-URL:https://linkareer.com/activity/363760
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 귀뚜라미 AI 숏폼 영상 챌린지 (내용 수정)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:78afd494d1-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] 2026 김천 삼색이수 AI 영상·웹툰 공모전
-DESCRIPTION:삼색이수상권상인 협동조합\n상금 온누리상품권 300만 원 상당\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112705
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112705
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 김천 삼색이수 AI 영상·웹툰 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26b5fbb4d2-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] 2026 대구 로컬AI그라운드 - 지역문제 해결형 AI활용 경진대회
-DESCRIPTION:대구광역시\n대상 대상 제한 없음\nhttps://linkareer.com/activity/362988
-URL:https://linkareer.com/activity/362988
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 대구 로컬AI그라운드 - 지역문제 해결형 AI활용 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26b5fbb4d2-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:[일정] 2026 대구 로컬AI그라운드 - 지역문제 해결형 AI활용 경진대회
-DESCRIPTION:대구광역시\n대상 대상 제한 없음\nhttps://linkareer.com/activity/362988
-URL:https://linkareer.com/activity/362988
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 대구 로컬AI그라운드 - 지역문제 해결형 AI활용 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:5b93932ca5-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] 2026 포항 MICE 창업 해커톤
-DESCRIPTION:포항시\n대상 대상 제한 없음\nhttps://linkareer.com/activity/365981
-URL:https://linkareer.com/activity/365981
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 포항 MICE 창업 해커톤
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d55ac3c29c-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] 2026년 AI 기반 바이오 소재 융복합 제품의 정보분석 및 특허 창출 지원 사업 수혜기업 모집 공고
-DESCRIPTION:산업통상부\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126833
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126833
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026년 AI 기반 바이오 소재 융복합 제품의 정보분석 및 특허 창출 지원 사업 수혜기업 모집 공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f34f2d4e85-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] AI로 15초 내외 영상 만들고 상금 100만 원 도전! 귀뚜라미 숏폼 챌린지
-DESCRIPTION:귀뚜라미\nhttps://www.allforyoung.com/posts/90181
-URL:https://www.allforyoung.com/posts/90181
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] AI로 15초 내외 영상 만들고 상금 100만 원 도전! 귀뚜라미 숏폼 챌린지
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:0631b57496-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] AI로 에너지·사회문제를 해결할 팀을 찾습니다｜SK이노베이션\, 「AI 임팩트 솔루션」 공모전
-DESCRIPTION:ksifesg\nhttps://event-us.kr/ksifesg/event/125921
-URL:https://event-us.kr/ksifesg/event/125921
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] AI로 에너지·사회문제를 해결할 팀을 찾습니다｜SK이노베이션\, 「AI 임팩트 솔루션」 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bc3f7ac61c-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] [경북] 2026년 K-AI 경북형 동반성장 주력산업 육성 지원사업 컨소시엄 모집 재공고
-DESCRIPTION:경상북도\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127807
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127807
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [경북] 2026년 K-AI 경북형 동반성장 주력산업 육성 지원사업 컨소시엄 모집 재공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:98a031269f-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] [공모전 TALK] AI 숏폼으로 상금 도전! 귀뚜라미 챌린지
-DESCRIPTION:귀뚜라미\n상금 없음\n대상 대상 제한 없음\nhttps://linkareer.com/activity/363787
-URL:https://linkareer.com/activity/363787
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [공모전 TALK] AI 숏폼으로 상금 도전! 귀뚜라미 챌린지
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4e7aa8dec5-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
-DESCRIPTION:매경미디어\n상금 500만원\n대상 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4e7aa8dec5-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
-DESCRIPTION:매경미디어\n상금 500만원\n대상 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4e7aa8dec5-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
-DESCRIPTION:매경미디어\n상금 500만원\n대상 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4e7aa8dec5-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
-DESCRIPTION:매경미디어\n상금 500만원\n대상 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:3094ac2d79-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] [한국프로세스혁신협회] 2026 AI 서비스 기획 공모전
-DESCRIPTION:한국프로세스혁신협회\n상금 1\,000만원\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/359841
-URL:https://linkareer.com/activity/359841
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [한국프로세스혁신협회] 2026 AI 서비스 기획 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:77a664eef6-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] 문경시 관광 AI영상 공모전
-DESCRIPTION:문경시\n상금 150만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 문경시 관광 AI영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:77a664eef6-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:[일정] 문경시 관광 AI영상 공모전
-DESCRIPTION:문경시\n상금 150만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 문경시 관광 AI영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:77a664eef6-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[일정] 문경시 관광 AI영상 공모전
-DESCRIPTION:문경시\n상금 150만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 문경시 관광 AI영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:e9382b5452-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] 제12회 수원시 건강한 내-일\, 행복한 내일 (AI동영상) 공모전
-DESCRIPTION:수원시비정규직노동자복지센터\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/363048
-URL:https://linkareer.com/activity/363048
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 제12회 수원시 건강한 내-일\, 행복한 내일 (AI동영상) 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fc5c0b5041-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] 제1회 대한민국 AI창작문학상
-DESCRIPTION:문예살롱\n대상 누구나\nhttps://linkareer.com/activity/323822
-URL:https://linkareer.com/activity/323822
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 제1회 대한민국 AI창작문학상
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fc5c0b5041-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-SUMMARY:[일정] 제1회 대한민국 AI창작문학상
-DESCRIPTION:문예살롱\n대상 누구나\nhttps://linkareer.com/activity/323822
-URL:https://linkareer.com/activity/323822
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 제1회 대한민국 AI창작문학상
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fc5c0b5041-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-SUMMARY:[일정] 제1회 대한민국 AI창작문학상
-DESCRIPTION:문예살롱\n대상 누구나\nhttps://linkareer.com/activity/323822
-URL:https://linkareer.com/activity/323822
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 제1회 대한민국 AI창작문학상
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f4374c38c0-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:[마감] 제1회 통합데이터플랫폼(원-윈도우) 활용 아이디어 공모전
-DESCRIPTION:과학기술정보통신부\n상금 1천만원 미만\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113092
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113092
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 제1회 통합데이터플랫폼(원-윈도우) 활용 아이디어 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:b20a6498ba-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:[마감] [10/20 개강] AI와 7주에 책 쓰고 출판하여 네이버 작가 되기 챌린지 워크숍
-DESCRIPTION:zenoschool\nhttps://event-us.kr/zenoschool/event/136648
-URL:https://event-us.kr/zenoschool/event/136648
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [10/20 개강] AI와 7주에 책 쓰고 출판하여 네이버 작가 되기 챌린지 워크숍
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f89c63928a-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:[마감] [한국체육산업개발(주)] 공공데이터 활용 경진대회
-DESCRIPTION:한국체육산업개발(주)\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [한국체육산업개발(주)] 공공데이터 활용 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f89c63928a-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
-DESCRIPTION:한국체육산업개발(주)\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f89c63928a-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
-DESCRIPTION:한국체육산업개발(주)\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f89c63928a-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
-DESCRIPTION:한국체육산업개발(주)\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fee390842e-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:[마감] 2026 ACDC(AI Cyber Defense Contest)
-DESCRIPTION:2026acdc\nhttps://event-us.kr/2026acdc/event/140349
-URL:https://event-us.kr/2026acdc/event/140349
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 ACDC(AI Cyber Defense Contest)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fee390842e-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:[일정] 2026 ACDC(AI Cyber Defense Contest)
-DESCRIPTION:2026acdc\nhttps://event-us.kr/2026acdc/event/140349
-URL:https://event-us.kr/2026acdc/event/140349
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 ACDC(AI Cyber Defense Contest)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:86338c46d4-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:[마감] 2026 AI해킹방어대회(ACDC) 참가자 모집(~10/26(월) 14:00)
-DESCRIPTION:2026acd\nhttps://event-us.kr/2026acd/event/137541
-URL:https://event-us.kr/2026acd/event/137541
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 AI해킹방어대회(ACDC) 참가자 모집(~10/26(월) 14:00)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:86338c46d4-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:[일정] 2026 AI해킹방어대회(ACDC) 참가자 모집(~10/26(월) 14:00)
-DESCRIPTION:2026acd\nhttps://event-us.kr/2026acd/event/137541
-URL:https://event-us.kr/2026acd/event/137541
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 AI해킹방어대회(ACDC) 참가자 모집(~10/26(월) 14:00)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cad6d069b2-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:[마감] 다나와 AI다나와 에디터 모집
-DESCRIPTION:다나와\nhttps://www.wevity.com/?c=find&s=1&gbn=view&ix=112471
-URL:https://www.wevity.com/?c=find&s=1&gbn=view&ix=112471
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 다나와 AI다나와 에디터 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c2b32d54d0-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:[마감] 2027년 AI데이터센터 서비스 이용자 정기모집(1트랙) 공고
-DESCRIPTION:과학기술정보통신부\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128022
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128022
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2027년 AI데이터센터 서비스 이용자 정기모집(1트랙) 공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:aa55bff2cb-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:[마감] 서울 로컬브랜드 AI 숏폼 공모전
-DESCRIPTION:명지전문대학 앵커사업단\n상금 100\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 서울 로컬브랜드 AI 숏폼 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:aa55bff2cb-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:[일정] 서울 로컬브랜드 AI 숏폼 공모전
-DESCRIPTION:명지전문대학 앵커사업단\n상금 100\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 서울 로컬브랜드 AI 숏폼 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:aa55bff2cb-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:[일정] 서울 로컬브랜드 AI 숏폼 공모전
-DESCRIPTION:명지전문대학 앵커사업단\n상금 100\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 서울 로컬브랜드 AI 숏폼 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:aa55bff2cb-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:[일정] 서울 로컬브랜드 AI 숏폼 공모전
-DESCRIPTION:명지전문대학 앵커사업단\n상금 100\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 서울 로컬브랜드 AI 숏폼 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:de4d21ebba-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:[마감] 제2회 저상버스 인식개선 사진·AI 이미지 공모전
-DESCRIPTION:부산뇌병변복지관\n상금 30만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 지역 제한\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112801
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112801
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 제2회 저상버스 인식개선 사진·AI 이미지 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d45e38314d-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:[마감] [무료/창업] 아이디어를 MVP로\, MVP가 첫 고객을 만나기까지! 오렌지파크 해커톤🍊
-DESCRIPTION:orangefarm\nhttps://event-us.kr/orangefarm/event/140484
-URL:https://event-us.kr/orangefarm/event/140484
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [무료/창업] 아이디어를 MVP로\, MVP가 첫 고객을 만나기까지! 오렌지파크 해커톤🍊
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:181fabb911-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:[마감] 제1회 CLIIP AI 웹툰 영상화 공모전
-DESCRIPTION:시원아트\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 출처마다 다름 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 제1회 CLIIP AI 웹툰 영상화 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:181fabb911-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
-DESCRIPTION:시원아트\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 출처마다 다름 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:181fabb911-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
-DESCRIPTION:시원아트\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 출처마다 다름 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:181fabb911-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
-DESCRIPTION:시원아트\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 출처마다 다름 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1a618c9f5c-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:[마감] (AI | AX) 강원 AI 활용 창업 아이디어 경진대회
-DESCRIPTION:illusionists1004\nhttps://event-us.kr/illusionists1004/event/140715
-URL:https://event-us.kr/illusionists1004/event/140715
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] (AI | AX) 강원 AI 활용 창업 아이디어 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1a618c9f5c-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:[일정] (AI | AX) 강원 AI 활용 창업 아이디어 경진대회
-DESCRIPTION:illusionists1004\nhttps://event-us.kr/illusionists1004/event/140715
-URL:https://event-us.kr/illusionists1004/event/140715
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] (AI | AX) 강원 AI 활용 창업 아이디어 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:97b2957008-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:[마감] 서울경제진흥원 (SBA) - 2026 서울 야간경제 활성화 해커톤 (Dopamine Seoul 24)
-DESCRIPTION:AIFactory\n상금 1\,500만원\nhttps://aifactory.space/task/9320/overview
-URL:https://aifactory.space/task/9320/overview
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 서울경제진흥원 (SBA) - 2026 서울 야간경제 활성화 해커톤 (Dopamine Seoul 24)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7463aa699a-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:[마감] AI 헬스케어 미니 데이터 챌린지
-DESCRIPTION:ozcoding\n※ 마감일 확인 필요 — 원문 확인\nhttps://event-us.kr/ozcoding/event/138545
-URL:https://event-us.kr/ozcoding/event/138545
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] AI 헬스케어 미니 데이터 챌린지
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:11481666da-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:[마감] 2026 춘천MBC AI영상 공모전
-DESCRIPTION:춘천MBC\n상금 200만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 춘천MBC AI영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:11481666da-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-SUMMARY:[일정] 2026 춘천MBC AI영상 공모전
-DESCRIPTION:춘천MBC\n상금 200만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 춘천MBC AI영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:11481666da-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261218
-SUMMARY:[일정] 2026 춘천MBC AI영상 공모전
-DESCRIPTION:춘천MBC\n상금 200만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 춘천MBC AI영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6727cd8c07-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:[마감] 2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회
-DESCRIPTION:한국사회보장정보원\, 대구가톨릭대학교\n상금 500만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6727cd8c07-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] 2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회
-DESCRIPTION:한국사회보장정보원\, 대구가톨릭대학교\n상금 500만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6727cd8c07-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:[일정] 2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회
-DESCRIPTION:한국사회보장정보원\, 대구가톨릭대학교\n상금 500만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ac34bb2159-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:[마감] 2026년 서울교육 AI 활용 공모전
-DESCRIPTION:서울특별시동부교육지원청\n상금 50만원 상당\n대상 일반인\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113089
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113089
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026년 서울교육 AI 활용 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:b6b47fa6d7-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:[마감] 밀양아리랑대축제 AI 포스터 공모전
-DESCRIPTION:밀양시\n상금 50만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113088
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113088
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 밀양아리랑대축제 AI 포스터 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d0db9a5bfb-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:[마감] 전북형 스마트 제조AI 시범공장 조성사업 공고
-DESCRIPTION:전북특별자치도\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128041
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128041
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 전북형 스마트 제조AI 시범공장 조성사업 공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7d44c5bd8c-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:[마감] 📢AI학과 2026『일상의 편리를 위한 AI서비스개발 공모전』
-DESCRIPTION:세종사이버대학교 AI학과\nhttps://www.allforyoung.com/posts/90602
-URL:https://www.allforyoung.com/posts/90602
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 📢AI학과 2026『일상의 편리를 위한 AI서비스개발 공모전』
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6cf1b27aaf-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-SUMMARY:[마감] 퇴근 후 2시간 직장인 AI 바이브코딩 트랙! (12주 챌린지)
-DESCRIPTION:modu\nhttps://event-us.kr/modu/event/131403
-URL:https://event-us.kr/modu/event/131403
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 퇴근 후 2시간 직장인 AI 바이브코딩 트랙! (12주 챌린지)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:efd6f695ef-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:[마감] VIVID RE:PLAY 6개 IP로 만드는 AI영상 공모전
-DESCRIPTION:ARKaiN(아캐인)\nhttps://linkareer.com/activity/359442
-URL:https://linkareer.com/activity/359442
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] VIVID RE:PLAY 6개 IP로 만드는 AI영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7af5baf3df-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:[마감] ﻿VIVID RE: PLAY - 총상금 2천만원 AI 영상 창작 공모전
-DESCRIPTION:ARKAIN\, VIVID\n상금 500만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112354
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112354
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] ﻿VIVID RE: PLAY - 총상금 2천만원 AI 영상 창작 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:e8391c6a02-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:[마감] 🎵 2026년 제3회 AMT AI 작곡대회 – KILLING DANCE 챌린지
-DESCRIPTION:주식회사 프롬프트뱅크\n상금 30만원 신세계 상품권\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112747
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112747
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 🎵 2026년 제3회 AMT AI 작곡대회 – KILLING DANCE 챌린지
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:3170b525c4-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-SUMMARY:[마감] 2026 국가시범도시 AI 아이디어 · 기술 공모전
-DESCRIPTION:국토교통부\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 국가시범도시 AI 아이디어 · 기술 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:3170b525c4-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-SUMMARY:[일정] 2026 국가시범도시 AI 아이디어 · 기술 공모전
-DESCRIPTION:국토교통부\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 국가시범도시 AI 아이디어 · 기술 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:3170b525c4-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[일정] 2026 국가시범도시 AI 아이디어 · 기술 공모전
-DESCRIPTION:국토교통부\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 국가시범도시 AI 아이디어 · 기술 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:df704f68f9-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261218
-SUMMARY:[마감] 2026년 청년창업가 정주여건 지원 창업기업 모집 공고(대구 AI 활용 청년 기술창업 지원사업)
-DESCRIPTION:대구광역시\n대상 창업벤처\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127965
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127965
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026년 청년창업가 정주여건 지원 창업기업 모집 공고(대구 AI 활용 청년 기술창업 지원사업)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:06871bb413-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:[마감] 「2026년 경남형 스타트업 액셀러레이팅 지원사업」 (AI 리그\, 콘텐츠 리그\, 신산업 리그) 참여기업 모집공고
-DESCRIPTION:btbventurestips\n※ 마감일 확인 필요 — 원문 확인\nhttps://event-us.kr/btbventurestips/event/122533
-URL:https://event-us.kr/btbventurestips/event/122533
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 「2026년 경남형 스타트업 액셀러레이팅 지원사업」 (AI 리그\, 콘텐츠 리그\, 신산업 리그) 참여기업 모집공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8de3b8d60a-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:[마감] [saaskr] 2026 saaskr 게임 어워드 — AI로 만든 웹게임 연말 시상
-DESCRIPTION:saaskr\n상금 없음(확인서·배너·블로그 소개)\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112862
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112862
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [saaskr] 2026 saaskr 게임 어워드 — AI로 만든 웹게임 연말 시상
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9a8c678218-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:[마감] 제1회 제주어 AI 음악 경진대회 N 새글
-DESCRIPTION:월드 AI 사운드 마스터즈 협회 (WASMA)\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113121
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113121
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 제1회 제주어 AI 음악 경진대회 N 새글
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c2e6adfb20-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-SUMMARY:[마감] [데이콘]HAI(하이)! Hecto AI × Wallet Service Challenge(~12/21)
-DESCRIPTION:헥토\n상금 1000만원\n대상 대학생\, 대학원생\, 일반인\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112278
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112278
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [데이콘]HAI(하이)! Hecto AI × Wallet Service Challenge(~12/21)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10af187a91-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20261223
-SUMMARY:[마감] 2027년 정보통신 및 정보문화 유공 정부포상 계획 공고
-DESCRIPTION:과학기술정보통신부\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127992
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127992
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2027년 정보통신 및 정보문화 유공 정부포상 계획 공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:74bab4965a-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:[마감] [부산과학기술대학교·KNN] 2026 부산 미래 직업·평생교육 AI 영상 공모전
-DESCRIPTION:부산과학기술대학교\n상금 100만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112819
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112819
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [부산과학기술대학교·KNN] 2026 부산 미래 직업·평생교육 AI 영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9b6a55b98c-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:[마감] 제6회 플라이하이 AI 패션 디자인 고교 콘테스트
-DESCRIPTION:(주) 라사라패션교육개발\n상금 50만원\n대상 고등학생\, 동 연령대 청소년\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110707
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110707
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 제6회 플라이하이 AI 패션 디자인 고교 콘테스트
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9b6a55b98c-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270123
-SUMMARY:[일정] 제6회 플라이하이 AI 패션 디자인 고교 콘테스트
-DESCRIPTION:(주) 라사라패션교육개발\n상금 50만원\n대상 고등학생\, 동 연령대 청소년\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110707
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110707
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 제6회 플라이하이 AI 패션 디자인 고교 콘테스트
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:811e65d987-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-SUMMARY:[마감] 2026 CWNU SW-DNA² 챌린지 대학생 AI·SW 경진대회
-DESCRIPTION:국립창원대학교\n상금 기타\n대상 대학생\, 지역 제한\, 기타\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111343
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111343
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 CWNU SW-DNA² 챌린지 대학생 AI·SW 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:811e65d987-ev10@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] 2026 CWNU SW-DNA² 챌린지 대학생 AI·SW 경진대회
-DESCRIPTION:국립창원대학교\n상금 기타\n대상 대학생\, 지역 제한\, 기타\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111343
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111343
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 CWNU SW-DNA² 챌린지 대학생 AI·SW 경진대회
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f891df760d-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-SUMMARY:[마감] NEXMUSE AI Music Video Contest 2027
-DESCRIPTION:AI아트\n상금 1\,000만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111919
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111919
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] NEXMUSE AI Music Video Contest 2027
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:83a30877fc-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] 2026 AI 플레이 콘텐츠 제작 공모전
-DESCRIPTION:중앙대학교\n상금 30만원\n대상 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112189
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112189
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 AI 플레이 콘텐츠 제작 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ba958729-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] 2026 SCENE AI·실사 숏드라마 공모전
-DESCRIPTION:SCENE\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112913
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112913
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 SCENE AI·실사 숏드라마 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:b3db27777f-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] 2026 디지털커머스 전문기관(소담스퀘어 in 전주) 소상공인 지원 프로그램 지원대상 모집 공고
-DESCRIPTION:중소벤처기업부\n대상 소상공인\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121478
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121478
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 디지털커머스 전문기관(소담스퀘어 in 전주) 소상공인 지원 프로그램 지원대상 모집 공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:795d9c9729-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] 2026년 AI기반 슬립테크 국제협력 실증 확산 지원사업 기업지원 공고(미국 FDA or 유럽 MDR 임상시험 지원)
-DESCRIPTION:산업통상부\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126910
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126910
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026년 AI기반 슬립테크 국제협력 실증 확산 지원사업 기업지원 공고(미국 FDA or 유럽 MDR 임상시험 지원)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:969ab11846-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] 2026년 지역ㆍ산업 맞춤형 인력양성사업 무료교육 참여자 및 참여기업 모집 공고
-DESCRIPTION:고용노동부\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119624
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119624
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026년 지역ㆍ산업 맞춤형 인력양성사업 무료교육 참여자 및 참여기업 모집 공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ef8ca2b05b-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] [CPU AI 설교연구소 x 미주복음방송(KGBC)] AI와 신학 논문 공모전
-DESCRIPTION:CPU AI 설교연구소 x 미주복음방송(KGBC)\nhttps://www.wevity.com/?c=find&s=1&gbn=view&ix=111065
-URL:https://www.wevity.com/?c=find&s=1&gbn=view&ix=111065
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [CPU AI 설교연구소 x 미주복음방송(KGBC)] AI와 신학 논문 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:3170844273-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] [경기] 안산시 2026년 특화역량 BI 육성지원사업 ICTㆍSW 창업 컨설팅 지원 참여기업 모집 공고
-DESCRIPTION:경기도\n대상 창업벤처\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123753
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123753
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [경기] 안산시 2026년 특화역량 BI 육성지원사업 ICTㆍSW 창업 컨설팅 지원 참여기업 모집 공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:de6e1c1564-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] [경북] 2026년 제조업AI융합기반조성사업 경북AX랩 활용기업 모집 공고
-DESCRIPTION:경상북도\n대상 창업벤처\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122863
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122863
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [경북] 2026년 제조업AI융합기반조성사업 경북AX랩 활용기업 모집 공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:91aa4e8227-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] [부산] 2026년 AI실증지원센터 고성능 컴퓨터(HPC) 이용 지원사업 모집 공고
-DESCRIPTION:부산광역시\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119235
-URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119235
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [부산] 2026년 AI실증지원센터 고성능 컴퓨터(HPC) 이용 지원사업 모집 공고
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2263f516f8-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] 공모전 준비 중이라면? AI 교정 서비스 [교정의 신]과 함께!
-DESCRIPTION:교정의 신\nhttps://www.wevity.com/?c=find&s=1&gbn=view&ix=111812
-URL:https://www.wevity.com/?c=find&s=1&gbn=view&ix=111812
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 공모전 준비 중이라면? AI 교정 서비스 [교정의 신]과 함께!
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fa33f370a5-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] 데이터 분석 공모전 연합동아리 Discovery
-DESCRIPTION:Discovery\n대상 일반인\, 대학생\, 대학원생\nhttps://www.all-con.co.kr/view/contest/527680
-URL:https://www.all-con.co.kr/view/contest/527680
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 데이터 분석 공모전 연합동아리 Discovery
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7e754b8848-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] 빅데이터 공모전 연합동아리 LOGICAL
-DESCRIPTION:LOGICAL\n대상 일반인\, 대학생\, 대학원생\nhttps://www.all-con.co.kr/view/contest/527678
-URL:https://www.all-con.co.kr/view/contest/527678
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 빅데이터 공모전 연합동아리 LOGICAL
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:95a769f2c0-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] 세종사이버대학교 정보보호학과 '나를 지키는 1분\, 디지털 호신술 챌린지' 공모전
-DESCRIPTION:세종사이버대학교 정보보…\n대상 일반인\, 대학생\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.all-con.co.kr/view/contest/540180
-URL:https://www.all-con.co.kr/view/contest/540180
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 세종사이버대학교 정보보호학과 '나를 지키는 1분\, 디지털 호신술 챌린지' 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:0c8a026434-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[마감] 제32회 도시연구세미나 발표공모 - AI와 도시
-DESCRIPTION:인천연구원\n대상 대학원생\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608270057
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608270057
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 제32회 도시연구세미나 발표공모 - AI와 도시
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:5b0fc459b7-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:[마감] [방송미디어통신위원회] 제12회 한국문화AI영상대전
-DESCRIPTION:방송미디어통신위원회\n대상 초등학생 \, 중학생 \, 고등학생\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202610210002
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202610210002
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [방송미디어통신위원회] 제12회 한국문화AI영상대전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:42df0ae024-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-SUMMARY:[마감] 2027 제2회 Superb AI X BDAI Vision AI 해커톤
-DESCRIPTION:Superb AI × BDAI\n상금 50만원\n대상 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113007
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113007
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2027 제2회 Superb AI X BDAI Vision AI 해커톤
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:76d6ac5fd2-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-SUMMARY:[마감] AI 역사 콘텐츠 공모전
-DESCRIPTION:이오고대사연구소\n대상 대학생\nhttps://linkareer.com/activity/365114
-URL:https://linkareer.com/activity/365114
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] AI 역사 콘텐츠 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7e822aa9d3-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-SUMMARY:[마감] [청년 콘텐츠 공모전] 《인간인 줄 알았는데\, AI였습니다.》
-DESCRIPTION:루프웍스\n대상 대상 제한 없음\nhttps://linkareer.com/activity/355997
-URL:https://linkareer.com/activity/355997
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] [청년 콘텐츠 공모전] 《인간인 줄 알았는데\, AI였습니다.》
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f90a41535e-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-SUMMARY:[마감] 2026 스마트농업 AI 경진대회 (딸기 원격재배)
-DESCRIPTION:trendly\n상금 총 1억원\, 농식품부장관상\n대상 3~10인 팀 (본선 4팀 확정)\nhttps://event-us.kr/trendly/event/128410
-URL:https://event-us.kr/trendly/event/128410
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[마감] 2026 스마트농업 AI 경진대회 (딸기 원격재배)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:004edaf034-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:[일정] Capture\, Explain\, Defend — AI Cybersecurity Hackathon
-DESCRIPTION:AI Builders · GMI Cloud · F5 · NVIDIA\nhttps://luma.com/aisecurityseoul
-URL:https://luma.com/aisecurityseoul
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] Capture\, Explain\, Defend — AI Cybersecurity Hackathon
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:004e3cfd88-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[마감] 제2회 2026 대한민국 AI 창조공모대전
@@ -2457,22 +651,8 @@ DESCRIPTION:[마감] 제2회 2026 대한민국 AI 창조공모대전
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:004e3cfd88-start@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[접수 시작] 제2회 2026 대한민국 AI 창조공모대전
-DESCRIPTION:사단법인 한국창조미술협회\n상금 100만원\n대상 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112234
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112234
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[접수 시작] 제2회 2026 대한민국 AI 창조공모대전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:004e3cfd88-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:[일정] 제2회 2026 대한민국 AI 창조공모대전
@@ -2486,7 +666,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:004e3cfd88-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:[일정] 제2회 2026 대한민국 AI 창조공모대전
@@ -2500,7 +680,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:004e3cfd88-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:[일정] 제2회 2026 대한민국 AI 창조공모대전
@@ -2513,8 +693,1282 @@ DESCRIPTION:[일정] 제2회 2026 대한민국 AI 창조공모대전
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:613da80f97-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:[마감] 2027 지역 창업 솔버톤 - AI가 깨우는 지역의 불씨
+DESCRIPTION:서울대학교 대학연대 지역인재양성사업단(IITD)\nhttps://www.wevity.com/?c=find&s=1&gbn=view&ix=112402
+URL:https://www.wevity.com/?c=find&s=1&gbn=view&ix=112402
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2027 지역 창업 솔버톤 - AI가 깨우는 지역의 불씨
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea5b046d83-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:[마감] AI 아트 해커톤 0에서 50의 <사이> 만들어줘
+DESCRIPTION:redlab\nhttps://event-us.kr/redlab/event/140816
+URL:https://event-us.kr/redlab/event/140816
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] AI 아트 해커톤 0에서 50의 <사이> 만들어줘
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea5b046d83-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:[일정] AI 아트 해커톤 0에서 50의 <사이> 만들어줘
+DESCRIPTION:redlab\nhttps://event-us.kr/redlab/event/140816
+URL:https://event-us.kr/redlab/event/140816
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] AI 아트 해커톤 0에서 50의 <사이> 만들어줘
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:770367001f-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:[마감] TripPups AI Game Hackathon 2026
+DESCRIPTION:Trip-Pups\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/364831
+URL:https://linkareer.com/activity/364831
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] TripPups AI Game Hackathon 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:770367001f-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[일정] TripPups AI Game Hackathon 2026
+DESCRIPTION:Trip-Pups\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/364831
+URL:https://linkareer.com/activity/364831
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] TripPups AI Game Hackathon 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:770367001f-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[일정] TripPups AI Game Hackathon 2026
+DESCRIPTION:Trip-Pups\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/364831
+URL:https://linkareer.com/activity/364831
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] TripPups AI Game Hackathon 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:770367001f-ev2@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:[일정] TripPups AI Game Hackathon 2026
+DESCRIPTION:Trip-Pups\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/364831
+URL:https://linkareer.com/activity/364831
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] TripPups AI Game Hackathon 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b2eda5f7ef-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:[마감] 제6회숏츠멘터리공모전[AI시대\, 기후기록]
+DESCRIPTION:사단법인지속가능월드네트워크\n상금 100만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112405
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112405
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 제6회숏츠멘터리공모전[AI시대\, 기후기록]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9170f2f5f8-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[마감] 2026 SVC Seoul AI 해커톤 with 현대건설
+DESCRIPTION:창업진흥원\, 현대건설\,…\n대상 과학·공학·학술\, 대학생\, 대학원생\nhttps://www.all-con.co.kr/view/contest/544942
+URL:https://www.all-con.co.kr/view/contest/544942
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 SVC Seoul AI 해커톤 with 현대건설
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:88d1c94cb0-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[마감] [울산] 코딩 몰라도 OK\, 1박 2일 AI 해커톤 INNO-CODER (총상금 200만 원·무료)
+DESCRIPTION:팀모노리스\n상금 숙박·식사 제공\, 참가비 무료\n대상 대상 제한 없음\nhttps://linkareer.com/activity/365635
+URL:https://linkareer.com/activity/365635
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [울산] 코딩 몰라도 OK\, 1박 2일 AI 해커톤 INNO-CODER (총상금 200만 원·무료)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:778e0ad31a-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[마감] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
+DESCRIPTION:창업진흥원\n상금 1천만원 미만\n대상 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:778e0ad31a-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[일정] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
+DESCRIPTION:창업진흥원\n상금 1천만원 미만\n대상 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:778e0ad31a-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[일정] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
+DESCRIPTION:창업진흥원\n상금 1천만원 미만\n대상 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c925e716d4-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[마감] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+DESCRIPTION:비타그램\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c925e716d4-ev6@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+DESCRIPTION:비타그램\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c925e716d4-ev8@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+DESCRIPTION:비타그램\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c925e716d4-ev9@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+DESCRIPTION:비타그램\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c925e716d4-ev10@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+DESCRIPTION:비타그램\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c925e716d4-ev11@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+DESCRIPTION:비타그램\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c925e716d4-ev12@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+DESCRIPTION:비타그램\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 듀라텍스 몽그리귀마개 AI 사진\, 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:429471adcf-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[마감] 일상 속 아이디어를 AI로 웹·앱 서비스로! INNO-CODER AI HACKATHON 참가팀 모집
+DESCRIPTION:운당나눔재단\n대상 대상 제한 없음\nhttps://linkareer.com/activity/365966
+URL:https://linkareer.com/activity/365966
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 일상 속 아이디어를 AI로 웹·앱 서비스로! INNO-CODER AI HACKATHON 참가팀 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:42ef560499-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[마감] 자원봉사 × AI 영상 공모전
+DESCRIPTION:한국중앙자원봉사센터\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112614
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112614
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 자원봉사 × AI 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e999667dc1-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] 2026 (사)한국화훼자조금협의회 30초 AI 영상 공모전
+DESCRIPTION:(사)한국화훼자조금협의회\n대상 대상 제한 없음\nhttps://linkareer.com/activity/363177
+URL:https://linkareer.com/activity/363177
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 (사)한국화훼자조금협의회 30초 AI 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e999667dc1-ev2@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:[일정] 2026 (사)한국화훼자조금협의회 30초 AI 영상 공모전
+DESCRIPTION:(사)한국화훼자조금협의회\n대상 대상 제한 없음\nhttps://linkareer.com/activity/363177
+URL:https://linkareer.com/activity/363177
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 2026 (사)한국화훼자조금협의회 30초 AI 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7ffe266abe-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] 2026 귀뚜라미 AI 숏폼 영상 챌린지 (내용 수정)
+DESCRIPTION:귀뚜라미 보일러\n대상 제한없음\nhttps://linkareer.com/activity/363760
+URL:https://linkareer.com/activity/363760
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 귀뚜라미 AI 숏폼 영상 챌린지 (내용 수정)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:78afd494d1-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] 2026 김천 삼색이수 AI 영상·웹툰 공모전
+DESCRIPTION:삼색이수상권상인 협동조합\n상금 온누리상품권 300만 원 상당\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112705
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112705
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 김천 삼색이수 AI 영상·웹툰 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26b5fbb4d2-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] 2026 대구 로컬AI그라운드 - 지역문제 해결형 AI활용 경진대회
+DESCRIPTION:대구광역시\n대상 대상 제한 없음\nhttps://linkareer.com/activity/362988
+URL:https://linkareer.com/activity/362988
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 대구 로컬AI그라운드 - 지역문제 해결형 AI활용 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26b5fbb4d2-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[일정] 2026 대구 로컬AI그라운드 - 지역문제 해결형 AI활용 경진대회
+DESCRIPTION:대구광역시\n대상 대상 제한 없음\nhttps://linkareer.com/activity/362988
+URL:https://linkareer.com/activity/362988
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 2026 대구 로컬AI그라운드 - 지역문제 해결형 AI활용 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5b93932ca5-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] 2026 포항 MICE 창업 해커톤
+DESCRIPTION:포항시\n대상 대상 제한 없음\nhttps://linkareer.com/activity/365981
+URL:https://linkareer.com/activity/365981
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 포항 MICE 창업 해커톤
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d55ac3c29c-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] 2026년 AI 기반 바이오 소재 융복합 제품의 정보분석 및 특허 창출 지원 사업 수혜기업 모집 공고
+DESCRIPTION:산업통상부\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126833
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126833
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026년 AI 기반 바이오 소재 융복합 제품의 정보분석 및 특허 창출 지원 사업 수혜기업 모집 공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f34f2d4e85-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] AI로 15초 내외 영상 만들고 상금 100만 원 도전! 귀뚜라미 숏폼 챌린지
+DESCRIPTION:귀뚜라미\nhttps://www.allforyoung.com/posts/90181
+URL:https://www.allforyoung.com/posts/90181
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] AI로 15초 내외 영상 만들고 상금 100만 원 도전! 귀뚜라미 숏폼 챌린지
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0631b57496-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] AI로 에너지·사회문제를 해결할 팀을 찾습니다｜SK이노베이션\, 「AI 임팩트 솔루션」 공모전
+DESCRIPTION:ksifesg\n※ 마감일 확인 필요 — 원문 확인\nhttps://event-us.kr/ksifesg/event/125921
+URL:https://event-us.kr/ksifesg/event/125921
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] AI로 에너지·사회문제를 해결할 팀을 찾습니다｜SK이노베이션\, 「AI 임팩트 솔루션」 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc3f7ac61c-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] [경북] 2026년 K-AI 경북형 동반성장 주력산업 육성 지원사업 컨소시엄 모집 재공고
+DESCRIPTION:경상북도\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127807
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127807
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [경북] 2026년 K-AI 경북형 동반성장 주력산업 육성 지원사업 컨소시엄 모집 재공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98a031269f-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] [공모전 TALK] AI 숏폼으로 상금 도전! 귀뚜라미 챌린지
+DESCRIPTION:귀뚜라미\n상금 없음\n대상 대상 제한 없음\nhttps://linkareer.com/activity/363787
+URL:https://linkareer.com/activity/363787
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [공모전 TALK] AI 숏폼으로 상금 도전! 귀뚜라미 챌린지
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7aa8dec5-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
+DESCRIPTION:매경미디어\n상금 500만원\n대상 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7aa8dec5-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
+DESCRIPTION:매경미디어\n상금 500만원\n대상 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7aa8dec5-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
+DESCRIPTION:매경미디어\n상금 500만원\n대상 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7aa8dec5-ev2@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
+DESCRIPTION:매경미디어\n상금 500만원\n대상 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112262
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] [제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3094ac2d79-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] [한국프로세스혁신협회] 2026 AI 서비스 기획 공모전
+DESCRIPTION:한국프로세스혁신협회\n상금 1\,000만원\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/359841
+URL:https://linkareer.com/activity/359841
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [한국프로세스혁신협회] 2026 AI 서비스 기획 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:77a664eef6-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] 문경시 관광 AI영상 공모전
+DESCRIPTION:문경시\n상금 150만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 문경시 관광 AI영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:77a664eef6-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[일정] 문경시 관광 AI영상 공모전
+DESCRIPTION:문경시\n상금 150만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 문경시 관광 AI영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:77a664eef6-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[일정] 문경시 관광 AI영상 공모전
+DESCRIPTION:문경시\n상금 150만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 문경시 관광 AI영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9382b5452-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] 제12회 수원시 건강한 내-일\, 행복한 내일 (AI동영상) 공모전
+DESCRIPTION:수원시비정규직노동자복지센터\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/363048
+URL:https://linkareer.com/activity/363048
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 제12회 수원시 건강한 내-일\, 행복한 내일 (AI동영상) 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fc5c0b5041-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] 제1회 대한민국 AI창작문학상
+DESCRIPTION:문예살롱\n대상 누구나\n※ 마감일 확인 필요 — 원문 확인\nhttps://linkareer.com/activity/323822
+URL:https://linkareer.com/activity/323822
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 제1회 대한민국 AI창작문학상
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fc5c0b5041-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:[일정] 제1회 대한민국 AI창작문학상
+DESCRIPTION:문예살롱\n대상 누구나\n※ 마감일 확인 필요 — 원문 확인\nhttps://linkareer.com/activity/323822
+URL:https://linkareer.com/activity/323822
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 제1회 대한민국 AI창작문학상
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fc5c0b5041-ev2@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:[일정] 제1회 대한민국 AI창작문학상
+DESCRIPTION:문예살롱\n대상 누구나\n※ 마감일 확인 필요 — 원문 확인\nhttps://linkareer.com/activity/323822
+URL:https://linkareer.com/activity/323822
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 제1회 대한민국 AI창작문학상
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f4374c38c0-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[마감] 제1회 통합데이터플랫폼(원-윈도우) 활용 아이디어 공모전
+DESCRIPTION:과학기술정보통신부\n상금 1천만원 미만\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113092
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113092
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 제1회 통합데이터플랫폼(원-윈도우) 활용 아이디어 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b20a6498ba-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[마감] [10/20 개강] AI와 7주에 책 쓰고 출판하여 네이버 작가 되기 챌린지 워크숍
+DESCRIPTION:zenoschool\n※ 마감일 확인 필요 — 원문 확인\nhttps://event-us.kr/zenoschool/event/136648
+URL:https://event-us.kr/zenoschool/event/136648
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [10/20 개강] AI와 7주에 책 쓰고 출판하여 네이버 작가 되기 챌린지 워크숍
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f89c63928a-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[마감] [한국체육산업개발(주)] 공공데이터 활용 경진대회
+DESCRIPTION:한국체육산업개발(주)\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [한국체육산업개발(주)] 공공데이터 활용 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f89c63928a-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
+DESCRIPTION:한국체육산업개발(주)\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f89c63928a-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
+DESCRIPTION:한국체육산업개발(주)\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f89c63928a-ev2@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
+DESCRIPTION:한국체육산업개발(주)\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] [한국체육산업개발(주)] 공공데이터 활용 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fee390842e-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[마감] 2026 ACDC(AI Cyber Defense Contest)
+DESCRIPTION:2026acdc\nhttps://event-us.kr/2026acdc/event/140349
+URL:https://event-us.kr/2026acdc/event/140349
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 ACDC(AI Cyber Defense Contest)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fee390842e-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[일정] 2026 ACDC(AI Cyber Defense Contest)
+DESCRIPTION:2026acdc\nhttps://event-us.kr/2026acdc/event/140349
+URL:https://event-us.kr/2026acdc/event/140349
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 2026 ACDC(AI Cyber Defense Contest)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:86338c46d4-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[마감] 2026 AI해킹방어대회(ACDC) 참가자 모집(~10/26(월) 14:00)
+DESCRIPTION:2026acd\nhttps://event-us.kr/2026acd/event/137541
+URL:https://event-us.kr/2026acd/event/137541
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 AI해킹방어대회(ACDC) 참가자 모집(~10/26(월) 14:00)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:86338c46d4-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[일정] 2026 AI해킹방어대회(ACDC) 참가자 모집(~10/26(월) 14:00)
+DESCRIPTION:2026acd\nhttps://event-us.kr/2026acd/event/137541
+URL:https://event-us.kr/2026acd/event/137541
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 2026 AI해킹방어대회(ACDC) 참가자 모집(~10/26(월) 14:00)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cad6d069b2-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[마감] 다나와 AI다나와 에디터 모집
+DESCRIPTION:다나와\nhttps://www.wevity.com/?c=find&s=1&gbn=view&ix=112471
+URL:https://www.wevity.com/?c=find&s=1&gbn=view&ix=112471
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 다나와 AI다나와 에디터 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c2b32d54d0-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[마감] 2027년 AI데이터센터 서비스 이용자 정기모집(1트랙) 공고
+DESCRIPTION:과학기술정보통신부\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128022
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2027년 AI데이터센터 서비스 이용자 정기모집(1트랙) 공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa55bff2cb-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[마감] 서울 로컬브랜드 AI 숏폼 공모전
+DESCRIPTION:명지전문대학 앵커사업단\n상금 100\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 서울 로컬브랜드 AI 숏폼 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa55bff2cb-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[일정] 서울 로컬브랜드 AI 숏폼 공모전
+DESCRIPTION:명지전문대학 앵커사업단\n상금 100\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 서울 로컬브랜드 AI 숏폼 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa55bff2cb-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:[일정] 서울 로컬브랜드 AI 숏폼 공모전
+DESCRIPTION:명지전문대학 앵커사업단\n상금 100\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 서울 로컬브랜드 AI 숏폼 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa55bff2cb-ev2@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[일정] 서울 로컬브랜드 AI 숏폼 공모전
+DESCRIPTION:명지전문대학 앵커사업단\n상금 100\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 서울 로컬브랜드 AI 숏폼 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:de4d21ebba-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[마감] 제2회 저상버스 인식개선 사진·AI 이미지 공모전
+DESCRIPTION:부산뇌병변복지관\n상금 30만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 지역 제한\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112801
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112801
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 제2회 저상버스 인식개선 사진·AI 이미지 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d45e38314d-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:[마감] [무료/창업] 아이디어를 MVP로\, MVP가 첫 고객을 만나기까지! 오렌지파크 해커톤🍊
+DESCRIPTION:orangefarm\nhttps://event-us.kr/orangefarm/event/140484
+URL:https://event-us.kr/orangefarm/event/140484
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [무료/창업] 아이디어를 MVP로\, MVP가 첫 고객을 만나기까지! 오렌지파크 해커톤🍊
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:181fabb911-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:[마감] 제1회 CLIIP AI 웹툰 영상화 공모전
+DESCRIPTION:시원아트\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 출처마다 다름 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 제1회 CLIIP AI 웹툰 영상화 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:181fabb911-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
+DESCRIPTION:시원아트\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 출처마다 다름 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:181fabb911-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
+DESCRIPTION:시원아트\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 출처마다 다름 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:181fabb911-ev2@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
+DESCRIPTION:시원아트\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 출처마다 다름 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 제1회 CLIIP AI 웹툰 영상화 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1a618c9f5c-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[마감] (AI | AX) 강원 AI 활용 창업 아이디어 경진대회
+DESCRIPTION:illusionists1004\nhttps://event-us.kr/illusionists1004/event/140715
+URL:https://event-us.kr/illusionists1004/event/140715
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] (AI | AX) 강원 AI 활용 창업 아이디어 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1a618c9f5c-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:[일정] (AI | AX) 강원 AI 활용 창업 아이디어 경진대회
+DESCRIPTION:illusionists1004\nhttps://event-us.kr/illusionists1004/event/140715
+URL:https://event-us.kr/illusionists1004/event/140715
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] (AI | AX) 강원 AI 활용 창업 아이디어 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:97b2957008-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[마감] 서울경제진흥원 (SBA) - 2026 서울 야간경제 활성화 해커톤 (Dopamine Seoul 24)
+DESCRIPTION:AIFactory\n상금 1\,500만원\nhttps://aifactory.space/task/9320/overview
+URL:https://aifactory.space/task/9320/overview
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 서울경제진흥원 (SBA) - 2026 서울 야간경제 활성화 해커톤 (Dopamine Seoul 24)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7463aa699a-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:[마감] AI 헬스케어 미니 데이터 챌린지
+DESCRIPTION:ozcoding\nhttps://event-us.kr/ozcoding/event/138545
+URL:https://event-us.kr/ozcoding/event/138545
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] AI 헬스케어 미니 데이터 챌린지
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11481666da-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:[마감] 2026 춘천MBC AI영상 공모전
+DESCRIPTION:춘천MBC\n상금 200만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 춘천MBC AI영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11481666da-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:[일정] 2026 춘천MBC AI영상 공모전
+DESCRIPTION:춘천MBC\n상금 200만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 2026 춘천MBC AI영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11481666da-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:[일정] 2026 춘천MBC AI영상 공모전
+DESCRIPTION:춘천MBC\n상금 200만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112401
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 2026 춘천MBC AI영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6727cd8c07-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[마감] 2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회
+DESCRIPTION:한국사회보장정보원\, 대구가톨릭대학교\n상금 500만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6727cd8c07-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:[일정] 2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회
+DESCRIPTION:한국사회보장정보원\, 대구가톨릭대학교\n상금 500만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ac34bb2159-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[마감] 2026년 서울교육 AI 활용 공모전
+DESCRIPTION:서울특별시동부교육지원청\n상금 50만원 상당\n대상 일반인\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113089
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113089
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026년 서울교육 AI 활용 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b6b47fa6d7-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[마감] 밀양아리랑대축제 AI 포스터 공모전
+DESCRIPTION:밀양시\n상금 50만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113088
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113088
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 밀양아리랑대축제 AI 포스터 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d0db9a5bfb-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[마감] 전북형 스마트 제조AI 시범공장 조성사업 공고
+DESCRIPTION:전북특별자치도\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128041
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128041
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 전북형 스마트 제조AI 시범공장 조성사업 공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7d44c5bd8c-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[마감] 📢AI학과 2026『일상의 편리를 위한 AI서비스개발 공모전』
+DESCRIPTION:세종사이버대학교 AI학과\nhttps://www.allforyoung.com/posts/90602
+URL:https://www.allforyoung.com/posts/90602
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 📢AI학과 2026『일상의 편리를 위한 AI서비스개발 공모전』
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf1b27aaf-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:[마감] 퇴근 후 2시간 직장인 AI 바이브코딩 트랙! (12주 챌린지)
+DESCRIPTION:modu\n※ 마감일 확인 필요 — 원문 확인\nhttps://event-us.kr/modu/event/131403
+URL:https://event-us.kr/modu/event/131403
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 퇴근 후 2시간 직장인 AI 바이브코딩 트랙! (12주 챌린지)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efd6f695ef-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:[마감] VIVID RE:PLAY 6개 IP로 만드는 AI영상 공모전
+DESCRIPTION:ARKaiN(아캐인)\nhttps://linkareer.com/activity/359442
+URL:https://linkareer.com/activity/359442
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] VIVID RE:PLAY 6개 IP로 만드는 AI영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7af5baf3df-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:[마감] ﻿VIVID RE: PLAY - 총상금 2천만원 AI 영상 창작 공모전
+DESCRIPTION:ARKAIN\, VIVID\n상금 500만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112354
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112354
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] ﻿VIVID RE: PLAY - 총상금 2천만원 AI 영상 창작 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e8391c6a02-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:[마감] 🎵 2026년 제3회 AMT AI 작곡대회 – KILLING DANCE 챌린지
+DESCRIPTION:주식회사 프롬프트뱅크\n상금 30만원 신세계 상품권\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112747
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112747
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 🎵 2026년 제3회 AMT AI 작곡대회 – KILLING DANCE 챌린지
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3170b525c4-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:[마감] 2026 국가시범도시 AI 아이디어 · 기술 공모전
+DESCRIPTION:국토교통부\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 국가시범도시 AI 아이디어 · 기술 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3170b525c4-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:[일정] 2026 국가시범도시 AI 아이디어 · 기술 공모전
+DESCRIPTION:국토교통부\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 2026 국가시범도시 AI 아이디어 · 기술 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3170b525c4-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[일정] 2026 국가시범도시 AI 아이디어 · 기술 공모전
+DESCRIPTION:국토교통부\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 2026 국가시범도시 AI 아이디어 · 기술 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2b47136af5-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:[마감] 전국 청소년 AI 경진대회
+DESCRIPTION:2026ai\nhttps://event-us.kr/2026ai/event/136672
+URL:https://event-us.kr/2026ai/event/136672
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 전국 청소년 AI 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:df704f68f9-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:[마감] 2026년 청년창업가 정주여건 지원 창업기업 모집 공고(대구 AI 활용 청년 기술창업 지원사업)
+DESCRIPTION:대구광역시\n대상 창업벤처\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127965
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127965
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026년 청년창업가 정주여건 지원 창업기업 모집 공고(대구 AI 활용 청년 기술창업 지원사업)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:06871bb413-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:[마감] 「2026년 경남형 스타트업 액셀러레이팅 지원사업」 (AI 리그\, 콘텐츠 리그\, 신산업 리그) 참여기업 모집공고
+DESCRIPTION:btbventurestips\n※ 마감일 확인 필요 — 원문 확인\nhttps://event-us.kr/btbventurestips/event/122533
+URL:https://event-us.kr/btbventurestips/event/122533
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 「2026년 경남형 스타트업 액셀러레이팅 지원사업」 (AI 리그\, 콘텐츠 리그\, 신산업 리그) 참여기업 모집공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:83b445a283-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:[마감] AI 불씨
@@ -2527,22 +1981,8 @@ DESCRIPTION:[마감] AI 불씨
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:83b445a283-start@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[접수 시작] AI 불씨
-DESCRIPTION:세종사이버대학교\n대상 누구나 \, 유치원 \, 초등학생 \, 중학생 \, 고등학생 \, 대학생 \, 대학원생 \, 일반인 \, 외국인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611190044
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611190044
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[접수 시작] AI 불씨
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:83b445a283-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:[일정] AI 불씨
@@ -2555,8 +1995,22 @@ DESCRIPTION:[일정] AI 불씨
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:8de3b8d60a-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:[마감] [saaskr] 2026 saaskr 게임 어워드 — AI로 만든 웹게임 연말 시상
+DESCRIPTION:saaskr\n상금 없음(확인서·배너·블로그 소개)\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112862
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112862
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [saaskr] 2026 saaskr 게임 어워드 — AI로 만든 웹게임 연말 시상
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:2b7e938211-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:[마감] 세종사이버대학교 전국민 AI 공모전 (AI 불씨)
@@ -2569,22 +2023,414 @@ DESCRIPTION:[마감] 세종사이버대학교 전국민 AI 공모전 (AI 불씨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2b7e938211-start@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[접수 시작] 세종사이버대학교 전국민 AI 공모전 (AI 불씨)
-DESCRIPTION:세종사이버대학교\n상금 200만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112787
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112787
+UID:9a8c678218-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:[마감] 제1회 제주어 AI 음악 경진대회 N 새글
+DESCRIPTION:월드 AI 사운드 마스터즈 협회 (WASMA)\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113121
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113121
 BEGIN:VALARM
 TRIGGER:-P2D
 ACTION:DISPLAY
-DESCRIPTION:[접수 시작] 세종사이버대학교 전국민 AI 공모전 (AI 불씨)
+DESCRIPTION:[마감] 제1회 제주어 AI 음악 경진대회 N 새글
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c2e6adfb20-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:[마감] [데이콘]HAI(하이)! Hecto AI × Wallet Service Challenge(~12/21)
+DESCRIPTION:헥토\n상금 1000만원\n대상 대학생\, 대학원생\, 일반인\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112278
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112278
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [데이콘]HAI(하이)! Hecto AI × Wallet Service Challenge(~12/21)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10af187a91-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:[마감] 2027년 정보통신 및 정보문화 유공 정부포상 계획 공고
+DESCRIPTION:과학기술정보통신부\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127992
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127992
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2027년 정보통신 및 정보문화 유공 정부포상 계획 공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:74bab4965a-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:[마감] [부산과학기술대학교·KNN] 2026 부산 미래 직업·평생교육 AI 영상 공모전
+DESCRIPTION:부산과학기술대학교\n상금 100만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112819
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112819
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [부산과학기술대학교·KNN] 2026 부산 미래 직업·평생교육 AI 영상 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b6a55b98c-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:[마감] 제6회 플라이하이 AI 패션 디자인 고교 콘테스트
+DESCRIPTION:(주) 라사라패션교육개발\n상금 50만원\n대상 고등학생\, 동 연령대 청소년\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110707
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110707
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 제6회 플라이하이 AI 패션 디자인 고교 콘테스트
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b6a55b98c-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:[일정] 제6회 플라이하이 AI 패션 디자인 고교 콘테스트
+DESCRIPTION:(주) 라사라패션교육개발\n상금 50만원\n대상 고등학생\, 동 연령대 청소년\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110707
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110707
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 제6회 플라이하이 AI 패션 디자인 고교 콘테스트
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:811e65d987-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:[마감] 2026 CWNU SW-DNA² 챌린지 대학생 AI·SW 경진대회
+DESCRIPTION:국립창원대학교\n상금 기타\n대상 대학생\, 지역 제한\, 기타\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111343
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111343
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 CWNU SW-DNA² 챌린지 대학생 AI·SW 경진대회
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f891df760d-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:[마감] NEXMUSE AI Music Video Contest 2027
+DESCRIPTION:AI아트\n상금 1\,000만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111919
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111919
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] NEXMUSE AI Music Video Contest 2027
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:83a30877fc-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] 2026 AI 플레이 콘텐츠 제작 공모전
+DESCRIPTION:중앙대학교\n상금 30만원\n대상 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112189
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112189
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 AI 플레이 콘텐츠 제작 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ba958729-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] 2026 SCENE AI·실사 숏드라마 공모전
+DESCRIPTION:SCENE\n상금 300만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112913
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112913
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 SCENE AI·실사 숏드라마 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b3db27777f-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] 2026 디지털커머스 전문기관(소담스퀘어 in 전주) 소상공인 지원 프로그램 지원대상 모집 공고
+DESCRIPTION:중소벤처기업부\n대상 소상공인\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121478
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121478
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 디지털커머스 전문기관(소담스퀘어 in 전주) 소상공인 지원 프로그램 지원대상 모집 공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:795d9c9729-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] 2026년 AI기반 슬립테크 국제협력 실증 확산 지원사업 기업지원 공고(미국 FDA or 유럽 MDR 임상시험 지원)
+DESCRIPTION:산업통상부\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126910
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126910
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026년 AI기반 슬립테크 국제협력 실증 확산 지원사업 기업지원 공고(미국 FDA or 유럽 MDR 임상시험 지원)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:969ab11846-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] 2026년 지역ㆍ산업 맞춤형 인력양성사업 무료교육 참여자 및 참여기업 모집 공고
+DESCRIPTION:고용노동부\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119624
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119624
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026년 지역ㆍ산업 맞춤형 인력양성사업 무료교육 참여자 및 참여기업 모집 공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8ca2b05b-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] [CPU AI 설교연구소 x 미주복음방송(KGBC)] AI와 신학 논문 공모전
+DESCRIPTION:CPU AI 설교연구소 x 미주복음방송(KGBC)\nhttps://www.wevity.com/?c=find&s=1&gbn=view&ix=111065
+URL:https://www.wevity.com/?c=find&s=1&gbn=view&ix=111065
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [CPU AI 설교연구소 x 미주복음방송(KGBC)] AI와 신학 논문 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3170844273-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] [경기] 안산시 2026년 특화역량 BI 육성지원사업 ICTㆍSW 창업 컨설팅 지원 참여기업 모집 공고
+DESCRIPTION:경기도\n대상 창업벤처\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123753
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123753
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [경기] 안산시 2026년 특화역량 BI 육성지원사업 ICTㆍSW 창업 컨설팅 지원 참여기업 모집 공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:de6e1c1564-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] [경북] 2026년 제조업AI융합기반조성사업 경북AX랩 활용기업 모집 공고
+DESCRIPTION:경상북도\n대상 창업벤처\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122863
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122863
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [경북] 2026년 제조업AI융합기반조성사업 경북AX랩 활용기업 모집 공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:91aa4e8227-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] [부산] 2026년 AI실증지원센터 고성능 컴퓨터(HPC) 이용 지원사업 모집 공고
+DESCRIPTION:부산광역시\n대상 중소기업\nhttps://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119235
+URL:https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119235
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [부산] 2026년 AI실증지원센터 고성능 컴퓨터(HPC) 이용 지원사업 모집 공고
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2263f516f8-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] 공모전 준비 중이라면? AI 교정 서비스 [교정의 신]과 함께!
+DESCRIPTION:교정의 신\nhttps://www.wevity.com/?c=find&s=1&gbn=view&ix=111812
+URL:https://www.wevity.com/?c=find&s=1&gbn=view&ix=111812
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 공모전 준비 중이라면? AI 교정 서비스 [교정의 신]과 함께!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fa33f370a5-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] 데이터 분석 공모전 연합동아리 Discovery
+DESCRIPTION:Discovery\n대상 일반인\, 대학생\, 대학원생\nhttps://www.all-con.co.kr/view/contest/527680
+URL:https://www.all-con.co.kr/view/contest/527680
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 데이터 분석 공모전 연합동아리 Discovery
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7e754b8848-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] 빅데이터 공모전 연합동아리 LOGICAL
+DESCRIPTION:LOGICAL\n대상 일반인\, 대학생\, 대학원생\nhttps://www.all-con.co.kr/view/contest/527678
+URL:https://www.all-con.co.kr/view/contest/527678
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 빅데이터 공모전 연합동아리 LOGICAL
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:95a769f2c0-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] 세종사이버대학교 정보보호학과 '나를 지키는 1분\, 디지털 호신술 챌린지' 공모전
+DESCRIPTION:세종사이버대학교 정보보…\n대상 일반인\, 대학생\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.all-con.co.kr/view/contest/540180
+URL:https://www.all-con.co.kr/view/contest/540180
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 세종사이버대학교 정보보호학과 '나를 지키는 1분\, 디지털 호신술 챌린지' 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8a026434-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[마감] 제32회 도시연구세미나 발표공모 - AI와 도시
+DESCRIPTION:인천연구원\n대상 대학원생\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608270057
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608270057
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 제32회 도시연구세미나 발표공모 - AI와 도시
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5b0fc459b7-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:[마감] [방송미디어통신위원회] 제12회 한국문화AI영상대전
+DESCRIPTION:방송미디어통신위원회\n대상 초등학생 \, 중학생 \, 고등학생\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202610210002
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202610210002
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [방송미디어통신위원회] 제12회 한국문화AI영상대전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6be096edc9-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:[마감] 제1회 서울국제AI광고영상제 (SIADAFF)
+DESCRIPTION:(주)케이미디어진흥원\nhttps://www.wevity.com/?c=find&s=1&gbn=view&ix=112508
+URL:https://www.wevity.com/?c=find&s=1&gbn=view&ix=112508
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 제1회 서울국제AI광고영상제 (SIADAFF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:42df0ae024-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:[마감] 2027 제2회 Superb AI X BDAI Vision AI 해커톤
+DESCRIPTION:Superb AI × BDAI\n상금 50만원\n대상 대학생\, 대학원생\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113007
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113007
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2027 제2회 Superb AI X BDAI Vision AI 해커톤
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:76d6ac5fd2-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:[마감] AI 역사 콘텐츠 공모전
+DESCRIPTION:이오고대사연구소\n대상 대학생\nhttps://linkareer.com/activity/365114
+URL:https://linkareer.com/activity/365114
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] AI 역사 콘텐츠 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7e822aa9d3-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:[마감] [청년 콘텐츠 공모전] 《인간인 줄 알았는데\, AI였습니다.》
+DESCRIPTION:루프웍스\n대상 대상 제한 없음\nhttps://linkareer.com/activity/355997
+URL:https://linkareer.com/activity/355997
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] [청년 콘텐츠 공모전] 《인간인 줄 알았는데\, AI였습니다.》
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f90a41535e-end@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:[마감] 2026 스마트농업 AI 경진대회 (딸기 원격재배)
+DESCRIPTION:trendly\n상금 총 1억원\, 농식품부장관상\n대상 3~10인 팀 (본선 4팀 확정)\n※ 마감일 확인 필요 — 원문 확인\nhttps://event-us.kr/trendly/event/128410
+URL:https://event-us.kr/trendly/event/128410
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[마감] 2026 스마트농업 AI 경진대회 (딸기 원격재배)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:004edaf034-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[일정] Capture\, Explain\, Defend — AI Cybersecurity Hackathon
+DESCRIPTION:AI Builders · GMI Cloud · F5 · NVIDIA\nhttps://luma.com/aisecurityseoul
+URL:https://luma.com/aisecurityseoul
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] Capture\, Explain\, Defend — AI Cybersecurity Hackathon
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:35c8930651-end@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:[마감] 2026–27 스토리리그 AI 영상 예고편 공모전
@@ -2598,7 +2444,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:35c8930651-start@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[접수 시작] 2026–27 스토리리그 AI 영상 예고편 공모전
@@ -2612,7 +2458,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ff36e339d7-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:[일정] 2026 전국 대학생 AI 반도체 회로 설계 경진대회
@@ -2626,7 +2472,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f1492c19b3-ev4@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[일정] 제4회 인공지능(AI) 신약개발 경진대회(4th JUMP AI\, fourth.py) 본선
@@ -2640,7 +2486,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:be219125f6-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[일정] 제3회 K-ROBOTICS Startup CUP
@@ -2654,7 +2500,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8aa32abc48-ev5@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[일정] 제2회 성남×KAIST AI 경진대회
@@ -2668,7 +2514,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8aa32abc48-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[일정] 제2회 성남×KAIST AI 경진대회
@@ -2682,7 +2528,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8aa32abc48-ev7@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 제2회 성남×KAIST AI 경진대회
@@ -2696,7 +2542,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8aa32abc48-ev8@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:[일정] 제2회 성남×KAIST AI 경진대회
@@ -2710,7 +2556,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e813b9962d-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[일정] 제3회 부산국제AI영화제(BIAIF) 출품 공모
@@ -2724,7 +2570,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ba56443407-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[일정] 제5회 2026 대한민국 고등학생 AI·SW 개발 공모전
@@ -2738,7 +2584,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a2bd125bb3-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026년 창원시 AI·데이터 활용 공모전
@@ -2752,7 +2598,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:800c0257b8-ev5@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 나라장터 자체입찰 공고 법령 위반사항 모니터링 AI 경진대회
@@ -2766,7 +2612,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e6dd982cab-ev5@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 딥보이스 범죄 대응을 위한 AI 탐지 모델 경진대회
@@ -2780,7 +2626,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e46c129776-ev5@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 블랙박스 영상 기반 지능형 고의사고 분석 모델 AI 경진대회
@@ -2794,7 +2640,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:390f07c860-ev5@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026 AI로 금산 창작물 공모전
@@ -2808,7 +2654,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:40e92a62cd-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[일정] 2026 제9회 핀테크 아이디어 공모전
@@ -2822,7 +2668,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:40e92a62cd-ev3@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[일정] 2026 제9회 핀테크 아이디어 공모전
@@ -2836,7 +2682,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7c32bcb4a3-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[일정] 2026 정보보호 정책제안 공모전
@@ -2850,7 +2696,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:30ac45cdbb-ev10@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[일정] 충청북도 과학여행 이야기 AI 이미지·영상 공모전
@@ -2864,7 +2710,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:30ac45cdbb-ev11@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 충청북도 과학여행 이야기 AI 이미지·영상 공모전
@@ -2878,7 +2724,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8457af6ec0-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026년 K-푸드테크 해커톤 대회
@@ -2892,7 +2738,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a231ed02a3-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:[일정] 2027 ROBOFEST 국내예선대회
@@ -2906,7 +2752,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f3d238494c-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 2026 AI 농산물 가격예측 해커톤
@@ -2920,7 +2766,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c76e2c1c2b-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 대한전자공학회 2026 추계학술대회 학부생 논문경진대회
@@ -2934,7 +2780,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b669f1653e-ev4@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026 AI 디지털 인재 페스티벌
@@ -2948,7 +2794,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:576b0d2094-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] AI Platform Build Challenge 예선
@@ -2962,7 +2808,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0c68116506-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 대한전자공학회 2026 My Chip 경진대회
@@ -2976,7 +2822,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:59e0b8ac1c-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026년 완주군 사진·AI영상 공모전
@@ -2990,7 +2836,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:21277e2df4-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:[일정] Hello World AI 해커톤
@@ -3003,22 +2849,8 @@ DESCRIPTION:[일정] Hello World AI 해커톤
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:54e99f83d0-ev8@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] SCX NEXT 청년 스마트건설 AI 랩
-DESCRIPTION:국토교통부 (국토교통부 주최 전시회 연계 프로그램)\n대상 대학생 \, 대학원생 \, 일반인\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202610270018
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202610270018
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] SCX NEXT 청년 스마트건설 AI 랩
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:cdd0180f36-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 당신의 AI 활용 꿀팁을 보여주세요!
@@ -3032,7 +2864,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3b7016ca7f-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026 AI 활용 숏폼 영상 공모전『나의 공단\, 나의 이야기』
@@ -3046,7 +2878,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3b7016ca7f-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:[일정] 2026 AI 활용 숏폼 영상 공모전『나의 공단\, 나의 이야기』
@@ -3060,7 +2892,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2564298086-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 2026 생성형 AI 창작 공모전 - AI로 그려낸 가족 이야기
@@ -3074,7 +2906,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2564298086-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026 생성형 AI 창작 공모전 - AI로 그려낸 가족 이야기
@@ -3088,7 +2920,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:687b26d971-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[일정] AI 뮤직비디오 제작 이벤트
@@ -3102,7 +2934,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:687b26d971-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[일정] AI 뮤직비디오 제작 이벤트
@@ -3116,7 +2948,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:edb4905a27-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] AI와 소방안전의 융합\, 일상을 지키는 재난안전 숏폼 공모전
@@ -3129,22 +2961,8 @@ DESCRIPTION:[일정] AI와 소방안전의 융합\, 일상을 지키는 재난�
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:df9b97ba8a-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] 2026 전국 대학생 SW 창업아이디어톤
-DESCRIPTION:한양대 ERICA SW중심대학사업단\n상금 1천만원 미만\n대상 대학생\, 대학원생\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111315
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=111315
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 전국 대학생 SW 창업아이디어톤
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:52d39bece2-ev4@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] LOTTE AX CHALLENGE 2026
@@ -3158,7 +2976,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:52d39bece2-ev5@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:[일정] LOTTE AX CHALLENGE 2026
@@ -3172,7 +2990,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:52d39bece2-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:[일정] LOTTE AX CHALLENGE 2026
@@ -3186,7 +3004,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:44888f869e-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[일정] 2026 스페이스 해커톤
@@ -3200,7 +3018,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:015c4d15d2-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 제2회 ZYXCAD AX 경진대회
@@ -3214,7 +3032,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2119f9839f-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 2026 제 2회 퓨리얼 AI 영상 콘테스트
@@ -3228,7 +3046,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2119f9839f-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026 제 2회 퓨리얼 AI 영상 콘테스트
@@ -3242,7 +3060,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a623ee2b15-ev5@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:[일정] 2026 AI 활용 전국 대학생 창업 해커톤 참가자 모집
@@ -3256,7 +3074,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a623ee2b15-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:[일정] 2026 AI 활용 전국 대학생 창업 해커톤 참가자 모집
@@ -3270,7 +3088,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4f3fe0544d-ev4@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[일정] [산사람 x AI-Kive] 진짜 오타쿠 AI MV 챌린지
@@ -3284,7 +3102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4f3fe0544d-ev5@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] [산사람 x AI-Kive] 진짜 오타쿠 AI MV 챌린지
@@ -3298,7 +3116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4f3fe0544d-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:[일정] [산사람 x AI-Kive] 진짜 오타쿠 AI MV 챌린지
@@ -3312,7 +3130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4f3fe0544d-ev7@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:[일정] [산사람 x AI-Kive] 진짜 오타쿠 AI MV 챌린지
@@ -3325,22 +3143,8 @@ DESCRIPTION:[일정] [산사람 x AI-Kive] 진짜 오타쿠 AI MV 챌린지
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a43f628830-ev5@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] [채용/해커톤] 일본 IT 기업 주최 채용연계형 해커톤
-DESCRIPTION:주식회사 DigiMan\n대상 대학생 \, 대학원생 \, 일반인\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=2&str_no=202611050039
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=2&str_no=202611050039
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] [채용/해커톤] 일본 IT 기업 주최 채용연계형 해커톤
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:a43f628830-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:[일정] [채용/해커톤] 일본 IT 기업 주최 채용연계형 해커톤
@@ -3354,7 +3158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f41e2bc057-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[일정] [계명대학교] AI 면접 레벨업(LEVEL UP) 경진대회
@@ -3368,7 +3172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9b96976505-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:[일정] 국부펀드 KIC\, AI 에이전트 공모전 (~11/12)
@@ -3382,7 +3186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:99fd87b9d8-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:[일정] 5극3특 성장엔진 미래지도 AI 영상 공모전
@@ -3396,7 +3200,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:99fd87b9d8-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 5극3특 성장엔진 미래지도 AI 영상 공모전
@@ -3410,7 +3214,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a48676e41-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[일정] AI를 활용한 3분 숏츠 챌린지 대회
@@ -3424,7 +3228,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a48676e41-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[일정] AI를 활용한 3분 숏츠 챌린지 대회
@@ -3438,7 +3242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c27bcad8b8-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[일정] [CJ제일제당] 햇반 30주년 AI 공모전 (갓 지은 AI디어)
@@ -3452,7 +3256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c27bcad8b8-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] [CJ제일제당] 햇반 30주년 AI 공모전 (갓 지은 AI디어)
@@ -3465,22 +3269,8 @@ DESCRIPTION:[일정] [CJ제일제당] 햇반 30주년 AI 공모전 (갓 지은 A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:88db38d9ed-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] [엘리스] 과기부 × 엘리스 AI 챌린지 - 일상 속 문제\, AI로 해결하다 (전국민 AI 경진대회)
-DESCRIPTION:엘리스그룹\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112312
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112312
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] [엘리스] 과기부 × 엘리스 AI 챌린지 - 일상 속 문제\, AI로 해결하다 (전국민 AI 경진대회)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:6d13505a2d-ev11@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] AI 콘텐츠 페스티벌 2026
@@ -3494,7 +3284,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6d13505a2d-ev12@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:[일정] AI 콘텐츠 페스티벌 2026
@@ -3508,7 +3298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4e7d39e38f-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 제1회 AI 국제사진대전
@@ -3522,7 +3312,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4e7d39e38f-ev3@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 제1회 AI 국제사진대전
@@ -3536,7 +3326,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4e7d39e38f-ev4@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:[일정] 제1회 AI 국제사진대전
@@ -3550,7 +3340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2e3cac82ad-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:[일정] 2026 CTS 국제 AI 단편영화 제작지원사업
@@ -3564,7 +3354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5cb5367567-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[일정] 2026 대구 대학(원) AI 드래프톤 참가팀 모집
@@ -3577,22 +3367,8 @@ DESCRIPTION:[일정] 2026 대구 대학(원) AI 드래프톤 참가팀 모집
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f082c20d3c-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] 2026 진안고원 치유골목 AI 쇼츠영상 콘테스트
-DESCRIPTION:진안군\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112760
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112760
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 진안고원 치유골목 AI 쇼츠영상 콘테스트
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:f082c20d3c-ev7@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 2026 진안고원 치유골목 AI 쇼츠영상 콘테스트
@@ -3606,7 +3382,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f082c20d3c-ev8@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026 진안고원 치유골목 AI 쇼츠영상 콘테스트
@@ -3620,7 +3396,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f082c20d3c-ev9@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:[일정] 2026 진안고원 치유골목 AI 쇼츠영상 콘테스트
@@ -3634,7 +3410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f082c20d3c-ev10@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:[일정] 2026 진안고원 치유골목 AI 쇼츠영상 콘테스트
@@ -3647,22 +3423,8 @@ DESCRIPTION:[일정] 2026 진안고원 치유골목 AI 쇼츠영상 콘테스트
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2b805698bc-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] AX인재전쟁 온라인 x 삼일PwC: 스펙·학력 없이 AI 역량으로 채용까지
-DESCRIPTION:조코딩AX파트너스\n상금 기타\n대상 대학생\, 대학원생\, 일반인\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112583
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112583
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] AX인재전쟁 온라인 x 삼일PwC: 스펙·학력 없이 AI 역량으로 채용까지
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:87055a2996-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[일정] 완주군 피지컬AI 실증단지 명칭 공모전
@@ -3676,7 +3438,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:87055a2996-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 완주군 피지컬AI 실증단지 명칭 공모전
@@ -3690,7 +3452,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:809848f78a-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:[일정] 제1회 전국 대학생 AI 재무설계 콘테스트 「AFPK 영 플래너 챌린지 2026」
@@ -3704,7 +3466,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:809848f78a-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:[일정] 제1회 전국 대학생 AI 재무설계 콘테스트 「AFPK 영 플래너 챌린지 2026」
@@ -3718,7 +3480,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:404160e5e1-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:[일정] 제2회 AI전자그림책 공모전 - AI 이야기 숲
@@ -3732,7 +3494,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:404160e5e1-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:[일정] 제2회 AI전자그림책 공모전 - AI 이야기 숲
@@ -3745,22 +3507,8 @@ DESCRIPTION:[일정] 제2회 AI전자그림책 공모전 - AI 이야기 숲
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5c19c21a75-ev3@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] 2026 동남권 이노베이션 해커톤 ICT INNOHACK
-DESCRIPTION:주식회사 패스파인더\n대상 대학생\, 직장인/일반인\n※ 마감일 출처마다 다름 — 원문 확인\nhttps://linkareer.com/activity/364458
-URL:https://linkareer.com/activity/364458
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 동남권 이노베이션 해커톤 ICT INNOHACK
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:5c19c21a75-ev4@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[일정] 2026 동남권 이노베이션 해커톤 ICT INNOHACK
@@ -3774,7 +3522,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5c19c21a75-ev5@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 2026 동남권 이노베이션 해커톤 ICT INNOHACK
@@ -3788,7 +3536,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5c19c21a75-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:[일정] 2026 동남권 이노베이션 해커톤 ICT INNOHACK
@@ -3802,7 +3550,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5c19c21a75-ev7@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 2026 동남권 이노베이션 해커톤 ICT INNOHACK
@@ -3816,7 +3564,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5c19c21a75-ev8@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:[일정] 2026 동남권 이노베이션 해커톤 ICT INNOHACK
@@ -3830,7 +3578,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5c19c21a75-ev9@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:[일정] 2026 동남권 이노베이션 해커톤 ICT INNOHACK
@@ -3844,7 +3592,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5c19c21a75-ev10@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:[일정] 2026 동남권 이노베이션 해커톤 ICT INNOHACK
@@ -3858,11 +3606,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:75cc4fe6bc-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 2026 현장문제 AX 업무혁신 아이디어 해커톤 참가자 모집
-DESCRIPTION:주식회사 어치브모먼트\n상금 멘토링·네트워킹·식사 제공\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/361137
+DESCRIPTION:주식회사 어치브모먼트\n상금 멘토링·네트워킹·식사 제공\n대상 대학생\, 직장인/일반인\n※ 마감일 확인 필요 — 원문 확인\nhttps://linkareer.com/activity/361137
 URL:https://linkareer.com/activity/361137
 BEGIN:VALARM
 TRIGGER:-P2D
@@ -3872,11 +3620,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:75cc4fe6bc-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:[일정] 2026 현장문제 AX 업무혁신 아이디어 해커톤 참가자 모집
-DESCRIPTION:주식회사 어치브모먼트\n상금 멘토링·네트워킹·식사 제공\n대상 대학생\, 직장인/일반인\nhttps://linkareer.com/activity/361137
+DESCRIPTION:주식회사 어치브모먼트\n상금 멘토링·네트워킹·식사 제공\n대상 대학생\, 직장인/일반인\n※ 마감일 확인 필요 — 원문 확인\nhttps://linkareer.com/activity/361137
 URL:https://linkareer.com/activity/361137
 BEGIN:VALARM
 TRIGGER:-P2D
@@ -3886,11 +3634,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4d01dce70d-ev6@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] AI·융합교육 신규 통합 플랫폼 네이밍 공모전
-DESCRIPTION:한국과학창의재단\n대상 누구나 \, 유치원 \, 초등학생 \, 중학생 \, 고등학생 \, 대학생 \, 대학원생 \, 일반인 \, 외국인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611040021
+DESCRIPTION:한국과학창의재단\n대상 누구나 \, 유치원 \, 초등학생 \, 중학생 \, 고등학생 \, 대학생 \, 대학원생 \, 일반인 \, 외국인\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611040021
 URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611040021
 BEGIN:VALARM
 TRIGGER:-P2D
@@ -3900,7 +3648,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:84b840cc3e-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 2026 대구광역시 기후·환경·탄소중립 공공 데이터 AI 활용대회
@@ -3914,7 +3662,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:84b840cc3e-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:[일정] 2026 대구광역시 기후·환경·탄소중립 공공 데이터 AI 활용대회
@@ -3927,22 +3675,8 @@ DESCRIPTION:[일정] 2026 대구광역시 기후·환경·탄소중립 공공 �
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:28b0f450e2-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] 2026 성평등 AI 벤치마크 챌린지 참가팀 모집
-DESCRIPTION:성평등가족부\n상금 150만원\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112717
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112717
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 성평등 AI 벤치마크 챌린지 참가팀 모집
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:28b0f450e2-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[일정] 2026 성평등 AI 벤치마크 챌린지 참가팀 모집
@@ -3955,22 +3689,8 @@ DESCRIPTION:[일정] 2026 성평등 AI 벤치마크 챌린지 참가팀 모집
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:001312d772-ev0@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] 2026 제주 청소년 AI 리터러시 영상 공모전
-DESCRIPTION:제주콘텐츠진흥원\n상금 150만원\n대상 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 지역 제한\, 기타\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112283
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112283
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 2026 제주 청소년 AI 리터러시 영상 공모전
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:001312d772-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:[일정] 2026 제주 청소년 AI 리터러시 영상 공모전
@@ -3984,7 +3704,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:001312d772-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[일정] 2026 제주 청소년 AI 리터러시 영상 공모전
@@ -3998,11 +3718,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b6d90b6130-ev1@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[일정] 당신의 AI 활용 꿀팁을 공유해주세요!
-DESCRIPTION:한국정보통신기술협회\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112506
+DESCRIPTION:한국정보통신기술협회\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112506
 URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112506
 BEGIN:VALARM
 TRIGGER:-P2D
@@ -4012,11 +3732,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b6d90b6130-ev2@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:[일정] 당신의 AI 활용 꿀팁을 공유해주세요!
-DESCRIPTION:한국정보통신기술협회\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112506
+DESCRIPTION:한국정보통신기술협회\n상금 기타\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 제한 없음\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112506
 URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112506
 BEGIN:VALARM
 TRIGGER:-P2D
@@ -4025,26 +3745,12 @@ DESCRIPTION:[일정] 당신의 AI 활용 꿀팁을 공유해주세요!
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6e5b0c7433-ev8@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:[일정] 산림공공데이터 활용 사례 공모
-DESCRIPTION:산림청\n상금 1천만원 미만\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 기타\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
-URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
-BEGIN:VALARM
-TRIGGER:-P2D
-ACTION:DISPLAY
-DESCRIPTION:[일정] 산림공공데이터 활용 사례 공모
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:6e5b0c7433-ev9@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[일정] 산림공공데이터 활용 사례 공모
-DESCRIPTION:산림청\n상금 1천만원 미만\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 기타\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
+DESCRIPTION:산림청\n상금 1천만원 미만\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
 URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
 BEGIN:VALARM
 TRIGGER:-P2D
@@ -4054,11 +3760,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6e5b0c7433-ev10@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[일정] 산림공공데이터 활용 사례 공모
-DESCRIPTION:산림청\n상금 1천만원 미만\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 기타\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
+DESCRIPTION:산림청\n상금 1천만원 미만\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
 URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
 BEGIN:VALARM
 TRIGGER:-P2D
@@ -4068,16 +3774,212 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6e5b0c7433-ev11@korea-ai-contest-tracker
-DTSTAMP:20261122T000000Z
+DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:[일정] 산림공공데이터 활용 사례 공모
-DESCRIPTION:산림청\n상금 1천만원 미만\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 기타\n※ 마감일 확인 필요 — 원문 확인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
+DESCRIPTION:산림청\n상금 1천만원 미만\n대상 어린이\, 초등학생\, 중학생\, 고등학생\, 동 연령대 청소년\, 대학생\, 대학원생\, 일반인\, 기타\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
 URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640
 BEGIN:VALARM
 TRIGGER:-P2D
 ACTION:DISPLAY
 DESCRIPTION:[일정] 산림공공데이터 활용 사례 공모
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfb3eb436-ev0@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[일정] 나무엑스 AI 숏폼 공모전
+DESCRIPTION:SK인텔릭스(주)\n상금 300만원\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112051
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112051
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 나무엑스 AI 숏폼 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfb3eb436-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[일정] 나무엑스 AI 숏폼 공모전
+DESCRIPTION:SK인텔릭스(주)\n상금 300만원\n대상 대학생\, 대학원생\, 일반인\nhttps://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112051
+URL:https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112051
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 나무엑스 AI 숏폼 공모전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev11@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev12@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev13@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev14@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev15@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev16@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev17@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev18@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev19@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev20@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd0ae6b-ev21@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+DESCRIPTION:신한금융희망재단\n대상 대학생 \, 대학원생 \, 일반인\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab2565a26-ev1@korea-ai-contest-tracker
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:[일정] 하나은행 『하나원픽 CUP AI 게임창작대회』
+DESCRIPTION:(주)하나은행\n대상 대상 제한 없음\n※ 마감일 확인 필요 — 원문 확인\nhttps://linkareer.com/activity/360524
+URL:https://linkareer.com/activity/360524
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:[일정] 하나은행 『하나원픽 CUP AI 게임창작대회』
 END:VALARM
 END:VEVENT
 END:VCALENDAR
