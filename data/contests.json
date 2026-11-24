@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T22:30:32+00:00",
+ "updatedAt": "2026-11-24T05:16:14+00:00",
  "items": [
   {
    "id": "9a45ea05f6",
@@ -12,7 +12,7 @@
     "기업마당": "2026-11-24"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "대전광역시",
    "applyStart": "2026-11-05",
@@ -22,9 +22,9 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.96,
+   "jev": 0.97,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127731",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -41,7 +41,7 @@
     "콘테스트코리아": "2026-11-24"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-22",
+    "이벤터스": "2026-11-24",
     "콘테스트코리아": "2026-11-07"
    },
    "host": "대전광역시",
@@ -52,12 +52,11 @@
    "confidence": "high",
    "jev": 0.08,
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=2&str_no=202611040034",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-11-25",
    "applyStart": "2026-11-06",
-   "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-   "dateNote": "확인 필요"
+   "eligibility": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인"
   },
   {
    "id": "7d892b573a",
@@ -97,13 +96,15 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112842"
    },
    "endBySource": {
-    "위비티": "2026-11-24",
+    "위비티": "2026-11-23",
     "링커리어": "2026-11-24",
     "콘테스트코리아": "2026-11-24",
     "씽굿": "2026-11-24"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24"
    },
    "host": "광명시, EBS",
    "applyEnd": "2026-11-24",
@@ -118,7 +119,8 @@
    "applyStart": "2026-11-11",
    "eligibility": "대학생, 대학원생, 일반인",
    "eventDates": "심사 11.27~11.30",
-   "prize": "200만원"
+   "prize": "200만원",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "d57c42cae7",
@@ -131,7 +133,7 @@
     "기업마당": "2026-11-24"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "과학기술정보통신부",
    "applyStart": "2026-11-19",
@@ -140,9 +142,9 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.7,
+   "jev": 0.73,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128052",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -165,7 +167,7 @@
     "Dev-Event": "https://aida.kisti.re.kr/competition/main/competition/COMP_000000000000050/detail.do"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "jev": 0.97,
    "status": "open",
    "lastEvent": null,
@@ -176,8 +178,8 @@
     "위비티": "2026-11-10"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23",
-    "올콘": "2026-11-23",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
     "Dev-Event": "2026-10-31",
     "위비티": "2026-11-09"
    }
@@ -192,12 +194,14 @@
     "링커리어": "https://linkareer.com/activity/363298"
    },
    "endBySource": {
-    "위비티": "2026-11-25",
+    "위비티": "2026-11-24",
     "씽굿": "2026-11-25",
     "링커리어": "2026-11-25"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24"
    },
    "host": "안성시",
    "applyEnd": "2026-11-25",
@@ -211,32 +215,38 @@
    "lastEvent": null,
    "applyStart": "2026-10-26",
    "prize": "50만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음"
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "f366b364a1",
    "name": "2026 지역기업 AX혁신 캠프",
    "firstSeen": "2026-11-21",
    "sources": {
-    "요즘것들": "https://www.allforyoung.com/posts/90627"
+    "요즘것들": "https://www.allforyoung.com/posts/90627",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113140"
    },
    "endBySource": {
-    "요즘것들": "2026-11-25"
+    "요즘것들": "2026-11-25",
+    "씽굿": "2026-11-25"
    },
    "seenBySource": {
-    "요즘것들": "2026-11-23"
+    "요즘것들": "2026-11-24",
+    "씽굿": "2026-11-24"
    },
-   "host": "창원청년비전센터,창원시정연구원",
+   "host": "창원청년비전센터, 창원시정연구원",
    "applyStart": "2026-11-17",
    "applyEnd": "2026-11-25",
    "category": "other",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.47,
-   "url": "https://www.allforyoung.com/posts/90627",
-   "lastSeen": "2026-11-23",
+   "jev": 0.44,
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113140",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "prize": "200,000",
+   "eligibility": "대학생, 대학원생, 일반인, 지역 제한"
   },
   {
    "id": "693b6b3af5",
@@ -263,7 +273,8 @@
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611160023",
    "lastSeen": "2026-11-23",
    "status": "open",
-   "lastEvent": "2026-12-31"
+   "lastEvent": "2026-12-31",
+   "dateNote": "확인 필요"
   },
   {
    "id": "b1fb00db4e",
@@ -284,7 +295,7 @@
    "confidence": "high",
    "jev": 0.11,
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=2&str_no=202602080001",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "region": "서울",
    "status": "open",
    "lastEvent": null,
@@ -296,9 +307,8 @@
    "seenBySource": {
     "콘테스트코리아": "2026-09-28",
     "위비티": "2026-10-30",
-    "이벤터스": "2026-11-21"
-   },
-   "dateNote": "확인 필요"
+    "이벤터스": "2026-11-24"
+   }
   },
   {
    "id": "616b946d85",
@@ -338,7 +348,7 @@
     "기업마당": "2026-11-25"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "대구광역시",
    "applyStart": "2026-11-11",
@@ -348,12 +358,11 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.5,
+   "jev": 0.38,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127873",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
   },
   {
    "id": "3d87571e06",
@@ -366,7 +375,7 @@
     "기업마당": "2026-11-25"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "충청남도",
    "applyStart": "2026-11-11",
@@ -378,7 +387,7 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128001",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -460,6 +469,39 @@
    "dateNote": "확인 필요"
   },
   {
+   "id": "a9361d4005",
+   "name": "제1회 Daum AI 숏드라마 시나리오 공모전",
+   "firstSeen": "2026-11-07",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112212",
+    "링커리어": "https://linkareer.com/activity/362797",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611070003"
+   },
+   "endBySource": {
+    "위비티": "2026-11-25",
+    "링커리어": "2026-11-26",
+    "콘테스트코리아": "2026-11-26"
+   },
+   "seenBySource": {
+    "링커리어": "2026-11-24",
+    "위비티": "2026-11-24"
+   },
+   "host": "주식회사 다음",
+   "applyEnd": "2026-11-25",
+   "category": "creative",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.89,
+   "url": "https://linkareer.com/activity/362797",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": "2026-12-31",
+   "applyStart": "2026-11-05",
+   "eventDates": "심사 11.27~12.30 발표 12.31",
+   "eligibility": "일반인 , 해당자 ▶",
+   "dateNote": "출처마다 다름"
+  },
+  {
    "id": "6b9008b268",
    "name": "제3회 생성형 AI 경진대회 (초·중·고 학생문화경진대회)",
    "firstSeen": "2026-10-20",
@@ -497,12 +539,14 @@
     "올콘": "https://www.all-con.co.kr/view/contest/545031"
    },
    "endBySource": {
-    "위비티": "2026-11-25",
+    "위비티": "2026-11-24",
     "링커리어": "2026-11-25",
     "올콘": "2026-11-25"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24"
    },
    "host": "포항시",
    "applyEnd": "2026-11-25",
@@ -515,7 +559,8 @@
    "status": "open",
    "lastEvent": null,
    "applyStart": "2026-11-09",
-   "eligibility": "과학·공학·학술, 일반인, 대학생, 대학원생"
+   "eligibility": "과학·공학·학술, 일반인, 대학생, 대학원생",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "385a04bcd3",
@@ -528,7 +573,7 @@
     "씽굿": "2026-11-25"
    },
    "seenBySource": {
-    "씽굿": "2026-11-23"
+    "씽굿": "2026-11-24"
    },
    "host": "포항시",
    "applyStart": "2026-11-09",
@@ -540,10 +585,9 @@
    "confidence": "high",
    "jev": 0.97,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112824",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
   },
   {
    "id": "7dbd5385cc",
@@ -572,6 +616,30 @@
    "dateNote": "확인 필요"
   },
   {
+   "id": "209691061a",
+   "name": "2026년 ESG경영·경영혁신 시민 아이디어 공모전",
+   "firstSeen": "2026-11-18",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112337"
+   },
+   "endBySource": {
+    "위비티": "2026-11-26"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   },
+   "host": "화성도시공사",
+   "applyEnd": "2026-11-26",
+   "category": "idea",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.13,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112337",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "54f7b15c82",
    "name": "[서울] 2026년 키친인큐베이터 개별ㆍ공유주방 25기 및 제조주방 13기 통합모집 공고",
    "firstSeen": "2026-10-31",
@@ -582,7 +650,7 @@
     "기업마당": "2026-11-26"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "서울특별시",
    "applyStart": "2026-11-02",
@@ -594,7 +662,7 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127598",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -612,7 +680,7 @@
     "K-Startup": "2026-11-26"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23",
+    "기업마당": "2026-11-24",
     "K-Startup": "2026-11-09",
     "스타트업레시피": "2026-11-09"
    },
@@ -626,7 +694,7 @@
    "confidence": "high",
    "jev": 0.06,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179742",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -643,7 +711,7 @@
    },
    "seenBySource": {
     "K-Startup": "2026-11-18",
-    "스타트업레시피": "2026-11-23"
+    "스타트업레시피": "2026-11-24"
    },
    "applyEnd": "2026-11-26",
    "category": "startup",
@@ -651,7 +719,7 @@
    "confidence": "high",
    "jev": 0.06,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179802",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "dateNote": "확인 필요"
@@ -669,7 +737,7 @@
    },
    "seenBySource": {
     "K-Startup": "2026-11-23",
-    "스타트업레시피": "2026-11-23"
+    "스타트업레시피": "2026-11-24"
    },
    "applyEnd": "2026-11-26",
    "category": "startup",
@@ -677,41 +745,34 @@
    "confidence": "high",
    "jev": 0.38,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179832",
-   "lastSeen": "2026-11-23",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "a9361d4005",
-   "name": "제1회 Daum AI 숏드라마 시나리오 공모전",
-   "firstSeen": "2026-11-07",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112212",
-    "링커리어": "https://linkareer.com/activity/362797",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611070003"
-   },
-   "endBySource": {
-    "위비티": "2026-11-26",
-    "링커리어": "2026-11-26",
-    "콘테스트코리아": "2026-11-26"
-   },
-   "seenBySource": {
-    "링커리어": "2026-11-07",
-    "위비티": "2026-11-24"
-   },
-   "host": "주식회사 다음",
-   "applyEnd": "2026-11-26",
-   "category": "creative",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.88,
-   "url": "https://linkareer.com/activity/362797",
    "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": "2026-12-31",
-   "applyStart": "2026-11-05",
-   "eventDates": "심사 11.27~12.30 발표 12.31",
-   "eligibility": "일반인 , 해당자 ▶"
+   "lastEvent": null,
+   "dateNote": "확인 필요"
+  },
+  {
+   "id": "5f65324101",
+   "name": "제10기 우산봉사단 봉사단원 모집공고",
+   "firstSeen": "2026-11-04",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112121"
+   },
+   "endBySource": {
+    "위비티": "2026-11-26"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   },
+   "host": "서울남부범죄피해자지원센터",
+   "applyEnd": "2026-11-26",
+   "category": "social",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112121",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "51b26b7936",
@@ -760,6 +821,42 @@
    "dateNote": "확인 필요"
   },
   {
+   "id": "5c19c21a75",
+   "name": "2026 동남권 이노베이션 해커톤 ICT INNOHACK",
+   "firstSeen": "2026-11-15",
+   "sources": {
+    "링커리어": "https://linkareer.com/activity/364458",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611140023",
+    "요즘것들": "https://www.allforyoung.com/posts/90325",
+    "이벤터스": "https://event-us.kr/pathfinder/event/140236"
+   },
+   "endBySource": {
+    "링커리어": "2026-11-17",
+    "콘테스트코리아": "2026-11-17",
+    "요즘것들": "2026-11-17",
+    "이벤터스": "2026-11-27"
+   },
+   "seenBySource": {
+    "링커리어": "2026-11-15",
+    "콘테스트코리아": "2026-11-23",
+    "요즘것들": "2026-11-15",
+    "이벤터스": "2026-11-24"
+   },
+   "host": "주식회사 패스파인더",
+   "applyStart": "2026-11-14",
+   "applyEnd": "2026-11-27",
+   "eligibility": "대학생, 직장인/일반인",
+   "category": "hackathon",
+   "aiRelated": true,
+   "confidence": "medium",
+   "jev": 0.28,
+   "url": "https://linkareer.com/activity/364458",
+   "lastSeen": "2026-11-24",
+   "eventDates": "심사 11.27~11.28 발표 11.24 D-2 마감임박 27 //--> --> 사진•영상•영화제 2026 구미 미래교육 가족 콘텐츠 공모전 - '구미 미래 잇다' 가족숏폼공모전 0 주최 . 경상북도 구미시 학부모회장협의회 대상 . 초등학생 , 중학생 , 고등학생 , 해당자 ▶ 접수 10.24~11.22 심사 11.23~11.30 발표 12.04 D-7 마감임박 43 //--> --> 음악•콩쿠르•댄스 제3회 마에스토소 콩쿠르 0 주최 . 엠매니지먼트 대상 . 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 접수 11.13~12.28 심사 12.31 발표 12.31",
+   "status": "open",
+   "lastEvent": "2026-12-31"
+  },
+  {
    "id": "5b374201bd",
    "name": "2026년 AI·디지털 활용 연구·선도학교 우수사례 공모전",
    "firstSeen": "2026-11-05",
@@ -772,44 +869,19 @@
     "링커리어": "2026-11-27"
    },
    "seenBySource": {
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23"
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24"
    },
    "host": "한국교육학술정보원",
    "applyStart": "2026-11-04",
    "applyEnd": "2026-11-27",
    "prize": "100만원",
    "eligibility": "일반인, 기타",
-   "category": "idea",
+   "category": "academic",
    "aiRelated": true,
    "confidence": "high",
    "jev": 0.97,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112643",
-   "lastSeen": "2026-11-23",
-   "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
-  },
-  {
-   "id": "209691061a",
-   "name": "2026년 ESG경영·경영혁신 시민 아이디어 공모전",
-   "firstSeen": "2026-11-18",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112337"
-   },
-   "endBySource": {
-    "위비티": "2026-11-27"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "화성도시공사",
-   "applyEnd": "2026-11-27",
-   "category": "idea",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.13,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112337",
    "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
@@ -842,6 +914,30 @@
    "dateNote": "확인 필요"
   },
   {
+   "id": "613da80f97",
+   "name": "2027 지역 창업 솔버톤 - AI가 깨우는 지역의 불씨",
+   "firstSeen": "2026-11-20",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112402"
+   },
+   "endBySource": {
+    "위비티": "2026-11-27"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   },
+   "host": "서울대학교 대학연대 지역인재양성사업단(IITD)",
+   "applyEnd": "2026-11-27",
+   "category": "startup",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.84,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112402",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "d4c885e24d",
    "name": "2027년 전문기술인 활용 재난재해 대응기술 현장화 지원 사업 신규 과제 공고",
    "firstSeen": "2026-10-29",
@@ -852,7 +948,7 @@
     "기업마당": "2026-11-27"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "과학기술정보통신부",
    "applyStart": "2026-11-10",
@@ -861,9 +957,9 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.82,
+   "jev": 0.8,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127484",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -874,7 +970,7 @@
    "sources": {
     "이벤터스": "https://event-us.kr/maincontents/event/138398"
    },
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "jev": 0.95,
    "status": "open",
    "lastEvent": null,
@@ -883,7 +979,7 @@
    },
    "seenBySource": {
     "위비티": "2026-11-01",
-    "이벤터스": "2026-11-23"
+    "이벤터스": "2026-11-24"
    },
    "host": "maincontents",
    "applyEnd": "2026-11-27",
@@ -904,7 +1000,7 @@
     "기업마당": "2026-11-27"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "경기도",
    "applyStart": "2026-11-16",
@@ -914,12 +1010,11 @@
    "category": "startup",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.77,
+   "jev": 0.78,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127990",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
   },
   {
    "id": "05afc4690c",
@@ -932,7 +1027,7 @@
     "기업마당": "2026-11-27"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "경기도",
    "applyStart": "2026-10-28",
@@ -942,9 +1037,9 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.53,
+   "jev": 0.52,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127542",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -959,7 +1054,7 @@
     "기업마당": "2026-11-27"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "경기도",
    "applyStart": "2026-11-13",
@@ -969,9 +1064,9 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.28,
+   "jev": 0.24,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127931",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -1013,7 +1108,7 @@
     "기업마당": "2026-11-27"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "인천광역시",
    "applyStart": "2026-11-18",
@@ -1025,7 +1120,7 @@
    "confidence": "high",
    "jev": 0.36,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128013",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -1040,7 +1135,7 @@
     "기업마당": "2026-11-27"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "전남광주통합특별시",
    "applyStart": "2026-11-09",
@@ -1052,7 +1147,32 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127815",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "8bdda08956",
+   "name": "[창업] 창업가를 위한 해외 진출 첫 걸음",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179868",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5842422"
+   },
+   "endBySource": {
+    "K-Startup": "2026-11-27"
+   },
+   "seenBySource": {
+    "K-Startup": "2026-11-24",
+    "스타트업레시피": "2026-11-24"
+   },
+   "applyEnd": "2026-11-27",
+   "category": "startup",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.05,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179868",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -1084,30 +1204,6 @@
    "dateNote": "확인 필요"
   },
   {
-   "id": "5f65324101",
-   "name": "제10기 우산봉사단 봉사단원 모집공고",
-   "firstSeen": "2026-11-04",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112121"
-   },
-   "endBySource": {
-    "위비티": "2026-11-27"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "서울남부범죄피해자지원센터",
-   "applyEnd": "2026-11-27",
-   "category": "social",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.04,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112121",
-   "lastSeen": "2026-11-24",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
    "id": "004e3cfd88",
    "name": "제2회 2026 대한민국 AI 창조공모대전",
    "firstSeen": "2026-09-22",
@@ -1125,7 +1221,7 @@
    "status": "open",
    "lastEvent": "2026-12-22",
    "endBySource": {
-    "위비티": "2026-11-27",
+    "위비티": "2026-11-26",
     "씽굿": "2026-11-27",
     "링커리어": "2026-11-27",
     "콘테스트코리아": "2026-11-27"
@@ -1133,8 +1229,8 @@
    "seenBySource": {
     "위비티": "2026-11-24",
     "씽굿": "2026-10-31",
-    "링커리어": "2026-11-23",
-    "콘테스트코리아": "2026-11-23"
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "사단법인 한국창조미술협회",
    "applyEnd": "2026-11-27",
@@ -1147,7 +1243,8 @@
    "applyStart": "2026-11-23",
    "prize": "100만원",
    "eligibility": "제한 없음",
-   "eventDates": "심사 12.05~12.22 발표 12.08"
+   "eventDates": "심사 12.05~12.22 발표 12.08",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "3b8fa9e20b",
@@ -1167,9 +1264,9 @@
    },
    "seenBySource": {
     "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23",
-    "올콘": "2026-11-23",
-    "요즘것들": "2026-11-23"
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
+    "요즘것들": "2026-11-24"
    },
    "host": "경북대학교 창업대학원",
    "applyStart": "2026-11-18",
@@ -1182,31 +1279,6 @@
    "confidence": "high",
    "jev": 0.12,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113100",
-   "lastSeen": "2026-11-23",
-   "dateNote": "출처마다 다름",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "613da80f97",
-   "name": "2027 지역 창업 솔버톤 - AI가 깨우는 지역의 불씨",
-   "firstSeen": "2026-11-20",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112402"
-   },
-   "endBySource": {
-    "위비티": "2026-11-28"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "서울대학교 대학연대 지역인재양성사업단(IITD)",
-   "applyEnd": "2026-11-28",
-   "category": "startup",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.84,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112402",
    "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
@@ -1233,11 +1305,11 @@
    },
    "seenBySource": {
     "위비티": "2026-11-18",
-    "링커리어": "2026-11-23",
-    "올콘": "2026-11-23",
-    "요즘것들": "2026-11-23",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
+    "요즘것들": "2026-11-24",
     "이벤터스": "2026-11-22",
-    "씽굿": "2026-11-23",
+    "씽굿": "2026-11-24",
     "콘테스트코리아": "2026-11-22"
    },
    "host": "서울대학교 대학연대 지역인재양성 사업단",
@@ -1246,9 +1318,9 @@
    "category": "startup",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.19,
+   "jev": 0.17,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113052",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-12-11",
    "prize": "5천만원 미만~3천만원 이상",
@@ -1266,7 +1338,7 @@
     "이벤터스": "2026-11-28"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-23"
+    "이벤터스": "2026-11-24"
    },
    "host": "redlab",
    "applyEnd": "2026-11-28",
@@ -1276,7 +1348,7 @@
    "confidence": "high",
    "jev": 0.98,
    "url": "https://event-us.kr/redlab/event/140816",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -1294,9 +1366,9 @@
     "콘테스트코리아": "2026-11-28"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23",
-    "콘테스트코리아": "2026-11-23",
-    "Dev-Event": "2026-11-23"
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24",
+    "Dev-Event": "2026-11-24"
    },
    "host": "Trip-Pups",
    "applyStart": "2026-11-16",
@@ -1305,9 +1377,9 @@
    "category": "hackathon",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.94,
+   "jev": 0.93,
    "url": "https://linkareer.com/activity/364831",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "eventDates": "심사 11.29~12.04 발표 12.05",
    "status": "open",
    "lastEvent": "2026-12-05"
@@ -1325,8 +1397,8 @@
     "링커리어": "2026-11-28"
    },
    "seenBySource": {
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23"
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24"
    },
    "host": "사단법인지속가능월드네트워크",
    "applyStart": "2026-10-12",
@@ -1338,7 +1410,7 @@
    "confidence": "high",
    "jev": 0.92,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112405",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -1353,7 +1425,7 @@
     "올콘": "2026-11-29"
    },
    "seenBySource": {
-    "올콘": "2026-11-23"
+    "올콘": "2026-11-24"
    },
    "host": "창업진흥원, 현대건설,…",
    "applyStart": "2026-11-10",
@@ -1362,9 +1434,9 @@
    "category": "hackathon",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.97,
+   "jev": 0.96,
    "url": "https://www.all-con.co.kr/view/contest/544942",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -1381,7 +1453,7 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611100065"
    },
    "endBySource": {
-    "위비티": "2026-11-29",
+    "위비티": "2026-11-28",
     "씽굿": "2026-11-29",
     "링커리어": "2026-11-29",
     "요즘것들": "2026-11-29",
@@ -1389,7 +1461,11 @@
     "콘테스트코리아": "2026-11-29"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
+    "요즘것들": "2026-11-24"
    },
    "host": "서울관광재단",
    "applyEnd": "2026-11-29",
@@ -1397,7 +1473,7 @@
    "category": "tourism",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.77,
+   "jev": 0.75,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112815",
    "lastSeen": "2026-11-24",
    "status": "open",
@@ -1405,7 +1481,121 @@
    "applyStart": "2026-11-09",
    "prize": "500만원",
    "eligibility": "대학생, 대학원생, 일반인, 기업",
-   "eventDates": "심사 11.23~11.29 발표 11.30"
+   "eventDates": "심사 11.23~11.29 발표 11.30",
+   "dateNote": "출처마다 다름"
+  },
+  {
+   "id": "63fd67a098",
+   "name": "2026 통영관광개발공사 제5회 통영관광 전국사진 공모전",
+   "firstSeen": "2026-09-22",
+   "sources": {
+    "링커리어": "https://linkareer.com/activity/314144",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202604060059",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=106373"
+   },
+   "host": "통영관광개발공사",
+   "applyStart": "2026-04-08",
+   "applyEnd": "2026-11-29",
+   "eligibility": "대상 제한 없음",
+   "category": "tourism",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.03,
+   "url": "https://linkareer.com/activity/314144",
+   "lastSeen": "2026-11-24",
+   "eventDates": "심사 12.01~12.10 발표 12.11",
+   "status": "open",
+   "lastEvent": "2026-12-11",
+   "endBySource": {
+    "링커리어": "2026-11-30",
+    "콘테스트코리아": "2026-11-30",
+    "위비티": "2026-11-29"
+   },
+   "seenBySource": {
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-10-27",
+    "위비티": "2026-11-24"
+   },
+   "dateNote": "출처마다 다름"
+  },
+  {
+   "id": "5b93932ca5",
+   "name": "2026 포항 MICE 창업 해커톤",
+   "firstSeen": "2026-11-22",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112475",
+    "링커리어": "https://linkareer.com/activity/365981"
+   },
+   "endBySource": {
+    "위비티": "2026-11-29",
+    "링커리어": "2026-11-30"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24",
+    "링커리어": "2026-11-24"
+   },
+   "host": "포항시",
+   "applyEnd": "2026-11-29",
+   "category": "hackathon",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.18,
+   "url": "https://linkareer.com/activity/365981",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null,
+   "applyStart": "2026-11-20",
+   "eligibility": "대상 제한 없음",
+   "dateNote": "출처마다 다름"
+  },
+  {
+   "id": "8136ad94ac",
+   "name": "2026년 부산광역시남자단기청소년쉼터 도전자립지원사업 멘토링 자원봉사자 모집(추가 모집)",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112514"
+   },
+   "endBySource": {
+    "위비티": "2026-11-29"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   },
+   "host": "부산광역시남자단기청소년쉼터",
+   "applyEnd": "2026-11-29",
+   "region": "부산",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.02,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112514",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "8928424a87",
+   "name": "2026년 지속가능한 기본소득 추진을 위한 제안 아이디어 공모",
+   "firstSeen": "2026-11-20",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112326"
+   },
+   "endBySource": {
+    "위비티": "2026-11-29"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   },
+   "host": "철원군",
+   "applyEnd": "2026-11-29",
+   "category": "idea",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.05,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112326",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "1d5d1fadf0",
@@ -1418,7 +1608,7 @@
     "이벤터스": "2026-11-29"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-22"
+    "이벤터스": "2026-11-24"
    },
    "host": "tap",
    "applyEnd": "2026-11-29",
@@ -1429,34 +1619,45 @@
    "confidence": "high",
    "jev": 0.12,
    "url": "https://event-us.kr/tap/event/133581",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
   },
   {
    "id": "ce7c134986",
    "name": "Build with Qwen: AutoRAG Hackathon 2026",
    "firstSeen": "2026-11-24",
    "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112518"
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112518",
+    "링커리어": "https://linkareer.com/activity/366450",
+    "요즘것들": "https://www.allforyoung.com/posts/90685",
+    "Dev-Event": "https://luma.com/pcd9sjr8"
    },
    "endBySource": {
-    "위비티": "2026-11-29"
+    "위비티": "2026-11-28",
+    "링커리어": "2026-11-29",
+    "요즘것들": "2026-11-29",
+    "Dev-Event": "2026-11-29"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "요즘것들": "2026-11-24",
+    "Dev-Event": "2026-11-24"
    },
-   "host": "알리바바 클라우드, Markr, 브레인크루",
+   "host": "알리바바 클라우드",
    "applyEnd": "2026-11-29",
    "category": "hackathon",
    "aiRelated": true,
    "confidence": "high",
    "jev": 0.97,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112518",
+   "url": "https://linkareer.com/activity/366450",
    "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-11-23",
+   "eligibility": "대상 제한 없음",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "88d1c94cb0",
@@ -1469,7 +1670,7 @@
     "링커리어": "2026-11-29"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23"
+    "링커리어": "2026-11-24"
    },
    "host": "팀모노리스",
    "applyStart": "2026-11-19",
@@ -1482,7 +1683,7 @@
    "confidence": "high",
    "jev": 0.97,
    "url": "https://linkareer.com/activity/365635",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -1505,11 +1706,11 @@
     "Dev-Event": "2026-11-29"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23",
-    "요즘것들": "2026-11-23",
-    "씽굿": "2026-11-23",
-    "콘테스트코리아": "2026-11-23",
-    "Dev-Event": "2026-11-23"
+    "링커리어": "2026-11-24",
+    "요즘것들": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "콘테스트코리아": "2026-11-24",
+    "Dev-Event": "2026-11-24"
    },
    "host": "창업진흥원",
    "applyStart": "2026-11-10",
@@ -1519,9 +1720,9 @@
    "category": "hackathon",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.98,
+   "jev": 0.99,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112844",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-12-11",
    "eventDates": "심사 12.07~12.11 발표 12.11"
@@ -1543,10 +1744,10 @@
     "콘테스트코리아": "2026-11-29"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23",
-    "요즘것들": "2026-11-23",
-    "씽굿": "2026-11-23",
-    "콘테스트코리아": "2026-11-23"
+    "링커리어": "2026-11-24",
+    "요즘것들": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "비타그램",
    "applyStart": "2026-11-16",
@@ -1556,9 +1757,9 @@
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.87,
+   "jev": 0.89,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113113",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-12-31",
    "eventDates": "심사 11.16~11.29 발표 12.01 D-6 마감임박 1 //--> --> 아이디어•건축•창업 '도민의 목소리로 함께 만드는 전북교육' 정책 제안 공모 0 주최 . 전북특별자치도교육청 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶ 접수 11.10~11.30 심사 11.10~11.30 D-7 마감임박 1 //--> --> 사진•영상•영화제 ⌜집에 담고 싶은 모든 가치⌟ 홈잉루츠 송도 사진 공모전 0 주최 . 인천글로벌시티(IGCD) 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 10.26~11.24 심사 10.26~11.24 D-1 마감임박 0 //--> --> 음악•콩쿠르•댄스 2026-27 시즌 SALA KOREA 국제무용콩쿠르 온라인 경연 0 주최 . SALA International Art Competition Organizing Committee 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 10.15~11.30 심사 12.01~12.04 발표 12.07 D-7 마감임박 1 //--> ￦ 유료 접수 --> 미술•디자인•웹툰 사진•영상•영화제 2026년 수산물 검역대상 홍보 공모전 0 주최 . 해양수산부 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 11.15~11.30 심사 11.15~11.30 발표 12.01 D-7 마감임박 1 //--> --> 요리•뷰티•배우•오디션 2026 이든엔터테인먼트 오디션 0 주최 . 이든엔터테인먼트 대상 . 해당자 ▶ 접수 11.13~12.31 심사 11.13~12.31"
@@ -1576,7 +1777,7 @@
    },
    "seenBySource": {
     "K-Startup": "2026-11-18",
-    "스타트업레시피": "2026-11-23"
+    "스타트업레시피": "2026-11-24"
    },
    "applyEnd": "2026-11-29",
    "category": "funding",
@@ -1584,7 +1785,7 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179797",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "dateNote": "확인 필요"
@@ -1599,12 +1800,14 @@
     "Dev-Event": "https://forms.gle/csx3ieajaqKMWgKh6"
    },
    "endBySource": {
-    "위비티": "2026-11-29",
+    "위비티": "2026-11-28",
     "링커리어": "2026-11-29",
     "Dev-Event": "2026-11-29"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "Dev-Event": "2026-11-24"
    },
    "host": "운당나눔재단",
    "applyEnd": "2026-11-29",
@@ -1617,7 +1820,8 @@
    "status": "open",
    "lastEvent": null,
    "applyStart": "2026-11-19",
-   "eligibility": "대상 제한 없음"
+   "eligibility": "대상 제한 없음",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "42ef560499",
@@ -1659,6 +1863,30 @@
    "dateNote": "확인 필요"
   },
   {
+   "id": "7533ca78ea",
+   "name": "제12회 수원시 건강한 내-일, 행복한 내일 AI동영상 공모전",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112184"
+   },
+   "endBySource": {
+    "위비티": "2026-11-29"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   },
+   "host": "수원시비정규직노동자복지센터",
+   "applyEnd": "2026-11-29",
+   "category": "creative",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.91,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112184",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
    "id": "1e25f6cd08",
    "name": "제6회 인천공항 여행 공모전 (내가 만드는 한국여행)",
    "firstSeen": "2026-10-27",
@@ -1671,7 +1899,7 @@
     "요즘것들": "https://www.allforyoung.com/posts/90380"
    },
    "endBySource": {
-    "위비티": "2026-11-29",
+    "위비티": "2026-11-28",
     "씽굿": "2026-11-29",
     "링커리어": "2026-11-29",
     "올콘": "2026-11-29",
@@ -1679,7 +1907,10 @@
     "요즘것들": "2026-11-29"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24"
    },
    "host": "인천국제공항공사",
    "applyEnd": "2026-11-29",
@@ -1695,7 +1926,36 @@
    "applyStart": "2026-10-26",
    "prize": "기타",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "eventDates": "심사 11.30~12.20 발표 12.21"
+   "eventDates": "심사 11.30~12.20 발표 12.21",
+   "dateNote": "출처마다 다름"
+  },
+  {
+   "id": "4aa043e9ec",
+   "name": "📢 2026 11월 제주 관광 데이터 한 판! 비주류 데이터의 반란",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113158"
+   },
+   "endBySource": {
+    "씽굿": "2026-11-29"
+   },
+   "seenBySource": {
+    "씽굿": "2026-11-24"
+   },
+   "host": "제주관광공사",
+   "applyStart": "2026-11-04",
+   "applyEnd": "2026-11-29",
+   "prize": "기타",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "region": "제주",
+   "category": "data",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.38,
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113158",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "e999667dc1",
@@ -1710,8 +1970,8 @@
     "콘테스트코리아": "2026-11-30"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23",
-    "콘테스트코리아": "2026-11-23"
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "(사)한국화훼자조금협의회",
    "applyStart": "2026-11-09",
@@ -1720,12 +1980,39 @@
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.94,
+   "jev": 0.93,
    "url": "https://linkareer.com/activity/363177",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "eventDates": "심사 11.09~11.30 발표 12.03",
    "status": "open",
    "lastEvent": "2026-12-03"
+  },
+  {
+   "id": "08e208cb38",
+   "name": "2026 AI·데이터 기반 융복합 기업가정신 아이디어 공모전",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611160042"
+   },
+   "endBySource": {
+    "콘테스트코리아": "2026-11-30"
+   },
+   "seenBySource": {
+    "콘테스트코리아": "2026-11-24"
+   },
+   "host": "포스텍 산업경영공학과",
+   "applyStart": "2026-09-30",
+   "applyEnd": "2026-11-30",
+   "eventDates": "심사 09.30~11.30 D-6 마감임박 11 //--> --> 아이디어•건축•창업 2027 농촌창업 경진대회 0 주최 . 농립축산식품부, 한국농어촌공사 대상 . 대학생 , 대학원생 , 일반인 , 해당자 ▶ 접수 11.13~12.10 심사 12.11~03.31 발표 03.31",
+   "eligibility": "대학생",
+   "category": "idea",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.98,
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611160042",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": "2026-12-11"
   },
   {
    "id": "7ffe266abe",
@@ -1734,28 +2021,36 @@
    "sources": {
     "링커리어": "https://linkareer.com/activity/363760",
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112307",
-    "올콘": "https://www.all-con.co.kr/view/contest/544999"
+    "올콘": "https://www.all-con.co.kr/view/contest/544999",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120002"
    },
    "endBySource": {
-    "위비티": "2026-11-30",
+    "위비티": "2026-11-29",
     "링커리어": "2026-11-30",
-    "올콘": "2026-11-30"
+    "올콘": "2026-11-30",
+    "콘테스트코리아": "2026-11-30"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "귀뚜라미 보일러",
    "applyEnd": "2026-11-30",
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.94,
+   "jev": 0.93,
    "url": "https://linkareer.com/activity/363760",
    "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
+   "lastEvent": "2026-12-14",
    "applyStart": "2026-11-11",
-   "eligibility": "제한없음"
+   "eligibility": "제한없음",
+   "eventDates": "심사 12.01~12.04 발표 12.04 D-6 마감임박 234 //--> --> 아이디어•건축•창업 2027 서울국제정원박람회 작가정원 국제공모 0 주최 . 서울특별시, 서울국제정원박람회 조직위원회 대상 . 일반인 , 외국인 접수 12.07~12.09 심사 12.14~01.04 발표 01.06",
+   "upcoming": true,
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "78afd494d1",
@@ -1768,13 +2063,15 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611070002"
    },
    "endBySource": {
-    "위비티": "2026-11-30",
+    "위비티": "2026-11-29",
     "씽굿": "2026-11-30",
     "링커리어": "2026-11-30",
     "콘테스트코리아": "2026-11-30"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24"
    },
    "host": "삼색이수상권상인 협동조합",
    "applyEnd": "2026-11-30",
@@ -1789,7 +2086,8 @@
    "applyStart": "2026-11-06",
    "prize": "온누리상품권 300만 원 상당",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "eventDates": "심사 11.06~11.30"
+   "eventDates": "심사 11.06~11.30",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "26b5fbb4d2",
@@ -1802,35 +2100,43 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611220001",
     "Dev-Event": "https://www.dgucenter.or.kr/bbs/board.php?bo_table=notice&wr_id=744",
     "요즘것들": "https://www.allforyoung.com/posts/90656",
-    "이벤터스": "https://event-us.kr/daegulocalai2026/event/140811"
+    "이벤터스": "https://event-us.kr/daegulocalai2026/event/140811",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113152"
    },
    "endBySource": {
-    "위비티": "2026-11-30",
+    "위비티": "2026-11-29",
     "링커리어": "2026-11-30",
     "올콘": "2026-11-30",
     "콘테스트코리아": "2026-11-30",
     "Dev-Event": "2026-11-30",
     "요즘것들": "2026-11-30",
-    "이벤터스": "2026-11-30"
+    "이벤터스": "2026-11-30",
+    "씽굿": "2026-11-30"
    },
    "seenBySource": {
     "위비티": "2026-11-24",
-    "링커리어": "2026-11-10"
+    "링커리어": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "올콘": "2026-11-24",
+    "이벤터스": "2026-11-24",
+    "Dev-Event": "2026-11-24"
    },
-   "host": "대구광역시",
+   "host": "소셜비즈니스디자인협동조합",
    "applyEnd": "2026-11-30",
    "region": "대구",
    "category": "idea",
    "aiRelated": true,
    "confidence": "high",
    "jev": 0.99,
-   "url": "https://linkareer.com/activity/362988",
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113152",
    "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-12-01",
    "applyStart": "2026-11-06",
-   "eligibility": "대상 제한 없음",
-   "eventDates": "심사 12.01~01.29 발표 01.29"
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "eventDates": "심사 12.01~01.29 발표 01.29",
+   "prize": "300만원",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "e72f0541b3",
@@ -1847,16 +2153,46 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://event-us.kr/inclead/event/127407",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "이벤터스": "2026-11-30"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-22"
+    "이벤터스": "2026-11-24"
+   }
+  },
+  {
+   "id": "f4caeca35b",
+   "name": "2026 제35회 대한민국패키지디자인대전",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112525",
+    "링커리어": "https://linkareer.com/activity/366448"
    },
-   "dateNote": "확인 필요"
+   "endBySource": {
+    "위비티": "2026-11-30",
+    "링커리어": "2026-12-01"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24",
+    "링커리어": "2026-11-24"
+   },
+   "host": "(사)한국패키지디자인협회",
+   "applyEnd": "2026-11-30",
+   "region": "대전",
+   "category": "creative",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.07,
+   "url": "https://linkareer.com/activity/366448",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null,
+   "applyStart": "2026-11-23",
+   "eligibility": "대학생, 직장인/일반인",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "2e2775f79b",
@@ -1885,67 +2221,6 @@
    "dateNote": "확인 필요"
   },
   {
-   "id": "63fd67a098",
-   "name": "2026 통영관광개발공사 제5회 통영관광 전국사진 공모전",
-   "firstSeen": "2026-09-22",
-   "sources": {
-    "링커리어": "https://linkareer.com/activity/314144",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202604060059",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=106373"
-   },
-   "host": "통영관광개발공사",
-   "applyStart": "2026-04-08",
-   "applyEnd": "2026-11-30",
-   "eligibility": "대상 제한 없음",
-   "category": "tourism",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.03,
-   "url": "https://linkareer.com/activity/314144",
-   "lastSeen": "2026-11-24",
-   "eventDates": "심사 12.01~12.10 발표 12.11",
-   "status": "open",
-   "lastEvent": "2026-12-11",
-   "endBySource": {
-    "링커리어": "2026-11-30",
-    "콘테스트코리아": "2026-11-30",
-    "위비티": "2026-11-30"
-   },
-   "seenBySource": {
-    "링커리어": "2026-11-23",
-    "콘테스트코리아": "2026-10-27",
-    "위비티": "2026-11-24"
-   }
-  },
-  {
-   "id": "5b93932ca5",
-   "name": "2026 포항 MICE 창업 해커톤",
-   "firstSeen": "2026-11-22",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112475",
-    "링커리어": "https://linkareer.com/activity/365981"
-   },
-   "endBySource": {
-    "위비티": "2026-11-30",
-    "링커리어": "2026-11-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "포항시",
-   "applyEnd": "2026-11-30",
-   "category": "hackathon",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.18,
-   "url": "https://linkareer.com/activity/365981",
-   "lastSeen": "2026-11-24",
-   "status": "open",
-   "lastEvent": null,
-   "applyStart": "2026-11-20",
-   "eligibility": "대상 제한 없음"
-  },
-  {
    "id": "d55ac3c29c",
    "name": "2026년 AI 기반 바이오 소재 융복합 제품의 정보분석 및 특허 창출 지원 사업 수혜기업 모집 공고",
    "firstSeen": "2026-10-10",
@@ -1956,7 +2231,7 @@
     "기업마당": "2026-11-30"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "산업통상부",
    "applyStart": "2026-09-22",
@@ -1967,7 +2242,7 @@
    "confidence": "high",
    "jev": 0.84,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126833",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -1982,42 +2257,17 @@
     "올콘": "2026-11-30"
    },
    "seenBySource": {
-    "올콘": "2026-11-23"
+    "올콘": "2026-11-24"
    },
    "host": "Nitto",
    "applyStart": "2026-11-02",
    "applyEnd": "2026-11-30",
    "eligibility": "과학·공학·학술, 제한없음",
-   "category": "startup",
+   "category": "funding",
    "aiRelated": false,
    "confidence": "high",
    "jev": 0.27,
    "url": "https://www.all-con.co.kr/view/contest/544589",
-   "lastSeen": "2026-11-23",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "8136ad94ac",
-   "name": "2026년 부산광역시남자단기청소년쉼터 도전자립지원사업 멘토링 자원봉사자 모집(추가 모집)",
-   "firstSeen": "2026-11-24",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112514"
-   },
-   "endBySource": {
-    "위비티": "2026-11-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "부산광역시남자단기청소년쉼터",
-   "applyEnd": "2026-11-30",
-   "region": "부산",
-   "category": "funding",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.02,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112514",
    "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
@@ -2036,7 +2286,7 @@
    },
    "seenBySource": {
     "위비티": "2026-10-29",
-    "씽굿": "2026-11-23"
+    "씽굿": "2026-11-24"
    },
    "host": "전남광주통합특별시청",
    "applyEnd": "2026-11-30",
@@ -2045,7 +2295,7 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112555",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "applyStart": "2026-11-02",
@@ -2079,30 +2329,6 @@
    "dateNote": "확인 필요"
   },
   {
-   "id": "8928424a87",
-   "name": "2026년 지속가능한 기본소득 추진을 위한 제안 아이디어 공모",
-   "firstSeen": "2026-11-20",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112326"
-   },
-   "endBySource": {
-    "위비티": "2026-11-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "철원군",
-   "applyEnd": "2026-11-30",
-   "category": "idea",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.05,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112326",
-   "lastSeen": "2026-11-24",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
    "id": "be6597fc21",
    "name": "2026년 창업도시 조성 프로젝트 창업도시 모집 공고",
    "firstSeen": "2026-10-24",
@@ -2113,7 +2339,7 @@
     "기업마당": "2026-11-30"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "중소벤처기업부",
    "applyStart": "2026-10-23",
@@ -2123,9 +2349,9 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.03,
+   "jev": 0.02,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127435",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -2138,7 +2364,7 @@
     "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179813"
    },
    "seenBySource": {
-    "스타트업레시피": "2026-11-23",
+    "스타트업레시피": "2026-11-24",
     "K-Startup": "2026-11-23"
    },
    "region": "서울",
@@ -2147,14 +2373,15 @@
    "confidence": "high",
    "jev": 0.07,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179813",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "K-Startup": "2026-11-30"
    },
    "host": "이용약관",
-   "applyEnd": "2026-11-30"
+   "applyEnd": "2026-11-30",
+   "dateNote": "확인 필요"
   },
   {
    "id": "d4d5b6ffcc",
@@ -2221,7 +2448,7 @@
     "요즘것들": "2026-11-30"
    },
    "seenBySource": {
-    "요즘것들": "2026-11-23"
+    "요즘것들": "2026-11-24"
    },
    "host": "귀뚜라미",
    "applyStart": "2026-11-11",
@@ -2231,7 +2458,7 @@
    "confidence": "high",
    "jev": 0.98,
    "url": "https://www.allforyoung.com/posts/90181",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -2246,7 +2473,7 @@
     "이벤터스": "2026-11-30"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-22"
+    "이벤터스": "2026-11-24"
    },
    "host": "ksifesg",
    "applyEnd": "2026-11-30",
@@ -2256,10 +2483,34 @@
    "confidence": "high",
    "jev": 0.99,
    "url": "https://event-us.kr/ksifesg/event/125921",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
+  },
+  {
+   "id": "5528ab47d7",
+   "name": "ForwardThon 2026 — 기업의 숫자를 바꾸는 FDE 해커톤",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "Dev-Event": "https://forwardthon.com/"
+   },
+   "endBySource": {
+    "Dev-Event": "2026-11-30"
+   },
+   "seenBySource": {
+    "Dev-Event": "2026-11-24"
+   },
+   "host": "위시켓 · AIDP × 요즘IT",
+   "applyStart": "2026-10-22",
+   "applyEnd": "2026-11-30",
+   "category": "hackathon",
+   "aiRelated": true,
+   "confidence": "medium",
+   "jev": 0.29,
+   "url": "https://forwardthon.com/",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "5c73c29438",
@@ -2272,7 +2523,7 @@
     "링커리어": "2026-11-30"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23"
+    "링커리어": "2026-11-24"
    },
    "host": "(주)비켄",
    "applyStart": "2026-11-10",
@@ -2283,10 +2534,9 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://linkareer.com/activity/364582",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
   },
   {
    "id": "437dea03c9",
@@ -2299,7 +2549,7 @@
     "요즘것들": "2026-11-30"
    },
    "seenBySource": {
-    "요즘것들": "2026-11-23"
+    "요즘것들": "2026-11-24"
    },
    "host": "히든 트립 2",
    "applyStart": "2026-11-21",
@@ -2309,7 +2559,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.allforyoung.com/posts/90653",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -2324,7 +2574,7 @@
     "기업마당": "2026-11-30"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "경상북도",
    "applyStart": "2026-11-09",
@@ -2336,7 +2586,7 @@
    "confidence": "high",
    "jev": 0.97,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127807",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -2351,7 +2601,7 @@
     "링커리어": "2026-11-30"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23"
+    "링커리어": "2026-11-24"
    },
    "host": "귀뚜라미",
    "applyStart": "2026-11-11",
@@ -2361,9 +2611,9 @@
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.94,
+   "jev": 0.95,
    "url": "https://linkareer.com/activity/363787",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -2378,7 +2628,7 @@
     "링커리어": "2026-11-30"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23"
+    "링커리어": "2026-11-24"
    },
    "host": "주식회사 비욘드랩",
    "applyStart": "2026-11-10",
@@ -2389,9 +2639,9 @@
    "category": "startup",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.08,
+   "jev": 0.07,
    "url": "https://linkareer.com/activity/364102",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -2434,11 +2684,11 @@
    "endBySource": {
     "링커리어": "2026-11-30",
     "콘테스트코리아": "2026-11-30",
-    "위비티": "2026-11-30"
+    "위비티": "2026-11-29"
    },
    "seenBySource": {
-    "링커리어": "2026-11-17",
-    "콘테스트코리아": "2026-11-17",
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24",
     "위비티": "2026-11-24"
    },
    "host": "부천도시공사",
@@ -2453,7 +2703,8 @@
    "lastSeen": "2026-11-24",
    "eventDates": "심사 11.09~11.30",
    "status": "open",
-   "lastEvent": "2026-11-30"
+   "lastEvent": "2026-11-30",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "599a2d49f6",
@@ -2493,7 +2744,8 @@
    "lastSeen": "2026-11-23",
    "eventDates": "활동 10.02~11.30 발표 11.30",
    "status": "open",
-   "lastEvent": "2026-11-30"
+   "lastEvent": "2026-11-30",
+   "dateNote": "확인 필요"
   },
   {
    "id": "158a5a3cff",
@@ -2506,7 +2758,7 @@
     "기업마당": "2026-11-30"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "전남광주통합특별시",
    "applyStart": "2026-11-05",
@@ -2518,7 +2770,7 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127732",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -2536,7 +2788,7 @@
     "올콘": "https://www.all-con.co.kr/view/contest/544259"
    },
    "endBySource": {
-    "위비티": "2026-11-30",
+    "위비티": "2026-11-29",
     "씽굿": "2026-11-30",
     "링커리어": "2026-11-30",
     "올콘": "2026-11-30",
@@ -2546,12 +2798,12 @@
    },
    "seenBySource": {
     "위비티": "2026-11-24",
-    "씽굿": "2026-11-03",
-    "링커리어": "2026-11-03",
-    "올콘": "2026-11-03",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
     "콘테스트코리아": "2026-11-03",
-    "요즘것들": "2026-11-23",
-    "이벤터스": "2026-11-22"
+    "요즘것들": "2026-11-24",
+    "이벤터스": "2026-11-24"
    },
    "host": "매경미디어",
    "applyEnd": "2026-11-30",
@@ -2567,7 +2819,8 @@
    "applyStart": "2026-11-09",
    "prize": "500만원",
    "eligibility": "고등학생, 동 연령대 청소년, 대학생, 대학원생",
-   "eventDates": "심사 12.07~12.13 발표 12.16"
+   "eventDates": "심사 12.07~12.13 발표 12.16",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "3094ac2d79",
@@ -2597,17 +2850,17 @@
     "콘테스트코리아": "2026-11-30"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23",
-    "올콘": "2026-11-23",
-    "요즘것들": "2026-11-23",
-    "이벤터스": "2026-11-22",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
+    "요즘것들": "2026-11-24",
+    "이벤터스": "2026-11-24",
     "콘테스트코리아": "2026-11-22"
    },
    "applyStart": "2026-10-26",
    "applyEnd": "2026-11-30",
    "eligibility": "대학생, 직장인/일반인",
-   "jev": 0.98,
-   "lastSeen": "2026-11-23"
+   "jev": 0.97,
+   "lastSeen": "2026-11-24"
   },
   {
    "id": "519b27c019",
@@ -2620,7 +2873,7 @@
     "요즘것들": "2026-11-30"
    },
    "seenBySource": {
-    "요즘것들": "2026-11-23"
+    "요즘것들": "2026-11-24"
    },
    "host": "히든 트립 2",
    "applyStart": "2026-11-21",
@@ -2630,7 +2883,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.allforyoung.com/posts/90648",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -2653,11 +2906,11 @@
     "올콘": "2026-11-30"
    },
    "seenBySource": {
-    "요즘것들": "2026-11-23",
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23",
+    "요즘것들": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
     "콘테스트코리아": "2026-11-19",
-    "올콘": "2026-11-23"
+    "올콘": "2026-11-24"
    },
    "host": "문경시",
    "applyStart": "2026-10-30",
@@ -2667,7 +2920,7 @@
    "confidence": "high",
    "jev": 0.89,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112517",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-12-31",
    "prize": "150만원",
@@ -2687,7 +2940,7 @@
    },
    "seenBySource": {
     "K-Startup": "2026-11-18",
-    "스타트업레시피": "2026-11-18"
+    "스타트업레시피": "2026-11-24"
    },
    "applyEnd": "2026-11-30",
    "category": "funding",
@@ -2695,7 +2948,7 @@
    "confidence": "high",
    "jev": 0.05,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179798",
-   "lastSeen": "2026-11-17",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "dateNote": "확인 필요"
@@ -2713,8 +2966,8 @@
     "링커리어": "2026-11-30"
    },
    "seenBySource": {
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23"
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24"
    },
    "host": "청도군",
    "applyStart": "2026-10-12",
@@ -2726,7 +2979,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112087",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -2743,7 +2996,7 @@
     "위비티": "2026-11-30"
    },
    "seenBySource": {
-    "링커리어": "2026-11-19",
+    "링커리어": "2026-11-24",
     "위비티": "2026-11-24"
    },
    "host": "수원시비정규직노동자복지센터",
@@ -2753,7 +3006,7 @@
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.87,
+   "jev": 0.88,
    "url": "https://linkareer.com/activity/363048",
    "lastSeen": "2026-11-24",
    "status": "open",
@@ -2774,44 +3027,15 @@
    "confidence": "high",
    "jev": 0.11,
    "url": "https://event-us.kr/tap/event/120491",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "이벤터스": "2026-11-30"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-06"
-   },
-   "dateNote": "확인 필요"
-  },
-  {
-   "id": "181fabb911",
-   "name": "제1회 CLIIP AI 웹툰 영상화 공모전",
-   "firstSeen": "2026-11-04",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112142",
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613",
-    "링커리어": "https://linkareer.com/activity/362057",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611030051",
-    "올콘": "https://www.all-con.co.kr/view/contest/544672"
-   },
-   "endBySource": {
-    "위비티": "2026-11-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "시원아트",
-   "applyEnd": "2026-11-30",
-   "category": "creative",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.94,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613",
-   "lastSeen": "2026-11-24",
-   "status": "open",
-   "lastEvent": null
+    "이벤터스": "2026-11-24"
+   }
   },
   {
    "id": "fc5c0b5041",
@@ -2856,26 +3080,56 @@
     "링커리어": "https://linkareer.com/activity/365986"
    },
    "endBySource": {
-    "위비티": "2026-11-30",
+    "위비티": "2026-11-29",
     "씽굿": "2026-11-30",
     "링커리어": "2026-11-30"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24"
    },
    "host": "과학기술정보통신부",
    "applyEnd": "2026-11-30",
    "category": "idea",
    "aiRelated": true,
    "confidence": "medium",
-   "jev": 0.24,
+   "jev": 0.29,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113092",
    "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "applyStart": "2026-11-12",
    "prize": "1천만원 미만",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음, 기타"
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음, 기타",
+   "dateNote": "출처마다 다름"
+  },
+  {
+   "id": "42d97162e1",
+   "name": "제3회 대한민국인공지능영화제 서포터즈 모집",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=2&str_no=202611120046"
+   },
+   "endBySource": {
+    "콘테스트코리아": "2026-11-30"
+   },
+   "seenBySource": {
+    "콘테스트코리아": "2026-11-24"
+   },
+   "host": "대한민국인공지능영화제",
+   "applyStart": "2026-11-11",
+   "applyEnd": "2026-11-30",
+   "eventDates": "활동 12.17~12.19 D-6 마감임박 10 //--> --> 교육 • 강연 • 멘토링 • 세미나 비욘드 캠프 10기 멘토 모집 0 주최 . 비욘드 캠프 대상 . 대학생 , 대학원생 접수 11.19~11.30 활동 01.09~02.03 발표 12.15 D-6 마감임박 57 //--> --> 인턴 • 체험 • 탐방 • 봉사 • 동아리 대학생 연합 인물사진 동아리 토파즈 [Topaz] 0 주최 . 토파즈 대상 . 대학생 접수 11.09~11.30 활동 12.01~03.01 D-6 마감임박 2 //--> ￦ 유료 접수 --> 교육 • 강연 • 멘토링 • 세미나 [무료참여!] 면접왕이형과 함께하는 청년공감 잡 페스타 in 부산 0 주최 . 중소기업중앙회 대상 . 고등학생 , 대학원생 , 일반인 , 해당자 ▶ 접수 11.16~11.20 활동 11.20 발표 11.20 캠페인마감 18 //--> --> 교육 • 강연 • 멘토링 • 세미나 ⭐인턴연계⭐(영등포3기)핀테크 특화 실무프로젝트 기반 생성형 AI 데이터분석 과정 0 주최 . 청년취업사관학교(SeSAC) 대상 . 대학생 , 대학원생 , 일반인 접수 10.28~11.24 활동 12.14~03.10 발표 03.03 D-0 마감임박 8 //--> --> 교육 • 강연 • 멘토링 • 세미나 [경북] 2026 경상북도 과학테마관광캠프 참가자 모집 0 주최 . 경북테크노파크 대상 . 초등학생 , 일반인 접수 11.19~11.24 활동 11.28 발표 11.25 D-0 마감임박 21 //--> --> 서포터즈 • 기자단 애슬러 크리에이티브크루 1기 0 주최 . 바인드 대상 . 대학생 , 대학원생 , 일반인 접수 11.18~11.22 활동 12.02~01.29 발표 11.30 발표대기 32 //--> --> 교육 • 강연 • 멘토링 • 세미나 [충청권 통일+센터] 명사특강 ⟪교실 밖에서 만나는 평화⟫ 참여자 모집 0 주최 . 충청권 통일+센터 대상 . 고등학생 접수 11.18~11.26 활동 11.27 발표 11.26 D-2 마감임박 5 //--> --> 교육 • 강연 • 멘토링 • 세미나 보안 위협 대응을 위한 클라우드 기반 보안 엔지니어 양성과정 0 주최 . 고용노동부 대상 . 대학생 , 대학원생 , 일반인 , 해당자 ▶ 접수 11.18~12.22 활동 12.28~06.29 발표 12.25",
+   "eligibility": "대학생 , 일반인",
+   "category": "creative",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.87,
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=2&str_no=202611120046",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": "2026-12-28"
   },
   {
    "id": "09fe98b425",
@@ -2944,7 +3198,7 @@
     "요즘것들": "https://www.allforyoung.com/posts/89824"
    },
    "endBySource": {
-    "위비티": "2026-11-30",
+    "위비티": "2026-11-29",
     "씽굿": "2026-11-30",
     "링커리어": "2026-11-30",
     "올콘": "2026-11-30",
@@ -2952,7 +3206,11 @@
     "요즘것들": "2026-11-30"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
+    "요즘것들": "2026-11-24"
    },
    "host": "태안군청",
    "applyEnd": "2026-11-30",
@@ -2967,29 +3225,31 @@
    "applyStart": "2026-11-01",
    "prize": "500,000원",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 기타",
-   "eventDates": "심사 12.01~12.30 발표 12.31"
+   "eventDates": "심사 12.01~12.30 발표 12.31",
+   "dateNote": "출처마다 다름"
   },
   {
-   "id": "f4caeca35b",
-   "name": "2026 제35회 대한민국패키지디자인대전",
+   "id": "bb638913bf",
+   "name": "한국철도공사 중소기업 산업안전 AI 전환 지원과제 AI-RAIL 부스터 중소기업 모집 공고",
    "firstSeen": "2026-11-24",
    "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112525"
+    "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128083"
    },
    "endBySource": {
-    "위비티": "2026-12-01"
+    "기업마당": "2026-11-30"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "기업마당": "2026-11-24"
    },
-   "host": "(사)한국패키지디자인협회",
-   "applyEnd": "2026-12-01",
-   "region": "대전",
-   "category": "creative",
-   "aiRelated": false,
+   "host": "중소벤처기업부",
+   "applyStart": "2026-11-23",
+   "applyEnd": "2026-11-30",
+   "eligibility": "중소기업",
+   "category": "funding",
+   "aiRelated": true,
    "confidence": "high",
-   "jev": 0.07,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112525",
+   "jev": 0.95,
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128083",
    "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
@@ -3005,7 +3265,7 @@
     "이벤터스": "2026-12-01"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-22"
+    "이벤터스": "2026-11-24"
    },
    "host": "zenoschool",
    "applyEnd": "2026-12-01",
@@ -3015,10 +3275,32 @@
    "confidence": "high",
    "jev": 0.92,
    "url": "https://event-us.kr/zenoschool/event/136648",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
+  },
+  {
+   "id": "df8d9aaf29",
+   "name": "[ART-AI ACADEMY] AI 숏폼 워크숍",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179849"
+   },
+   "endBySource": {
+    "K-Startup": "2026-12-01"
+   },
+   "seenBySource": {
+    "K-Startup": "2026-11-24"
+   },
+   "applyEnd": "2026-12-01",
+   "category": "creative",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.55,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179849",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "f89c63928a",
@@ -3028,16 +3310,21 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112160",
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112631",
     "링커리어": "https://linkareer.com/activity/362183",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611020029"
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611020029",
+    "Dev-Event": "https://www.ssgsag.kr/posters/29549"
    },
    "endBySource": {
-    "위비티": "2026-12-01",
+    "위비티": "2026-11-30",
     "씽굿": "2026-12-01",
     "링커리어": "2026-12-01",
-    "콘테스트코리아": "2026-12-01"
+    "콘테스트코리아": "2026-12-01",
+    "Dev-Event": "2026-12-01"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "Dev-Event": "2026-11-24"
    },
    "host": "한국체육산업개발(주)",
    "applyEnd": "2026-12-01",
@@ -3052,7 +3339,58 @@
    "applyStart": "2026-11-02",
    "prize": "300만원",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음, 기타",
-   "eventDates": "심사 12.02~12.30 발표 12.31"
+   "eventDates": "심사 12.02~12.30 발표 12.31",
+   "dateNote": "출처마다 다름"
+  },
+  {
+   "id": "cad6d069b2",
+   "name": "다나와 AI다나와 에디터 모집",
+   "firstSeen": "2026-11-20",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112471"
+   },
+   "endBySource": {
+    "위비티": "2026-12-01"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   },
+   "host": "다나와",
+   "applyEnd": "2026-12-01",
+   "category": "other",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.41,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112471",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "eb97a93dea",
+   "name": "서부 경기문화창조허브 공간입주 18기 입주기업 모집",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179856",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5842421"
+   },
+   "endBySource": {
+    "K-Startup": "2026-12-01"
+   },
+   "seenBySource": {
+    "K-Startup": "2026-11-24",
+    "스타트업레시피": "2026-11-24"
+   },
+   "applyEnd": "2026-12-01",
+   "region": "경기",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.07,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179856",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "fee390842e",
@@ -3065,7 +3403,7 @@
     "이벤터스": "2026-12-02"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-23"
+    "이벤터스": "2026-11-24"
    },
    "host": "2026acdc",
    "applyEnd": "2026-12-02",
@@ -3073,9 +3411,9 @@
    "category": "dev",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.92,
+   "jev": 0.93,
    "url": "https://event-us.kr/2026acdc/event/140349",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -3109,6 +3447,34 @@
    "dateNote": "확인 필요"
   },
   {
+   "id": "9fab2ef190",
+   "name": "2026 연구 아이디어 기술사업화 챌린지",
+   "host": "biochallenge",
+   "category": "startup",
+   "applyStart": "2026-07-20",
+   "applyEnd": "2026-12-02",
+   "eventDates": "2026-12-02",
+   "eligibility": "바이오헬스 연구자 등",
+   "confidence": "high",
+   "aiRelated": false,
+   "url": "https://event-us.kr/biochallenge/event/139324",
+   "sources": {
+    "초기조사": "https://www.onoffmix.com/event/345213",
+    "이벤터스": "https://event-us.kr/biochallenge/event/139324"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": "2026-12-02",
+   "endBySource": {
+    "이벤터스": "2026-12-02"
+   },
+   "seenBySource": {
+    "이벤터스": "2026-11-24"
+   },
+   "jev": 0.13
+  },
+  {
    "id": "2103369032",
    "name": "[전남광주] 영광군 2027년 청년 어촌정착 지원사업 신청자 모집 공고",
    "firstSeen": "2026-11-17",
@@ -3119,7 +3485,7 @@
     "기업마당": "2026-12-02"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "전남광주통합특별시",
    "applyStart": "2026-11-12",
@@ -3131,30 +3497,32 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127934",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
   {
-   "id": "cad6d069b2",
-   "name": "다나와 AI다나와 에디터 모집",
-   "firstSeen": "2026-11-20",
+   "id": "49da651050",
+   "name": "[창업행사] IR 피칭·피치덱 완성, 1:1 피치덱 밀착 멘토링까지 한 번에!!!",
+   "firstSeen": "2026-11-24",
    "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112471"
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179871",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5842425"
    },
    "endBySource": {
-    "위비티": "2026-12-02"
+    "K-Startup": "2026-12-03"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "K-Startup": "2026-11-24",
+    "스타트업레시피": "2026-11-24"
    },
-   "host": "다나와",
-   "applyEnd": "2026-12-02",
-   "category": "other",
-   "aiRelated": true,
+   "host": "이용약관",
+   "applyEnd": "2026-12-03",
+   "category": "startup",
+   "aiRelated": false,
    "confidence": "high",
-   "jev": 0.41,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112471",
+   "jev": 0.04,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179871",
    "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
@@ -3176,15 +3544,16 @@
     "링커리어": "2026-12-04",
     "콘테스트코리아": "2026-12-04",
     "요즘것들": "2026-12-04",
-    "위비티": "2026-12-04",
+    "위비티": "2026-12-03",
     "올콘": "2026-12-04"
    },
    "seenBySource": {
-    "씽굿": "2026-11-17",
-    "링커리어": "2026-11-17",
-    "콘테스트코리아": "2026-11-17",
-    "요즘것들": "2026-11-17",
-    "위비티": "2026-11-24"
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24",
+    "요즘것들": "2026-11-24",
+    "위비티": "2026-11-24",
+    "올콘": "2026-11-24"
    },
    "host": "충청남도",
    "applyStart": "2026-11-16",
@@ -3200,7 +3569,8 @@
    "lastSeen": "2026-11-24",
    "eventDates": "심사 12.05~12.14 발표 12.15",
    "status": "open",
-   "lastEvent": "2026-12-15"
+   "lastEvent": "2026-12-15",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "f34f519d8c",
@@ -3239,7 +3609,7 @@
     "기업마당": "2026-12-04"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "과학기술정보통신부",
    "applyStart": "2026-11-13",
@@ -3248,9 +3618,9 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.91,
+   "jev": 0.87,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128022",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -3267,7 +3637,7 @@
    },
    "seenBySource": {
     "K-Startup": "2026-11-18",
-    "스타트업레시피": "2026-11-18"
+    "스타트업레시피": "2026-11-24"
    },
    "applyEnd": "2026-12-04",
    "category": "funding",
@@ -3275,7 +3645,7 @@
    "confidence": "high",
    "jev": 0.16,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179799",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "dateNote": "확인 필요"
@@ -3318,7 +3688,7 @@
     "요즘것들": "2026-12-04"
    },
    "seenBySource": {
-    "요즘것들": "2026-11-23"
+    "요즘것들": "2026-11-24"
    },
    "host": "(주) 유디임팩트 X 밀알복지재단 굿윌스토어",
    "applyStart": "2026-11-17",
@@ -3326,25 +3696,26 @@
    "category": "social",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.09,
+   "jev": 0.1,
    "url": "https://www.allforyoung.com/posts/90459",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
   },
   {
    "id": "03a68f1559",
    "name": "[LH한국토지주택공사] 판교제2테크노밸리 기업성장센터(F2블록) 산업시설(임대) 입점기업 모집공고",
    "firstSeen": "2026-11-19",
    "sources": {
-    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179783"
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179783",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5841870"
    },
    "endBySource": {
     "K-Startup": "2026-12-04"
    },
    "seenBySource": {
-    "K-Startup": "2026-11-23"
+    "K-Startup": "2026-11-23",
+    "스타트업레시피": "2026-11-24"
    },
    "applyEnd": "2026-12-04",
    "category": "funding",
@@ -3352,9 +3723,41 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179783",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "dateNote": "확인 필요"
+  },
+  {
+   "id": "da7e86feed",
+   "name": "[씨엔티테크] 2026년 초기창업패키지 로켓십 IR 경진대회(4회차: 자율분야) 참여기업 모집",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "이벤터스": "https://event-us.kr/cnttech/event/140909",
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179841",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5842430"
+   },
+   "endBySource": {
+    "이벤터스": "2026-12-29",
+    "K-Startup": "2026-12-04"
+   },
+   "seenBySource": {
+    "이벤터스": "2026-11-24",
+    "K-Startup": "2026-11-24",
+    "스타트업레시피": "2026-11-24"
+   },
+   "host": "cnttech",
+   "applyEnd": "2026-12-04",
+   "eventDates": "2026-12-06",
+   "category": "startup",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.45,
+   "url": "https://event-us.kr/cnttech/event/140909",
+   "lastSeen": "2026-11-24",
+   "dateNote": "출처마다 다름",
+   "status": "open",
+   "lastEvent": "2026-12-06"
   },
   {
    "id": "3c2a0de17f",
@@ -3367,7 +3770,7 @@
     "기업마당": "2026-12-04"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "전남광주통합특별시",
    "applyStart": "2026-11-12",
@@ -3379,7 +3782,7 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127928",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -3394,7 +3797,7 @@
     "요즘것들": "2026-12-04"
    },
    "seenBySource": {
-    "요즘것들": "2026-11-23"
+    "요즘것들": "2026-11-24"
    },
    "host": "한국해양교통안전공단",
    "applyStart": "2026-11-20",
@@ -3404,10 +3807,9 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.allforyoung.com/posts/90666",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
   },
   {
    "id": "862469ba39",
@@ -3430,7 +3832,8 @@
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179773",
    "lastSeen": "2026-11-23",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "dateNote": "확인 필요"
   },
   {
    "id": "aa55bff2cb",
@@ -3454,11 +3857,11 @@
    },
    "seenBySource": {
     "위비티": "2026-11-13",
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23",
-    "올콘": "2026-11-23",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
     "콘테스트코리아": "2026-11-21",
-    "이벤터스": "2026-11-23"
+    "이벤터스": "2026-11-24"
    },
    "host": "명지전문대학 앵커사업단",
    "applyEnd": "2026-12-04",
@@ -3468,13 +3871,40 @@
    "confidence": "high",
    "jev": 0.95,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112999",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-12-11",
    "applyStart": "2026-11-13",
    "prize": "100",
    "eligibility": "대학생, 대학원생, 일반인",
    "eventDates": "심사 12.07~12.10 발표 12.11"
+  },
+  {
+   "id": "3c5c39938b",
+   "name": "섬 관광 활성화 앵콜 이벤트 (~12/4)",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113156"
+   },
+   "endBySource": {
+    "씽굿": "2026-12-04"
+   },
+   "seenBySource": {
+    "씽굿": "2026-11-24"
+   },
+   "host": "한국해양교통안전공단",
+   "applyStart": "2026-11-20",
+   "applyEnd": "2026-12-04",
+   "prize": "기타",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "category": "tourism",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.05,
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113156",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "de4d21ebba",
@@ -3488,11 +3918,11 @@
    "endBySource": {
     "씽굿": "2026-12-04",
     "링커리어": "2026-12-04",
-    "위비티": "2026-12-04"
+    "위비티": "2026-12-03"
    },
    "seenBySource": {
-    "씽굿": "2026-11-12",
-    "링커리어": "2026-11-12",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
     "위비티": "2026-11-24"
    },
    "host": "부산뇌병변복지관",
@@ -3507,7 +3937,8 @@
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112801",
    "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "d45e38314d",
@@ -3520,7 +3951,7 @@
     "이벤터스": "2026-12-05"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-23"
+    "이벤터스": "2026-11-24"
    },
    "host": "orangefarm",
    "applyEnd": "2026-12-05",
@@ -3528,9 +3959,9 @@
    "category": "hackathon",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.09,
+   "jev": 0.1,
    "url": "https://event-us.kr/orangefarm/event/140484",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-12-05"
   },
@@ -3546,27 +3977,27 @@
     "올콘": "https://www.all-con.co.kr/view/contest/544672"
    },
    "endBySource": {
-    "위비티": "2026-11-30",
+    "위비티": "2026-11-29",
     "씽굿": "2026-12-05",
     "링커리어": "2026-12-05",
     "올콘": "2026-12-05",
     "콘테스트코리아": "2026-12-05"
    },
    "seenBySource": {
-    "위비티": "2026-11-23",
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23",
-    "올콘": "2026-11-23",
-    "콘테스트코리아": "2026-11-23"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "시원아트",
    "applyEnd": "2026-12-05",
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.8,
+   "jev": 0.83,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112613",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-12-25",
    "applyStart": "2026-11-03",
@@ -3588,8 +4019,8 @@
     "씽굿": "2026-12-06"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23",
-    "씽굿": "2026-11-23"
+    "링커리어": "2026-11-24",
+    "씽굿": "2026-11-24"
    },
    "host": "주식회사 유엠코스메틱",
    "applyStart": "2026-11-06",
@@ -3598,12 +4029,61 @@
    "category": "creative",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.05,
+   "jev": 0.04,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113018",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "prize": "100만원"
+  },
+  {
+   "id": "111bab1455",
+   "name": "2026년 12월 KICXUP 서울 입주기업 모집공고",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179852"
+   },
+   "endBySource": {
+    "K-Startup": "2026-12-06"
+   },
+   "seenBySource": {
+    "K-Startup": "2026-11-24"
+   },
+   "applyEnd": "2026-12-06",
+   "region": "서울",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.13,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179852",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "fe94394ea1",
+   "name": "[강동구 청년해냄센터] 입주기업 모집",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179851",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5842437"
+   },
+   "endBySource": {
+    "K-Startup": "2026-12-06"
+   },
+   "seenBySource": {
+    "K-Startup": "2026-11-24",
+    "스타트업레시피": "2026-11-24"
+   },
+   "applyEnd": "2026-12-06",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179851",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "6a67fae04a",
@@ -3637,26 +4117,34 @@
    "name": "(AI | AX) 강원 AI 활용 창업 아이디어 경진대회",
    "firstSeen": "2026-11-21",
    "sources": {
-    "이벤터스": "https://event-us.kr/illusionists1004/event/140715"
+    "이벤터스": "https://event-us.kr/illusionists1004/event/140715",
+    "올콘": "https://www.all-con.co.kr/view/contest/545440",
+    "Dev-Event": "https://sangji-ai-startup-2026.workspace-700806.chatgpt.site/"
    },
    "endBySource": {
-    "이벤터스": "2026-12-07"
+    "이벤터스": "2026-12-07",
+    "올콘": "2026-12-07",
+    "Dev-Event": "2026-12-07"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-23"
+    "이벤터스": "2026-11-24",
+    "올콘": "2026-11-24",
+    "Dev-Event": "2026-11-24"
    },
-   "host": "illusionists1004",
+   "host": "상지대 앵커단",
    "applyEnd": "2026-12-07",
    "eventDates": "2026-12-06",
    "region": "강원",
    "category": "startup",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.98,
-   "url": "https://event-us.kr/illusionists1004/event/140715",
-   "lastSeen": "2026-11-23",
+   "jev": 0.97,
+   "url": "https://www.all-con.co.kr/view/contest/545440",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-11-23",
+   "eligibility": "과학·공학·학술, 일반인, 대학생, 대학원생"
   },
   {
    "id": "7aaa2e5211",
@@ -3671,7 +4159,7 @@
    },
    "seenBySource": {
     "K-Startup": "2026-11-23",
-    "스타트업레시피": "2026-11-23"
+    "스타트업레시피": "2026-11-24"
    },
    "host": "이용약관",
    "applyEnd": "2026-12-07",
@@ -3680,9 +4168,10 @@
    "confidence": "high",
    "jev": 0.06,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179826",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "dateNote": "확인 필요"
   },
   {
    "id": "293d995a4d",
@@ -3695,7 +4184,7 @@
     "기업마당": "2026-12-07"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "경상남도",
    "applyStart": "2026-11-17",
@@ -3707,7 +4196,7 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128056",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -3722,7 +4211,7 @@
     "기업마당": "2026-12-07"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "전남광주통합특별시",
    "applyStart": "2026-11-16",
@@ -3734,7 +4223,7 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128034",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -3744,15 +4233,33 @@
    "firstSeen": "2026-11-21",
    "sources": {
     "AIFactory": "https://aifactory.space/task/9320/overview",
-    "요즘것들": "https://www.allforyoung.com/posts/90634"
+    "요즘것들": "https://www.allforyoung.com/posts/90634",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113157",
+    "링커리어": "https://linkareer.com/activity/366175",
+    "올콘": "https://www.all-con.co.kr/view/contest/545394",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611230028",
+    "이벤터스": "https://event-us.kr/aifactory2/event/140833",
+    "Dev-Event": "https://aifactory.space/ko/competitions/9320"
    },
    "endBySource": {
     "AIFactory": "2026-12-07",
-    "요즘것들": "2026-12-07"
+    "요즘것들": "2026-12-07",
+    "씽굿": "2026-12-07",
+    "링커리어": "2026-12-07",
+    "올콘": "2026-12-07",
+    "콘테스트코리아": "2026-12-07",
+    "이벤터스": "2026-12-06",
+    "Dev-Event": "2026-12-07"
    },
    "seenBySource": {
-    "AIFactory": "2026-11-23",
-    "요즘것들": "2026-11-23"
+    "AIFactory": "2026-11-24",
+    "요즘것들": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
+    "콘테스트코리아": "2026-11-24",
+    "이벤터스": "2026-11-24",
+    "Dev-Event": "2026-11-24"
    },
    "host": "AIFactory",
    "applyStart": "2026-11-18",
@@ -3764,10 +4271,12 @@
    "confidence": "medium",
    "jev": 0.35,
    "url": "https://aifactory.space/task/9320/overview",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": "2026-12-19",
+   "dateNote": "출처마다 다름",
+   "eligibility": "중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 기타",
+   "eventDates": "심사 12.08~12.19 발표 12.19"
   },
   {
    "id": "3b928df658",
@@ -3778,7 +4287,7 @@
     "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179819"
    },
    "seenBySource": {
-    "스타트업레시피": "2026-11-23",
+    "스타트업레시피": "2026-11-24",
     "K-Startup": "2026-11-23"
    },
    "category": "funding",
@@ -3786,7 +4295,7 @@
    "confidence": "high",
    "jev": 0.05,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179819",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
@@ -3822,7 +4331,8 @@
    "lastSeen": "2026-11-23",
    "status": "open",
    "lastEvent": null,
-   "eventDates": "2026-11-09"
+   "eventDates": "2026-11-09",
+   "dateNote": "확인 필요"
   },
   {
    "id": "dedd15b40c",
@@ -3861,13 +4371,16 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202610270008"
    },
    "endBySource": {
-    "위비티": "2026-12-10",
+    "위비티": "2026-12-09",
     "씽굿": "2026-12-10",
     "링커리어": "2026-12-10",
     "콘테스트코리아": "2026-12-10"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "춘천MBC",
    "applyEnd": "2026-12-10",
@@ -3882,7 +4395,40 @@
    "applyStart": "2026-10-27",
    "prize": "200만원",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "eventDates": "심사 12.15~12.17 발표 12.17"
+   "eventDates": "심사 12.15~12.17 발표 12.17",
+   "dateNote": "출처마다 다름"
+  },
+  {
+   "id": "ac34bb2159",
+   "name": "2026년 서울교육 AI 활용 공모전",
+   "firstSeen": "2026-11-20",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112438",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113089"
+   },
+   "endBySource": {
+    "위비티": "2026-12-10",
+    "씽굿": "2026-12-11"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24"
+   },
+   "host": "서울특별시동부교육지원청",
+   "applyEnd": "2026-12-10",
+   "region": "서울",
+   "category": "idea",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.97,
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113089",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null,
+   "applyStart": "2026-11-16",
+   "prize": "50만원 상당",
+   "eligibility": "일반인, 기타",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "0eb53f887e",
@@ -3890,28 +4436,43 @@
    "firstSeen": "2026-11-14",
    "sources": {
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127906",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112472"
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112472",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113161",
+    "링커리어": "https://linkareer.com/activity/366236",
+    "요즘것들": "https://www.allforyoung.com/posts/90680",
+    "이벤터스": "https://event-us.kr/thecompanyc/event/140836"
    },
    "endBySource": {
     "기업마당": "2026-12-10",
-    "위비티": "2026-12-10"
+    "위비티": "2026-12-09",
+    "씽굿": "2026-12-10",
+    "링커리어": "2026-12-10",
+    "요즘것들": "2026-12-10",
+    "이벤터스": "2027-03-31"
    },
    "seenBySource": {
-    "기업마당": "2026-11-22",
-    "위비티": "2026-11-24"
+    "기업마당": "2026-11-24",
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "요즘것들": "2026-11-24",
+    "이벤터스": "2026-11-24"
    },
    "host": "농림축산식품부",
    "applyStart": "2026-11-13",
    "applyEnd": "2026-12-10",
-   "eligibility": "창업벤처",
+   "eligibility": "일반인, 기업",
    "category": "startup",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.04,
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127906",
+   "jev": 0.1,
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113161",
    "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": "2026-12-10",
+   "prize": "2500만원",
+   "eventDates": "2026-12-10",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "fcb2e09332",
@@ -3924,7 +4485,7 @@
     "기업마당": "2026-12-10"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "경상남도",
    "applyStart": "2026-11-19",
@@ -3936,7 +4497,7 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128060",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -3954,14 +4515,14 @@
    "confidence": "high",
    "jev": 0.17,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178802",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "K-Startup": "2026-12-11"
    },
    "seenBySource": {
-    "K-Startup": "2026-11-23"
+    "K-Startup": "2026-11-24"
    }
   },
   {
@@ -3990,7 +4551,7 @@
    },
    "seenBySource": {
     "위비티": "2026-11-20",
-    "이벤터스": "2026-11-22"
+    "이벤터스": "2026-11-24"
    },
    "host": "한국사회보장정보원, 대구가톨릭대학교",
    "applyEnd": "2026-12-11",
@@ -3999,44 +4560,13 @@
    "confidence": "high",
    "jev": 0.97,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112143",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "applyStart": "2026-10-21",
    "prize": "500만원",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "eventDates": "심사 11.23~12.03 발표 12.03",
-   "dateNote": "확인 필요"
-  },
-  {
-   "id": "ac34bb2159",
-   "name": "2026년 서울교육 AI 활용 공모전",
-   "firstSeen": "2026-11-20",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112438",
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113089"
-   },
-   "endBySource": {
-    "위비티": "2026-12-11",
-    "씽굿": "2026-12-11"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "서울특별시동부교육지원청",
-   "applyEnd": "2026-12-11",
-   "region": "서울",
-   "category": "idea",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.97,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113089",
-   "lastSeen": "2026-11-24",
-   "status": "open",
-   "lastEvent": null,
-   "applyStart": "2026-11-16",
-   "prize": "50만원 상당",
-   "eligibility": "일반인, 기타"
+   "eventDates": "심사 11.23~12.03 발표 12.03"
   },
   {
    "id": "0e3007476c",
@@ -4059,7 +4589,7 @@
    "confidence": "high",
    "jev": 0.18,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110283",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
@@ -4070,11 +4600,11 @@
     "콘테스트코리아": "2026-12-11"
    },
    "seenBySource": {
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23",
-    "올콘": "2026-11-23",
-    "요즘것들": "2026-11-23",
-    "콘테스트코리아": "2026-11-23"
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
+    "요즘것들": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
    },
    "eventDates": "심사 03.31~04.03 발표 01.05"
   },
@@ -4089,7 +4619,7 @@
     "기업마당": "2026-12-11"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "강원특별자치도",
    "applyStart": "2026-11-16",
@@ -4101,7 +4631,7 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127866",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -4116,7 +4646,7 @@
     "기업마당": "2026-12-11"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "대전광역시",
    "applyStart": "2026-10-28",
@@ -4126,9 +4656,9 @@
    "category": "funding",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.06,
+   "jev": 0.07,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127546",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -4142,12 +4672,14 @@
     "링커리어": "https://linkareer.com/activity/365775"
    },
    "endBySource": {
-    "위비티": "2026-12-11",
+    "위비티": "2026-12-10",
     "씽굿": "2026-12-11",
     "링커리어": "2026-12-11"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24"
    },
    "host": "밀양시",
    "applyEnd": "2026-12-11",
@@ -4161,7 +4693,8 @@
    "lastEvent": null,
    "applyStart": "2026-11-16",
    "prize": "50만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음"
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "d0db9a5bfb",
@@ -4174,7 +4707,7 @@
     "기업마당": "2026-12-11"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "전북특별자치도",
    "applyStart": "2026-11-19",
@@ -4186,7 +4719,7 @@
    "confidence": "high",
    "jev": 0.98,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128041",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -4195,13 +4728,19 @@
    "name": "📢AI학과 2026『일상의 편리를 위한 AI서비스개발 공모전』",
    "firstSeen": "2026-11-23",
    "sources": {
-    "요즘것들": "https://www.allforyoung.com/posts/90602"
+    "요즘것들": "https://www.allforyoung.com/posts/90602",
+    "링커리어": "https://linkareer.com/activity/366278",
+    "Dev-Event": "https://cms.sjcu.ac.kr/artificial-intelligence/community/data.do?mode=view&articleNo=138524"
    },
    "endBySource": {
-    "요즘것들": "2026-12-11"
+    "요즘것들": "2026-12-11",
+    "링커리어": "2026-12-11",
+    "Dev-Event": "2026-12-11"
    },
    "seenBySource": {
-    "요즘것들": "2026-11-23"
+    "요즘것들": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "Dev-Event": "2026-11-24"
    },
    "host": "세종사이버대학교 AI학과",
    "applyStart": "2026-10-06",
@@ -4209,11 +4748,41 @@
    "category": "dev",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.99,
-   "url": "https://www.allforyoung.com/posts/90602",
-   "lastSeen": "2026-11-23",
+   "jev": 0.98,
+   "url": "https://linkareer.com/activity/366278",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "eligibility": "대상 제한 없음",
+   "region": "세종"
+  },
+  {
+   "id": "efd6f695ef",
+   "name": "VIVID RE:PLAY 6개 IP로 만드는 AI영상 공모전",
+   "firstSeen": "2026-10-29",
+   "sources": {
+    "링커리어": "https://linkareer.com/activity/359442",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112021"
+   },
+   "endBySource": {
+    "위비티": "2026-12-12",
+    "링커리어": "2026-12-13"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24",
+    "링커리어": "2026-11-24"
+   },
+   "host": "ARKaiN(아캐인)",
+   "applyEnd": "2026-12-12",
+   "category": "creative",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.98,
+   "url": "https://linkareer.com/activity/359442",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null,
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "6cf1b27aaf",
@@ -4226,7 +4795,7 @@
     "이벤터스": "2026-12-12"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-22"
+    "이벤터스": "2026-11-24"
    },
    "host": "modu",
    "applyEnd": "2026-12-12",
@@ -4234,12 +4803,11 @@
    "category": "dev",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.87,
+   "jev": 0.88,
    "url": "https://event-us.kr/modu/event/131403",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
   },
   {
    "id": "4fecf61c62",
@@ -4268,33 +4836,6 @@
    "dateNote": "확인 필요"
   },
   {
-   "id": "efd6f695ef",
-   "name": "VIVID RE:PLAY 6개 IP로 만드는 AI영상 공모전",
-   "firstSeen": "2026-10-29",
-   "sources": {
-    "링커리어": "https://linkareer.com/activity/359442",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112021"
-   },
-   "endBySource": {
-    "위비티": "2026-12-13",
-    "링커리어": "2026-12-13"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24",
-    "링커리어": "2026-11-17"
-   },
-   "host": "ARKaiN(아캐인)",
-   "applyEnd": "2026-12-13",
-   "category": "creative",
-   "aiRelated": true,
-   "confidence": "high",
-   "jev": 0.98,
-   "url": "https://linkareer.com/activity/359442",
-   "lastSeen": "2026-11-24",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
    "id": "7af5baf3df",
    "name": "﻿VIVID RE: PLAY - 총상금 2천만원 AI 영상 창작 공모전",
    "firstSeen": "2026-10-29",
@@ -4313,11 +4854,11 @@
     "올콘": "2026-12-13"
    },
    "seenBySource": {
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
     "요즘것들": "2026-11-09",
     "이벤터스": "2026-11-22",
-    "올콘": "2026-11-23"
+    "올콘": "2026-11-24"
    },
    "host": "ARKAIN, VIVID",
    "applyStart": "2026-10-30",
@@ -4330,7 +4871,7 @@
    "jev": 0.97,
    "upcoming": true,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112354",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "eventDates": "2026-11-04"
@@ -4354,11 +4895,11 @@
     "올콘": "2026-12-13"
    },
    "seenBySource": {
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
     "콘테스트코리아": "2026-11-10",
-    "요즘것들": "2026-11-23",
-    "올콘": "2026-11-23"
+    "요즘것들": "2026-11-24",
+    "올콘": "2026-11-24"
    },
    "host": "주식회사 프롬프트뱅크",
    "applyStart": "2026-11-16",
@@ -4371,7 +4912,7 @@
    "jev": 0.98,
    "upcoming": true,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112747",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "eventDates": "심사 11.16~12.13 발표 12.13",
    "status": "open",
    "lastEvent": "2026-12-13"
@@ -4385,21 +4926,24 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112955",
     "링커리어": "https://linkareer.com/activity/364817",
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611160020",
-    "요즘것들": "https://www.allforyoung.com/posts/90386"
+    "요즘것들": "https://www.allforyoung.com/posts/90386",
+    "Dev-Event": "https://smartcity-ai.kr/"
    },
    "endBySource": {
     "씽굿": "2026-12-14",
     "링커리어": "2026-12-14",
     "콘테스트코리아": "2026-12-14",
     "요즘것들": "2026-12-14",
-    "위비티": "2026-12-14"
+    "위비티": "2026-12-13",
+    "Dev-Event": "2026-12-14"
    },
    "seenBySource": {
-    "씽굿": "2026-11-17",
-    "링커리어": "2026-11-17",
-    "콘테스트코리아": "2026-11-17",
-    "요즘것들": "2026-11-17",
-    "위비티": "2026-11-24"
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24",
+    "요즘것들": "2026-11-24",
+    "위비티": "2026-11-24",
+    "Dev-Event": "2026-11-24"
    },
    "host": "국토교통부",
    "applyStart": "2026-11-16",
@@ -4414,32 +4958,63 @@
    "lastSeen": "2026-11-24",
    "eventDates": "심사 12.15~12.31 발표 12.31",
    "status": "open",
-   "lastEvent": "2026-12-31"
+   "lastEvent": "2026-12-31",
+   "dateNote": "출처마다 다름"
   },
   {
-   "id": "f25b8bb9eb",
-   "name": "제1회 AI 영상 공모전 (AI가 상상하는 중국)",
+   "id": "2b47136af5",
+   "name": "전국 청소년 AI 경진대회",
    "firstSeen": "2026-11-24",
    "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112528"
+    "이벤터스": "https://event-us.kr/2026ai/event/136672"
    },
    "endBySource": {
-    "위비티": "2026-12-16"
+    "이벤터스": "2026-12-15"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "이벤터스": "2026-11-24"
    },
-   "host": "공자아카데미㈜",
-   "applyEnd": "2026-12-16",
-   "category": "creative",
+   "host": "2026ai",
+   "applyEnd": "2026-12-15",
+   "eventDates": "2026-12-15",
+   "category": "youth",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.99,
-   "upcoming": true,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112528",
+   "jev": 0.97,
+   "url": "https://event-us.kr/2026ai/event/136672",
    "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": "2026-12-15"
+  },
+  {
+   "id": "8f440573e1",
+   "name": "[(재)영월문화관광재단] 제60회 단종문화제 슬로건 공모전",
+   "firstSeen": "2026-11-20",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112443",
+    "링커리어": "https://linkareer.com/activity/365510"
+   },
+   "endBySource": {
+    "위비티": "2026-12-16",
+    "링커리어": "2026-12-17"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24",
+    "링커리어": "2026-11-24"
+   },
+   "host": "(재)영월문화관광재단",
+   "applyEnd": "2026-12-16",
+   "category": "creative",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.03,
+   "url": "https://linkareer.com/activity/365510",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null,
+   "applyStart": "2026-11-19",
+   "eligibility": "대상 제한 없음",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "df704f68f9",
@@ -4452,7 +5027,7 @@
     "기업마당": "2026-12-17"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "대구광역시",
    "applyStart": "2026-11-16",
@@ -4464,37 +5039,9 @@
    "confidence": "high",
    "jev": 0.83,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127965",
-   "lastSeen": "2026-11-23",
-   "status": "open",
-   "lastEvent": null
-  },
-  {
-   "id": "8f440573e1",
-   "name": "[(재)영월문화관광재단] 제60회 단종문화제 슬로건 공모전",
-   "firstSeen": "2026-11-20",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112443",
-    "링커리어": "https://linkareer.com/activity/365510"
-   },
-   "endBySource": {
-    "위비티": "2026-12-17",
-    "링커리어": "2026-12-17"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "(재)영월문화관광재단",
-   "applyEnd": "2026-12-17",
-   "category": "creative",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.03,
-   "url": "https://linkareer.com/activity/365510",
    "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "applyStart": "2026-11-19",
-   "eligibility": "대상 제한 없음"
+   "lastEvent": null
   },
   {
    "id": "207a1e8a66",
@@ -4536,34 +5083,6 @@
    "dateNote": "확인 필요"
   },
   {
-   "id": "9fab2ef190",
-   "name": "2026 연구 아이디어 기술사업화 챌린지",
-   "host": "biochallenge",
-   "category": "startup",
-   "applyStart": "2026-07-20",
-   "applyEnd": "2026-12-18",
-   "eventDates": "2026-08-05",
-   "eligibility": "바이오헬스 연구자 등",
-   "confidence": "high",
-   "aiRelated": false,
-   "url": "https://event-us.kr/biochallenge/event/129352",
-   "sources": {
-    "초기조사": "https://www.onoffmix.com/event/345213",
-    "이벤터스": "https://event-us.kr/biochallenge/event/129352"
-   },
-   "firstSeen": "2026-09-22",
-   "lastSeen": "2026-11-23",
-   "status": "open",
-   "lastEvent": null,
-   "endBySource": {
-    "이벤터스": "2026-12-18"
-   },
-   "seenBySource": {
-    "이벤터스": "2026-11-23"
-   },
-   "jev": 0.18
-  },
-  {
    "id": "335b4da1bd",
    "name": "2027년 상반기 KDB NextONE 14기 스타트업 모집",
    "firstSeen": "2026-11-19",
@@ -4572,7 +5091,7 @@
     "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179828"
    },
    "seenBySource": {
-    "스타트업레시피": "2026-11-23",
+    "스타트업레시피": "2026-11-24",
     "K-Startup": "2026-11-23"
    },
    "category": "startup",
@@ -4580,14 +5099,15 @@
    "confidence": "high",
    "jev": 0.15,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179828",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "region": "대구",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "K-Startup": "2026-12-18"
    },
-   "applyEnd": "2026-12-18"
+   "applyEnd": "2026-12-18",
+   "dateNote": "확인 필요"
   },
   {
    "id": "4f1a834072",
@@ -4612,7 +5132,8 @@
    "url": "https://event-us.kr/cnttech/event/139245",
    "lastSeen": "2026-11-23",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "dateNote": "확인 필요"
   },
   {
    "id": "f9f944d4ff",
@@ -4631,14 +5152,14 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117365",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "기업마당": "2026-12-18"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -4652,7 +5173,7 @@
     "기업마당": "2026-12-18"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "충청북도",
    "applyStart": "2026-10-01",
@@ -4664,7 +5185,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126978",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -4706,7 +5227,7 @@
     "콘테스트코리아": "2026-12-20"
    },
    "seenBySource": {
-    "콘테스트코리아": "2026-11-23"
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "세종사이버대학교",
    "applyStart": "2026-11-23",
@@ -4716,10 +5237,10 @@
    "category": "other",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.82,
+   "jev": 0.83,
    "upcoming": true,
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611190044",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-12-21"
   },
@@ -4735,13 +5256,15 @@
    },
    "endBySource": {
     "링커리어": "2026-12-20",
-    "위비티": "2026-12-20",
+    "위비티": "2026-12-19",
     "씽굿": "2026-12-20",
     "올콘": "2026-12-20"
    },
    "seenBySource": {
-    "링커리어": "2026-11-10",
-    "위비티": "2026-11-24"
+    "링커리어": "2026-11-24",
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "올콘": "2026-11-24"
    },
    "host": "saaskr",
    "applyStart": "2026-10-21",
@@ -4751,11 +5274,12 @@
    "category": "dev",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.93,
+   "jev": 0.94,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112862",
    "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "2b7e938211",
@@ -4768,13 +5292,16 @@
     "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112285"
    },
    "endBySource": {
-    "위비티": "2026-12-20",
+    "위비티": "2026-12-19",
     "씽굿": "2026-12-20",
     "링커리어": "2026-12-20",
     "올콘": "2026-12-20"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24"
    },
    "host": "세종사이버대학교",
    "applyEnd": "2026-12-20",
@@ -4790,7 +5317,8 @@
    "lastEvent": null,
    "applyStart": "2026-11-23",
    "prize": "200만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음"
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "9a8c678218",
@@ -4808,9 +5336,9 @@
    },
    "seenBySource": {
     "위비티": "2026-11-20",
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23",
-    "올콘": "2026-11-23"
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24"
    },
    "host": "월드 AI 사운드 마스터즈 협회 (WASMA)",
    "applyStart": "2026-11-18",
@@ -4823,11 +5351,10 @@
    "jev": 0.97,
    "upcoming": true,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113121",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
-   "prize": "300만원",
-   "dateNote": "확인 필요"
+   "prize": "300만원"
   },
   {
    "id": "c2e6adfb20",
@@ -4851,7 +5378,7 @@
     "씽굿": "2026-10-29",
     "링커리어": "2026-10-29",
     "요즘것들": "2026-10-29",
-    "Dev-Event": "2026-11-23",
+    "Dev-Event": "2026-11-24",
     "올콘": "2026-11-06"
    },
    "host": "헥토",
@@ -4864,10 +5391,9 @@
    "confidence": "high",
    "jev": 0.93,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112278",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
+   "lastEvent": null
   },
   {
    "id": "10af187a91",
@@ -4880,7 +5406,7 @@
     "기업마당": "2026-12-22"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "과학기술정보통신부",
    "applyStart": "2026-11-17",
@@ -4889,9 +5415,9 @@
    "category": "other",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.25,
+   "jev": 0.27,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127992",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -4906,13 +5432,16 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611110005"
    },
    "endBySource": {
-    "위비티": "2026-12-23",
+    "위비티": "2026-12-22",
     "링커리어": "2026-12-23",
     "씽굿": "2026-12-23",
     "콘테스트코리아": "2026-12-23"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "부산과학기술대학교",
    "applyEnd": "2026-12-23",
@@ -4928,7 +5457,8 @@
    "applyStart": "2026-11-09",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음, 기타",
    "prize": "100만원",
-   "eventDates": "심사 11.09~01.13 발표 01.20"
+   "eventDates": "심사 11.09~01.13 발표 01.20",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "9b6a55b98c",
@@ -4960,14 +5490,15 @@
     "씽굿": "2026-12-23",
     "링커리어": "2026-12-23",
     "콘테스트코리아": "2026-12-23",
-    "위비티": "2026-12-23"
+    "위비티": "2026-12-22"
    },
    "seenBySource": {
-    "씽굿": "2026-11-19",
-    "링커리어": "2026-11-19",
-    "콘테스트코리아": "2026-09-28",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24",
     "위비티": "2026-11-24"
-   }
+   },
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "69d464768e",
@@ -4980,7 +5511,7 @@
     "링커리어": "2026-12-27"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23"
+    "링커리어": "2026-11-24"
    },
    "host": "국립대학육성사업 발전협의회",
    "applyStart": "2026-11-02",
@@ -4991,7 +5522,7 @@
    "confidence": "high",
    "jev": 0.07,
    "url": "https://linkareer.com/activity/361690",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -5059,14 +5590,141 @@
    "lastEvent": null,
    "endBySource": {
     "올콘": "2026-12-28",
-    "위비티": "2026-12-28",
+    "위비티": "2026-12-27",
     "콘테스트코리아": "2026-12-28",
     "씽굿": "2026-12-28"
    },
    "seenBySource": {
-    "올콘": "2026-09-28",
+    "올콘": "2026-11-24",
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
+   },
+   "prize": "1,000만원",
+   "eventDates": "심사 01.04~01.11 발표 01.18",
+   "dateNote": "출처마다 다름"
+  },
+  {
+   "id": "7f63f8c45e",
+   "name": "2026년 대구동구청년센터 청년도전지원사업",
+   "firstSeen": "2026-09-25",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=104233"
+   },
+   "host": "고용노동부",
+   "applyEnd": "2026-12-30",
+   "region": "대구",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.12,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=104233",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null,
+   "endBySource": {
+    "위비티": "2026-12-30"
+   },
+   "seenBySource": {
     "위비티": "2026-11-24"
    }
+  },
+  {
+   "id": "ef8ca2b05b",
+   "name": "[CPU AI 설교연구소 x 미주복음방송(KGBC)] AI와 신학 논문 공모전",
+   "host": "CPU AI 설교연구소 x 미주복음방송(KGBC)",
+   "category": "academic",
+   "applyEnd": "2026-12-30",
+   "confidence": "high",
+   "aiRelated": true,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111065",
+   "sources": {
+    "초기조사": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111065",
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111065"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-11-24",
+   "jev": 0.96,
+   "status": "open",
+   "lastEvent": null,
+   "endBySource": {
+    "위비티": "2026-12-30"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   }
+  },
+  {
+   "id": "84b8c1fc58",
+   "name": "[고용노동부] 2026년 당진시 청년도전지원사업",
+   "firstSeen": "2026-09-25",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=104344"
+   },
+   "host": "고용노동부",
+   "applyEnd": "2026-12-30",
+   "category": "funding",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.07,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=104344",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null,
+   "endBySource": {
+    "위비티": "2026-12-30"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   }
+  },
+  {
+   "id": "2263f516f8",
+   "name": "공모전 준비 중이라면? AI 교정 서비스 [교정의 신]과 함께!",
+   "firstSeen": "2026-10-21",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111812"
+   },
+   "endBySource": {
+    "위비티": "2026-12-30"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   },
+   "host": "교정의 신",
+   "applyEnd": "2026-12-30",
+   "category": "other",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.2,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111812",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
+  },
+  {
+   "id": "6e6819bb3a",
+   "name": "대만의 동쪽 23.5°N 국제 관광 시간제한 영상 창작 공모전 East of Taiwan 23.5°N: International Tourism Film limited-time Challenge",
+   "firstSeen": "2026-11-13",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112330"
+   },
+   "endBySource": {
+    "위비티": "2026-12-30"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24"
+   },
+   "host": "교통부 관광서 화둥종곡 국가풍경구 관리처",
+   "applyEnd": "2026-12-30",
+   "category": "tourism",
+   "aiRelated": false,
+   "confidence": "high",
+   "jev": 0.04,
+   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112330",
+   "lastSeen": "2026-11-24",
+   "status": "open",
+   "lastEvent": null
   },
   {
    "id": "83a30877fc",
@@ -5078,12 +5736,14 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112189"
    },
    "endBySource": {
-    "위비티": "2026-12-31",
+    "위비티": "2026-12-30",
     "씽굿": "2026-12-31",
     "링커리어": "2026-12-31"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24"
    },
    "host": "중앙대학교",
    "applyEnd": "2026-12-31",
@@ -5097,7 +5757,8 @@
    "lastEvent": null,
    "applyStart": "2026-10-20",
    "prize": "30만원",
-   "eligibility": "기타"
+   "eligibility": "기타",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "c1ba958729",
@@ -5109,26 +5770,29 @@
     "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112913"
    },
    "endBySource": {
-    "위비티": "2026-12-31",
+    "위비티": "2026-12-30",
     "씽굿": "2026-12-31",
     "링커리어": "2026-12-31"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24"
    },
    "host": "SCENE",
    "applyEnd": "2026-12-31",
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.93,
+   "jev": 0.91,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112913",
    "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "applyStart": "2026-11-01",
    "prize": "300만원",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음"
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "b3db27777f",
@@ -5146,14 +5810,14 @@
    "confidence": "high",
    "jev": 0.21,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121478",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "기업마당": "2026-12-31"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -5171,16 +5835,16 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.91,
+   "jev": 0.92,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126910",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "기업마당": "2026-12-31"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -5198,16 +5862,15 @@
    "confidence": "high",
    "jev": 0.19,
    "url": "https://event-us.kr/cnttech/event/126658",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "이벤터스": "2026-12-31"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-22"
-   },
-   "dateNote": "확인 필요"
+    "이벤터스": "2026-11-24"
+   }
   },
   {
    "id": "c22765d2f8",
@@ -5225,40 +5888,14 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119567",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "기업마당": "2026-12-31"
    },
    "seenBySource": {
-    "기업마당": "2026-11-22"
-   },
-   "dateNote": "확인 필요"
-  },
-  {
-   "id": "7f63f8c45e",
-   "name": "2026년 대구동구청년센터 청년도전지원사업",
-   "firstSeen": "2026-09-25",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=104233"
-   },
-   "host": "고용노동부",
-   "applyEnd": "2026-12-31",
-   "region": "대구",
-   "category": "funding",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.12,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=104233",
-   "lastSeen": "2026-11-24",
-   "status": "open",
-   "lastEvent": null,
-   "endBySource": {
-    "위비티": "2026-12-31"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -5276,7 +5913,7 @@
    "confidence": "high",
    "jev": 0.14,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "eligibility": "창업벤처",
@@ -5284,8 +5921,8 @@
     "K-Startup": "2026-12-31"
    },
    "seenBySource": {
-    "K-Startup": "2026-11-23",
-    "기업마당": "2026-11-23"
+    "K-Startup": "2026-11-24",
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -5304,14 +5941,14 @@
    "confidence": "high",
    "jev": 0.13,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119624",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "기업마당": "2026-12-31"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -5355,7 +5992,7 @@
    "confidence": "high",
    "jev": 0.14,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "eligibility": "중소기업",
@@ -5363,8 +6000,8 @@
     "K-Startup": "2026-12-31"
    },
    "seenBySource": {
-    "K-Startup": "2026-11-23",
-    "기업마당": "2026-11-23"
+    "K-Startup": "2026-11-24",
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -5378,7 +6015,7 @@
     "기업마당": "2026-12-31"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "충청북도",
    "applyStart": "2026-11-09",
@@ -5390,35 +6027,9 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127669",
-   "lastSeen": "2026-11-23",
-   "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
-  },
-  {
-   "id": "ef8ca2b05b",
-   "name": "[CPU AI 설교연구소 x 미주복음방송(KGBC)] AI와 신학 논문 공모전",
-   "host": "CPU AI 설교연구소 x 미주복음방송(KGBC)",
-   "category": "academic",
-   "applyEnd": "2026-12-31",
-   "confidence": "high",
-   "aiRelated": true,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111065",
-   "sources": {
-    "초기조사": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111065",
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111065"
-   },
-   "firstSeen": "2026-09-22",
    "lastSeen": "2026-11-24",
-   "jev": 0.96,
    "status": "open",
-   "lastEvent": null,
-   "endBySource": {
-    "위비티": "2026-12-31"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   }
+   "lastEvent": null
   },
   {
    "id": "514c097f7e",
@@ -5437,14 +6048,14 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118943",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "기업마당": "2026-12-31"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -5464,14 +6075,14 @@
    "confidence": "high",
    "jev": 0.25,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123753",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "기업마당": "2026-12-31"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -5491,39 +6102,14 @@
    "confidence": "high",
    "jev": 0.94,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122863",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "기업마당": "2026-12-31"
    },
    "seenBySource": {
-    "기업마당": "2026-11-22"
-   },
-   "dateNote": "확인 필요"
-  },
-  {
-   "id": "84b8c1fc58",
-   "name": "[고용노동부] 2026년 당진시 청년도전지원사업",
-   "firstSeen": "2026-09-25",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=104344"
-   },
-   "host": "고용노동부",
-   "applyEnd": "2026-12-31",
-   "category": "funding",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.07,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=104344",
-   "lastSeen": "2026-11-24",
-   "status": "open",
-   "lastEvent": null,
-   "endBySource": {
-    "위비티": "2026-12-31"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -5543,37 +6129,37 @@
    "confidence": "high",
    "jev": 0.69,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119235",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "endBySource": {
     "기업마당": "2026-12-31"
    },
    "seenBySource": {
-    "기업마당": "2026-11-22"
-   },
-   "dateNote": "확인 필요"
+    "기업마당": "2026-11-24"
+   }
   },
   {
-   "id": "2263f516f8",
-   "name": "공모전 준비 중이라면? AI 교정 서비스 [교정의 신]과 함께!",
-   "firstSeen": "2026-10-21",
+   "id": "7dd826a030",
+   "name": "[안양대학교 창업보육센터] 2026년 하반기 신규 입주기업 모집",
+   "firstSeen": "2026-11-24",
    "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111812"
+    "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179866",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5842424"
    },
    "endBySource": {
-    "위비티": "2026-12-31"
+    "K-Startup": "2026-12-31"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "K-Startup": "2026-11-24",
+    "스타트업레시피": "2026-11-24"
    },
-   "host": "교정의 신",
    "applyEnd": "2026-12-31",
-   "category": "other",
-   "aiRelated": true,
+   "category": "funding",
+   "aiRelated": false,
    "confidence": "high",
-   "jev": 0.2,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=111812",
+   "jev": 0.05,
+   "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179866",
    "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
@@ -5591,8 +6177,8 @@
     "콘테스트코리아": "2026-12-31"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23",
-    "콘테스트코리아": "2026-11-23"
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "교통부 관광서 화둥종곡 국가풍경구 관리처",
    "applyStart": "2026-11-21",
@@ -5603,33 +6189,8 @@
    "confidence": "high",
    "jev": 0.06,
    "url": "https://linkareer.com/activity/366099",
-   "lastSeen": "2026-11-23",
-   "eventDates": "심사 01.01~03.11 발표 03.12",
-   "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
-  },
-  {
-   "id": "6e6819bb3a",
-   "name": "대만의 동쪽 23.5°N 국제 관광 시간제한 영상 창작 공모전 East of Taiwan 23.5°N: International Tourism Film limited-time Challenge",
-   "firstSeen": "2026-11-13",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112330"
-   },
-   "endBySource": {
-    "위비티": "2026-12-31"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "교통부 관광서 화둥종곡 국가풍경구 관리처",
-   "applyEnd": "2026-12-31",
-   "category": "tourism",
-   "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.04,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112330",
    "lastSeen": "2026-11-24",
+   "eventDates": "심사 01.01~03.11 발표 03.12",
    "status": "open",
    "lastEvent": null
   },
@@ -5649,7 +6210,7 @@
     "올콘": "https://www.all-con.co.kr/view/contest/527680"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "jev": 0.59,
    "status": "open",
    "lastEvent": null,
@@ -5657,7 +6218,7 @@
     "올콘": "2026-12-31"
    },
    "seenBySource": {
-    "올콘": "2026-11-23"
+    "올콘": "2026-11-24"
    }
   },
   {
@@ -5676,7 +6237,7 @@
     "올콘": "https://www.all-con.co.kr/view/contest/527678"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "jev": 0.65,
    "status": "open",
    "lastEvent": null,
@@ -5684,7 +6245,7 @@
     "올콘": "2026-12-31"
    },
    "seenBySource": {
-    "올콘": "2026-11-23"
+    "올콘": "2026-11-24"
    }
   },
   {
@@ -5725,7 +6286,7 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202608270057"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "jev": 0.96,
    "status": "open",
    "lastEvent": null,
@@ -5733,7 +6294,7 @@
     "콘테스트코리아": "2026-12-31"
    },
    "seenBySource": {
-    "콘테스트코리아": "2026-11-23"
+    "콘테스트코리아": "2026-11-24"
    }
   },
   {
@@ -5745,14 +6306,14 @@
     "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202610210002"
    },
    "endBySource": {
-    "위비티": "2027-01-06",
+    "위비티": "2027-01-05",
     "콘테스트코리아": "2027-01-06"
    },
    "seenBySource": {
     "위비티": "2026-11-24"
    },
    "host": "방송미디어통신위원회",
-   "applyEnd": "2027-01-06",
+   "applyEnd": "2027-01-05",
    "region": "대전",
    "category": "creative",
    "aiRelated": true,
@@ -5771,25 +6332,39 @@
    "name": "제1회 서울국제AI광고영상제 (SIADAFF)",
    "firstSeen": "2026-11-24",
    "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112508"
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112508",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113194",
+    "링커리어": "https://linkareer.com/activity/366445",
+    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611230037"
    },
    "endBySource": {
-    "위비티": "2027-01-07"
+    "위비티": "2027-01-06",
+    "씽굿": "2027-01-07",
+    "링커리어": "2027-01-07",
+    "콘테스트코리아": "2027-01-07"
    },
    "seenBySource": {
-    "위비티": "2026-11-24"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "콘테스트코리아": "2026-11-24"
    },
-   "host": "(주)케이미디어진흥원",
+   "host": "주식회사 케이미디어진흥원",
    "applyEnd": "2027-01-07",
    "region": "서울",
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.97,
-   "url": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112508",
+   "jev": 0.94,
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113194",
    "lastSeen": "2026-11-24",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "applyStart": "2026-10-10",
+   "prize": "100만원",
+   "eligibility": "고등학생, 대학생, 일반인, 기업",
+   "eventDates": "심사 10.10~01.07 발표 01.08",
+   "dateNote": "출처마다 다름"
   },
   {
    "id": "42df0ae024",
@@ -5808,10 +6383,10 @@
     "요즘것들": "2027-01-10"
    },
    "seenBySource": {
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
     "콘테스트코리아": "2026-11-20",
-    "요즘것들": "2026-11-23"
+    "요즘것들": "2026-11-24"
    },
    "host": "Superb AI × BDAI",
    "applyStart": "2026-11-16",
@@ -5823,7 +6398,7 @@
    "confidence": "high",
    "jev": 0.99,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113007",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "eventDates": "심사 02.14~02.26 발표 02.27",
    "status": "open",
    "lastEvent": null
@@ -5839,7 +6414,7 @@
     "링커리어": "2027-01-10"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23"
+    "링커리어": "2026-11-24"
    },
    "host": "이오고대사연구소",
    "applyStart": "2026-11-04",
@@ -5848,9 +6423,9 @@
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.86,
+   "jev": 0.84,
    "url": "https://linkareer.com/activity/365114",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -5873,7 +6448,7 @@
    },
    "seenBySource": {
     "요즘것들": "2026-10-12",
-    "링커리어": "2026-11-23",
+    "링커리어": "2026-11-24",
     "올콘": "2026-11-19"
    },
    "host": "루프웍스",
@@ -5884,7 +6459,7 @@
    "confidence": "high",
    "jev": 0.89,
    "url": "https://linkareer.com/activity/355997",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "eligibility": "대상 제한 없음"
@@ -5905,7 +6480,7 @@
    },
    "seenBySource": {
     "위비티": "2026-11-13",
-    "요즘것들": "2026-11-23"
+    "요즘것들": "2026-11-24"
    },
    "host": "ChangeX (체인지엑스) / 후원: 아마존",
    "applyStart": "2026-11-09",
@@ -5913,37 +6488,6 @@
    "region": "인천",
    "category": "funding",
    "aiRelated": false,
-   "confidence": "high",
-   "jev": 0.95,
-   "upcoming": true,
-   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112499",
-   "lastSeen": "2026-11-13",
-   "status": "open",
-   "lastEvent": null,
-   "dateNote": "확인 필요"
-  },
-  {
-   "id": "35c8930651",
-   "name": "2026–27 스토리리그 AI 영상 예고편 공모전",
-   "firstSeen": "2026-11-14",
-   "sources": {
-    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112066",
-    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112499",
-    "링커리어": "https://linkareer.com/activity/361280",
-    "올콘": "https://www.all-con.co.kr/view/contest/544946",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202610310004",
-    "요즘것들": "https://www.allforyoung.com/posts/90080"
-   },
-   "endBySource": {
-    "위비티": "2027-01-30"
-   },
-   "seenBySource": {
-    "위비티": "2026-11-24"
-   },
-   "host": "TNJ INTERNATIONAL",
-   "applyEnd": "2027-01-30",
-   "category": "creative",
-   "aiRelated": true,
    "confidence": "high",
    "jev": 0.95,
    "upcoming": true,
@@ -5970,7 +6514,7 @@
     "이벤터스": "https://event-us.kr/trendly/event/128410"
    },
    "firstSeen": "2026-09-22",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "jev": 0.97,
    "status": "open",
    "lastEvent": null,
@@ -5978,9 +6522,8 @@
     "이벤터스": "2027-02-28"
    },
    "seenBySource": {
-    "이벤터스": "2026-11-21"
-   },
-   "dateNote": "확인 필요"
+    "이벤터스": "2026-11-24"
+   }
   },
   {
    "id": "180e7c8b28",
@@ -6032,7 +6575,8 @@
    "url": "https://event-us.kr/qkSOiGWESXsL/event/140796",
    "lastSeen": "2026-11-23",
    "status": "open",
-   "lastEvent": null
+   "lastEvent": null,
+   "dateNote": "확인 필요"
   },
   {
    "id": "9cdbb912b2",
@@ -6085,7 +6629,8 @@
    },
    "host": "2026kicxup2",
    "applyEnd": "2027-07-08",
-   "eventDates": "2026-11-18"
+   "eventDates": "2026-11-18",
+   "dateNote": "확인 필요"
   },
   {
    "id": "8736f6e886",
@@ -6098,7 +6643,7 @@
     "링커리어": "2027-11-16"
    },
    "seenBySource": {
-    "링커리어": "2026-11-23"
+    "링커리어": "2026-11-24"
    },
    "host": "부산항만공사",
    "applyStart": "2026-10-21",
@@ -6109,7 +6654,7 @@
    "confidence": "high",
    "jev": 0.13,
    "url": "https://linkareer.com/activity/360251",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -6352,11 +6897,11 @@
    "confidence": "high",
    "jev": 0.45,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124841",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6374,11 +6919,11 @@
    "confidence": "high",
    "jev": 0.3,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119051",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6396,11 +6941,11 @@
    "confidence": "high",
    "jev": 0.49,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119170",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6418,11 +6963,11 @@
    "confidence": "high",
    "jev": 0.21,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118858",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6440,11 +6985,11 @@
    "confidence": "high",
    "jev": 0.63,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122609",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6462,11 +7007,11 @@
    "confidence": "high",
    "jev": 0.06,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119817",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6483,11 +7028,11 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120707",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6498,7 +7043,7 @@
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127511"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "산업통상부",
    "eligibility": "중소기업",
@@ -6507,7 +7052,7 @@
    "confidence": "high",
    "jev": 0.88,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127511",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -6544,11 +7089,11 @@
    "confidence": "high",
    "jev": 0.06,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120097",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6565,11 +7110,11 @@
    "confidence": "high",
    "jev": 0.13,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120215",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6580,7 +7125,7 @@
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126552"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "산업통상부",
    "eligibility": "중소기업",
@@ -6589,7 +7134,7 @@
    "confidence": "high",
    "jev": 0.92,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126552",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -6607,11 +7152,11 @@
    "confidence": "high",
    "jev": 0.48,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121226",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6622,7 +7167,7 @@
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127466"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "교육부",
    "eligibility": "창업벤처",
@@ -6631,7 +7176,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127466",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -6649,11 +7194,11 @@
    "confidence": "high",
    "jev": 0.11,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121791",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6670,11 +7215,11 @@
    "confidence": "high",
    "jev": 0.31,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120527",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6691,11 +7236,11 @@
    "confidence": "high",
    "jev": 0.55,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000115994",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6712,11 +7257,11 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121175",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6727,7 +7272,7 @@
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127373"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "산업통상부",
    "eligibility": "중소기업",
@@ -6736,7 +7281,7 @@
    "confidence": "high",
    "jev": 0.92,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127373",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -6777,11 +7322,11 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119999",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6798,11 +7343,11 @@
    "confidence": "high",
    "jev": 0.08,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118350",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6820,11 +7365,11 @@
    "confidence": "high",
    "jev": 0.38,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120946",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6859,11 +7404,11 @@
    "confidence": "high",
    "jev": 0.42,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000116008",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6881,11 +7426,11 @@
    "confidence": "high",
    "jev": 0.36,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117984",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6903,11 +7448,11 @@
    "confidence": "high",
    "jev": 0.45,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118729",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6925,11 +7470,11 @@
    "confidence": "high",
    "jev": 0.31,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122229",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -6965,11 +7510,11 @@
    "confidence": "high",
    "jev": 0.91,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126667",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7120,7 +7665,7 @@
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128016"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "산업통상부",
    "eligibility": "중소기업",
@@ -7129,7 +7674,7 @@
    "confidence": "high",
    "jev": 0.96,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128016",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -7141,16 +7686,16 @@
     "Dev-Event": "https://luma.com/aisecurityseoul"
    },
    "seenBySource": {
-    "Dev-Event": "2026-11-23"
+    "Dev-Event": "2026-11-24"
    },
    "host": "AI Builders · GMI Cloud · F5 · NVIDIA",
    "eventDates": "2026-12-11 ~ 2026-12-11",
    "category": "hackathon",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.95,
+   "jev": 0.96,
    "url": "https://luma.com/aisecurityseoul",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": "2026-12-11"
   },
@@ -7291,11 +7836,11 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125634",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7313,11 +7858,11 @@
    "confidence": "high",
    "jev": 0.07,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123862",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7335,11 +7880,11 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124471",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7372,7 +7917,7 @@
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127227"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "산업통상부",
    "eligibility": "중소기업",
@@ -7382,7 +7927,7 @@
    "confidence": "high",
    "jev": 0.97,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127227",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -7401,11 +7946,11 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121634",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7416,7 +7961,7 @@
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126774"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "경기도",
    "eligibility": "창업벤처",
@@ -7426,7 +7971,7 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126774",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -7445,11 +7990,11 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125974",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7467,11 +8012,11 @@
    "confidence": "high",
    "jev": 0.73,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125928",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7487,13 +8032,13 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.53,
+   "jev": 0.55,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126877",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7511,11 +8056,11 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117277",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7533,11 +8078,11 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125770",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7555,11 +8100,11 @@
    "confidence": "high",
    "jev": 0.42,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126739",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7599,11 +8144,11 @@
    "confidence": "high",
    "jev": 0.93,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120871",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7621,11 +8166,11 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125189",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7643,11 +8188,11 @@
    "confidence": "high",
    "jev": 0.13,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124442",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7665,11 +8210,11 @@
    "confidence": "high",
    "jev": 0.03,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117118",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7687,11 +8232,11 @@
    "confidence": "high",
    "jev": 0.6,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121614",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7709,11 +8254,11 @@
    "confidence": "high",
    "jev": 0.65,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117371",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7731,11 +8276,11 @@
    "confidence": "high",
    "jev": 0.1,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126762",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7746,7 +8291,7 @@
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127238"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "대전광역시",
    "eligibility": "창업벤처",
@@ -7756,7 +8301,7 @@
    "confidence": "high",
    "jev": 0.04,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127238",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -7797,11 +8342,11 @@
    "confidence": "high",
    "jev": 0.18,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121931",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7819,11 +8364,11 @@
    "confidence": "high",
    "jev": 0.77,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126209",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7841,11 +8386,11 @@
    "confidence": "high",
    "jev": 0.8,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125560",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7863,11 +8408,11 @@
    "confidence": "high",
    "jev": 0.64,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123596",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7885,11 +8430,11 @@
    "confidence": "high",
    "jev": 0.14,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120414",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7907,11 +8452,11 @@
    "confidence": "high",
    "jev": 0.31,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122551",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7929,11 +8474,11 @@
    "confidence": "high",
    "jev": 0.2,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121243",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7951,11 +8496,11 @@
    "confidence": "high",
    "jev": 0.01,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121148",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -7995,11 +8540,11 @@
    "confidence": "high",
    "jev": 0.9,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124130",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8017,11 +8562,11 @@
    "confidence": "high",
    "jev": 0.89,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125775",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8039,11 +8584,11 @@
    "confidence": "high",
    "jev": 0.85,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126109",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8061,11 +8606,11 @@
    "confidence": "high",
    "jev": 0.71,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121239",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8083,11 +8628,11 @@
    "confidence": "high",
    "jev": 0.93,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123291",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8105,11 +8650,11 @@
    "confidence": "high",
    "jev": 0.78,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126776",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8149,11 +8694,11 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123091",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8164,7 +8709,7 @@
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127939"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "제주특별자치도",
    "eligibility": "소상공인",
@@ -8172,9 +8717,9 @@
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.43,
+   "jev": 0.45,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127939",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -8193,11 +8738,11 @@
    "confidence": "high",
    "jev": 0.02,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126349",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8215,11 +8760,11 @@
    "confidence": "high",
    "jev": 0.34,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123108",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8237,11 +8782,11 @@
    "confidence": "high",
    "jev": 0.91,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118617",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8336,11 +8881,11 @@
    "confidence": "high",
    "jev": 0.16,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000116004",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null,
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    }
   },
   {
@@ -8370,16 +8915,16 @@
     "기업마당": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126963"
    },
    "seenBySource": {
-    "기업마당": "2026-11-23"
+    "기업마당": "2026-11-24"
    },
    "host": "산업통상부",
    "eligibility": "중소기업",
    "category": "funding",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.5,
+   "jev": 0.52,
    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126963",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "open",
    "lastEvent": null
   },
@@ -8497,6 +9042,71 @@
    "lastEvent": "2026-11-05"
   },
   {
+   "id": "f25b8bb9eb",
+   "name": "제1회 AI 영상 공모전 (AI가 상상하는 중국)",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "위비티": "https://www.wevity.com/?c=find&s=1&gbn=view&ix=112528",
+    "씽굿": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113189",
+    "올콘": "https://www.all-con.co.kr/view/contest/545464",
+    "요즘것들": "https://www.allforyoung.com/posts/90721"
+   },
+   "endBySource": {
+    "위비티": "2026-12-15",
+    "씽굿": "2026-12-16",
+    "올콘": "2026-12-16",
+    "요즘것들": "2026-12-16"
+   },
+   "seenBySource": {
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "올콘": "2026-11-24",
+    "요즘것들": "2026-11-24"
+   },
+   "host": "공자아카데미(주)",
+   "applyEnd": "2026-12-16",
+   "category": "creative",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.98,
+   "upcoming": true,
+   "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=113189",
+   "lastSeen": "2026-11-24",
+   "status": "upcoming",
+   "lastEvent": null,
+   "applyStart": "2026-11-25",
+   "prize": "상품권 50만원, 주한중국대사관 명의 상장",
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "dateNote": "출처마다 다름"
+  },
+  {
+   "id": "c91aa021b8",
+   "name": "제1회 멜로이 대학생 AI 채팅 콘텐츠 공모전",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "링커리어": "https://linkareer.com/activity/366078"
+   },
+   "endBySource": {
+    "링커리어": "2027-01-10"
+   },
+   "seenBySource": {
+    "링커리어": "2026-11-24"
+   },
+   "host": "네오사피엔스 주식회사",
+   "applyStart": "2026-12-01",
+   "applyEnd": "2027-01-10",
+   "prize": "멜로이 오리지널 전환 제안",
+   "eligibility": "대학생",
+   "category": "creative",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.98,
+   "url": "https://linkareer.com/activity/366078",
+   "lastSeen": "2026-11-24",
+   "status": "upcoming",
+   "lastEvent": null
+  },
+  {
    "id": "35c8930651",
    "name": "2026–27 스토리리그 AI 영상 예고편 공모전",
    "firstSeen": "2026-11-14",
@@ -8509,18 +9119,18 @@
     "요즘것들": "https://www.allforyoung.com/posts/90080"
    },
    "endBySource": {
-    "위비티": "2027-01-30",
+    "위비티": "2027-01-29",
     "씽굿": "2027-01-30",
     "링커리어": "2027-01-30",
     "올콘": "2027-01-30",
     "요즘것들": "2027-01-30"
    },
    "seenBySource": {
-    "위비티": "2026-11-23",
-    "씽굿": "2026-11-23",
-    "링커리어": "2026-11-23",
-    "올콘": "2026-11-23",
-    "요즘것들": "2026-11-23"
+    "위비티": "2026-11-24",
+    "씽굿": "2026-11-24",
+    "링커리어": "2026-11-24",
+    "올콘": "2026-11-24",
+    "요즘것들": "2026-11-24"
    },
    "host": "티엔제이인터내셔널",
    "applyEnd": "2027-01-30",
@@ -8530,12 +9140,38 @@
    "jev": 0.95,
    "upcoming": true,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112499",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "upcoming",
    "lastEvent": null,
    "applyStart": "2026-11-30",
    "prize": "200만원",
-   "eligibility": "중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 기타"
+   "eligibility": "중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 기타",
+   "dateNote": "출처마다 다름"
+  },
+  {
+   "id": "3b72db448b",
+   "name": "2027 제 2회 Superb AI X BDAI Vision AI Hackathon",
+   "firstSeen": "2026-11-24",
+   "sources": {
+    "Dev-Event": "https://bdai.co.kr/lectures/contest/18/"
+   },
+   "endBySource": {
+    "Dev-Event": "2028-01-10"
+   },
+   "seenBySource": {
+    "Dev-Event": "2026-11-24"
+   },
+   "host": "Superb AI × BDAI",
+   "applyStart": "2027-11-16",
+   "applyEnd": "2028-01-10",
+   "category": "hackathon",
+   "aiRelated": true,
+   "confidence": "high",
+   "jev": 0.98,
+   "url": "https://bdai.co.kr/lectures/contest/18/",
+   "lastSeen": "2026-11-24",
+   "status": "upcoming",
+   "lastEvent": null
   },
   {
    "id": "f003af9ad8",
@@ -11260,43 +11896,6 @@
    "dateNote": "확인 필요"
   },
   {
-   "id": "5c19c21a75",
-   "name": "2026 동남권 이노베이션 해커톤 ICT INNOHACK",
-   "firstSeen": "2026-11-15",
-   "sources": {
-    "링커리어": "https://linkareer.com/activity/364458",
-    "콘테스트코리아": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611140023",
-    "요즘것들": "https://www.allforyoung.com/posts/90325",
-    "이벤터스": "https://event-us.kr/pathfinder/event/140236"
-   },
-   "endBySource": {
-    "링커리어": "2026-11-17",
-    "콘테스트코리아": "2026-11-17",
-    "요즘것들": "2026-11-17",
-    "이벤터스": "2026-11-27"
-   },
-   "seenBySource": {
-    "링커리어": "2026-11-15",
-    "콘테스트코리아": "2026-11-23",
-    "요즘것들": "2026-11-15",
-    "이벤터스": "2026-11-23"
-   },
-   "host": "주식회사 패스파인더",
-   "applyStart": "2026-11-14",
-   "applyEnd": "2026-11-17",
-   "eligibility": "대학생, 직장인/일반인",
-   "category": "hackathon",
-   "aiRelated": true,
-   "confidence": "medium",
-   "jev": 0.28,
-   "url": "https://linkareer.com/activity/364458",
-   "lastSeen": "2026-11-23",
-   "eventDates": "심사 11.27~11.28 발표 11.24 D-2 마감임박 27 //--> --> 사진•영상•영화제 2026 구미 미래교육 가족 콘텐츠 공모전 - '구미 미래 잇다' 가족숏폼공모전 0 주최 . 경상북도 구미시 학부모회장협의회 대상 . 초등학생 , 중학생 , 고등학생 , 해당자 ▶ 접수 10.24~11.22 심사 11.23~11.30 발표 12.04 D-7 마감임박 43 //--> --> 음악•콩쿠르•댄스 제3회 마에스토소 콩쿠르 0 주최 . 엠매니지먼트 대상 . 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 접수 11.13~12.28 심사 12.31 발표 12.31",
-   "dateNote": "확인 필요",
-   "status": "in_progress",
-   "lastEvent": "2026-12-31"
-  },
-  {
    "id": "75cc4fe6bc",
    "name": "2026 현장문제 AX 업무혁신 아이디어 해커톤 참가자 모집",
    "firstSeen": "2026-11-03",
@@ -11373,7 +11972,7 @@
     "콘테스트코리아": "2026-11-20"
    },
    "seenBySource": {
-    "콘테스트코리아": "2026-11-23"
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "서천군지속가능발전협의회",
    "applyStart": "2026-10-12",
@@ -11383,12 +11982,11 @@
    "category": "creative",
    "aiRelated": false,
    "confidence": "high",
-   "jev": 0.05,
+   "jev": 0.06,
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202610120030",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "in_progress",
-   "lastEvent": "2026-12-19",
-   "dateNote": "확인 필요"
+   "lastEvent": "2026-12-19"
   },
   {
    "id": "84b840cc3e",
@@ -11620,7 +12218,7 @@
    },
    "seenBySource": {
     "위비티": "2026-11-20",
-    "콘테스트코리아": "2026-11-23"
+    "콘테스트코리아": "2026-11-24"
    },
    "host": "산림청",
    "applyEnd": "2026-11-20",
@@ -11629,7 +12227,7 @@
    "confidence": "medium",
    "jev": 0.16,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112640",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "in_progress",
    "lastEvent": "2026-12-08",
    "applyStart": "2026-11-02",
@@ -11704,7 +12302,8 @@
    "applyStart": "2026-10-19",
    "prize": "300만원",
    "eligibility": "대학생, 대학원생, 일반인",
-   "eventDates": "심사 12.01~12.31 발표 12.31"
+   "eventDates": "심사 12.01~12.31 발표 12.31",
+   "dateNote": "확인 필요"
   },
   {
    "id": "26acd0ae6b",
@@ -11732,7 +12331,8 @@
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&str_no=202611120022",
    "lastSeen": "2026-11-23",
    "status": "in_progress",
-   "lastEvent": "2026-12-14"
+   "lastEvent": "2026-12-14",
+   "dateNote": "확인 필요"
   },
   {
    "id": "d0d6889bb8",
@@ -11756,7 +12356,7 @@
     "씽굿": "2026-11-23",
     "링커리어": "2026-11-21",
     "올콘": "2026-11-21",
-    "콘테스트코리아": "2026-11-23",
+    "콘테스트코리아": "2026-11-24",
     "요즘것들": "2026-11-21"
    },
    "host": "주식회사 리에이크",
@@ -11769,7 +12369,7 @@
    "confidence": "high",
    "jev": 0.08,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112964",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "eventDates": "심사 11.27 발표 11.27 D-2 마감임박 4 //--> --> 네이밍•슬로건 신청주의 개선 정책 브랜드 명칭 공모전 2 주최 . 보건복지부 대상 . 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 접수 11.20~12.04 심사 11.20~12.04",
    "status": "in_progress",
    "lastEvent": "2026-12-04"
@@ -11825,7 +12425,7 @@
    },
    "seenBySource": {
     "위비티": "2026-11-23",
-    "씽굿": "2026-11-07",
+    "씽굿": "2026-11-24",
     "링커리어": "2026-11-07",
     "올콘": "2026-11-07",
     "콘테스트코리아": "2026-11-07"
@@ -11838,14 +12438,13 @@
    "jev": 0.98,
    "upcoming": true,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112446",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "in_progress",
    "lastEvent": "2026-12-05",
    "applyStart": "2026-11-09",
    "prize": "500만원",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "eventDates": "심사 11.23~11.30 발표 12.05",
-   "dateNote": "확인 필요"
+   "eventDates": "심사 11.23~11.30 발표 12.05"
   },
   {
    "id": "cfd77ac5cc",
@@ -11866,23 +12465,23 @@
     "콘테스트코리아": "2026-11-23"
    },
    "seenBySource": {
-    "위비티": "2026-11-23"
+    "위비티": "2026-11-23",
+    "씽굿": "2026-11-24"
    },
    "host": "한국세라믹기술원",
    "applyEnd": "2026-11-23",
    "category": "creative",
    "aiRelated": true,
    "confidence": "high",
-   "jev": 0.95,
+   "jev": 0.94,
    "url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112140",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "in_progress",
    "lastEvent": "2026-12-04",
    "applyStart": "2026-10-23",
    "prize": "300만원",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "eventDates": "심사 11.24~12.04",
-   "dateNote": "확인 필요"
+   "eventDates": "심사 11.24~12.04"
   },
   {
    "id": "8b256b07c5",
@@ -12806,14 +13405,14 @@
    "firstSeen": "2026-10-29",
    "sources": {
     "K-Startup": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179623",
-    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5839101"
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5842426"
    },
    "endBySource": {
     "K-Startup": "2026-11-18"
    },
    "seenBySource": {
     "K-Startup": "2026-10-29",
-    "스타트업레시피": "2026-11-03"
+    "스타트업레시피": "2026-11-24"
    },
    "applyEnd": "2026-11-18",
    "region": "경기",
@@ -12822,7 +13421,7 @@
    "confidence": "high",
    "jev": 0.05,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179623",
-   "lastSeen": "2026-11-03",
+   "lastSeen": "2026-11-24",
    "status": "ended",
    "lastEvent": null,
    "dateNote": "확인 필요"
@@ -13354,7 +13953,7 @@
    },
    "seenBySource": {
     "K-Startup": "2026-11-19",
-    "스타트업레시피": "2026-11-23"
+    "스타트업레시피": "2026-11-24"
    },
    "applyEnd": "2026-11-20",
    "category": "funding",
@@ -13362,7 +13961,7 @@
    "confidence": "high",
    "jev": 0.06,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179810",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "ended",
    "lastEvent": null,
    "dateNote": "확인 필요"
@@ -13461,7 +14060,7 @@
    },
    "seenBySource": {
     "K-Startup": "2026-11-19",
-    "스타트업레시피": "2026-11-23"
+    "스타트업레시피": "2026-11-24"
    },
    "applyEnd": "2026-11-20",
    "category": "startup",
@@ -13469,7 +14068,7 @@
    "confidence": "high",
    "jev": 0.82,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179812",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "ended",
    "lastEvent": null,
    "dateNote": "확인 필요"
@@ -13835,7 +14434,7 @@
    "seenBySource": {
     "위비티": "2026-11-18",
     "K-Startup": "2026-11-18",
-    "스타트업레시피": "2026-11-23"
+    "스타트업레시피": "2026-11-24"
    },
    "applyEnd": "2026-11-20",
    "category": "funding",
@@ -13843,7 +14442,7 @@
    "confidence": "high",
    "jev": 0.05,
    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179800",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "status": "ended",
    "lastEvent": null,
    "dateNote": "확인 필요"
@@ -14050,7 +14649,8 @@
    "lastEvent": null,
    "applyStart": "2026-11-03",
    "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-   "prize": "150만원"
+   "prize": "150만원",
+   "dateNote": "확인 필요"
   },
   {
    "id": "c0b3b44d7c",
@@ -14112,7 +14712,8 @@
    "lastEvent": null,
    "applyStart": "2026-11-10",
    "prize": "기타",
-   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음"
+   "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+   "dateNote": "확인 필요"
   },
   {
    "id": "5d8e018564",
@@ -14503,13 +15104,15 @@
    "name": "「2026년 벤처브릿지 오픈이노베이션」 1회차(AI, 미래 모빌리티)",
    "firstSeen": "2026-11-14",
    "sources": {
-    "요즘것들": "https://www.allforyoung.com/posts/90255"
+    "요즘것들": "https://www.allforyoung.com/posts/90255",
+    "스타트업레시피": "https://startuprecipe.co.kr/announcement/5842427"
    },
    "endBySource": {
     "요즘것들": "2026-11-23"
    },
    "seenBySource": {
-    "요즘것들": "2026-11-22"
+    "요즘것들": "2026-11-22",
+    "스타트업레시피": "2026-11-24"
    },
    "host": "호서대학교 앵커사업단",
    "applyStart": "2026-11-12",
@@ -14519,7 +15122,7 @@
    "confidence": "high",
    "jev": 0.95,
    "url": "https://www.allforyoung.com/posts/90255",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-24",
    "status": "ended",
    "lastEvent": null,
    "dateNote": "확인 필요"
