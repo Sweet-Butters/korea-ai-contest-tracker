@@ -1,5 +1,5 @@
 {
- "runDate": "2026-11-25",
+ "runDate": "2026-11-26",
  "llm": true,
  "jev": true,
  "sources": {
@@ -39,9 +39,9 @@
    "skipped": null
   },
   "위비티": {
-   "fetched": 329,
-   "kept": 56,
-   "seconds": 673,
+   "fetched": 334,
+   "kept": 60,
+   "seconds": 31,
    "error": null,
    "skipped": null
   },
@@ -102,6 +102,6 @@
    "skipped": "NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not set; skipped"
   }
  },
- "total": 535,
- "others": 1116
+ "total": 518,
+ "others": 1087
 }
